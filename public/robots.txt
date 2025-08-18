@@ -4,9 +4,9 @@
     Allow: /
   
     # Host
-    Host: ai.neoxu.satore
+    Host: https://preview.tangly1024.com
   
     # Sitemaps
-    Sitemap: ai.neoxu.satore/sitemap.xml
+    Sitemap: https://preview.tangly1024.com/sitemap.xml
   
     
