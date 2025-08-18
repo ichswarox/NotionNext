@@ -4,9 +4,9 @@
     Allow: /
   
     # Host
-    Host: https://preview.tangly1024.com
+    Host: https://doc.neoxu.store
   
     # Sitemaps
-    Sitemap: https://preview.tangly1024.com/sitemap.xml
+    Sitemap: https://doc.neoxu.store/sitemap.xml
   
     
