@@ -1,6 +1,6 @@
 import QrCode from '@/components/QrCode'
 import { siteConfig } from '@/lib/config'
-import { useState, useRef } from 'react'
+import { useRef, useState } from 'react'
 import { handleEmailClick } from '@/lib/plugins/mailEncrypt'
 
 /**
@@ -81,7 +81,7 @@ const SocialButton = () => {
             rel='noreferrer'
             title={'weibo'}
             href={CONTACT_WEIBO}>
-            <i className='fab fa-weibo dark:hover:text-green-400 hover:text-green-600' />
+            <i className='transform hover:scale-125 duration-150 fab fa-weibo dark:hover:text-green-400 hover:text-green-600' />
           </a>
         )}
         {CONTACT_INSTAGRAM && (
