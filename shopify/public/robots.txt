@@ -1,0 +1,12 @@
+
+    # *
+    User-agent: *
+    Allow: /
+  
+    # Host
+    Host: https://doc.neoxu.store
+  
+    # Sitemaps
+    Sitemap: https://doc.neoxu.store/sitemap.xml
+  
+    
