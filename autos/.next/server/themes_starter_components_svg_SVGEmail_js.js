@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "themes_starter_components_svg_SVGEmail_js";
+exports.ids = ["themes_starter_components_svg_SVGEmail_js"];
+exports.modules = {
+
+/***/ "./themes/starter/components/svg/SVGEmail.js":
+/*!***************************************************!*\
+  !*** ./themes/starter/components/svg/SVGEmail.js ***!
+  \***************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   SVGEmail: () => (/* binding */ SVGEmail)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nconst SVGEmail = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"svg\", {\n        width: \"34\",\n        height: \"25\",\n        viewBox: \"0 0 34 25\",\n        className: \"fill-current\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"path\", {\n            d: \"M30.5156 0.960938H3.17188C1.42188 0.960938 0 2.38281 0 4.13281V20.9219C0 22.6719 1.42188 24.0938 3.17188 24.0938H30.5156C32.2656 24.0938 33.6875 22.6719 33.6875 20.9219V4.13281C33.6875 2.38281 32.2656 0.960938 30.5156 0.960938ZM30.5156 2.875C30.7891 2.875 31.0078 2.92969 31.2266 3.09375L17.6094 11.3516C17.1172 11.625 16.5703 11.625 16.0781 11.3516L2.46094 3.09375C2.67969 2.98438 2.89844 2.875 3.17188 2.875H30.5156ZM30.5156 22.125H3.17188C2.51562 22.125 1.91406 21.5781 1.91406 20.8672V5.00781L15.0391 12.9922C15.5859 13.3203 16.1875 13.4844 16.7891 13.4844C17.3906 13.4844 17.9922 13.3203 18.5391 12.9922L31.6641 5.00781V20.8672C31.7734 21.5781 31.1719 22.125 30.5156 22.125Z\"\n        }, void 0, false, {\n            fileName: \"/Users/Apple/Documents/GitHub/NotionNext/autos/themes/starter/components/svg/SVGEmail.js\",\n            lineNumber: 8,\n            columnNumber: 5\n        }, undefined)\n    }, void 0, false, {\n        fileName: \"/Users/Apple/Documents/GitHub/NotionNext/autos/themes/starter/components/svg/SVGEmail.js\",\n        lineNumber: 2,\n        columnNumber: 10\n    }, undefined);\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi90aGVtZXMvc3RhcnRlci9jb21wb25lbnRzL3N2Zy9TVkdFbWFpbC5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7O0FBQU8sTUFBTUEsV0FBVztJQUN0QixxQkFBTyw4REFBQ0M7UUFDTkMsT0FBTTtRQUNOQyxRQUFPO1FBQ1BDLFNBQVE7UUFDUkMsV0FBVTtrQkFFViw0RUFBQ0M7WUFDQ0MsR0FBRTs7Ozs7Ozs7Ozs7QUFHUixFQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbm90aW9uLW5leHQvLi90aGVtZXMvc3RhcnRlci9jb21wb25lbnRzL3N2Zy9TVkdFbWFpbC5qcz81MmNjIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjb25zdCBTVkdFbWFpbCA9ICgpID0+IHtcbiAgcmV0dXJuIDxzdmdcbiAgICB3aWR0aD1cIjM0XCJcbiAgICBoZWlnaHQ9XCIyNVwiXG4gICAgdmlld0JveD1cIjAgMCAzNCAyNVwiXG4gICAgY2xhc3NOYW1lPVwiZmlsbC1jdXJyZW50XCJcbiAgPlxuICAgIDxwYXRoXG4gICAgICBkPVwiTTMwLjUxNTYgMC45NjA5MzhIMy4xNzE4OEMxLjQyMTg4IDAuOTYwOTM4IDAgMi4zODI4MSAwIDQuMTMyODFWMjAuOTIxOUMwIDIyLjY3MTkgMS40MjE4OCAyNC4wOTM4IDMuMTcxODggMjQuMDkzOEgzMC41MTU2QzMyLjI2NTYgMjQuMDkzOCAzMy42ODc1IDIyLjY3MTkgMzMuNjg3NSAyMC45MjE5VjQuMTMyODFDMzMuNjg3NSAyLjM4MjgxIDMyLjI2NTYgMC45NjA5MzggMzAuNTE1NiAwLjk2MDkzOFpNMzAuNTE1NiAyLjg3NUMzMC43ODkxIDIuODc1IDMxLjAwNzggMi45Mjk2OSAzMS4yMjY2IDMuMDkzNzVMMTcuNjA5NCAxMS4zNTE2QzE3LjExNzIgMTEuNjI1IDE2LjU3MDMgMTEuNjI1IDE2LjA3ODEgMTEuMzUxNkwyLjQ2MDk0IDMuMDkzNzVDMi42Nzk2OSAyLjk4NDM4IDIuODk4NDQgMi44NzUgMy4xNzE4OCAyLjg3NUgzMC41MTU2Wk0zMC41MTU2IDIyLjEyNUgzLjE3MTg4QzIuNTE1NjIgMjIuMTI1IDEuOTE0MDYgMjEuNTc4MSAxLjkxNDA2IDIwLjg2NzJWNS4wMDc4MUwxNS4wMzkxIDEyLjk5MjJDMTUuNTg1OSAxMy4zMjAzIDE2LjE4NzUgMTMuNDg0NCAxNi43ODkxIDEzLjQ4NDRDMTcuMzkwNiAxMy40ODQ0IDE3Ljk5MjIgMTMuMzIwMyAxOC41MzkxIDEyLjk5MjJMMzEuNjY0MSA1LjAwNzgxVjIwLjg2NzJDMzEuNzczNCAyMS41NzgxIDMxLjE3MTkgMjIuMTI1IDMwLjUxNTYgMjIuMTI1WlwiXG4gICAgLz5cbiAgPC9zdmc+XG59XG4iXSwibmFtZXMiOlsiU1ZHRW1haWwiLCJzdmciLCJ3aWR0aCIsImhlaWdodCIsInZpZXdCb3giLCJjbGFzc05hbWUiLCJwYXRoIiwiZCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./themes/starter/components/svg/SVGEmail.js\n");
+
+/***/ })
+
+};
+;

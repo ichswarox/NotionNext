@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "components_WWAds_js";
+exports.ids = ["components_WWAds_js"];
+exports.modules = {
+
+/***/ "./components/WWAds.js":
+/*!*****************************!*\
+  !*** ./components/WWAds.js ***!
+  \*****************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ WWAds)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _lib_config__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/lib/config */ \"./lib/config.js\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_lib_config__WEBPACK_IMPORTED_MODULE_1__]);\n_lib_config__WEBPACK_IMPORTED_MODULE_1__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\n/**\n * 万维广告插件\n * @param {string} orientation - 广告方向，可以是 'vertical' 或 'horizontal'\n * @param {boolean} sticky - 是否粘性定位\n * @returns {JSX.Element | null} - 返回渲染的 JSX 元素或 null\n */ function WWAds({ orientation = \"vertical\", sticky = false, className }) {\n    const AD_WWADS_ID = (0,_lib_config__WEBPACK_IMPORTED_MODULE_1__.siteConfig)(\"AD_WWADS_ID\");\n    if (!AD_WWADS_ID) {\n        return null;\n    }\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        \"data-id\": AD_WWADS_ID,\n        className: `wwads-cn \n            ${orientation === \"vertical\" ? \"wwads-vertical\" : \"wwads-horizontal\"}\n            ${sticky ? \"wwads-sticky\" : \"\"} z-10 ${className || \"\"}`\n    }, void 0, false, {\n        fileName: \"/Users/Apple/Documents/GitHub/NotionNext/autos/components/WWAds.js\",\n        lineNumber: 21,\n        columnNumber: 5\n    }, this);\n}\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9jb21wb25lbnRzL1dXQWRzLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQXlDO0FBRXpDOzs7OztDQUtDLEdBQ2MsU0FBU0MsTUFBTSxFQUM1QkMsY0FBYyxVQUFVLEVBQ3hCQyxTQUFTLEtBQUssRUFDZEMsU0FBUyxFQUNWO0lBQ0MsTUFBTUMsY0FBY0wsdURBQVVBLENBQUM7SUFFL0IsSUFBSSxDQUFDSyxhQUFhO1FBQ2hCLE9BQU87SUFDVDtJQUVBLHFCQUNFLDhEQUFDQztRQUNDQyxXQUFTRjtRQUNURCxXQUFXLENBQUM7WUFDTixFQUFFRixnQkFBZ0IsYUFBYSxtQkFBbUIsbUJBQW1CO1lBQ3JFLEVBQUVDLFNBQVMsaUJBQWlCLEdBQUcsTUFBTSxFQUFFQyxhQUFhLEdBQUcsQ0FBQzs7Ozs7O0FBR3BFIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbm90aW9uLW5leHQvLi9jb21wb25lbnRzL1dXQWRzLmpzP2M3ZDIiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgc2l0ZUNvbmZpZyB9IGZyb20gJ0AvbGliL2NvbmZpZydcblxuLyoqXG4gKiDkuIfnu7Tlub/lkYrmj5Lku7ZcbiAqIEBwYXJhbSB7c3RyaW5nfSBvcmllbnRhdGlvbiAtIOW5v+WRiuaWueWQke+8jOWPr+S7peaYryAndmVydGljYWwnIOaIliAnaG9yaXpvbnRhbCdcbiAqIEBwYXJhbSB7Ym9vbGVhbn0gc3RpY2t5IC0g5piv5ZCm57KY5oCn5a6a5L2NXG4gKiBAcmV0dXJucyB7SlNYLkVsZW1lbnQgfCBudWxsfSAtIOi/lOWbnua4suafk+eahCBKU1gg5YWD57Sg5oiWIG51bGxcbiAqL1xuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gV1dBZHMoe1xuICBvcmllbnRhdGlvbiA9ICd2ZXJ0aWNhbCcsXG4gIHN0aWNreSA9IGZhbHNlLFxuICBjbGFzc05hbWVcbn0pIHtcbiAgY29uc3QgQURfV1dBRFNfSUQgPSBzaXRlQ29uZmlnKCdBRF9XV0FEU19JRCcpXG5cbiAgaWYgKCFBRF9XV0FEU19JRCkge1xuICAgIHJldHVybiBudWxsXG4gIH1cblxuICByZXR1cm4gKFxuICAgIDxkaXZcbiAgICAgIGRhdGEtaWQ9e0FEX1dXQURTX0lEfVxuICAgICAgY2xhc3NOYW1lPXtgd3dhZHMtY24gXG4gICAgICAgICAgICAke29yaWVudGF0aW9uID09PSAndmVydGljYWwnID8gJ3d3YWRzLXZlcnRpY2FsJyA6ICd3d2Fkcy1ob3Jpem9udGFsJ31cbiAgICAgICAgICAgICR7c3RpY2t5ID8gJ3d3YWRzLXN0aWNreScgOiAnJ30gei0xMCAke2NsYXNzTmFtZSB8fCAnJ31gfVxuICAgIC8+XG4gIClcbn1cbiJdLCJuYW1lcyI6WyJzaXRlQ29uZmlnIiwiV1dBZHMiLCJvcmllbnRhdGlvbiIsInN0aWNreSIsImNsYXNzTmFtZSIsIkFEX1dXQURTX0lEIiwiZGl2IiwiZGF0YS1pZCJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/WWAds.js\n");
+
+/***/ })
+
+};
+;

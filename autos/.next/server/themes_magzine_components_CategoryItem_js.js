@@ -1,0 +1,25 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+exports.id = "themes_magzine_components_CategoryItem_js";
+exports.ids = ["themes_magzine_components_CategoryItem_js"];
+exports.modules = {
+
+/***/ "./themes/magzine/components/CategoryItem.js":
+/*!***************************************************!*\
+  !*** ./themes/magzine/components/CategoryItem.js ***!
+  \***************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__, __webpack_async_result__) => { try {\n__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ CategoryItem)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_SmartLink__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/components/SmartLink */ \"./components/SmartLink.js\");\nvar __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_SmartLink__WEBPACK_IMPORTED_MODULE_1__]);\n_components_SmartLink__WEBPACK_IMPORTED_MODULE_1__ = (__webpack_async_dependencies__.then ? (await __webpack_async_dependencies__)() : __webpack_async_dependencies__)[0];\n\n\nfunction CategoryItem({ selected, category, categoryCount }) {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_SmartLink__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n        href: `/category/${category}`,\n        passHref: true,\n        className: (selected ? \"bg-gray-600 text-white \" : \"dark:text-gray-400 text-gray-900 \") + \"text-sm font-semibold hover:underline flex text-md items-center duration-300 cursor-pointer py-1 whitespace-nowrap\",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n            children: [\n                category,\n                \" \",\n                categoryCount && `(${categoryCount})`\n            ]\n        }, void 0, true, {\n            fileName: \"/Users/Apple/Documents/GitHub/NotionNext/autos/themes/magzine/components/CategoryItem.js\",\n            lineNumber: 14,\n            columnNumber: 7\n        }, this)\n    }, void 0, false, {\n        fileName: \"/Users/Apple/Documents/GitHub/NotionNext/autos/themes/magzine/components/CategoryItem.js\",\n        lineNumber: 5,\n        columnNumber: 5\n    }, this);\n}\n\n__webpack_async_result__();\n} catch(e) { __webpack_async_result__(e); } });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi90aGVtZXMvbWFnemluZS9jb21wb25lbnRzL0NhdGVnb3J5SXRlbS5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7OztBQUE4QztBQUUvQixTQUFTQyxhQUFhLEVBQUVDLFFBQVEsRUFBRUMsUUFBUSxFQUFFQyxhQUFhLEVBQUU7SUFDeEUscUJBQ0UsOERBQUNKLDZEQUFTQTtRQUNSSyxNQUFNLENBQUMsVUFBVSxFQUFFRixTQUFTLENBQUM7UUFDN0JHLFFBQVE7UUFDUkMsV0FDRSxDQUFDTCxXQUNHLDRCQUNBLG1DQUFrQyxJQUN0QztrQkFFRiw0RUFBQ007O2dCQUNFTDtnQkFBUztnQkFBRUMsaUJBQWlCLENBQUMsQ0FBQyxFQUFFQSxjQUFjLENBQUMsQ0FBQzs7Ozs7Ozs7Ozs7O0FBSXpEIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbm90aW9uLW5leHQvLi90aGVtZXMvbWFnemluZS9jb21wb25lbnRzL0NhdGVnb3J5SXRlbS5qcz80ZDhkIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBTbWFydExpbmsgZnJvbSAnQC9jb21wb25lbnRzL1NtYXJ0TGluaydcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ2F0ZWdvcnlJdGVtKHsgc2VsZWN0ZWQsIGNhdGVnb3J5LCBjYXRlZ29yeUNvdW50IH0pIHtcbiAgcmV0dXJuIChcbiAgICA8U21hcnRMaW5rXG4gICAgICBocmVmPXtgL2NhdGVnb3J5LyR7Y2F0ZWdvcnl9YH1cbiAgICAgIHBhc3NIcmVmXG4gICAgICBjbGFzc05hbWU9e1xuICAgICAgICAoc2VsZWN0ZWRcbiAgICAgICAgICA/ICdiZy1ncmF5LTYwMCB0ZXh0LXdoaXRlICdcbiAgICAgICAgICA6ICdkYXJrOnRleHQtZ3JheS00MDAgdGV4dC1ncmF5LTkwMCAnKSArXG4gICAgICAgICd0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgaG92ZXI6dW5kZXJsaW5lIGZsZXggdGV4dC1tZCBpdGVtcy1jZW50ZXIgZHVyYXRpb24tMzAwIGN1cnNvci1wb2ludGVyIHB5LTEgd2hpdGVzcGFjZS1ub3dyYXAnXG4gICAgICB9PlxuICAgICAgPGRpdj5cbiAgICAgICAge2NhdGVnb3J5fSB7Y2F0ZWdvcnlDb3VudCAmJiBgKCR7Y2F0ZWdvcnlDb3VudH0pYH1cbiAgICAgIDwvZGl2PlxuICAgIDwvU21hcnRMaW5rPlxuICApXG59XG4iXSwibmFtZXMiOlsiU21hcnRMaW5rIiwiQ2F0ZWdvcnlJdGVtIiwic2VsZWN0ZWQiLCJjYXRlZ29yeSIsImNhdGVnb3J5Q291bnQiLCJocmVmIiwicGFzc0hyZWYiLCJjbGFzc05hbWUiLCJkaXYiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./themes/magzine/components/CategoryItem.js\n");
+
+/***/ })
+
+};
+;
