@@ -64,3 +64,6 @@ next-env.d.ts
 *.tar.gz
 *.rar
 *.7z
+# Next.js build outputs
+.next/
+
