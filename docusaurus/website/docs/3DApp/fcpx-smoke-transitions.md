@@ -1,0 +1,25 @@
+---
+title: '64 Smoke Mask Video Transitions for Final Cut Pro X'
+sidebar_label: 'FCPX Smoke Transitions'
+---
+
+![FCPX Smoke Transitions](/img/fcpx-smoke-transitions.jpg)
+
+[Reach out to us for paid resources](https://wa.me/8613237610083)
+
+## Add Cinematic Smoke Effects to Your Edits
+
+Elevate your video projects with this collection of 64 high-quality smoke mask transitions for Final Cut Pro X. This pack makes it easy to add dynamic, organic smoke effects between your clips. Simply drag and drop the transition between two video clips to apply the effect.
+
+### Key Features:
+
+-   **64 Unique Transitions:** A large variety of smoke and fog effects to fit any project.
+-   **Easy to Use:** Simple drag-and-drop application.
+-   **Customizable:** Flip transitions and desaturate the incoming or outgoing clips for more creative control.
+-   **High Resolution:** Supports resolutions up to 4K.
+
+### System Requirements:
+
+-   **Software:** Final Cut Pro X version 10.4 or higher.
+-   **Platform:** This is a plugin for macOS and is not available for Windows.
+-   **File Size:** 3.44 GB.
