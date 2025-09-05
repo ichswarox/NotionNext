@@ -38,3 +38,5 @@ The transitions are easy to use with the included AtomX script, providing a user
 [Paid Resources](https://wa.me/8613237610083)
 
 ---
+
+*This is a premium resource. Please contact us for access.*
