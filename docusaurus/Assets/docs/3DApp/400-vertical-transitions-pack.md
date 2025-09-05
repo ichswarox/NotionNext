@@ -1,7 +1,15 @@
 ---
-title: 400 Vertical Transitions Pack for Premiere Pro: Film Damage, Neon & Glitch Effects
-description: Enhance your vertical videos with 400 unique transitions for Premiere Pro. Explore film damage, neon glows, glitches, retro light leaks, and more. Easy to use with AtomX. No plugins needed.
-keywords: [Premiere Pro vertical transitions, film damage, neon effects, video glitches, retro video, AtomX script, video editing, motion graphics]
+title: "400 Vertical Transitions Pack for Premiere Pro: Film Damage, Neon & Glitch Effects"
+description: "Enhance your vertical videos with 400 unique transitions for Premiere Pro. Explore film damage, neon glows, glitches, retro light leaks, and more. Easy to use with AtomX. No plugins needed."
+keywords: 
+  - "Premiere Pro vertical transitions"
+  - "film damage"
+  - "neon effects"
+  - "video glitches"
+  - "retro video"
+  - "AtomX script"
+  - "video editing"
+  - "motion graphics"
 ---
 
 # Premiere Pro Script: 400 Vertical Screen Film Damage, Burn, Neon, Glitch & Retro Light Leak Video Transitions

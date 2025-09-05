@@ -1,5 +1,5 @@
 ---
-title: VJ Neon LED Screen Footage: Dynamic Dance Visuals for Events
+title: "VJ Neon LED Screen Footage: Dynamic Dance Visuals for Events"
 description: Get 10 high-quality VJ neon LED screen video footage for dynamic dance visuals. Perfect for concerts, parties, and stage backgrounds. Full HD 1920x1080 resolution.
 keywords: [VJ footage, neon visuals, LED screen, dance video, concert visuals, party visuals, stage background, motion graphics, video loops]
 ---

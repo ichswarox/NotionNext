@@ -1,5 +1,5 @@
 ---
-title: E3D Gold Diamond Logo Opener AE Template: Awards & Fashion Show Intro
+2title: "E3D Gold Diamond Logo Opener AE Template: Awards & Fashion Show Intro"
 description: Create stunning intros with this After Effects E3D template featuring gold diamonds and crystals. Perfect for awards, fashion shows, and advertising. Customizable text, logo, and colors. Element 3D plugin required.
 keywords: [After Effects template, E3D, Element 3D, logo opener, awards show, fashion show, advertising intro, gold diamond, crystal effect]
 ---

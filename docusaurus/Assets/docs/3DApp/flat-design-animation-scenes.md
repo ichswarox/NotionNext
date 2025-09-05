@@ -1,5 +1,5 @@
 ---
-title: Flat Design Animation Scenes AE Template: Mobile, Social & Web Explainer
+title: "Flat Design Animation Scenes AE Template: Mobile, Social & Web Explainer"
 description: Create engaging explainer videos with this After Effects flat design template. Features 10 icon-based motion graphics scenes for mobile, computer, social media, and web promotions. Customizable text, icons, and colors. No plugins required.
 keywords: [After Effects template, flat design, motion graphics, explainer video, social media animation, web promotion, icon animation, customizable AE template]
 ---
