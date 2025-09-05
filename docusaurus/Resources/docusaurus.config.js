@@ -165,7 +165,7 @@ const config = {
             items: [
               {
                 label: '3D App',
-                to: '/3dapp/physical-grass-scatter-and-draw',
+                to: '/docs/3d-app',
               },
             ],
           },

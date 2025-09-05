@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/3dapp/physical-grass-scatter-and-draw">
+            to="/docs/category/3d-app">
             Explore 3D App Plugins
           </Link>
         </div>
