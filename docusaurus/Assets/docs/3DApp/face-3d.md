@@ -3,7 +3,7 @@ title: 'Animate Photos with Face 3D: AI-Powered 3D Portrait Tool for After Effec
 sidebar_label: 'Aescripts Face 3D'
 ---
 
-![Aescripts Face 3D for After Effects](/img/face-3d.jpg)
+![Aescripts Face 3D for After Effects]
 
 [Download v1.1.3](https://pan.baidu.com/s/1qWeVJ9yjVexiF7RYUtHufQ?pwd=7sun) (Password: 7sun)
 

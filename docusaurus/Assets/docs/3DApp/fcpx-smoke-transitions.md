@@ -3,8 +3,6 @@ title: '64 Smoke Mask Video Transitions for Final Cut Pro X'
 sidebar_label: 'FCPX Smoke Transitions'
 ---
 
-![FCPX Smoke Transitions](/img/fcpx-smoke-transitions.jpg)
-
 [Reach out to us for paid resources](https://wa.me/8613237610083)
 
 ## Add Cinematic Smoke Effects to Your Edits
