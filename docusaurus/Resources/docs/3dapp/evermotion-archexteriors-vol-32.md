@@ -11,7 +11,7 @@ Archexteriors vol. 32 includes one complete, nature-inspired, creative-style ext
 
 [Download PDF Preview](https://pan.baidu.com/s/1C-aMxPvD2hKKyTgRUHLkUQ?pwd=49ym)
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ## Requirements
 

@@ -35,7 +35,7 @@ The transitions are easy to use with the included AtomX script, providing a user
 
 ## Download
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ---
 

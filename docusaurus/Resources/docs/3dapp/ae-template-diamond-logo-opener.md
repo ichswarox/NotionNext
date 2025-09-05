@@ -29,7 +29,7 @@ You can easily customize the template by replacing the logo and text. Parameters
 
 ## Download
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ---
 

@@ -119,7 +119,7 @@ const config = {
             items: [
               {
                 label: '3D App',
-                to: '/docs/category/3d-app',
+                to: '/docs/3d-app',
               },
             ],
           },

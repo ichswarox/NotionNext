@@ -17,7 +17,7 @@ keywords:
 
 ![Evermotion Archexteriors Vol. 32 Example](/img/evermotion-archexteriors-vol-32.jpg)
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ## Model Introduction:
 
@@ -29,8 +29,3 @@ Evermotion – Archexteriors Vol. 32 is a set of 3D models containing 10 complet
 *   **Size:** 2.24GB (compressed).
 *   **Tutorial:** No tutorial included.
 *   **Music:** Background music is not included.
-
-[Click here for purchasing steps](https://www.gfxcamp.com/buy-help)
-(Supports Alipay/WeChat, download address is visible after purchase)
-
-**Note:** The images could not be downloaded due to hotlinking protection. The original image URLs have been used.

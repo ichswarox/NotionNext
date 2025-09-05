@@ -16,7 +16,7 @@ keywords:
 
 ![400 Vertical Transitions Pack Poster](https://www.gfxcamp.com/wp-content/uploads/2022/08/0001-1.jpg)
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ![400 Vertical Transitions Pack Example](https://www.gfxcamp.com/wp-content/uploads/2022/08/0002-1.jpg)
 
@@ -32,8 +32,3 @@ Includes a total of 400 vertical video transitions, featuring effects like film 
 *   **Size:** 2.24GB (compressed).
 *   **Tutorial:** Video tutorial included.
 *   **Music:** Background music is not included.
-
-[Click here for purchasing steps](https://www.gfxcamp.com/buy-help)
-(Supports Alipay/WeChat, download address is visible after purchase)
-
-**Note:** The images could not be downloaded due to hotlinking protection. The original image URLs have been used.

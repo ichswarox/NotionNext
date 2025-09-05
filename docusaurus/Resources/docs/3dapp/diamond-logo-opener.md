@@ -8,7 +8,7 @@ keywords: [After Effects template, E3D, Element 3D, logo opener, awards show, fa
 
 ![E3D Gold Diamond Logo Opener Poster](https://www.gfxcamp.com/wp-content/uploads/2022/08/0001-2.jpg)
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ![E3D Gold Diamond Logo Opener Example](https://www.gfxcamp.com/wp-content/uploads/2022/08/0002-2.jpg)
 
@@ -25,7 +25,3 @@ After Effects template for E3D gold diamond crystal shine fashion show, grand aw
 *   **Tutorial:** Video tutorial included.
 *   **Music:** Background music is not included.
 
-[Click here for purchasing steps](https://www.gfxcamp.com/buy-help)
-(Supports Alipay/WeChat, download address is visible after purchase)
-
-**Note:** The images could not be downloaded due to hotlinking protection. The original image URLs have been used.

@@ -5,7 +5,7 @@ sidebar_label: 'History Timeline Template'
 
 ![History Timeline After Effects Template](/img/History-Timeline.jpg)
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ## Dynamic Tech-Themed Timeline Template for After Effects
 

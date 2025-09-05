@@ -8,7 +8,7 @@ keywords: [After Effects template, flat design, motion graphics, explainer video
 
 ![Flat Design Animation Scenes Poster](https://www.gfxcamp.com/wp-content/uploads/2022/08/0001-5.jpg)
 
-[Reach out to us for paid resources](https://wa.me/8613237610083)
+[Paid Resources](https://wa.me/8613237610083)
 
 ![Flat Design Animation Scenes Example](https://www.gfxcamp.com/wp-content/uploads/2022/08/0002-5.jpg)
 
