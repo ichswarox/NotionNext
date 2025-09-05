@@ -3,7 +3,7 @@ title: 'Create Stunning Tech Timelines with This After Effects Template'
 sidebar_label: 'History Timeline Template'
 ---
 
-![History Timeline After Effects Template](/img/history-timeline.jpg)
+![History Timeline After Effects Template](/img/History-Timeline.jpg)
 
 [Reach out to us for paid resources](https://wa.me/8613237610083)
 
