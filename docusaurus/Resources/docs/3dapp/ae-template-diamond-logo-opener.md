@@ -7,6 +7,8 @@ description: 'A luxurious After Effects template using Element 3D for creating s
 
 Create a stunning and luxurious logo reveal with this After Effects template, powered by the Element 3D plugin.
 
+
+
 ## Features
 
 Featuring over 15 luxurious effects with realistic gold, silver, diamond, and crystal lighting. This template is perfect for:
@@ -31,6 +33,3 @@ You can easily customize the template by replacing the logo and text. Parameters
 
 [Paid Resources](https://wa.me/8613237610083)
 
----
-
-*This is a premium resource. Please contact us for access.*
