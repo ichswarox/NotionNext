@@ -30,5 +30,3 @@ This script includes 30 text animation presets, specifically designed for the un
 *   **Music:** Background music is not included.
 
 ---
-
-*This is a premium resource. Please contact us for access.*

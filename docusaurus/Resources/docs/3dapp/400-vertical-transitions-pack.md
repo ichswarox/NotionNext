@@ -14,11 +14,10 @@ keywords:
 
 # Premiere Pro Script: 400 Vertical Screen Film Damage, Burn, Neon, Glitch & Retro Light Leak Video Transitions
 
-![400 Vertical Transitions Pack Poster](https://www.gfxcamp.com/wp-content/uploads/2022/08/0001-1.jpg)
+![400 Vertical Transitions Pack Poster](/img/400-Vertical-Transitions-Pack-for-Social-Media.jpg)
 
 [Paid Resources](https://wa.me/8613237610083)
 
-![400 Vertical Transitions Pack Example](https://www.gfxcamp.com/wp-content/uploads/2022/08/0002-1.jpg)
 
 ## Script Preset Introduction:
 
