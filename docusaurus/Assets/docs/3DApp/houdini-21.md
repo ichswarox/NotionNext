@@ -7,7 +7,7 @@ slug: houdini-21
 
 # SideFX Houdini FX 21.0.44 - Professional 3D Animation and Visual Effects Software
 
-![SideFX Houdini FX 21](./sidefx-houdini-fx-21.jpg)
+![SideFX Houdini FX 21](/img/sidefx-houdini-fx-21.jpg)
 
 Houdini 21 introduces major updates across the pipeline, including enhancements to KineFX with a new motion mixer, animation catalog, Autorig Builder, and improved muscle system. Copernicus gains a sparse GPU Pyro FX solver, reaction diffusion effects, texture baking, while Solaris adds Shot Builder, Live Rendering, and Karma support for Hydra 2 and Gaussian Splats.
 

@@ -15,7 +15,7 @@ keywords:
 
 # Creative Forest Villa Architecture Scene 3D Model Evermotion – Archexteriors Vol. 32
 
-![Evermotion Archexteriors Vol. 32 Example](image.png)
+![Evermotion Archexteriors Vol. 32 Example](/img/evermotion-archexteriors-vol-32.jpg)
 
 [Reach out to us for paid resources](https://wa.me/8613237610083)
 
