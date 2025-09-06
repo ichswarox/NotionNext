@@ -6,11 +6,9 @@ keywords: [After Effects template, E3D, Element 3D, logo opener, awards show, fa
 
 # After Effects Template: E3D Gold Diamond Crystal Shine Fashion Show Grand Awards Advertising TV Logo Opener
 
-![E3D Gold Diamond Logo Opener Poster](https://www.gfxcamp.com/wp-content/uploads/2022/08/0001-2.jpg)
+![E3D Gold Diamond Logo Opener Poster](/img/Epic-Gold-Logo-Reveal.jpg)
 
 [Paid Resources](https://wa.me/8613237610083)
-
-![E3D Gold Diamond Logo Opener Example](https://www.gfxcamp.com/wp-content/uploads/2022/08/0002-2.jpg)
 
 ## Template Introduction:
 

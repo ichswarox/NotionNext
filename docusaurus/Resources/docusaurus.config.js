@@ -5,8 +5,6 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import fs from 'fs';
-import path from 'path';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -22,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://ucards.store',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -55,50 +53,6 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          async sidebarItemsGenerator({
-            defaultSidebarItemsGenerator,
-            ...args
-          }) {
-            const sidebarItems = await defaultSidebarItemsGenerator(args);
-            
-            // 自定义排序函数：按文件修改时间排序
-            function sortItemsByModifiedTime(items) {
-              return items
-                .map((item) => {
-                  if (item.type === 'category') {
-                    return {
-                      ...item,
-                      items: sortItemsByModifiedTime(item.items),
-                    };
-                  }
-                  return item;
-                })
-                .sort((a, b) => {
-                  if (a.type === 'doc' && b.type === 'doc') {
-                    // 获取文档文件路径
-                    const aDoc = args.docs.find((doc) => doc.id === a.id);
-                    const bDoc = args.docs.find((doc) => doc.id === b.id);
-                    
-                    if (aDoc && bDoc) {
-                      const aPath = path.join(args.version.contentPath, aDoc.source);
-                      const bPath = path.join(args.version.contentPath, bDoc.source);
-                      
-                      try {
-                        const aStat = fs.statSync(aPath);
-                        const bStat = fs.statSync(bPath);
-                        return bStat.mtimeMs - aStat.mtimeMs; // 最新修改的在前
-                      } catch (e) {
-                        // 如果文件不存在，保持原顺序
-                        return 0;
-                      }
-                    }
-                  }
-                  return 0;
-                });
-            }
-            
-            return sortItemsByModifiedTime(sidebarItems);
-          },
         },
         blog: {
           showReadingTime: true,
@@ -117,6 +71,12 @@ const config = {
         },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
         },
       }),
     ],
@@ -138,21 +98,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '3D App',
+            label: '3DApp',
           },
-
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-
           {to: '/blog', label: 'Blog', position: 'left'},
-
           {
-            href: 'https://www.google.com',
-            label: 'Google',
+            href: 'https://github.com/',
+            label: 'GitHub',
             position: 'right',
           },
         ],
@@ -165,7 +116,7 @@ const config = {
             items: [
               {
                 label: '3D App',
-                to: '/docs/3d-app',
+                to: '/category/3dapp',
               },
             ],
           },
@@ -173,8 +124,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
             ],
           },
@@ -188,32 +139,12 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}`,
+        copyright: `Copyright © ${new Date().getFullYear()} Resourceful Appsc.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      // SEO优化配置
-      metadata: [
-        {name: 'keywords', content: 'docusaurus, seo, static site'},
-        {name: 'twitter:card', content: 'summary_large_image'},
-      ],
-      headTags: [
-        {
-          tagName: 'script',
-          attributes: {
-            type: 'application/ld+json',
-          },
-          innerHTML: JSON.stringify({
-            '@context': 'https://schema.org/',
-            '@type': 'Website',
-            name: 'My Site',
-            description: 'Dinosaurs are cool',
-            url: 'https://your-docusaurus-site.example.com/',
-          }),
-        },
-      ],
     }),
 };
 
