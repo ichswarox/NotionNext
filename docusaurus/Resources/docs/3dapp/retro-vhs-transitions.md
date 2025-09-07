@@ -17,7 +17,7 @@ This package contains 225 video transition effects, including film strips, burn 
 
 ## Download
 
-[Download Retro Vibes Transition Bundle](https://item.taobao.com/item.htm?id=969528659988&pwd=xxxx)
+[Paid Resource Download Link]((https://wa.me/8613237610083))
 
 *Note: For paid resources, please reach out to us. WhatsApp: +86 13237610083*
 

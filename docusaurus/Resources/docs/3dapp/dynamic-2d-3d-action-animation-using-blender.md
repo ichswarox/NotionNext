@@ -45,9 +45,7 @@ This in-depth tutorial covers:
 
 ## Download
 
-[Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=973183862809)
-
-Or for paid resources, please reach out to us via WhatsApp: [+86 13237610083](https://wa.me/8613237610083)
+[Paid Resource Download Link]((https://wa.me/8613237610083))
 
 ## Why Learn Blender Animation?
 

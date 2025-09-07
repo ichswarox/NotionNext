@@ -86,14 +86,6 @@ Issues Reported:
 3. Save work frequently due to potential crashing issues
 4. Test export functionality early in your workflow to identify limitations
 
-## Official Links
-
-- Official Website: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-- Official Taobao Store: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-- Weibo: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-> GFXCamp articles, please cite with original link when republishing!
-
 ## Tags
 - Houdini
 - Houdini 21

@@ -5,7 +5,7 @@ sidebar_label: 'Realistic 3D Character Creation'
 
 ![Realistic 3D Character Creation Course in Blender, ZBrush, and CLO3D](/img/blender-realistic-3d-character-creation.jpg)
 
-[Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=861381754560)
+[Paid Resource Download Link]((https://wa.me/8613237610083))
 
 ## Advanced Tutorial for Realistic 3D Characters
 
@@ -31,6 +31,3 @@ This is an intermediate-to-advanced level course that dives deep into a professi
 -   **File Size:** 40.7 GB
 -   **Download:** Available via Baidu Pan after purchase.
 
----
-
-*This is a premium course available for purchase. The link above will direct you to the Taobao store page.*

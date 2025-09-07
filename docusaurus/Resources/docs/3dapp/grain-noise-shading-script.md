@@ -5,7 +5,7 @@ sidebar_label: 'Shade It Script'
 
 ![Shade It for After Effects](/img/shade-it.jpg)
 
-[Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=569265770922)
+[Paid Resource Download Link]((https://wa.me/8613237610083))s
 
 ## Instantly Add Textured Shadows to Your Animations
 
@@ -33,7 +33,4 @@ sidebar_label: 'Shade It Script'
 ![Shade It Demo 2](/img/shade-it-demo-2.gif)
 ![Shade It Demo 3](/img/shade-it-demo-3.gif)
 ![Shade It Demo 4](/img/shade-it-demo-4.gif)
-
----
-
-*This is a premium script available for purchase. The link above will direct you to the Taobao store page.*
+s
