@@ -14,9 +14,7 @@ This package includes 20 animated lower third title templates. All text, fonts, 
 
 ## Download
 
-[Download FCPX Minimal Lower Thirds Pack](https://item.taobao.com/item.htm?id=609522736036)
-
-*Note: For paid resources, please reach out to us. WhatsApp: +86 13237610083*
+[Paid Resource]((https://wa.me/8613237610083))
 
 ## Product Overview
 

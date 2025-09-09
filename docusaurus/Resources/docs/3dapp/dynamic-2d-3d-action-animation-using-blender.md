@@ -45,7 +45,7 @@ This in-depth tutorial covers:
 
 ## Download
 
-[Paid Resource Download Link]((https://wa.me/8613237610083))
+[Paid Resource]((https://wa.me/8613237610083))
 
 ## Why Learn Blender Animation?
 
