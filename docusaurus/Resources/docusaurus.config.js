@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://ucards.store',
+  url: 'https://www.ucards.store',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -115,8 +115,8 @@ const config = {
             title: 'Resources',
             items: [
               {
-                label: '3D App',
-                to: '/category/3dapp',
+                label: '3App',
+                to: '/category/3d-applications',
               },
             ],
           },
@@ -124,8 +124,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Sitemap',
-                href: '/sitemap.xml',
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
@@ -139,7 +139,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Resourceful Appsc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Resource App.`,
       },
       prism: {
         theme: prismThemes.github,
