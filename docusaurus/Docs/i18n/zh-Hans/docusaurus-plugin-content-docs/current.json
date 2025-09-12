@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.B2B 邮件开发": {
+    "message": "B2B 邮件开发",
+    "description": "The label for category B2B 邮件开发 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.B2B 邮件开发.link.generated-index.description": {
+    "message": "Resources for 3D Applications including plugins, assets, and tutorials.",
+    "description": "The generated-index page description for category B2B 邮件开发 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.跨境SEO链路": {
+    "message": "跨境SEO链路",
+    "description": "The label for category 跨境SEO链路 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.跨境SEO链路.link.generated-index.description": {
+    "message": "SEO学习指南",
+    "description": "The generated-index page description for category 跨境SEO链路 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.跨境Ai链路": {
+    "message": "跨境Ai链路",
+    "description": "The label for category 跨境Ai链路 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.跨境Ai链路.link.generated-index.description": {
+    "message": "跨境Ai学习指南",
+    "description": "The generated-index page description for category 跨境Ai链路 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.3dapp": {
+    "message": "3dapp",
+    "description": "The label for category 3dapp in sidebar tutorialSidebar"
+  }
+}

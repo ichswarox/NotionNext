@@ -37,8 +37,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['en', 'zh-Hans'],
   },
 
   presets: [
@@ -49,26 +49,8 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -88,19 +70,52 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Resources',
+        title: '跨境全链路-永久会员',
         logo: {
-          alt: 'My Site Logo',
+          alt: '跨境全链路Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'aiSidebar',
             position: 'left',
-            label: '3DApp',
+            label: '跨境Ai链路',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            sidebarId: 'seoSidebar',
+            position: 'left',
+            label: '跨境SEO链路',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'landingSidebar',
+            position: 'left',
+            label: '跨境落地页',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'wordpressSidebar',
+            position: 'left',
+            label: 'WordPress独立站',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'shopifySidebar',
+            position: 'left',
+            label: 'Shopify独立站',
+          },
+         {
+            type: 'docSidebar',
+            sidebarId: 'experienceSidebar',
+            position: 'left',
+            label: '关于本站',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             href: 'https://github.com/',
             label: 'GitHub',
@@ -112,34 +127,30 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Resources',
+            title: '文档',
+            items: [
+            ],
+          },
+          {
+            title: '网站政策',
             items: [
               {
-                label: '3App',
-                to: '/category/3d-applications',
+                label: '隐私政策',
+                to: '/privacy',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '更多',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Sitemap',
+                label: '站点地图',
                 to: '/sitemap.xml',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Resource App.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 跨境全链路.`,
       },
       prism: {
         theme: prismThemes.github,

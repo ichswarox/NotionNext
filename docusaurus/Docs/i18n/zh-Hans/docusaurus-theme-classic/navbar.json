@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "跨境全链路-永久会员",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "跨境全链路Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.3DApp": {
+    "message": "3DApp",
+    "description": "Navbar item with label 3DApp"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
