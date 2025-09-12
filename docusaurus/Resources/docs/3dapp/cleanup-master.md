@@ -1,5 +1,5 @@
 ---
-title: "After Effects Script: Cleanup Master v1.1.0 - Shape Layer Workflow Tool"
+title: "After Effects Script -  Cleanup Master v1.1.0 - Shape Layer Workflow Tool"
 description: "Cleanup Master is a powerful After Effects script that streamlines shape layer workflows, making complex cleanup tasks faster, smarter, and easier. Supports AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018."
 keywords: ["After Effects script", "Cleanup Master", "shape layer workflow", "AE plugin", "animation tools", "motion graphics", "visual effects"]
 slug: /cleanup-master
@@ -7,7 +7,7 @@ slug: /cleanup-master
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# After Effects Script: Cleanup Master v1.1.0 - Shape Layer Workflow Tool
+# After Effects Script -  Cleanup Master v1.1.0 - Shape Layer Workflow Tool
 
 <!--Second Part-This is First Banner -->
 ![Cleanup Master v1.1.0 - Shape Layer Workflow Tool](https://www.gfxcamp.com/wp-content/uploads/2025/08/Cleanup-Master.jpg)

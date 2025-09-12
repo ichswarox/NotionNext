@@ -1,12 +1,12 @@
 ---
-title: AE Script: Han Motion Type - Text Animation for CJK Characters
+title: AE Script - Han Motion Type - Text Animation for CJK Characters
 description: An After Effects script with 30 animation presets designed for Chinese, Japanese, and Korean (CJK) text. Easy to use, works with any font, and no plugins required.
 keywords: [ae script, han motion type, text animation, cjk characters, after effects, chinese text, japanese text, korean text]
 slug: /han-motion-type-script
 ---
 
 <!--First Part-This is Title -->
-# AE Script: Han Motion Type - Text Animation for CJK Characters
+# AE Script - Han Motion Type - Text Animation for CJK Characters
 
 <!--Second Part-This is First Banner -->
 ![Han Motion Type](/img/han-motion-type.jpg)

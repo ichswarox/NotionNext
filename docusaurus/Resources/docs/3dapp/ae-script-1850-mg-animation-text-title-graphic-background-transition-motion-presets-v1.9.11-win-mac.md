@@ -1,16 +1,16 @@
 ---
-title: "AE Script: 1850+ MG Animation Text Title Graphic Background Transition Motion Presets V1.9.11 Win/Mac"
+title: "AE Script - 1850+ MG Animation Text Title Graphic Background Transition Motion Presets V1.9.11 Win/Mac"
 description: "AE extension script that can quickly generate various MG animation elements. Over 1850 elements with customizable colors, dynamics, size, and 3D effects."
 keywords: ["AE script", "MG animation", "motion presets", "text title", "graphic background", "video transition", "animation elements", "Videolancers", "Motion Bro", "After Effects"]
 slug: /ae-script-1850-mg-animation
 ---
 
-# AE Script: 1850+ MG Animation Text Title Graphic Background Transition Motion Presets V1.9.11 Win/Mac
+# AE Script - 1850+ MG Animation Text Title Graphic Background Transition Motion Presets V1.9.11 Win/Mac
 
 ![Big-Pack-of-Elements](https://www.gfxcamp.com/wp-content/uploads/2017/06/Big-Pack-of-Elements.jpg)
 
 :::tip[info]
-The **AE Script: 1850+ MG Animation Text Title Graphic Background Transition Motion Presets** is a powerful extension script for Adobe After Effects that enables users to rapidly create professional motion graphics. With over 1850 customizable animation elements, this comprehensive toolkit covers virtually every aspect of MG animation production.
+The **AE Script - 1850+ MG Animation Text Title Graphic Background Transition Motion Presets** is a powerful extension script for Adobe After Effects that enables users to rapidly create professional motion graphics. With over 1850 customizable animation elements, this comprehensive toolkit covers virtually every aspect of MG animation production.
 :::
 
 ## Key Features of AE Script 1850+ MG Animation
@@ -46,7 +46,7 @@ The **AE Script: 1850+ MG Animation Text Title Graphic Background Transition Mot
 
 ## Why Choose This AE Script?
 
-The **AE Script: 1850+ MG Animation** toolkit is specifically designed for motion graphics designers, video editors, and content creators who need a comprehensive solution for producing professional animations efficiently.
+The **AE Script - 1850+ MG Animation** toolkit is specifically designed for motion graphics designers, video editors, and content creators who need a comprehensive solution for producing professional animations efficiently.
 
 ### Streamlined Workflow
 
@@ -90,7 +90,7 @@ Click on the link to go to the download page.
 
 ## Conclusion
 
-The **AE Script: 1850+ MG Animation Text Title Graphic Background Transition Motion Presets** represents exceptional value for motion graphics designers and video editors. With its extensive library of professionally crafted animation elements, seamless integration with After Effects, and affordable price point, this toolkit is an indispensable asset for anyone serious about motion graphics production.
+The **AE Script - 1850+ MG Animation Text Title Graphic Background Transition Motion Presets** represents exceptional value for motion graphics designers and video editors. With its extensive library of professionally crafted animation elements, seamless integration with After Effects, and affordable price point, this toolkit is an indispensable asset for anyone serious about motion graphics production.
 
 Whether you're a freelancer, content creator, or part of a production studio, this script will significantly enhance your animation capabilities while reducing production time and effort.
 

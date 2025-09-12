@@ -1,5 +1,5 @@
 ---
-title: After Effects Script: Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection
+title: After Effects Script -  Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection
 description: Aescripts REACH AEssential Kit v2.1.6 is a comprehensive collection of After Effects tools, plugins, scripts, commands, presets, and expressions that accelerate your motion design workflow. Supports AE 2025, 2024, 2023, 2022 on Windows and Mac.
 keywords: [After Effects script, Aescripts REACH, motion design tools, AE workflow, visual effects, animation tools, script collection]
 slug: /reach-aessential-kit
@@ -7,7 +7,7 @@ slug: /reach-aessential-kit
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# After Effects Script: Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection
+# After Effects Script -  Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection
 
 <!--Second Part-This is First Banner -->
 ![Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection](https://www.gfxcamp.com/wp-content/uploads/2023/07/Reach-AEssential-Kit.jpg)
