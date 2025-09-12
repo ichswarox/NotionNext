@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Resourcesd52dd2',
+  title: 'Resourcesd52dddd2',
   tagline: 'Download Software, 3D Models, Video Templates, Music and More',
   favicon: 'img/favicon.ico',
 
