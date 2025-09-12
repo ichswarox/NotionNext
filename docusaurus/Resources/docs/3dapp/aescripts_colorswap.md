@@ -4,11 +4,15 @@ description: "Script for After Effects that allows quick search and replace of c
 keywords: ["after effects", "ae script", "color swap", "color search", "color replace", "animation", "motion graphics", "visual effects", "aescripts"]
 slug: /aescripts-colorswap
 ---
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # AE Color Search and Replace Script Aescripts ColorSwap V1.1
 
+<!--Second Part-This is First Banner -->
 ![AE Color Search and Replace Script Aescripts ColorSwap V1.1](https://www.gfxcamp.com/wp-content/uploads/2022/12/ColorSwap.jpg)
 
+:::tip[info]
 **Download V1.1 Version**: [V1.1 Version Click to Download](https://pan.baidu.com/s/1uMqmD4UH5hC5CYFHKdG2Sw?pwd=u52d)
 
 **Download V1.0 Version**: [V1.0 Version Click to Download](https://pan.baidu.com/s/1PU2fGHMmh-hHiX5_Iv3a3g?pwd=blop)
@@ -16,6 +20,7 @@ slug: /aescripts-colorswap
 ## Description
 
 ColorSwap is a powerful script for Adobe After Effects that enables users to quickly search and replace colors within compositions, selected layers, or entire projects. This tool streamlines the process of making color changes across complex projects, saving valuable time in the editing workflow.
+:::
 
 ## Key Features
 
@@ -43,14 +48,13 @@ If the script isn't working:
 - In Preferences, under Edit—Preferences—General panel, check "Allow Scripts to Write Files and Access Network"
 - Verify that the script supports your AE version (rare issue)
 
+<!-- The Last Part-Download -->
 ## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-**Download V1.1 Version**: [V1.1 Version Click to Download](https://pan.baidu.com/s/1uMqmD4UH5hC5CYFHKdG2Sw?pwd=u52d)
-Extraction Code: u52d
-
-**Download V1.0 Version**: [V1.0 Version Click to Download](https://pan.baidu.com/s/1PU2fGHMmh-hHiX5_Iv3a3g?pwd=blop)
-Extraction Code: blop
-
-## Conclusion
-
-ColorSwap is an essential tool for motion graphics artists and video editors who frequently need to make color adjustments across their After Effects projects. Its ability to quickly search and replace colors throughout compositions or entire projects makes it invaluable for maintaining color consistency and making rapid design changes. With support for recent versions of After Effects, this script is a must-have addition to any designer's toolkit.
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **ColorSwap V1.1**         | [V1.1 Version Click to Download](https://pan.baidu.com/s/1uMqmD4UH5hC5CYFHKdG2Sw?pwd=u52d) | `u52d`   |
+| **ColorSwap V1.0**         | [V1.0 Version Click to Download](https://pan.baidu.com/s/1PU2fGHMmh-hHiX5_Iv3a3g?pwd=blop) | `blop`   |

@@ -4,14 +4,19 @@ description: "Download AE + PR Script with 550+ creative modern business corpora
 keywords: ["AE script", "AtomX", "Premiere", "PR script", "Videohive", "subtitle animation", "text layout", "text titles", "after effects", "premiere templates", "plugins", "premium assets"]
 slug: /ae-pr-550-creative-typography-animation-presets
 ---
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # AE + PR Script - 550+ Creative Modern Business Corporate Clean Text Titles Typography Animation Presets
 
+<!--Second Part-This is First Banner -->
 ![AE + PR Script - 550+ Creative Modern Business Corporate Clean Text Titles Typography Animation Presets](https://www.gfxcamp.com/wp-content/uploads/2021/12/Just-Typography-Pack.jpg)
 
+:::tip[info]
 **Download AE + PR Script - 550+ Creative Modern Business Corporate Clean Text Titles Typography Animation Presets** - Professional script for After Effects and Premiere Pro
 
 The AE + PR Script includes 550 text title, text layout, and subtitle animation presets for AE versions and 400 presets for PR versions. All text, fonts, colors, sizes, positions, and images can be modified, supporting both After Effects and Premiere Pro.
+:::
 
 ## Key Features
 
@@ -37,12 +42,6 @@ The AE + PR Script includes 550 text title, text layout, and subtitle animation 
 - **Resolution**: 4K Ultra HD 3840×2160
 - **Operating System**: Windows and macOS
 
-## Download AE + PR Script - 550+ Creative Typography Animation Presets
-
-[Download AE + PR Script - 550+ Creative Typography Animation Presets - Taobao](https://item.taobao.com/item.htm?id=655236139504)
-
-For the full version or if you encounter any download issues, please contact us via WhatsApp at +86 13237610083
-
 ## Why Choose This Script?
 
 This script dramatically improves text animation workflow efficiency in After Effects and Premiere Pro, allowing you to focus more on creativity and less on technical implementation. Whether you're new to motion graphics or an experienced designer, the intuitive interface makes it easy to achieve professional results quickly.
@@ -67,3 +66,13 @@ If you experience any issues with installation or compatibility:
 3. In AE/PR preferences, enable "Allow Scripts to Write Files and Access Network"
 
 For additional support or troubleshooting, please contact our technical support team.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page.
+:::
+
+| Purchase Option | Download Link |
+|---|---|
+| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=655236139504) |

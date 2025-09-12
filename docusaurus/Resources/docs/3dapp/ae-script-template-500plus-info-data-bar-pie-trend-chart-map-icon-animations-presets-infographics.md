@@ -9,9 +9,9 @@ slug: /ae-script-template-500-infographics
 
 ![Infographics](https://www.gfxcamp.com/wp-content/uploads/2023/03/Infographics-43277101.jpg)
 
-**AE Script Template: 500+ Info Data Bar Pie Trend Chart Map ICON Animations Presets Infographics**
-
+:::tip[info]
 The **AE Script Template: 500+ Info Data Animations Presets** is a comprehensive collection of professionally designed infographic elements for Adobe After Effects. This powerful toolkit enables designers to create engaging data visualizations, charts, and information graphics with minimal effort.
+:::
 
 ## Key Features of AE Script Template 500+ Infographics
 

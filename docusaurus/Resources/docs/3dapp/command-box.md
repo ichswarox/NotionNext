@@ -4,14 +4,17 @@ description: "Download Command Box plugin for Blender. Access hundreds of comman
 keywords: ["Blender plugin", "Command Box", "Blender command tool", "Blender addon", "quick commands", "Blender workflow", "3D modeling tools"]
 slug: /command-box
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Plugin: Command Box V2025.08.19 - Quick Command Access Tool
 
+<!--Second Part-This is First Banner -->
 ![Command Box Plugin for Blender](https://www.gfxcamp.com/wp-content/uploads/2024/12/Command-Box-1.jpg)
 
-**Download Command Box V2025.08.19** - Quick access tool for Blender commands with hundreds of smart actions
-
+:::tip[info]
 Command Box is an evolving and powerful addon for Blender that transforms your workflow by providing instant access to hundreds of commands in one convenient package. This indispensable tool creates a seamless collection of one-click smart actions that save time and accelerate your creative process.
+:::
 
 ## Key Features of Command Box V2025.08.19
 
@@ -26,25 +29,39 @@ Command Box is an evolving and powerful addon for Blender that transforms your w
 - V2025.08.19 version: Blender 4.5, 4.4
 - V2025.03.03 version: Blender 4.3, 4.2
 
-## Installation Instructions
+## Installation Guide
 
-1. In the top menu, go to Edit → Preferences → Add-ons
-2. Click the dropdown in the upper right corner and select "Install from Disk"
-3. In the file dialog, select the corresponding ZIP file to install
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+    <ol>
+      <li>In the top menu, go to Edit → Preferences → Add-ons</li>
+      <li>Click the dropdown in the upper right corner and select "Install from Disk"</li>
+      <li>In the file dialog, select the corresponding ZIP file to install</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
+    <ol>
+      <li>In the top menu, go to Edit → Preferences → Add-ons</li>
+      <li>Click "Install"</li>
+      <li>In the file dialog, select the corresponding ZIP file to install</li>
+    </ol>
+  </TabItem>
+</Tabs>
+
+<!-- The Last Part-Download -->
 ## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-[Download V2025.08.19 Version](https://pan.baidu.com/s/1_tx01ELDCc12nJ2hP79sVw?pwd=p7bz)
-
-**Extraction Password**: p7bz
-
-[Download V2025.03.03 Version](https://pan.baidu.com/s/1yyVWTBcMr7d-RukPy6yPig?pwd=g7nm)
-
-**Extraction Password**: g7nm
-
-[Download V1 Version](https://pan.baidu.com/s/10DdKb8B2YDaAxXvY0wNdww?pwd=guts)
-
-**Extraction Password**: guts
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **V2025.08.19 Version**  | [Download](https://pan.baidu.com/s/1_tx01ELDCc12nJ2hP79sVw?pwd=p7bz)        | `p7bz`   |
+| **V2025.03.03 Version**  | [Download](https://pan.baidu.com/s/1yyVWTBcMr7d-RukPy6yPig?pwd=g7nm)        | `g7nm`   |
+| **V1 Version**  | [Download](https://pan.baidu.com/s/10DdKb8B2YDaAxXvY0wNdww?pwd=guts)        | `guts`   |
 
 ## Why Choose Command Box for Blender?
 

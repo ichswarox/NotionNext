@@ -4,16 +4,21 @@ description: "Simple Bend Ex is the enhanced version of the Simple Bend plugin t
 keywords: ["Blender", "Blender plugin", "Simple Bend Ex", "bend plugin", "mesh deformation", "3D modeling", "Blender addon", "deformer", "curved mesh", "bending tool", "3D animation", "geometry manipulation"]
 slug: /simple-bend-ex
 ---
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Mesh Bending Deformer Enhanced Plugin - Simple Bend Ex V1.1.0
 
+<!--Second Part-This is First Banner -->
 ![Blender Mesh Bending Deformer Enhanced Plugin - Simple Bend Ex](https://www.gfxcamp.com/wp-content/uploads/2025/08/Simple-Bend-Ex.jpg)
 
+:::tip[info]
 [Download from Baidu Netdisk](https://pan.baidu.com/s/1g5d0BBUsMWzczu6uqbb0hA?pwd=u22w)
 
 **Password: u22w**
 
 The **Simple Bend Ex** plugin is an enhanced version of the popular Simple Bend addon for Blender, offering expanded capabilities for bending and deforming 3D mesh objects. This powerful tool allows artists to easily create curved geometries with intuitive controls and precise deformation parameters.
+:::
 
 ## Key Features
 
@@ -31,16 +36,26 @@ The **Simple Bend Ex** plugin is an enhanced version of the popular Simple Bend 
 - **Category**: Mesh Deformation Plugin
 - **Installation Method**: ZIP file addon installation
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 ## Installation Instructions
 
-### For Blender 4.0 and Earlier Versions
-1. Go to the top menu: Edit → Preferences → Add-ons → Install
-2. Select the corresponding ZIP file in the dialog window
-
-### For Blender 4.1 and Later Versions
-1. Go to the top menu: Edit → Preferences → Add-ons
-2. Click the dropdown in the top right corner and select "Install from Disk"
-3. Select the corresponding ZIP file in the dialog window
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later">
+    <ol>
+      <li>Go to the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown in the top right corner and select "Install from Disk".</li>
+      <li>Select the corresponding ZIP file in the dialog window.</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier" default>
+    <ol>
+      <li>Go to the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code> → <code>Install</code>.</li>
+      <li>Select the corresponding ZIP file in the dialog window.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## Why Choose Simple Bend Ex?
 
@@ -60,14 +75,16 @@ From creating curved walls and organic shapes to bending character limbs and env
 - **Operating System**: Windows, macOS, Linux
 - **Storage Space**: Minimum 50MB available space
 
-## Download Options
-
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1g5d0BBUsMWzczu6uqbb0hA?pwd=u22w)
-
-**Password: u22w**
-
-For direct purchase or if you encounter any download issues, please contact us via WeChat at +86 13237610083
-
 ## Conclusion
 
 The **Simple Bend Ex** plugin is an invaluable tool for any Blender artist working with mesh deformation. With its enhanced capabilities and user-friendly interface, this addon streamlines the process of creating bent and curved geometries while maintaining the flexibility needed for professional 3D workflows.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Simple Bend Ex V1.1.0**  | [Download from Baidu Netdisk](https://pan.baidu.com/s/1g5d0BBUsMWzczu6uqbb0hA?pwd=u22w) | `u22w`   |

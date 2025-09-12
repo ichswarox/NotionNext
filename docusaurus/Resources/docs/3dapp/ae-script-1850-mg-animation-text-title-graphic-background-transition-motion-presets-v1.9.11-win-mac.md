@@ -9,9 +9,9 @@ slug: /ae-script-1850-mg-animation
 
 ![Big-Pack-of-Elements](https://www.gfxcamp.com/wp-content/uploads/2017/06/Big-Pack-of-Elements.jpg)
 
-**AE Script: 1850+ MG Animation Text Title Graphic Background Transition Motion Presets V1.9.11 Win/Mac**
-
+:::tip[info]
 The **AE Script: 1850+ MG Animation Text Title Graphic Background Transition Motion Presets** is a powerful extension script for Adobe After Effects that enables users to rapidly create professional motion graphics. With over 1850 customizable animation elements, this comprehensive toolkit covers virtually every aspect of MG animation production.
+:::
 
 ## Key Features of AE Script 1850+ MG Animation
 
@@ -77,19 +77,16 @@ The intuitive interface makes it accessible for both beginners learning motion g
 5. Double-click any preset to apply it directly to your composition
 6. Customize colors, timing, and other parameters as needed
 
-## Download Options
+## Download Links
 
-[Download AE脚本-1850+MG动画文字标题图形背景转场运动预设元素V1.9.11 Win/Mac](https://item.taobao.com/item.htm?id=563670151685)
+:::warning[Download]
+Click on the link to go to the download page.
+:::
 
-<div align="center">
-
-[Click to Purchase: 20 RMB](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2F1850-mg%2F)
-
-</div>
-
-[Click here to view purchase instructions](https://www.gfxcamp.com/how-to-download/)
-
-*(Supports Alipay/WeChat, download link visible after purchase)*
+| Purchase Option | Download Link | Price |
+|---|---|---|
+| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=563670151685) | - |
+| **Direct Purchase** | [Click to Purchase](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2F1850-mg%2F) | 20 RMB |
 
 ## Conclusion
 

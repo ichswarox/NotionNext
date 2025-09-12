@@ -9,11 +9,9 @@ slug: /aescripts-pixelocybe
 
 ![AE/PR Video Pixelation Mosaic Plugin Aescripts Pixelocybe v1.3.0 Win/Mac Crack](https://www.gfxcamp.com/wp-content/uploads/2021/01/Aescripts-Pixelocybe.jpg)
 
-**Download Click to Download from Baidu Netdisk**: [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1zgX16QqfNgV3c-q_s7iTOw?pwd=n2t7)
-
-## Description
-
+:::tip[info]
 Pixelocybe is a powerful hybrid mosaic/displacement filter plugin for Adobe After Effects and Premiere Pro. It provides a healthy dose of trippy visuals for your pixels with its flexible two-input pipeline. The plugin can create pixel art mosaic effects on videos based on brightness displacement, allowing for creative and artistic video transformations.
+:::
 
 ## Key Features
 
@@ -43,10 +41,15 @@ If the plugin isn't working:
 - In Preferences, under Edit—Preferences—General panel, check "Allow Scripts to Write Files and Access Network"
 - Verify that the plugin supports your software version (rare issue)
 
-## Download
+## Download Links
 
-**Download Click to Download from Baidu Netdisk**: [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1zgX16QqfNgV3c-q_s7iTOw?pwd=n2t7)
-Extraction Code: n2t7
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| Version | Download Link | Password |
+|---|---|---|
+| **v1.3.0** | [Download](https://pan.baidu.com/s/1zgX16QqfNgV3c-q_s7iTOw?pwd=n2t7) | `n2t7` |
 
 ## Conclusion
 

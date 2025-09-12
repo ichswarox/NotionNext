@@ -2,13 +2,16 @@
 title: Blender Grease Pencil Tutorial - Create a Manga Style Animation | 2D Animation in 3D
 description: Learn how to create a 3D manga-style scene animation using Blender's Grease Pencil tool. Draw inspiration from classic sci-fi manga series such as BLAME! to bring comic book aesthetics to life in Blender.
 keywords: [blender, grease pencil, manga animation, 2d animation, 3d animation, blame, sci-fi animation, character animation, blender tutorial, anime style]
+slug: /blender-grease-pencil-manga-animation
 ---
 
 # Blender Grease Pencil Tutorial: Create a Manga Style Animation | 2D Animation in 3D
 
 ![Blender Grease Pencil Manga Animation](https://www.gfxcamp.com/wp-content/uploads/2025/08/Skillshare-Blender-3D-Create-a-Manga-Style-Animation-Using-Grease-Pencil.jpg)
 
+:::tip[info]
 Learn how to create a 3D manga-style scene animation using Blender's Grease Pencil tool. This comprehensive tutorial draws inspiration from classic sci-fi manga series such as BLAME! to teach you how to bring comic book aesthetics to life in Blender. Perfect for 2D animators, manga artists, and Blender users interested in combining 2D drawing with 3D environments.
+:::
 
 ## Course Overview
 
@@ -30,12 +33,15 @@ In this class, you'll learn to create an animation in Blender inspired by classi
 - **Subtitles**: English, no subtitles
 - **Format**: MP4, 1920×1080
 
-## Download Link
+## Download Links
 
-Below is the download link for the Blender Grease Pencil tutorial. Click on the download button to access the file on Baidu Netdisk. Remember to use the provided extraction code.
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1LcFEoW-ZsG2CvtJ_g63gOg?pwd=j88g)  
-**Extraction Code: j88g**
+| Course | Download Link | Password |
+|---|---|---|
+| **Manga Style Animation** | [Download](https://pan.baidu.com/s/1LcFEoW-ZsG2CvtJ_g63gOg?pwd=j88g) | `j88g` |
 
 ---
 

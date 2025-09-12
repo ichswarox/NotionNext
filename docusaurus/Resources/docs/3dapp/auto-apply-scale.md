@@ -6,13 +6,16 @@ slug: /auto-apply-scale
 sidebar_position: 3
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Auto Apply Scale V2.0 - Blender Plugin for Automatic Scale Adjustment
 
 ![Auto Apply Scale V2.0 - Blender Plugin](/img/Auto-Apply-Scale.jpg)
 
-**Download V2.0 Version** - Simple yet effective utility for better Blender workflow without scale-related issues
-
+:::tip[info]
 Auto Apply Scale is a simple yet effective utility that will help you work better and without common issues that occur when you don't have applied scales.
+:::
 
 ## Key Features of Auto Apply Scale V2.0
 
@@ -27,25 +30,32 @@ Auto Apply Scale is a simple yet effective utility that will help you work bette
 
 ## Installation Steps
 
-1. **For Blender 4 or lower version**:
-   - In the top menu: Edit → Preferences → Add-ons → Install
-   - Select the corresponding ZIP file in the dialog window
-
-2. **For Blender 4.1 or higher version**:
-   - In the top menu: Edit → Preferences → Add-ons
-   - Click the dropdown in the upper right corner and select "Install from Disk"
-   - Select the corresponding ZIP file in the dialog window
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later">
+    <ol>
+      <li>In the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown in the upper right corner and select "Install from Disk".</li>
+      <li>Select the corresponding ZIP file in the dialog window.</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier" default>
+    <ol>
+      <li>In the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code> → <code>Install</code>.</li>
+      <li>Select the corresponding ZIP file in the dialog window.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## Download Links
 
-[Download V2.0 Version](https://pan.baidu.com/s/1hbnEEtdPYwBH-hMW6h1NUA?pwd=6uew)  
-Extraction code: 6uew
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-[Download V1.4 Version](https://pan.baidu.com/s/1cJIZOYZT4GDr8Yo6aI_-PQ?pwd=6ctf)  
-Extraction code: 6ctf
+| Version | Download Link | Password |
+|---|---|---|
+| **V2.0** | [Download](https://pan.baidu.com/s/1hbnEEtdPYwBH-hMW6h1NUA?pwd=6uew) | `6uew` |
+| **V1.4** | [Download](https://pan.baidu.com/s/1cJIZOYZT4GDr8Yo6aI_-PQ?pwd=6ctf) | `6ctf` |
+| **V1.3** | [Download](https://pan.baidu.com/s/1URVuHhQK--tlocNrZpKYbg?pwd=vnhv) | `vnhv` |
+| **V1.0** | [Download](https://pan.baidu.com/s/18bU6CmeRrjR1tRrpvs7Nfg?pwd=g3mr) | `g3mr` |
 
-[Download V1.3 Version](https://pan.baidu.com/s/1URVuHhQK--tlocNrZpKYbg?pwd=vnhv)  
-Extraction code: vnhv
-
-[Download V1.0 Version](https://pan.baidu.com/s/18bU6CmeRrjR1tRrpvs7Nfg?pwd=g3mr)  
-Extraction code: g3mr

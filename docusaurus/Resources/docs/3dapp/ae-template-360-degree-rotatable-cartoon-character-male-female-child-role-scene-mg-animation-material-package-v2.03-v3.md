@@ -9,9 +9,9 @@ slug: /ae-template-360-degree-cartoon-characters
 
 ![Turnaround-Character-Animation-Toolkit](https://www.gfxcamp.com/wp-content/uploads/2018/09/Turnaround-Character-Animation-Toolkit.jpg)
 
-**AE Template: 360-Degree Rotatable Cartoon Character Male Female Child Role Scene MG Animation Material Package v2.03 + V3**
-
+:::tip[info]
 The **AE Template: 360-Degree Rotatable Cartoon Character** is a comprehensive motion graphics toolkit for Adobe After Effects that provides animators with a vast library of customizable cartoon characters and scenes. With both V2.03 and V3 versions included, this template offers exceptional value for creating engaging explainer videos, infographics, and character animations.
+:::
 
 ## Key Features of AE Template 360-Degree Cartoon Characters
 

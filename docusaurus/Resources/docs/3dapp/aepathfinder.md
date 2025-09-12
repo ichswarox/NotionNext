@@ -4,16 +4,21 @@ description: "Advanced vector shape editing script for After Effects that allows
 keywords: ["after effects", "ae script", "pathfinder", "shape layer", "vector editing", "animation", "graphic design", "motion graphics", "visual effects", "aescripts"]
 slug: /aepathfinder
 ---
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # AE Pathfinder Script Aescripts AEPathfinder V1.0.06
 
+<!--Second Part-This is First Banner -->
 ![AE Pathfinder Script Aescripts AEPathfinder V1.0.06](https://www.gfxcamp.com/wp-content/uploads/2025/08/AEPathfinder.jpg)
 
+:::tip[info]
 **Download Click to Download from Baidu Netdisk**: [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci)
 
 ## Description
 
 AE Pathfinder is an advanced shape editing script for After Effects that allows you to combine, split, trim, and animate vector shapes across single or multiple layers, enabling true shape-layer processing. This powerful tool enhances your workflow by providing unique features for advanced vector shape editing directly within After Effects.
+:::
 
 ## Key Features
 
@@ -42,12 +47,12 @@ If the script isn't working:
 - In Preferences, under Edit—Preferences—General panel, check "Allow Scripts to Write Files and Access Network"
 - Verify that the script supports your AE version (rare issue)
 
-## Download
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-**Download Click to Download from Baidu Netdisk**: [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci)
-
-Extraction Code: gcci
-
-## Conclusion
-
-AE Pathfinder is an essential tool for motion graphics artists and designers working with complex shape animations in After Effects. Its ability to manipulate vector shapes across multiple layers with precision and ease makes it invaluable for creating sophisticated animations and visual effects. With support for recent versions of After Effects, this script enhances your creative capabilities while streamlining your workflow.
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **AE Pathfinder V1.0.06**  | [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci) | `gcci`   |

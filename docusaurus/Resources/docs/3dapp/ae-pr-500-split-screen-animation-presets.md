@@ -4,14 +4,19 @@ description: "Download AE + Premiere/PR Script with 500+ image video split scree
 keywords: ["AE split screen", "AE templates", "AE script", "split screen plugin", "video split screen", "after effects", "premiere", "videohive", "tool asset pack", "plugins", "premium assets"]
 slug: /ae-pr-500-split-screen-animation-presets
 ---
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # AE + Premiere/PR Script - 500+ Image Video Split Screen In/Out Animation Presets
 
+<!--Second Part-This is First Banner -->
 ![AE + Premiere/PR Script - 500+ Image Video Split Screen In/Out Animation Presets](https://www.gfxcamp.com/wp-content/uploads/2021/10/Multi-Screen-Layouts-Pack.jpg)
 
+:::tip[info]
 **Download AE + Premiere/PR Script** - 500+ Image Video Split Screen In/Out Animation Presets
 
 This package includes 500 video split screen in/out animations. These are direct split screen effects where images and videos can be replaced. The script format provides a visual interface - simply click to generate the desired effect for convenient and simple use.
+:::
 
 ## Key Features
 
@@ -36,12 +41,6 @@ This package includes 500 video split screen in/out animations. These are direct
 - **Language Support**: Supports both Chinese and English versions of AE/PR
 - **Resolution**: 4K Ultra HD 3840×2160
 - **Operating System**: Windows and macOS
-
-## Download AE + Premiere/PR Script - 500+ Split Screen Animation Presets
-
-[Download AE + Premiere/PR Script - 500+ Split Screen Animation Presets - Taobao](https://item.taobao.com/item.htm?id=657820157019)
-
-For the full version or if you encounter any download issues, please contact us via WhatsApp at +86 13237610083
 
 ## Why Choose This Script?
 
@@ -68,3 +67,13 @@ If you experience any issues with installation or compatibility:
 3. In AE/PR preferences, enable "Allow Scripts to Write Files and Access Network"
 
 For additional support or troubleshooting, please contact our technical support team.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page.
+:::
+
+| Purchase Option | Download Link |
+|---|---|
+| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=657820157019) |

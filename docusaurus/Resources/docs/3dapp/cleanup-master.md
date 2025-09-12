@@ -4,14 +4,17 @@ description: "Cleanup Master is a powerful After Effects script that streamlines
 keywords: ["After Effects script", "Cleanup Master", "shape layer workflow", "AE plugin", "animation tools", "motion graphics", "visual effects"]
 slug: /cleanup-master
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # After Effects Script: Cleanup Master v1.1.0 - Shape Layer Workflow Tool
 
+<!--Second Part-This is First Banner -->
 ![Cleanup Master v1.1.0 - Shape Layer Workflow Tool](https://www.gfxcamp.com/wp-content/uploads/2025/08/Cleanup-Master.jpg)
 
-**Download Cleanup Master v1.1.0** - Powerful After Effects tool that streamlines shape layer workflows
-
+:::tip[info]
 Cleanup Master is a powerful After Effects tool that streamlines shape layer workflows, making complex cleanup tasks faster, smarter, and easier.
+:::
 
 ## Key Features of Cleanup Master v1.1.0
 
@@ -47,11 +50,15 @@ Cleanup Master is a powerful After Effects tool that streamlines shape layer wor
 - **Enable Script Writing Permissions**: In Preferences, go to Edit → Preferences → General panel and check "Allow Scripts to Write Files and Access Network"
 - **Version Compatibility**: If the script doesn't work, it may not support your specific AE version (less likely)
 
-## Download Options
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-[Download Cleanup Master v1.1.0](https://pan.baidu.com/s/17Fz1Tr9nuy8z9WHbxy2KrQ?pwd=wfj9)
-
-**Password**: wfj9
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Cleanup Master v1.1.0**  | [Download](https://pan.baidu.com/s/17Fz1Tr9nuy8z9WHbxy2KrQ?pwd=wfj9)        | `wfj9`   |
 
 ## Why Choose Cleanup Master v1.1.0?
 

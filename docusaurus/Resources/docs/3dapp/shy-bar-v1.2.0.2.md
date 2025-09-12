@@ -4,11 +4,15 @@ description: "Shy Bar v1.2.0.2 is a powerful script for After Effects that allow
 keywords: ["After Effects", "Shy Bar", "AE script", "layer management", "timeline control", "composition tools", "workflow enhancement"]
 slug: /shy-bar-v1-2-0-2
 ---
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Shy Bar v1.2.0.2 - Layer Selection Script for After Effects
 
+<!--Second Part-This is First Banner -->
 ![Shy Bar v1.2.0.2](https://www.gfxcamp.com/wp-content/uploads/2025/08/Shy-Bar.jpg)
 
+:::tip[info]
 **Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1TeRskGRirGWMuJ1N51pflw?pwd=2tts)**
 
 Extraction code: 2tts
@@ -18,6 +22,7 @@ Extraction code: 2tts
 **Shy Bar v1.2.0.2** is an innovative script for Adobe After Effects that unleashes the full potential of your motion graphics workflow. This powerful tool empowers you to take command of your timeline and composition like never before, offering a comprehensive suite of features designed to elevate your workflow and declutter your timeline.
 
 With Shy Bar, you can selectively display, hide, and select specific layers in After Effects through multiple methods, making it easier than ever to manage complex projects with numerous layers. Whether you're a motion graphics designer, video editor, or visual effects artist, this script streamlines your workflow by eliminating the need for manual layer management.
+:::
 
 ## Key Features
 
@@ -123,19 +128,12 @@ When sharing your work, incorporate relevant keywords such as:
 - Document creative techniques and workflows
 - Include technical specifications and usage tips
 
-## Download Information
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-**Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1TeRskGRirGWMuJ1N51pflw?pwd=2tts)**
-
-Extraction code: 2tts
-
-### System Requirements
-- Adobe After Effects 2023, 2024, or 2025
-- Windows or macOS operating system
-- Minimum 8GB RAM recommended
-- 50MB available disk space
-- Internet connection for initial download
-
----
-
-*Note: This is a third-party script for Adobe After Effects. "After Effects" and "Adobe" are registered trademarks of Adobe Inc.*
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Shy Bar v1.2.0.2**       | [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1TeRskGRirGWMuJ1N51pflw?pwd=2tts) | `2tts`   |

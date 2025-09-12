@@ -1,15 +1,21 @@
 ---
 title: "Blender Normal Blending Plugin: Easy Blend Normals v1.0.1"
+sidebar_position: 1
 description: "Easy Blend Normals v1.0.1 is a Blender plugin that allows you to smoothly blend normals between two objects with just one click. Perfect for seamless shading and hiding seams in 3D models."
 keywords: ["Blender plugin", "Easy Blend Normals", "normal blending", "3D modeling", "seamless shading", "Blender 4.5", "geometry nodes", "Blender addon", "3D rendering", "normal maps"]
 slug: /blender-normal-blending-plugin-easy-blend-normals
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Normal Blending Plugin: Easy Blend Normals v1.0.1
 
+<!--Second Part-This is First Banner -->
 ![Easy Blend Normals v1.0.1 - Blender Normal Blending Plugin](https://www.gfxcamp.com/wp-content/uploads/2025/08/Easy-Blend-Normals.jpg)
 
+:::tip[info]
 **Download Easy Blend Normals v1.0.1** - Blend normals between two objects with one click for seamless shading
+:::
 
 The **Easy Blend Normals v1.0.1** is a powerful Blender plugin that allows you to smoothly blend normals between two objects with just one click. This lightweight addon helps hide seams and shading breaks for professional-quality 3D models. Built on Geometry Nodes technology, it offers a fully editable, non-destructive workflow that's perfect for achieving seamless shading results.
 
@@ -53,20 +59,30 @@ Unlike traditional methods that require manual vertex adjustments or complex mod
 
 ## Installation Guide
 
-Follow these simple steps to install Easy Blend Normals:
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-1. In Blender's top menu, go to Edit → Preferences → Add-ons
-2. Click the dropdown arrow in the upper right corner
-3. Select "Install from Disk"
-4. In the file browser dialog, select the corresponding ZIP file
-5. Enable the plugin by checking its box in the addon list
+<Tabs>
+  <TabItem value="blender-4.5" label="Blender 4.5" default>
+    <ol>
+      <li>In Blender's top menu, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown arrow in the upper right corner.</li>
+      <li>Select "Install from Disk".</li>
+      <li>In the file browser dialog, select the corresponding ZIP file.</li>
+      <li>Enable the plugin by checking its box in the addon list.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
+<!-- The Last Part-Download -->
 ## Download Options
+:::warning[Download]
+Get access to this powerful normal blending tool. The extraction password is provided next to the link.
+:::
 
-Get access to this powerful normal blending tool:
-
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)
-**Extraction Password: w3es**
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Easy Blend Normals v1.0.1**  | [Download from Baidu Netdisk](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)        | `w3es`   |
 
 ## Conclusion on Easy Blend Normals v1.0.1
 

@@ -4,14 +4,17 @@ description: "Blender For Unreal Engine V4.4.2 is a powerful plugin that allows 
 keywords: ["Blender plugin", "Unreal Engine", "Blender For Unreal Engine", "3D model import", "UE4", "UE5", "bridge plugin", "Blender addon"]
 slug: /blender-for-unreal-engine-v4-4-2
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Plugin for Importing Models to UE: Blender For Unreal Engine V4.4.2
 
+<!--Second Part-This is First Banner -->
 ![Blender For Unreal Engine V4.4.2](https://www.gfxcamp.com/wp-content/uploads/2024/07/Blender-For-Unreal-Engine.jpg)
 
-**Download Blender For Unreal Engine V4.4.2** - Bridge plugin for importing Blender content into Unreal Engine
-
+:::tip[info]
 The **Blender For Unreal Engine V4.4.2** is a powerful addon that enables you to export content created with Blender directly to Unreal Engine. This comprehensive bridge plugin streamlines your 3D workflow by allowing seamless transfer of various content types from Blender to UE.
+:::
 
 ## Key Features of Blender For Unreal Engine V4.4.2
 
@@ -35,36 +38,40 @@ The plugin is compatible with a wide range of Blender versions, ensuring flexibi
 
 ## Installation Guide
 
-Follow these simple steps to install the Blender For Unreal Engine plugin:
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-### For Blender 4.0 and Older Versions
-1. Open Blender
-2. Go to Edit → Preferences → Add-ons
-3. Click "Install"
-4. Select the downloaded ZIP file in the dialog
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+    <ol>
+      <li>Open Blender</li>
+      <li>Go to Edit → Preferences → Add-ons</li>
+      <li>Click the dropdown in the upper right corner</li>
+      <li>Select "Install from Disk"</li>
+      <li>Choose the downloaded ZIP file in the dialog</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
+    <ol>
+      <li>Open Blender</li>
+      <li>Go to Edit → Preferences → Add-ons → Install</li>
+      <li>Select the downloaded ZIP file in the file dialog</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
-### For Blender 4.1 and Newer Versions
-1. Open Blender
-2. Go to Edit → Preferences → Add-ons
-3. Click the dropdown in the upper right corner
-4. Select "Install from Disk"
-5. Choose the downloaded ZIP file in the dialog
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-## Download Options
-
-Choose from multiple versions of the Blender For Unreal Engine plugin:
-
-[Download V4.4.2 Version](https://pan.baidu.com/s/1pP0qbdnsq5gY4WkqFaXOdA?pwd=7t6k)
-**Extraction Password: 7t6k**
-
-[Download V4.4.0 Version](https://pan.baidu.com/s/1b3iXpnSsK6bEcpd_J_vs3A?pwd=4abh)
-**Extraction Password: 4abh**
-
-[Download V4.3.12 Version](https://pan.baidu.com/s/1cIFmXOHI9Upbj3TJVHdkCg?pwd=7d5b)
-**Extraction Password: 7d5b**
-
-[Download V4.3.9 Version](https://pan.baidu.com/s/1ifSOYziISx9r1SiTz5BRnw?pwd=2ux3)
-**Extraction Password: 2ux3**
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **V4.4.2 Version**  | [Download](https://pan.baidu.com/s/1pP0qbdnsq5gY4WkqFaXOdA?pwd=7t6k)        | `7t6k`   |
+| **V4.4.0 Version**  | [Download](https://pan.baidu.com/s/1b3iXpnSsK6bEcpd_J_vs3A?pwd=4abh)        | `4abh`   |
+| **V4.3.12 Version**  | [Download](https://pan.baidu.com/s/1cIFmXOHI9Upbj3TJVHdkCg?pwd=7d5b)        | `7d5b`   |
+| **V4.3.9 Version**  | [Download](https://pan.baidu.com/s/1ifSOYziISx9r1SiTz5BRnw?pwd=2ux3)        | `2ux3`   |
 
 ## Why Choose Blender For Unreal Engine V4.4.2?
 

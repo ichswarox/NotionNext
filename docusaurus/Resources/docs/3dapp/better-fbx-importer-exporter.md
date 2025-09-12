@@ -5,13 +5,16 @@ keywords: ["Blender plugin", "FBX importer", "FBX exporter", "Better FBX Importe
 slug: /better-fbx-importer-exporter
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Blender Plugin: Better FBX Importer & Exporter V6.2.4 - Enhanced FBX Support
 
 ![Better FBX Importer & Exporter](https://www.gfxcamp.com/wp-content/uploads/2021/04/Better-FBX-Importer-Exporter.jpg)
 
-**Download Better FBX Importer & Exporter V6.2.4** - Enhanced FBX import/export plugin for Blender with full compatibility
-
+:::tip[info]
 Blender's native FBX support is limited, often failing when importing older or newer FBX files. The Better FBX Importer & Exporter plugin solves this problem by providing a robust solution built with the official FBX SDK from scratch. This addon is compatible with all FBX versions, from ASCII to binary formats, covering FBX 5.3 through FBX 2020.
+:::
 
 ## Key Features of Better FBX Importer & Exporter
 
@@ -29,44 +32,37 @@ Blender's native FBX support is limited, often failing when importing older or n
 
 ## Installation Instructions
 
-### For Blender 4.0 and Earlier Versions
-1. In the top menu, go to Edit → Preferences → Add-ons → Install
-2. In the file dialog, select the corresponding ZIP file to install
-
-### For Blender 4.1 and Later Versions
-1. In the top menu, go to Edit → Preferences → Add-ons
-2. Click the dropdown in the upper right corner and select "Install from Disk"
-3. In the file dialog, select the corresponding ZIP file to install
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later">
+    <ol>
+      <li>In the top menu, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown in the upper right corner and select "Install from Disk".</li>
+      <li>In the file dialog, select the corresponding ZIP file to install.</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier" default>
+    <ol>
+      <li>In the top menu, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code> → <code>Install</code>.</li>
+      <li>In the file dialog, select the corresponding ZIP file to install.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## Download Links
 
-[Download V6.2.4 Version](https://pan.baidu.com/s/13-MyHllA-PNx1gaMeJ5TVg?pwd=k8ug)
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-**Extraction Password**: k8ug
-
-[Download V6.2.0 Version](https://pan.baidu.com/s/1bLsTn74DzMqMT7Cnqm-4lA?pwd=68b7)
-
-**Extraction Password**: 68b7
-
-[Download V6.0.5 Version](https://pan.baidu.com/s/1eKv8Vo-HBkZ3AMSk2n6Cqg?pwd=g62r)
-
-**Extraction Password**: g62r
-
-[Download V5.4.10 Version](https://pan.baidu.com/s/1989R_GwQ1vRnxIHJakaUyw?pwd=qq3x)
-
-**Extraction Password**: qq3x
-
-[Download V5.3.3 Version](https://pan.baidu.com/s/1_i8iGDZRJJNHsHepiElqrQ?pwd=b9rh)
-
-**Extraction Password**: b9rh
-
-[Download V5.2.10 Version](https://pan.baidu.com/s/1Cvsgz807PBoSQMDI3PlutA?pwd=jp1b)
-
-**Extraction Password**: jp1b
-
-[Download V4.2.1 Version](https://pan.baidu.com/s/1L1MyJr3vIXQr122zH1-ubw)
-
-**Extraction Password**: b20d
+| Version | Download Link | Password |
+|---|---|---|
+| **V6.2.4** | [Download](https://pan.baidu.com/s/13-MyHllA-PNx1gaMeJ5TVg?pwd=k8ug) | `k8ug` |
+| **V6.2.0** | [Download](https://pan.baidu.com/s/1bLsTn74DzMqMT7Cnqm-4lA?pwd=68b7) | `68b7` |
+| **V6.0.5** | [Download](https://pan.baidu.com/s/1eKv8Vo-HBkZ3AMSk2n6Cqg?pwd=g62r) | `g62r` |
+| **V5.4.10** | [Download](https://pan.baidu.com/s/1989R_GwQ1vRnxIHJakaUyw?pwd=qq3x) | `qq3x` |
+| **V5.3.3** | [Download](https://pan.baidu.com/s/1_i8iGDZRJJNHsHepiElqrQ?pwd=b9rh) | `b9rh` |
+| **V5.2.10** | [Download](https://pan.baidu.com/s/1Cvsgz807PBoSQMDI3PlutA?pwd=jp1b) | `jp1b` |
+| **V4.2.1** | [Download](https://pan.baidu.com/s/1L1MyJr3vIXQr122zH1-ubw) | `b20d` |
 
 ## Why Choose Better FBX Importer & Exporter?
 

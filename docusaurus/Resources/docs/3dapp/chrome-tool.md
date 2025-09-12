@@ -4,14 +4,19 @@ description: "Create cool and fashionable chrome alloy style text, logo, or grap
 keywords: ["AE template", "PR preset", "text animation", "logo animation", "graffiti text", "chrome alloy", "premium assets", "motion graphics", "videohive", "titles"]
 slug: /chrome-tool
 ---
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # AE Template + PR Preset - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation
 
+<!--Second Part-This is First Banner -->
 ![AE Template + PR Preset - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation](https://www.gfxcamp.com/wp-content/uploads/2025/09/Chrome-Tool.jpg)
 
+:::tip[info]
 **Download Chrome Tool** - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation for After Effects and Premiere
 
 This **AE Template + PR Preset** allows you to create cool and fashionable chrome alloy style text, logo, or graphic animations. It supports both After Effects and Premiere Pro, with all text logos, fonts, colors, size, and position parameters fully customizable. The background is transparent, and it has fixed support for both Chinese and English versions of AE and PR without expression errors.
+:::
 
 ## Key Features
 
@@ -42,12 +47,6 @@ This **AE Template + PR Preset** allows you to create cool and fashionable chrom
 - **Tutorial**: Video tutorial included
 - **Audio**: Does not include background music
 
-## Download Options
-
-[Download Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=973546847706)
-
-[Download Click to Purchase Directly: 15元](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fchrome-tool%2F)
-
 ## How to Purchase
 
 For purchase instructions, please visit: [View Purchase Instructions](https://www.gfxcamp.com/how-to-download/)
@@ -57,3 +56,14 @@ For purchase instructions, please visit: [View Purchase Instructions](https://ww
 ## Conclusion
 
 This **Chrome Tool** template and preset package is perfect for motion designers and video editors who want to add stylish, professional-looking chrome alloy text animations to their projects. With support for both After Effects and Premiere Pro, full customization options, and 4K resolution, it's an excellent choice for creating eye-catching titles and logos in your videos.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page.
+:::
+
+| Purchase Option | Download Link | Price |
+|---|---|---|
+| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=973546847706) | - |
+| **Direct Purchase** | [Click to Purchase](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fchrome-tool%2F) | 15元 |
