@@ -2,13 +2,18 @@
 title: Hair Tool v4.4.0 for Blender - Create Hair Mesh Ribbons | 3D Character Hair Addon
 description: Hair Tool is a powerful Blender addon that generates hair mesh ribbons with UVs from bezier or NURBS curves. Perfect for game character artists and 3D animators.
 keywords: [blender, hair tool, 3d hair, character hair, hair mesh, bezier curves, nurbs curves, 3d animation, blender addon, game development]
+slug: /hair-tool-blender-v220
 ---
 
+<!--First Part-This is Title -->
 # Hair Tool v4.4.0 for Blender - Create Hair Mesh Ribbons | 3D Character Hair Addon
 
+<!--Second Part-This is First Banner -->
 ![Hair Tool for Blender](https://www.gfxcamp.com/wp-content/uploads/2019/04/Gumroad-Hair-Tool-Blender.jpg)
 
-Hair Tool is a powerful addon for Blender that enables artists to generate hair mesh ribbons with UVs from bezier or NURBS curves. This tool represents how most current games create hair for characters, providing a professional solution for hair creation in 3D projects. Ideal for game developers, 3D character artists, and animators working with Blender.
+:::tip[info]
+Hair Tool is a powerful Blender addon that generates hair mesh ribbons with UVs from bezier or NURBS curves. Perfect for game character artists and 3D animators.
+:::
 
 ## Key Features
 
@@ -24,37 +29,40 @@ Hair Tool is a powerful addon for Blender that enables artists to generate hair 
 
 ## Installation Instructions
 
-### For Blender 4.0 or older versions:
-1. Go to Edit > Preferences > Add-ons > Install
-2. Select the corresponding ZIP file in the file browser
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-### For Blender 4.1 or newer versions:
-1. Go to Edit > Preferences > Add-ons
-2. Click the dropdown in the top right corner
-3. Select "Install from Disk"
-4. Choose the corresponding ZIP file
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+    <ol>
+      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown in the top right and select <code>Install from Disk</code>.</li>
+      <li>Select the corresponding ZIP file.</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
+    <ol>
+      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click <code>Install</code>.</li>
+      <li>Select the corresponding ZIP file.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
+<!-- The Last Part-Download -->
 ## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-Below are the download links for Hair Tool in various versions. Click on the download buttons to access the files on Baidu Netdisk. Remember to use the provided extraction codes.
-
-[Download V4.4.0 Version](https://pan.baidu.com/s/1QBFq_XV5BeRVhb6te_13sw?pwd=zusy)  
-**Extraction Code: zusy**
-
-[Download V4.3.0 Version](https://pan.baidu.com/s/118HX_pMvidnaQO0w5QA6NA?pwd=wmwp)  
-**Extraction Code: wmwp**
-
-[Download V4.0.2 Version](https://pan.baidu.com/s/1hVE5lzTuMFa9Lganan9nXw?pwd=by4f)  
-**Extraction Code: by4f**
-
-[Download V3.64 Version](https://pan.baidu.com/s/1TTMDYSZAfZ6xk9CvXph_Pw?pwd=bzs4)  
-**Extraction Code: bzs4**
-
-[Download V2.46 Version](https://pan.baidu.com/s/1RSF8PyY3ook67Q8IurMa9g?pwd=pbea)  
-**Extraction Code: pbea**
-
-[Download V2.30 Version](https://pan.baidu.com/s/1U97pZd50_WUewWZ5BuHS0A)  
-**Extraction Code: wnkt**
+| Version | Download Link | Password |
+| ------- | ------------- | -------- |
+| **V4.4.0** | [Download](https://pan.baidu.com/s/1QBFq_XV5BeRVhb6te_13sw?pwd=zusy) | `zusy` |
+| **V4.3.0** | [Download](https://pan.baidu.com/s/118HX_pMvidnaQO0w5QA6NA?pwd=wmwp) | `wmwp` |
+| **V4.0.2** | [Download](https://pan.baidu.com/s/1hVE5lzTuMFa9Lganan9nXw?pwd=by4f) | `by4f` |
+| **V3.64** | [Download](https://pan.baidu.com/s/1TTMDYSZAfZ6xk9CvXph_Pw?pwd=bzs4) | `bzs4` |
+| **V2.46** | [Download](https://pan.baidu.com/s/1RSF8PyY3ook67Q8IurMa9g?pwd=pbea) | `pbea` |
+| **V2.30** | [Download](https://pan.baidu.com/s/1U97pZd50_WUewWZ5BuHS0A) | `wnkt` |
 
 ---
 

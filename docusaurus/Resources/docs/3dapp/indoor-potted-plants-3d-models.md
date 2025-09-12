@@ -31,7 +31,6 @@ PDF Preview: [https://pan.baidu.com/s/1bwlQIApSeVdjDMG-VJDYVQ?pwd=pxz7](https://
 This material is included in:
 - [Evermotion Archmodels/Archinteriors/Archexteriors 3D Models Collection (Updated)](https://www.gfxcamp.com/evermotion/)
 
-<!-- The Last Part-Download -->
 ## Download Link
 :::warning[Download]
 [Download 46 Indoor Potted Plants 3D Models - Evermotion Archmodels Vol. 260 (3DS MAX Format)](https://pan.baidu.com/s/1bwlQIApSeVdjDMG-VJDYVQ?pwd=pxz7)

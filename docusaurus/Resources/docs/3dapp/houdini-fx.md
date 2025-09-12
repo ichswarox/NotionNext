@@ -53,7 +53,6 @@ Houdini 21 introduces major updates across the pipeline, including enhancements 
 7. Open the scripts folder and right-click to run `EnterKeys.bat` as Administrator. Follow the prompts to copy the corresponding registration codes
 8. Under Services, click Start for Sesinetd, then close License Administrator. Reopen License Administrator, close all windows, and then reopen Houdini to complete the process!
 
-<!-- The Last Part-Download -->
 ## Download Links
 :::warning[Download]
 [Download Houdini FX v21.0.44 for Windows](https://pan.baidu.com/s/1seLdwMFgoDI6cVJHH0GHww?pwd=fw6k)

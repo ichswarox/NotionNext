@@ -4,14 +4,19 @@ description: "Painterly Grass - Fields & Meadows is a 3D grass and field asset p
 keywords: ["Blender asset", "Painterly Grass", "Blender grass asset", "Blender field asset", "EEVEE renderer", "3D grass", "cartoon style", "Blender preset"]
 slug: /painterly-grass-fields-meadows-pack
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Cartoon Oil Painting Style Field Grass Assets Preset: Painterly Grass - Fields & Meadows Pack for Blender EEVEE
 
+<!--Second Part-This is First Banner -->
 ![Painterly Grass - Fields & Meadows Pack for Blender EEVEE](https://www.gfxcamp.com/wp-content/uploads/2025/09/Painterly-Grass.jpg)
 
+:::tip[info]
 **Download Painterly Grass - Fields & Meadows Pack** - Personalized cartoon style field grass asset preset pack for Blender EEVEE renderer
 
 The **Painterly Grass - Fields & Meadows Pack** is a 3D grass and field asset pack that brings the delicious and luxurious quality of 2D painting directly into the 3D workspace. Inspired by master painters, stylized art, and animation, this library and toolset are designed to create stunning 3D renders that look and feel like paintings.
+:::
 
 ## Key Features of Painterly Grass - Fields & Meadows Pack
 
@@ -39,18 +44,25 @@ This comprehensive asset pack offers a unique approach to creating natural envir
 
 ## Installation Guide
 
-Follow these simple steps to install the Painterly Grass asset pack:
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-1. In Blender, go to Edit → Preferences → File Paths → Asset Libraries
-2. Add the path of the CGC_PBainterly_Grass_Asset_Library_1.0 folder for the corresponding version
-3. The other folders contain completed scene projects that can be used directly
+<Tabs>
+  <TabItem value="default" label="Installation Steps" default>
+    <ol>
+      <li>In Blender, go to Edit → Preferences → File Paths → Asset Libraries</li>
+      <li>Add the path of the CGC_PBainterly_Grass_Asset_Library_1.0 folder for the corresponding version</li>
+      <li>The other folders contain completed scene projects that can be used directly</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## Download Options
 
-Get access to this unique asset pack with our easy download option:
-
+:::warning[Download]
 [Download from Baidu Netdisk](https://pan.baidu.com/s/1Y70Bq4lBcTQsCKj0Vx9mYA?pwd=2c22)
 **Extraction Password: 2c22**
+:::
 
 ## Why Choose Painterly Grass - Fields & Meadows Pack?
 

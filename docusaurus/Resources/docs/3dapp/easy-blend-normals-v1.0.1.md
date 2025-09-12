@@ -4,20 +4,17 @@ description: "Easy Blend Normals v1.0.1 is a powerful Blender plugin that allows
 keywords: ["Blender", "Easy Blend Normals", "Blender plugin", "normal blending", "seamless shading", "geometry nodes", "3D modeling", "Blender 4.5"]
 slug: /easy-blend-normals-v1-0-1
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
-# Easy Blend Normals v1.0.1 - Normal Blending Plugin for Blender
+<!--First Part-This is Title -->
+# Easy Blend Normals v1.0.1: Normal Blending Plugin for Blender
 
+<!--Second Part-This is First Banner -->
 ![Easy Blend Normals v1.0.1](https://www.gfxcamp.com/wp-content/uploads/2025/08/Easy-Blend-Normals.jpg)
 
-**Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)**
-
-Extraction code: w3es
-
-## Overview
-
+:::tip[info]
 **Easy Blend Normals v1.0.1** is an innovative Blender plugin that enables artists to smoothly blend normals between two objects with just one click. This powerful tool helps eliminate seams and shading breaks, creating seamless transitions between different mesh elements in your 3D models.
-
-Whether you're working on character modeling, hard surface modeling, or architectural visualization, Easy Blend Normals streamlines your workflow by providing an intuitive solution for achieving professional-quality surface continuity. The plugin is built on Geometry Nodes, making it fully editable and non-destructive.
+:::
 
 ## Key Features
 
@@ -34,10 +31,18 @@ Whether you're working on character modeling, hard surface modeling, or architec
 
 ## Installation Instructions
 
-1. In Blender, go to the top menu: Edit → Preferences → Add-ons
-2. Click the dropdown arrow in the upper right corner
-3. Select "Install from Disk"
-4. In the popup dialog, select the corresponding ZIP file to install
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="blender-4.5" label="Blender 4.5" default>
+    <ol>
+      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown in the top right and select <code>Install from Disk</code>.</li>
+      <li>Select the corresponding ZIP file.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## How to Use Easy Blend Normals
 
@@ -111,11 +116,16 @@ When sharing your work, include relevant keywords such as:
 - Document creative techniques and workflows
 - Include technical specifications and usage tips
 
+<!-- The Last Part-Download -->
 ## Download Information
 
-**Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)**
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-Extraction code: w3es
+| File                     | Download Link                                                           | Password |
+| ------------------------ | ----------------------------------------------------------------------- | -------- |
+| **Easy Blend Normals**   | [Download](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)    | `w3es`   |
 
 ### System Requirements
 - Blender 4.5

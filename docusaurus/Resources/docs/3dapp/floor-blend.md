@@ -1,17 +1,19 @@
 ---
-title: "Blender Floor Texture Blending Plugin - Floor Blend v1.0.0"
-description: "Floor Blend is an addon that simplifies blending floor textures with one click, along with offering additional helpful features for Blender users. This powerful plugin streamlines your workflow while providing additional helpful features."
-keywords: ["blender", "blender plugin", "floor blend", "texture blending", "addon", "3d software", "cg tools"]
+title: Blender Floor Texture Blending Plugin - Floor Blend v1.0.0
+description: Floor Blend is an addon that simplifies blending floor textures with one click, along with offering additional helpful features for Blender users. This powerful plugin streamlines your workflow while providing additional helpful features.
+keywords: [blender, blender plugin, floor blend, texture blending, addon, 3d software, cg tools]
 slug: /floor-blend
 ---
 
+<!--First Part-This is Title -->
 # Blender Floor Texture Blending Plugin - Floor Blend v1.0.0
 
+<!--Second Part-This is First Banner -->
 ![Blender Floor Texture Blending Plugin](https://www.gfxcamp.com/wp-content/uploads/2025/09/Floor-Blend.jpg)
 
-**Download Floor Blend v1.0.0** - One-Click Floor Texture Blending Plugin for Blender
-
-**Floor Blend** is an innovative Blender addon that simplifies the process of blending floor textures with just one click. This powerful plugin streamlines your workflow while providing additional helpful features for 3D artists working with floor surfaces in Blender.
+:::tip[info]
+Floor Blend is an addon that simplifies blending floor textures with one click, along with offering additional helpful features for Blender users. This powerful plugin streamlines your workflow while providing additional helpful features.
+:::
 
 ## Key Features
 
@@ -43,17 +45,31 @@ slug: /floor-blend
 
 ## Installation Instructions
 
-### For Blender 4.0 and Lower Versions:
-1. In the top menu, go to Edit → Preferences → Add-ons → Install
-2. In the file browser window, select the corresponding ZIP file to install
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-### For Blender 4.1 and Higher Versions:
-1. In the top menu, go to Edit → Preferences → Add-ons
-2. Click the dropdown arrow in the upper right corner
-3. Select "Install from Disk"
-4. In the file browser window, select the corresponding ZIP file to install
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+    <ol>
+      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown in the top right and select <code>Install from Disk</code>.</li>
+      <li>Select the corresponding ZIP file.</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
+    <ol>
+      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click <code>Install</code>.</li>
+      <li>Select the corresponding ZIP file.</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
-## Download
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
 [Download from Baidu Netdisk](https://pan.baidu.com/s/1AXR1F2v-JKOhzTL1Du97kw?pwd=hvne)
 

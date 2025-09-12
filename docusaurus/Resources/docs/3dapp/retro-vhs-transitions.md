@@ -1,6 +1,20 @@
+---
+title: Premiere/PR Script - 225 Retro Film Projector Paper Scratch VHS Film Burn Effects Video Transitions
+description: This package contains 225 video transition effects, including film strips, burn holes, graffiti elements, scratch films, VHS, paper stop-motion, tape markers, lens flares, and more. Enhance your video projects with this comprehensive collection of retro-style video transitions.
+keywords: [Premiere Pro, PR script, VHS transitions, retro film effects, video transitions, film burn effects, paper scratch, AtomX script, video editing, transition effects]
+slug: /retro-vhs-transitions
+---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
+
+<!--First Part-This is Title -->
 # Premiere/PR Script - 225 Retro Film Projector Paper Scratch VHS Film Burn Effects Video Transitions
 
+<!--Second Part-This is First Banner -->
 ![Retro Vibes Transition Bundle](/img/Retro-Vibes-Transition-Bundle.jpg)
+
+:::tip[info]
+This package contains 225 video transition effects, including film strips, burn holes, graffiti elements, scratch films, VHS, paper stop-motion, tape markers, lens flares, and more. It requires Premiere Pro CC 2022 or higher version and works through the AtomX script (included) with visual operation. Simply double-click to generate the desired elements - very convenient!
+:::
 
 ## Script Preset Introduction:
 
@@ -15,9 +29,16 @@ This package contains 225 video transition effects, including film strips, burn 
 - **Tutorial**: Video tutorial included
 - **Music**: Background music not included
 
+<!-- The Last Part-Download -->
 ## Download
 
-[Paid Resource Download Link]((https://wa.me/8613237610083))
+:::warning[Download]
+This is a premium resource. For purchasing or licensing inquiries, please contact us.
+:::
+
+| File                       | Contact Method                                                              |
+| -------------------------- | -------------------------------------------------------------------------- |
+| **Retro VHS Transitions** | [WhatsApp: +86 13237610083](https://wa.me/8613237610083) |
 
 *Note: For paid resources, please reach out to us. WhatsApp: +86 13237610083*
 

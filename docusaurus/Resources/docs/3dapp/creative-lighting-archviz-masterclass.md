@@ -1,17 +1,23 @@
 ---
-title: "3DS MAX Architecture Indoor and Outdoor Scene Lighting Tutorial - Creative Lighting Archviz Masterclass"
-description: "Learn advanced lighting techniques for indoor and outdoor architectural scenes in 3DS MAX with this comprehensive tutorial covering Creative Lighting philosophy and practical implementation."
-keywords: ["3ds max", "3ds max tutorial", "creative lighting", "architectural visualization", "lighting tutorial", "3d tutorial", "tutorial", "building rendering"]
+title: 3DS MAX Architecture Indoor and Outdoor Scene Lighting Tutorial - Creative Lighting Archviz Masterclass
+sidebar_position: 1
+description: Learn advanced lighting techniques for indoor and outdoor architectural scenes in 3DS MAX with this comprehensive tutorial covering Creative Lighting philosophy and practical implementation.
+keywords: [3ds max, 3ds max tutorial, creative lighting, architectural visualization, lighting tutorial, 3d tutorial, tutorial, building rendering]
 slug: /creative-lighting-archviz-masterclass
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # 3DS MAX Architecture Indoor and Outdoor Scene Lighting Tutorial - Creative Lighting Archviz Masterclass
 
+<!--Second Part-This is First Banner -->
 ![3DS MAX Architecture Indoor and Outdoor Scene Lighting Tutorial](https://www.gfxcamp.com/wp-content/uploads/2025/09/Creative-Lighting-Archviz-Masterclass.jpg)
 
+:::tip[info]
 **Download Creative Lighting Archviz Masterclass** - Complete 3DS MAX Lighting Tutorial for Architectural Visualization
 
 This comprehensive **3DS MAX tutorial** focuses on lighting techniques for both indoor and outdoor architectural scenes. The course teaches you how to approach lighting as a creative philosophy, similar to how photographers and cinematographers think about light, while applying the craftsmanship techniques of a painter.
+:::
 
 ## Course Overview
 
@@ -25,11 +31,13 @@ Creative Lighting represents a philosophy of image making that sees light as the
 - **Subtitles**: English (no subtitles)
 - **Video Format**: MP4, 1920×1080 resolution
 
+<!-- The Last Part-Download -->
 ## Download
-
+:::warning[Download]
 [Download Baidu Netdisk](https://pan.baidu.com/s/1VuavKlNgg_ODpee4sd9MvA?pwd=269x)
 
 **Extraction Password: 269x**
+:::
 
 ## Who Should Take This Course
 

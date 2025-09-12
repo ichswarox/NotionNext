@@ -1,23 +1,20 @@
 ---
-title: "Blender Neon Sign Generator Plugin - Procedural Signs V2.0.0+V1.1.0 + Preset Pack"
-description: "Create stunning neon signs and billboards procedurally in Blender with the Procedural Signs plugin. This powerful addon offers customizable parameters for generating a wide variety of neon signage effects for urban environments, commercial zones, and digital platforms."
-keywords: ["Blender", "Blender plugin", "neon signs", "billboard generator", "procedural modeling", "3D signage", "urban design", "commercial signage", "VFX tools", "Blender addon"]
+title: Blender Neon Sign Generator Plugin - Procedural Signs V2.0.0+V1.1.0 + Preset Pack
+description: Create stunning neon signs and billboards procedurally in Blender with the Procedural Signs plugin. This powerful addon offers customizable parameters for generating a wide variety of neon signage effects for urban environments, commercial zones, and digital platforms.
+keywords: [Blender, Blender plugin, neon signs, billboard generator, procedural modeling, 3D signage, urban design, commercial signage, VFX tools, Blender addon]
 slug: /procedural-signs
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Neon Sign Generator Plugin - Procedural Signs V2.0.0+V1.1.0 + Preset Pack
 
+<!--Second Part-This is First Banner -->
 ![Blender Neon Sign Generator Plugin - Procedural Signs](https://www.gfxcamp.com/wp-content/uploads/2023/12/Procedural-Signs.jpg)
 
-[Download V2.0.0 Version](https://pan.baidu.com/s/1lIDKIB11zMHAw1Ww8-NNDG?pwd=sxh5)
-
-**Password: sxh5**
-
-[Download V1.1.0 Version](https://pan.baidu.com/s/1GccjR3X6pa_sGbc2EXTKWQ?pwd=junf)
-
-**Password: junf**
-
+:::tip[info]
 The **Procedural Signs** plugin is a powerful addon for Blender that enables artists to create stunning neon signs and billboards with procedural generation techniques. This versatile toolkit adds incredible depth and detail to your scenes, whether you're designing urban streetscapes, bustling commercial zones, or digital platforms.
+:::
 
 ## Key Features
 
@@ -66,15 +63,17 @@ From small business signs to large commercial billboards, this plugin offers the
 - **Operating System**: Windows, macOS, Linux
 - **Storage**: Minimum 100MB available space
 
+<!-- The Last Part-Download -->
 ## Download Options
 
-[Download V2.0.0 Version](https://pan.baidu.com/s/1lIDKIB11zMHAw1Ww8-NNDG?pwd=sxh5)
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-**Password: sxh5**
-
-[Download V1.1.0 Version](https://pan.baidu.com/s/1GccjR3X6pa_sGbc2EXTKWQ?pwd=junf)
-
-**Password: junf**
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Procedural Signs V2.0.0** | [Download](https://pan.baidu.com/s/1lIDKIB11zMHAw1Ww8-NNDG?pwd=sxh5) | `sxh5`   |
+| **Procedural Signs V1.1.0** | [Download](https://pan.baidu.com/s/1GccjR3X6pa_sGbc2EXTKWQ?pwd=junf) | `junf`   |
 
 For direct purchase or if you encounter any download issues, please contact us via WeChat at +86 13237610083
 

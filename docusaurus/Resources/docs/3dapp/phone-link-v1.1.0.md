@@ -4,14 +4,19 @@ description: "Phone Link v1.1.0 is a powerful Blender plugin that enables real-t
 keywords: ["Blender", "Phone Link", "Blender plugin", "real-time motion data", "mobile device control", "3D animation", "motion capture"]
 slug: /phone-link-v1-1-0
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Phone Link v1.1.0 - Real-time Mobile Data Connection Plugin for Blender
 
+<!--Second Part-This is First Banner -->
 ![Phone Link v1.1.0](https://www.gfxcamp.com/wp-content/uploads/2025/09/Phone-Link.jpg)
 
+:::tip[info]
 **Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/18GtQsW787yXFqbsFjPxMYQ?pwd=aqtr)**
 
 Extraction code: aqtr
+:::
 
 ## Overview
 
@@ -38,10 +43,19 @@ This plugin transforms your smartphone or tablet into a powerful motion capture 
 
 ## Installation Instructions
 
-1. In Blender, go to the top menu: Edit → Preferences → Add-ons
-2. Click the dropdown arrow in the upper right corner
-3. Select "Install from Disk"
-4. In the popup dialog, select the corresponding ZIP file to install
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+    <ol>
+      <li>In Blender, go to the top menu: Edit → Preferences → Add-ons</li>
+      <li>Click the dropdown arrow in the upper right corner</li>
+      <li>Select "Install from Disk"</li>
+      <li>In the popup dialog, select the corresponding ZIP file to install</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## How to Use Phone Link
 
@@ -115,11 +129,14 @@ When sharing your work, include relevant keywords such as:
 
 ## Download Information
 
+:::warning[Download]
 **Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/18GtQsW787yXFqbsFjPxMYQ?pwd=aqtr)**
 
 Extraction code: aqtr
+:::
 
 ### System Requirements
+
 - Blender 4.1, 4.2, 4.3, or 4.4
 - Compatible iOS or Android mobile device
 - Stable internet connection for initial setup

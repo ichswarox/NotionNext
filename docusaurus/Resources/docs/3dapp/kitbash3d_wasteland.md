@@ -4,14 +4,21 @@ description: "Kitbash3D - Wasteland industrial ruin scene 3D models including fa
 keywords: ["3d models", "c4d models", "kitbash3d", "industrial models", "ruin models", "factory models", "warehouse models", "CG assets", "3D software", "design tools"]
 slug: /kitbash3d_wasteland
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Wasteland Industrial Ruins 3D Models for C4D/MAX/FBX/OBJ/Maya/Blender
 
+<!--Second Part-This is First Banner -->
 ![Wasteland Industrial Ruins 3D Models for C4D/MAX/FBX/OBJ/Maya/Blender](https://www.gfxcamp.com/wp-content/uploads/2020/01/Kitbash3D-Wasteland.jpg)
 
+:::tip[info]
 **Download Click to Purchase on Taobao**: [Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=643854641046)
+:::
 
-**Download Click to Purchase Directly: 20 Yuan**: [Click to Purchase Directly: 20 Yuan](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fkitbash3d-wasteland%2F)
+:::tip[info]
+**Download Click to Purchase Directly: 20 Yuan**: [Click to Purchase Directly: 20 Yuan](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fkitbash3d_wasteland%2F)
+:::
 
 ## Description
 
@@ -32,13 +39,14 @@ This comprehensive 3D model collection features industrial wasteland ruins inclu
 - **File Size**: 34.1GB when extracted
 
 ## Download
-
+:::warning[Download]
 [Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=643854641046)
 
-[Click to Purchase Directly: 20 Yuan](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fkitbash3d-wasteland%2F)
+[Click to Purchase Directly: 20 Yuan](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fkitbash3d_wasteland%2F)
 
 Click to View Purchase Instructions
 (Supports Alipay/WeChat, Download link visible after purchase)
+:::
 
 ## Conclusion
 

@@ -4,14 +4,19 @@ description: "Light Painter V1.5.5 is a powerful Blender plugin that allows you 
 keywords: ["Blender plugin", "Light Painter", "Blender lighting", "3D lighting", "lighting plugin", "Blender addon", "VFX tools", "3D rendering"]
 slug: /light-painter-blender-plugin
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Position-Specific Light Generation Plugin: Light Painter V1.5.5
 
+<!--Second Part-This is First Banner -->
 ![Light Painter V1.5.5 - Position-Specific Light Generation Plugin](https://www.gfxcamp.com/wp-content/uploads/2024/12/Light-Painter.jpg)
 
+:::tip[info]
 **Download Light Painter V1.5.5** - Position-specific light generation plugin for Blender
 
 The **Light Painter V1.5.5** is a powerful Blender plugin that allows you to draw light positions at specified locations on 3D models to quickly generate various lighting or projection effects. This innovative tool streamlines your lighting workflow by enabling intuitive painting directly on your 3D surfaces.
+:::
 
 ## Key Features of Light Painter V1.5.5
 
@@ -36,30 +41,39 @@ This plugin revolutionizes how you approach lighting in Blender with its intuiti
 
 ## Installation Guide
 
-Follow these simple steps to install the Light Painter plugin:
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-### For Blender 4.0 and Older Versions
-1. Open Blender
-2. Go to Edit → Preferences → Add-ons
-3. Click "Install"
-4. Select the downloaded ZIP file in the dialog
-
-### For Blender 4.1 and Newer Versions
-1. Open Blender
-2. Go to Edit → Preferences → Add-ons
-3. Click the dropdown in the upper right corner
-4. Select "Install from Disk"
-5. Choose the downloaded ZIP file in the dialog
+<Tabs>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+    <ol>
+      <li>Open Blender</li>
+      <li>Go to Edit → Preferences → Add-ons</li>
+      <li>Click the dropdown in the upper right corner</li>
+      <li>Select "Install from Disk"</li>
+      <li>Choose the downloaded ZIP file in the dialog</li>
+    </ol>
+  </TabItem>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
+    <ol>
+      <li>Open Blender</li>
+      <li>Go to Edit → Preferences → Add-ons</li>
+      <li>Click "Install"</li>
+      <li>Select the downloaded ZIP file in the dialog</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## Download Options
 
+:::warning[Download]
 Choose from multiple versions of the Light Painter plugin:
+:::
 
-[Download V1.5.5 Version](https://pan.baidu.com/s/1P_-YW_bFSpX96YM70pbdlw?pwd=j3vn)
-**Extraction Password: j3vn**
-
-[Download V1.4.1 Version](https://pan.baidu.com/s/1u6kFiWjXM-lsEiz_Qcv5YQ?pwd=nsaa)
-**Extraction Password: nsaa**
+| File                     | Download Link                                                       | Password |
+| ------------------------ | ------------------------------------------------------------------- | -------- |
+| **V1.5.5 Version**       | [Download](https://pan.baidu.com/s/1P_-YW_bFSpX96YM70pbdlw?pwd=j3vn) | `j3vn`   |
+| **V1.4.1 Version**       | [Download](https://pan.baidu.com/s/1u6kFiWjXM-lsEiz_Qcv5YQ?pwd=nsaa) | `nsaa`   |
 
 ## Why Choose Light Painter V1.5.5?
 

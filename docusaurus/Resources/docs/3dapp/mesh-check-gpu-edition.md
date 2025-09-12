@@ -4,14 +4,19 @@ description: "Mesh Check GPU Edition is a powerful Blender plugin that automatic
 keywords: ["blender", "blender plugin", "mesh check", "3d modeling", "optimization", "model cleanup", "3d software", "cg tools"]
 slug: /mesh-check-gpu-edition
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Blender Mesh Check Optimization Plugin - Mesh Check GPU Edition V4.0.7
 
+<!--Second Part-This is First Banner -->
 ![Blender Mesh Check Optimization Plugin](https://www.gfxcamp.com/wp-content/uploads/2023/07/Mesh-Check-Gpu-Edition.jpg)
 
+:::tip[info]
 **Download Mesh Check GPU Edition V4.0.7** - Automatic Mesh Quality Checker and Optimizer for Blender
 
 **Mesh Check GPU Edition** is an essential Blender plugin that automatically identifies and highlights various mesh issues in your 3D models, including Ngons, Triangles, N-poles, E-poles, Poles with more than 5 edges, Isolated vertices, and Non-manifold edges. This powerful tool then helps you optimize and clean up your models for better topology and rendering performance.
+:::
 
 ## Key Features
 
@@ -29,18 +34,26 @@ slug: /mesh-check-gpu-edition
 
 ## Installation Instructions
 
-1. In the top menu, go to Edit → Preferences → Add-ons → Install
-2. In the file browser window, select the corresponding ZIP file to install
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="default" label="Installation Steps" default>
+    <ol>
+      <li>In the top menu, go to Edit → Preferences → Add-ons → Install</li>
+      <li>In the file browser window, select the corresponding ZIP file to install</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## Download Options
 
-[Download V4.0.7 Version](https://pan.baidu.com/s/1XUaUrJTd99ZkTtPeDmhjfQ?pwd=yrpr)
-
-**Extraction Password: yrpr**
-
-[Download V0.4.0 Version](https://pan.baidu.com/s/1KKGJeW-lVKbO6CH8g4Xukg?pwd=8ckz)
-
-**Extraction Password: 8ckz**
+:::warning[Download]
+| File                     | Download Link                                                       | Password |
+| ------------------------ | ------------------------------------------------------------------- | -------- |
+| **V4.0.7 Version**       | [Download](https://pan.baidu.com/s/1XUaUrJTd99ZkTtPeDmhjfQ?pwd=yrpr) | `yrpr`   |
+| **V0.4.0 Version**       | [Download](https://pan.baidu.com/s/1KKGJeW-lVKbO6CH8g4Xukg?pwd=8ckz) | `8ckz`   |
+:::
 
 ## Who Should Use Mesh Check GPU Edition?
 

@@ -28,7 +28,6 @@ Hingegenious is a powerful digital tool that lets you generate fully parametric 
 
 - 4.4, 4.3, 4.2, 4.1, 4.0
 
-<!-- The Last Part-Download -->
 ## Download Links
 :::warning[Download]
 Download Hingegenious:

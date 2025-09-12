@@ -1,26 +1,32 @@
-# FCPX Plugin - 20 Minimal Lower Thirds Name Titles Animation Presets
+---
+title: "FCPX Plugin - 20 Minimal Lower Thirds Name Titles Animation Presets"
+description: "Professional collection of 20 minimal-style lower thirds name titles for Final Cut Pro X with fully customizable parameters"
+keywords: ["FCPX plugin", "lower thirds", "name titles", "animation presets", "video editing", "motion graphics", "Mac only"]
+slug: /fcpx-minimal-lower-thirds
+---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
+# FCPX Plugin: 20 Minimal Lower Thirds Name Titles Animation Presets
+
+<!--Second Part-This is First Banner -->
 ![FCPX Minimal Lower Thirds Pack](/img/FCPX-Minimal-Lower-Thirds-Pack.jpg)
 
-## Plugin Features Introduction:
-
+:::tip[info]
 This package includes 20 animated lower third title templates. All text, fonts, logos, colors, positions, sizes, spacing, and other basic parameters can be easily modified for simple and flexible use.
+:::
 
-## System Requirements:
+## System Requirements
 
 - **Platform**: Mac FCPX plugin (Windows users cannot use this plugin)
 - **Software Version**: FCPX 10.3.2 or higher, Apple Motion 5.3 or higher
 - **File Size**: Plugin + Tutorial (263MB)
 
-## Download
-
-[Paid Resource]((https://wa.me/8613237610083))
-
 ## Product Overview
 
 Enhance your video projects with this professional collection of 20 minimal-style lower thirds name titles for Final Cut Pro X. Perfect for creating clean, modern, and elegant name titles and information displays in your videos.
 
-### Key Features:
+### Key Features
 
 - 20 professionally designed lower thirds animation presets
 - Minimal and clean design style suitable for various video projects
@@ -30,13 +36,18 @@ Enhance your video projects with this professional collection of 20 minimal-styl
 - Compact file size of only 263MB
 - Compatible with FCPX 10.3.2 and higher versions
 
-### Who Should Use This:
+### Who Should Use This
 
 - Video editors working on corporate or professional projects
 - Content creators seeking clean and minimal name title designs
 - Filmmakers wanting to add elegant information displays
 - YouTube creators and social media editors
 - Anyone needing quick and easy-to-edit lower thirds animations
+
+<!-- The Last Part-Download -->
+## Download
+
+[Paid Resource]((https://wa.me/8613237610083))
 
 Transform your video editing workflow with these high-quality, professionally designed lower thirds that will save you time and elevate your creative projects.
 

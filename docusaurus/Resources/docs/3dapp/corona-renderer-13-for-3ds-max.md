@@ -80,16 +80,6 @@ Users have reported that the installation process is straightforward when follow
 
 The AI enhancement features and Vantage integration have been points of interest for users, with some reporting successful usage after proper installation.
 
-## Official Website Information
-
-This is the only official website for GFXCamp resources. Please be aware that there are many fake websites and Taobao shops that are counterfeit. Be cautious to avoid being deceived.
-
-Official Website: https://www.gfxcamp.com/
-Official Taobao Shop: https://gfxcampcg.taobao.com
-Weibo: http://weibo.com/gfxcamp
-
-All GFXCamp articles, please cite and include the original link when reproducing!
-
 ## Tags
 
 - 3ds Max

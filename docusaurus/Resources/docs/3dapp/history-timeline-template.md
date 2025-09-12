@@ -21,14 +21,13 @@ Showcase your company's history, product evolution, or any chronological story w
 
 ## Template Specifications
 
--   **Compatibility:** Adobe After Effects CS5 and higher. Works with all language versions of AE.
--   **Resolution:** Full HD (1920x1080).
--   **Plugins:** No third-party plugins required.
--   **File Size:** 23MB.
--   **Ease of Use:** No tutorial necessary; simply drop in your photos and edit the text.
--   **Music:** Please note that the background music is not included.
+- **Compatibility:** Adobe After Effects CS5 and higher. Works with all language versions of AE.
+- **Resolution:** Full HD (1920x1080).
+- **Plugins:** No third-party plugins required.
+- **File Size:** 23MB.
+- **Ease of Use:** No tutorial necessary; simply drop in your photos and edit the text.
+- **Music:** Please note that the background music is not included.
 
-<!-- The Last Part-Download -->
 ## Download
 :::warning[Download]
 This is a premium resource. Please contact us for access.

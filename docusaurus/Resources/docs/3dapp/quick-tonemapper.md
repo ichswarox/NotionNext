@@ -1,15 +1,20 @@
 ---
-title: "AE 3D Render Post-Mapping Color Grading Plugin - Aescript Quick ToneMapper V1.1 Win/Mac Crack"
-description: "Quick ToneMapper is a powerful After Effects script that allows you to apply various tone mapping curves to your CG renders in post-production without baking them during rendering. Adjust tone mapping curves, fine-tune strength, and modify camera settings like shutter speed, aperture, and white balance."
-keywords: ["aescript", "ae plugin", "quick tonemapper", "color grading plugin", "after effects", "cg rendering", "tone mapping", "post production", "visual effects", "3d render"]
+title: AE 3D Render Post-Mapping Color Grading Plugin - Aescript Quick ToneMapper V1.1 Win/Mac Crack
+description: Quick ToneMapper is a powerful After Effects script that allows you to apply various tone mapping curves to your CG renders in post-production without baking them during rendering. Adjust tone mapping curves, fine-tune strength, and modify camera settings like shutter speed, aperture, and white balance.
+keywords: [aescript, ae plugin, quick tonemapper, color grading plugin, after effects, cg rendering, tone mapping, post production, visual effects, 3d render]
 slug: /quick-tonemapper
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # AE 3D Render Post-Mapping Color Grading Plugin - Aescript Quick ToneMapper V1.1 Win/Mac Crack
 
+<!--Second Part-This is First Banner -->
 ![AE 3D Render Post-Mapping Color Grading Plugin](https://www.gfxcamp.com/wp-content/uploads/2022/07/Aescript-Quick-ToneMapper.jpg)
 
+:::tip[info]
 **Download Quick ToneMapper V1.1** - Post-Production Tone Mapping Plugin for After Effects
+:::
 
 **Quick ToneMapper** is an essential After Effects script that enables you to apply various tone mapping curves to your CG renders in post-production without having to bake them in at the time of rendering. This powerful tool allows you to enhance your 3D renders with professional color grading capabilities while maintaining flexibility in your workflow.
 
@@ -39,19 +44,18 @@ If the script isn't working:
 - In Preferences > General panel, check "Allow Scripts to Write Files and Access Network"
 - Verify script compatibility with your AE version (rarely an issue)
 
+<!-- The Last Part-Download -->
 ## Download Options
 
-[Download Win V1.1 Version](https://pan.baidu.com/s/1Eg1XcmTbWkBrweL1OH6FOQ?pwd=5fru)
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-**Extraction Password: 5fru**
-
-[Download Win V1.0 Version](https://pan.baidu.com/s/16LHwbvfxye6r5_uQlQB8UQ?pwd=ncqo)
-
-**Extraction Password: ncqo**
-
-[Download Mac V1.0 Version](https://pan.baidu.com/s/1-BNOYq9m1OSCyqnSqqTKQA?pwd=ucfh)
-
-**Extraction Password: ucfh**
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Quick ToneMapper V1.1 Win** | [Download](https://pan.baidu.com/s/1Eg1XcmTbWkBrweL1OH6FOQ?pwd=5fru) | `5fru`   |
+| **Quick ToneMapper V1.0 Win** | [Download](https://pan.baidu.com/s/16LHwbvfxye6r5_uQlQB8UQ?pwd=ncqo) | `ncqo`   |
+| **Quick ToneMapper V1.0 Mac** | [Download](https://pan.baidu.com/s/1-BNOYq9m1OSCyqnSqqTKQA?pwd=ucfh) | `ucfh`   |
 
 ## Who Should Use Quick ToneMapper?
 

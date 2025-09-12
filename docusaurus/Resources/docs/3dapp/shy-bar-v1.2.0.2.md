@@ -4,7 +4,8 @@ description: "Shy Bar v1.2.0.2 is a powerful script for After Effects that allow
 keywords: ["After Effects", "Shy Bar", "AE script", "layer management", "timeline control", "composition tools", "workflow enhancement"]
 slug: /shy-bar-v1-2-0-2
 ---
-<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
+
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
 # Shy Bar v1.2.0.2 - Layer Selection Script for After Effects
@@ -13,16 +14,10 @@ slug: /shy-bar-v1-2-0-2
 ![Shy Bar v1.2.0.2](https://www.gfxcamp.com/wp-content/uploads/2025/08/Shy-Bar.jpg)
 
 :::tip[info]
-**Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1TeRskGRirGWMuJ1N51pflw?pwd=2tts)**
-
-Extraction code: 2tts
-
-## Overview
-
-**Shy Bar v1.2.0.2** is an innovative script for Adobe After Effects that unleashes the full potential of your motion graphics workflow. This powerful tool empowers you to take command of your timeline and composition like never before, offering a comprehensive suite of features designed to elevate your workflow and declutter your timeline.
+Shy Bar v1.2.0.2 is an innovative script for Adobe After Effects that unleashes the full potential of your motion graphics workflow. This powerful tool empowers you to take command of your timeline and composition like never before, offering a comprehensive suite of features designed to elevate your workflow and declutter your timeline.
+:::
 
 With Shy Bar, you can selectively display, hide, and select specific layers in After Effects through multiple methods, making it easier than ever to manage complex projects with numerous layers. Whether you're a motion graphics designer, video editor, or visual effects artist, this script streamlines your workflow by eliminating the need for manual layer management.
-:::
 
 ## Key Features
 
@@ -44,9 +39,18 @@ With Shy Bar, you can selectively display, hide, and select specific layers in A
 
 ## Installation Instructions
 
-1. Copy the jsxbin file to: Support Files\Scripts\ScriptUI Panels
-2. Restart After Effects
-3. Access the script through the Window menu in After Effects
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="installation" label="Installation Steps" default>
+    <ol>
+      <li>Copy the jsxbin file to: Support Files\Scripts\ScriptUI Panels</li>
+      <li>Restart After Effects</li>
+      <li>Access the script through the Window menu in After Effects</li>
+    </ol>
+  </TabItem>
+</Tabs>
 
 ## Troubleshooting
 
@@ -137,3 +141,27 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Shy Bar v1.2.0.2**       | [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1TeRskGRirGWMuJ1N51pflw?pwd=2tts) | `2tts`   |
+
+<!-- Generate new SEO-optimized tags based on content for this part,Ensure tags align with Google's E-E-A-T principles  -->
+## Tags
+
+- After Effects
+- Shy Bar
+- AE Script
+- Layer Management
+- Timeline Control
+- Composition Tools
+- Workflow Enhancement
+- Motion Graphics
+- Video Editing
+- Visual Effects
+- ScriptUI Panel
+- Animation Workflow
+- Layer Selection
+- Timeline Organization
+- AE Plugin
+- After Effects Tools
+- Creative Workflow
+- Design Tools
+- Animation Software
+- Graphic Design

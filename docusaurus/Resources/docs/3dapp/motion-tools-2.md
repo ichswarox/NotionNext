@@ -3,13 +3,19 @@ title: Motion Tools Pro 2025 V2.0.11 - AE Script for Keyframe Curve Adjustment, 
 sidebar_position: 5
 description: Motion Tools Pro is an After Effects script developed by Motion Design School for adjusting keyframe curves, aligning center points, and generating elastic animations.
 keywords: [motion tools, after effects, ae script, keyframe curve, center point alignment, elastic animation, motion design school]
+slug: /motion-tools-2025
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # Motion Tools Pro 2025 V2.0.11 - AE Script for Keyframe Curve Adjustment, Center Point Alignment, and Elastic Animation
 
+<!--Second Part-This is First Banner -->
 ![Motion Tools Pro for After Effects](https://www.gfxcamp.com/wp-content/uploads/2025/05/Motion-Tools-Pro.jpg)
 
+:::tip[info]
 Motion Tools Pro is an After Effects script developed by Motion Design School. It allows users to adjust keyframe curves, align center points, and generate elastic animations, enhancing the animation workflow in After Effects.
+:::
 
 ## Key Features
 
@@ -35,14 +41,13 @@ Motion Tools Pro is an After Effects script developed by Motion Design School. I
 
 ## Download Links
 
-Download Motion Tools Pro V2.0.11:
-[Download Motion Tools Pro V2.0.11](https://pan.baidu.com/s/14Hrk04OCc0iT_oJ_RY1FCg?pwd=4gp7) (Password: 4gp7)
-
-Download Motion Tools Pro V2.0.8:
-[Download Motion Tools Pro V2.0.8](https://pan.baidu.com/s/15BTglRMTETskIxHK2GToGQ?pwd=qfvx) (Password: qfvx)
-
-Download Motion Tools:
-[Download Motion Tools](https://pan.baidu.com/s/1-e5oaNNSsTgC_u09JUME5Q) (Password: 5kku)
+:::warning[Download]
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Motion Tools Pro V2.0.11** | [Download](https://pan.baidu.com/s/14Hrk04OCc0iT_oJ_RY1FCg?pwd=4gp7)        | `4gp7`   |
+| **Motion Tools Pro V2.0.8**  | [Download](https://pan.baidu.com/s/15BTglRMTETskIxHK2GToGQ?pwd=qfvx)        | `qfvx`   |
+| **Motion Tools**             | [Download](https://pan.baidu.com/s/1-e5oaNNSsTgC_u09JUME5Q)                 | `5kku`   |
+:::
 
 ---
 

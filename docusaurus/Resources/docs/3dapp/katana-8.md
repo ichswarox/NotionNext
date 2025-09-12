@@ -4,12 +4,17 @@ description: "The Foundry Katana 8.0v4 is a professional lighting and look devel
 keywords: ["Katana", "The Foundry", "lighting software", "look development", "VFX", "3D rendering", "visual effects", "animation software"]
 slug: /katana-8
 ---
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+<!--First Part-This is Title -->
 # The Foundry Katana 8.0v4 - Professional Lighting and Look Development Software
 
+<!--Second Part-This is First Banner -->
 ![The Foundry Katana 8.0v4 - Professional Lighting and Look Development Software](https://www.gfxcamp.com/wp-content/uploads/2025/03/The-Foundry-Katana-8.jpg)
 
+:::tip[info]
 **Download The Foundry Katana 8.0v4** - Professional lighting and look development software for visual effects
+:::
 
 KATANA is a look development and lighting tool that replaces traditional CG workflows with a flexible asset-based approach. KATANA is built from the ground up for modern production needs. Its node-based architecture allows for rapid completion of complex shots while maintaining user control and reducing development costs. The extensive API means it can integrate with many rendering engines and existing lighting libraries and workflow tools. Its scalable features mean it can accommodate even the most demanding CG and visual effects films.
 
@@ -58,7 +63,7 @@ KATANA is a look development and lighting tool that replaces traditional CG work
    - If you specified a particular port, enter: specified_port@127.0.0.1
 
 ## Download Options
-
+:::warning[Download]
 [Download Katana 8.0V4](https://pan.baidu.com/s/1QpYJX1-uM-dhppXSvQ9oUQ?pwd=8tpb)
 
 **Password**: 8tpb
@@ -66,6 +71,7 @@ KATANA is a look development and lighting tool that replaces traditional CG work
 [Download Katana 8.0V3](https://pan.baidu.com/s/1HMkkFLjgnMpY8YUUGI4hWQ?pwd=2k9w)
 
 **Password**: 2k9w
+:::
 
 ## Why Choose The Foundry Katana 8.0v4?
 
