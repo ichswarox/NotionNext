@@ -39,8 +39,7 @@ This course provides comprehensive instruction on creating high-quality visual s
 - Complete workflow from modeling to final render
 
 ## Download
-
-Please [Chat For Details](https://wa.me/8613237610083)
+[Chat For Details](https://wa.me/8613237610083)
 
 ## Tags
 

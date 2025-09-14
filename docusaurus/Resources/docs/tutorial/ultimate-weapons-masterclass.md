@@ -33,12 +33,8 @@ This tutorial teaches the workflow for creating high-end AAA game weapon assets,
 - **Language/Subtitles**: English audio with AI-translated Chinese/English subtitles
 - **Size**: 24GB
 
-[Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=975709858353)
-
-:::warning[Download]
-[Click here to view purchase instructions](https://www.gfxcamp.com/how-to-download/)
-(Alipay/WeChat supported, download link visible after purchase)
-:::
+## Download
+[Chat For Details](https://wa.me/8613237610083)
 
 ## Official Sources
 

@@ -78,13 +78,9 @@ This is the official full version with no watermarks or black spots. It includes
 - Tutorials: Installation steps + official video tutorial (Chinese subtitles)
 - Music: Does not include background music
 
-## Download Links
+## Download
+[Chat For Details](https://wa.me/8613237610083)
 
-:::warning[Download]
-[Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=754705295716)
-:::
-
-[Direct Purchase: 20 RMB](javascript:void(0);)
 
 ## Tags
 

@@ -37,13 +37,8 @@ The plugin features scatter distribution controls for precise placement and can 
 - Optimized for Cycles renderer
 - Comprehensive asset library
 
-## Download Links
-
-:::warning[Download]
-[Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=976378161258)
-:::
-
-[Direct Purchase: 20 RMB](javascript:void(0);)
+## Download
+[Chat For Details](https://wa.me/8613237610083)
 
 ## Tags
 

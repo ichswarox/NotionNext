@@ -40,8 +40,6 @@ The plugin also allows you to organize and use your own HDRI files.
 [Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=975175963449)
 :::
 
-[Direct Purchase: 20 RMB](javascript:void(0);)
-
 ## Tags
 
 - Blender
