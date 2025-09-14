@@ -33,13 +33,3 @@ Hingegenious is a powerful digital tool that lets you generate fully parametric 
 Download Hingegenious:
 [Download Hingegenious](https://pan.baidu.com/s/1fmGoc18iHoNTvXv_zi24Bg?pwd=hq9e) (Password: hq9e)
 :::
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores. Please be cautious to avoid being scammed.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-**Note**: All GFXCamp articles, please cite with the original link!

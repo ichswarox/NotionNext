@@ -43,14 +43,6 @@ Click on the link to go to the download page. The extraction password is provide
 |---|---|---|
 | **Manga Style Animation** | [Download](https://pan.baidu.com/s/1LcFEoW-ZsG2CvtJ_g63gOg?pwd=j88g) | `j88g` |
 
----
-
-**Official GFXCamp Website:** [https://www.gfxcamp.com/](https://www.gfxcamp.com/)  
-**Official Taobao Store:** [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)  
-**Weibo:** [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)  
-
-> Note: There are many counterfeit websites and Taobao stores. Please be cautious to avoid being deceived.
-
 ## About This Grease Pencil Tutorial
 
 This comprehensive tutorial focuses on using Blender's Grease Pencil tool to create animations with a distinct manga aesthetic. Grease Pencil is Blender's powerful 2D animation tool that allows artists to draw directly in a 3D space, combining the expressiveness of 2D illustration with the depth and perspective of 3D environments.

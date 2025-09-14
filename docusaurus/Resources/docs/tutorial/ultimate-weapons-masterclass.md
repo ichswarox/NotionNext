@@ -36,17 +36,6 @@ This tutorial teaches the workflow for creating high-end AAA game weapon assets,
 ## Download
 [Chat For Details](https://wa.me/8613237610083)
 
-## Official Sources
-
-- Official Website: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-- Official Taobao Store: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-**Warning**: There are many counterfeit websites and Taobao stores. Beware of scams.
-
-- Sina Weibo: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-[GFXCamp articles, please cite with original link!](https://www.gfxcamp.com)
-
 ## Tags
 
 - 3ds MAX

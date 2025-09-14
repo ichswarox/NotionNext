@@ -36,15 +36,3 @@ Download Cinematic Compositor Addon V2.0:
 
 Download Cinematic Compositor Addon V1.4:
 [Download Cinematic Compositor Addon V1.4](https://pan.baidu.com/s/1N2O_Tw8Ugyl0DG2wIq6siw?pwd=yk7m) (Password: yk7m)
-
----
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores. Please be cautious to avoid being scammed.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-**Note**: All GFXCamp articles, please cite with the original link!

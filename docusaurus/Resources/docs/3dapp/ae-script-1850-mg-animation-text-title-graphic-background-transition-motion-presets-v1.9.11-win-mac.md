@@ -77,31 +77,11 @@ The intuitive interface makes it accessible for both beginners learning motion g
 5. Double-click any preset to apply it directly to your composition
 6. Customize colors, timing, and other parameters as needed
 
-## Download Links
-
-:::warning[Download]
-Click on the link to go to the download page.
-:::
-
-| Purchase Option | Download Link | Price |
-|---|---|---|
-| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=563670151685) | - |
-| **Direct Purchase** | [Click to Purchase](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2F1850-mg%2F) | 20 RMB |
+## Download
+[Chat For Details](https://wa.me/8613237610083)
 
 ## Conclusion
 
 The **AE Script - 1850+ MG Animation Text Title Graphic Background Transition Motion Presets** represents exceptional value for motion graphics designers and video editors. With its extensive library of professionally crafted animation elements, seamless integration with After Effects, and affordable price point, this toolkit is an indispensable asset for anyone serious about motion graphics production.
 
 Whether you're a freelancer, content creator, or part of a production studio, this script will significantly enhance your animation capabilities while reducing production time and effort.
-
----
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores, all of which are counterfeit. Please be cautious to avoid being deceived.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-[GFXCamp articles, please indicate the source and include the original link!](https://www.gfxcamp.com)

@@ -84,14 +84,5 @@ The **AE Script - 3333 Distortion Perspective Rotation Impact Camera Video Seaml
 
 Whether you're a content creator, video editor, or part of a production team, this script will significantly enhance your editing capabilities while reducing production time and effort.
 
----
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores, all of which are counterfeit. Please be cautious to avoid being deceived.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-[GFXCamp articles, please indicate the source and include the original link!](https://www.gfxcamp.com)
+## Download
+[Chat For Details](https://wa.me/8613237610083)

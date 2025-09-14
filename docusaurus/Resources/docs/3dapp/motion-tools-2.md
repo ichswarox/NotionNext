@@ -48,15 +48,3 @@ Motion Tools Pro is an After Effects script developed by Motion Design School. I
 | **Motion Tools Pro V2.0.8**  | [Download](https://pan.baidu.com/s/15BTglRMTETskIxHK2GToGQ?pwd=qfvx)        | `qfvx`   |
 | **Motion Tools**             | [Download](https://pan.baidu.com/s/1-e5oaNNSsTgC_u09JUME5Q)                 | `5kku`   |
 :::
-
----
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores. Please be cautious to avoid being scammed.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-**Note**: All GFXCamp articles, please cite with the original link!

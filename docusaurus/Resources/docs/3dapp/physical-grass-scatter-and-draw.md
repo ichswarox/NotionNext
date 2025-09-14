@@ -35,14 +35,6 @@ Physical Grass Scatter And Draw is a powerful Blender addon that creates realist
 **Extraction Code: w3ra**
 :::
 
----
-
-**Official GFXCamp Website:** [https://www.gfxcamp.com/](https://www.gfxcamp.com/)  
-**Official Taobao Store:** [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)  
-**Weibo:** [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)  
-
-> Note: There are many counterfeit websites and Taobao stores. Please be cautious to avoid being deceived.
-
 ## About Physical Grass Scatter And Draw for Blender
 
 Physical Grass Scatter And Draw is a specialized addon that transforms the way artists create natural environments in Blender. This powerful tool enables users to quickly generate grass scattering effects that simulate realistic physical dynamics, bringing life and movement to 3D landscapes.

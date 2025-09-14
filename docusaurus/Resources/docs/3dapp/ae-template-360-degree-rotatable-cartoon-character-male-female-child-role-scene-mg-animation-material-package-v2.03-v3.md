@@ -99,15 +99,3 @@ Suitable for various projects including:
 The **AE Template: 360-Degree Rotatable Cartoon Character Male Female Child Role Scene MG Animation Material Package** represents exceptional value for motion graphics designers and video editors. With its extensive library of professionally crafted cartoon characters, seamless integration with After Effects, and affordable price point, this template is an indispensable asset for anyone serious about character animation production.
 
 Whether you're a freelancer, content creator, or part of a production studio, this template will significantly enhance your animation capabilities while reducing production time and effort.
-
----
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores, all of which are counterfeit. Please be cautious to avoid being deceived.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-[GFXCamp articles, please indicate the source and include the original link!](https://www.gfxcamp.com)

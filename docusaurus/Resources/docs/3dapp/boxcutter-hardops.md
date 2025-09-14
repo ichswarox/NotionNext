@@ -55,15 +55,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File | Download Link | Password |
 |---|---|---|
 | **BoxCutter + HardOps** | [Download](https://pan.baidu.com/s/1hy7NfmhoBhPzOa0TKeTE6Q?pwd=3pb8) | `3pb8` |
-
----
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores. Please be cautious to avoid being scammed.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-**Note**: All GFXCamp articles, please cite with the original link!

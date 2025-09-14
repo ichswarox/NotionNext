@@ -28,13 +28,8 @@ This comprehensive tutorial teaches you how to build realistic scenes using high
 - **Language**: Korean audio with AI-translated Chinese/Korean subtitles
 - **Size**: 5.58GB
 
-## Download Links
-
-:::warning[Download]
-[Click to Purchase on Taobao](https://item.taobao.com/item.htm?id=975188763116)
-:::
-
-[Direct Purchase: 20 RMB](javascript:void(0);)
+## Download
+[Chat For Details](https://wa.me/8613237610083)
 
 ## Tags
 

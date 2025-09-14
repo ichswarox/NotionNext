@@ -64,13 +64,6 @@ Click on the link to go to the download page. The extraction password is provide
 | **V2.46** | [Download](https://pan.baidu.com/s/1RSF8PyY3ook67Q8IurMa9g?pwd=pbea) | `pbea` |
 | **V2.30** | [Download](https://pan.baidu.com/s/1U97pZd50_WUewWZ5BuHS0A) | `wnkt` |
 
----
-
-**Official GFXCamp Website:** [https://www.gfxcamp.com/](https://www.gfxcamp.com/)  
-**Official Taobao Store:** [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)  
-**Weibo:** [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)  
-
-> Note: There are many counterfeit websites and Taobao stores. Please be cautious to avoid being deceived.
 
 ## About Hair Tool for Blender
 

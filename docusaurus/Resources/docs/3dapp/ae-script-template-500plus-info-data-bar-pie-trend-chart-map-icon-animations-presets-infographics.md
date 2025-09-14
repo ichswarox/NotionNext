@@ -87,15 +87,3 @@ Controlled via the intuitive Motion Factory script, even beginners can quickly m
 The **AE Script Template: 500+ Info Data Bar Pie Trend Chart Map ICON Animations Presets** represents exceptional value for motion graphics designers and video editors. With its extensive library of professionally crafted infographic elements, seamless integration with After Effects, and affordable price point, this toolkit is an indispensable asset for anyone serious about data visualization and information graphics production.
 
 Whether you're a freelancer, content creator, or part of a production studio, this script will significantly enhance your infographic capabilities while reducing production time and effort.
-
----
-
-**Official GFXCamp Website**: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-
-**Official GFXCamp Taobao Store**: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-
-There are many fake websites and Taobao stores, all of which are counterfeit. Please be cautious to avoid being deceived.
-
-**Sina Weibo**: [http://weibo.com/gfxcamp](http://weibo.com/gfxcamp)
-
-[GFXCamp articles, please indicate the source and include the original link!](https://www.gfxcamp.com)
