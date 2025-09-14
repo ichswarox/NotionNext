@@ -81,10 +81,9 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
+            to: '/category/3dapp',
             label: '3DApp',
+            position: 'left',
           },
           {
             to: '/category/tutorial',
