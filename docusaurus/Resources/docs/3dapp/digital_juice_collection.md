@@ -22,7 +22,7 @@ Digital Juice is a premium collection of video production assets that includes m
 
 ## Asset Collections
 
-Click on the links below to access specific blog posts:
+Access specific resources in the collection:
 
 - Digital Juice Film Score Layered Music Complete Collection Vol.1-50 Stack Traxx Complete Vol.1-50
 - [Visual Effects Background Library 1] [Digital Juice – Compositor's Toolkit 1 Visual FX Library]
