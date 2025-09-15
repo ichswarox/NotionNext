@@ -15,3 +15,6 @@
     /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Docs/docs/new/
 
     操作完成后把文档移动到/Users/Apple/Documents/GitHub/NotionNext/docusaurus/Docs/docs对应的目录 思考一下 你上次移动错了
+
+
+    

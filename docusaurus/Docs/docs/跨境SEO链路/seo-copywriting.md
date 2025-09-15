@@ -1,5 +1,5 @@
 ---
-title: "跨境电商SEO：为什么内容是跨境站点的核心"
+title: "跨境站点提升内容的12条核心"
 description: "学习如何通过优化产品页面、分类页面和博客文章，提升跨境电商网站的内容质量，在谷歌上获得更高排名，吸引并转化全球优质客户。"
 keywords: ["跨境电商SEO", "电商内容营销", "谷歌排名", "SEO优化", "产品文案技巧"]
 slug: /ecommerce-seo-copywriting-tips
@@ -7,7 +7,7 @@ slug: /ecommerce-seo-copywriting-tips
 
 # 跨境电商SEO：提升内容质量和谷歌排名的12条实用技巧
 
-![跨境电商SEO：提升内容质量和谷歌排名的12条实用技巧](https://ahrefs.com/blog/zh/wp-content/uploads/2020/06/blog-seo-copywriting-400x200-1-400x200.png)
+![跨境电商SEO：提升内容质量和谷歌排名的12条实用技巧](/img/SEO-Quality.jpg)
 
 ## 什么是跨境电商SEO文案？
 

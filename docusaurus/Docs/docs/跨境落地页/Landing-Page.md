@@ -5,7 +5,7 @@ keywords: ["电商漏斗", "Shopify转化", "落地页优化", "付费媒体", "
 slug: /ecommerce-high-converting-funnels
 ---
 <!-- Title Line-->
-# Ecom Landers | 构建高转化率的销售漏斗
+# 跨境全链路 | 构建高转化率的销售漏斗
 
 <!-- First Quote use as a part to Guide and attract readers -->
 :::tip[你是不是也想这样？]
