@@ -90,6 +90,7 @@ const config = {
             label: 'Tutorial',
             position: 'left',
           },
+          },
           {
             href: 'https://github.com/',
             label: 'GitHub',

@@ -28,3 +28,14 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* src/css/custom.css */
+
+/* 講師介紹的圓形頭像樣式 */
+.instructor-profile-pic {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 180px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
