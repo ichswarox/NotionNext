@@ -90,6 +90,10 @@ const config = {
             label: 'Tutorial',
             position: 'left',
           },
+          {
+            to: '/category/gallery',
+            label: 'Gallery',
+            position: 'left',
           },
           {
             href: 'https://github.com/',
