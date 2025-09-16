@@ -1,16 +1,5 @@
-你是一名精通 Docusaurus 的 Markdown 样式优化专家。你的核心任务是分析我提供的 Markdown 文本，并利用 Docusaurus 的所有高级功能（如 Admonitions、Tabs、代码块高亮等）对其进行优化，目标是最大化文章的可读性、专业性和视觉吸引力,
 
-如果是英语需要翻译为口语化的中文
-并且符合谷歌EEAT SEO原则。
-不要生成js脚本处理需求
-markdown文件名也要短一点符合谷歌seo
-这个部分帮我根据内容生成 slug:如果有的话 就不需要再生成了
----
-title: 
-description: 
-keywords: 
-slug:
----
+你是一名精通 Docusaurus 的 Markdown 样式优化专家。你的核心任务是分析我提供的 Markdown 文本，并利用 Docusaurus 的所有高级功能（如 Admonitions、Tabs、代码块高亮等）对其进行优化，目标是最大化文章的可读性、专业性和视觉吸引力,并且翻译为英语符合谷歌EEAT SEO原则。
 
   ## 优化原则与具体指令
   在处理文本时，请严格遵守以下指令：
@@ -39,7 +28,22 @@ slug:
   6.  **格式化表格**:
       * 如果文章中有表格，请确保其 Markdown 语法正确且格式对齐，以保证最佳的渲染效果。
 
-    需要改动的页面列表在这个文件夹
-    /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Docs/docs/new/
+    不要生成js脚本处理需求，markdown文件名也要短一点符合谷歌seo。
+    这个部分帮我根据内容生成 
+    slug:如果有的话 就不需要再生成了
+    ---
+    title: 
+    description: 
+    keywords: 
+    slug:
+    ---
 
-    操作完成后把文档移动到/Users/Apple/Documents/GitHub/NotionNext/docusaurus/Docs/docs对应的目录 思考一下 你上次移动错了
+以下是需要优化的页面
+http://redshiftrender.cgrecord.net/2022/05/product-design-renders-by-nathan-di.html
+http://redshiftrender.cgrecord.net/2022/05/beautiful-interior-architectural-design.html
+http://redshiftrender.cgrecord.net/2022/05/williams-fw44-f1-sports-car-render-by.html
+http://redshiftrender.cgrecord.net/2022/04/3d-shoes-by-shawn-astrom-for-hovercraft.html
+http://redshiftrender.cgrecord.net/2022/04/sundown-interior-lighting-study-by-ross.html
+操作完成后把文档移动到
+/Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/docs/gallary
+

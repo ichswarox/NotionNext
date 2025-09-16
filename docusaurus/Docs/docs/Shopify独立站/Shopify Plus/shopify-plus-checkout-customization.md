@@ -5,21 +5,15 @@ keywords: ["Shopify Plus", "Checkout Blocks", "结账页定制", "订单状态�
 slug: /shopify-plus-checkout-customization
 ---
 
-# 最新 Shopify Plus 店铺免费定制 Checkout 结账页和订单状态页
-
-[Shopify Plus](https://shopify2006.com/tag/shopify-plus/)
-
 ## 最新 Shopify Plus 店铺免费定制 Checkout 结账页和订单状态页
 
 更新于 2025-07-11
-
-[通过 Bilibili 观看本期 Shopify 教程](https://www.bilibili.com/video/BV1D4421Z7Y7/?share_source=copy_web)[通过 Youtube 观看本期 Shopify 教程](https://youtu.be/L1qnPAjgZU8?feature=shared)
 
 Checkout Blocks 是一个专门用于 Shopify Plus 店铺自定义结账页面的 Shopify App，同时它的功能也可以用在 Thank you 页面和 Order Status 页面。
 
 提示：当客户完成支付的时候会看到 Thank you 页面，当客户后续重新访问的时候会展示 Order Status 页面（见下方截图）。
 
-在去年（2023 年）的 [黑五网一大促](https://shopify2006.com/preparing-for-black-friday-and-cyber-monday-on-shopify-store/) 期间，Checkout Blocks 成为了热度排名前三的 App，而就在上个月，Shopify 收购了 Checkout Blocks，使得它从第三方 App 变成了官方 App：
+在去年（2023 年）的 黑五网一大促 期间，Checkout Blocks 成为了热度排名前三的 App，而就在上个月，Shopify 收购了 Checkout Blocks，使得它从第三方 App 变成了官方 App：
 
 ![Checkout Blocks Twitter](https://shopify2006.com/content/images/2024/07/Checkout-Blocks-Twitter.webp)
 
@@ -56,7 +50,3 @@ Checkout Blocks 是一个专门用于 Shopify Plus 店铺自定义结账页面�
 此链接仅用于在浏览器中快速体验功能，跟实际安装之后的效果还是不一样的，如果你们店铺已经是 Shopify Plus，可以安装这个 App 免费体验一下。
 
 相信被 Shopify 官方收购之后，后续应该会进一步优化和添加更多功能。
-
-如果你们公司想了解和升级到 Shopify Plus，可查看这篇文稿之后跟我联系：
-
-[Shopify Plus 是什么？有什么优势和功能？中国商家如何快速升级到 Plus？](https://shopify2006.com/what-is-shopify-plus-store/)

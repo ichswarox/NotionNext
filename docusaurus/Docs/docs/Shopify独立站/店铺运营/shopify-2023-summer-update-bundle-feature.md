@@ -7,11 +7,6 @@ slug: /shopify-2023-summer-update-bundle-feature
 
 # 第 176 期 Shopify 2023 夏季更新值得中小卖家关注的点 组合购买 Bundle 功能
 
-[Shopify 店铺运营](https://shopify2006.com/tag/shopify-dian-pu-yun-ying/)
-
-更新于 2024-12-02
-
-[通过 YouTube 观看本期 Shopify 教程](https://youtu.be/Qibbx-Nt6cA)
 
 ## Bundle 功能
 

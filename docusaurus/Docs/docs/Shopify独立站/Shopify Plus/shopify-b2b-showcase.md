@@ -5,17 +5,7 @@ keywords: ["Shopify", "B2B", "展示站", "优势", "案例"]
 slug: /shopify-b2b-showcase
 ---
 
-# Shopify 做 B2B 站优势列举及多个案例展示
-
-[Shopify Plus](https://shopify2006.com/tag/shopify-plus/)
-
 ## Shopify 做 B2B 站优势列举及多个案例展示
-
-Shopify 适合用来做 B2B 展示站吗？优势列举及多个网站案例展示
-
-更新于 2024-12-02
-
-[通过 YouTube 观看本期 Shopify 教程](https://youtu.be/v4K3BxKF3Ns?feature=shared)
 
 ## 优势
 
@@ -53,7 +43,3 @@ Shopify 适合用来做 B2B 展示站吗？优势列举及多个网站案例展�
 [汽车工具、电动工具](https://www.mactools.com/)
 
 ---
-
-![](https://shopify2006.com/assets/built/shopify2006.ico?v=2ea66c62ff)
-
-![](https://shopify2006.com/assets/built/shopify2006.ico?v=1283176712)

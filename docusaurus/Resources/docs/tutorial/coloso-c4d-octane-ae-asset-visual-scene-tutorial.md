@@ -2,7 +2,7 @@
 title: Coloso C4D+Octane+AE High-Quality Asset Visual Dynamic Scene Rendering Compositing Tutorial
 description: Comprehensive tutorial on creating high-quality visual scenes using assets in C4D with Octane Render and After Effects compositing. 5 case studies included with Chinese/Korean subtitles.
 keywords: [c4d tutorial, octane render tutorial, after effects tutorial, motion graphics tutorial, 3d rendering, visual effects, compositing tutorial, scene design, asset usage, 3d animation]
-slug: /coloso-c4d-octane-ae-high-quality-asset-visual-scene-tutorial
+slug: /coloso-c4d-octane-ae-asset-visual-scene-tutorial
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 

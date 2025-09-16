@@ -40,7 +40,7 @@
 
 以下是需要优化的页面
 /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new
-保存到这个目录
-/Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/docs/3dapp
+操作完成后把文档移动到
+/Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/docs/3dapp 对应的目录 思考一下 你上次移动错了
 
 

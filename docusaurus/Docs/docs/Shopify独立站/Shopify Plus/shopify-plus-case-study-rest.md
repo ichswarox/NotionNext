@@ -5,17 +5,8 @@ keywords: ["Shopify Plus", "案例", "家居品牌", "Rest"]
 slug: /shopify-plus-case-study-rest
 ---
 
-# 第 224 期 Shopify Plus 案例之家居品牌网站 Rest
-
-[Shopify Plus](https://shopify2006.com/tag/shopify-plus/)
-
 ## 第 224 期 Shopify Plus 案例之家居品牌网站 Rest
 
-更新于 2025-07-11
-
-[通过 YouTube 观看本期 Shopify 教程](https://youtu.be/IEsaQXDGaoY?feature=shared)
-
-[点击观看 带字幕 视频（新的剪辑风格）](https://www.bilibili.com/video/BV18y2mY3Ev5/?share_source=copy_web)
 
 ## 品牌背景
 
@@ -60,15 +51,3 @@ Builtwith
 -   自然搜索流量占比偏低，可能 rest 这个词有点宽泛。
 
 ![traffic-source-of-rest](https://shopify2006.com/content/images/2024/10/traffic-source-of-rest.webp)
-
-## 相关内容
-
-![](https://shopify2006.com/assets/built/shopify2006.ico?v=b6d64c8b0d)
-
-![](https://shopify2006.com/assets/built/shopify2006.ico?v=b6d64c8b0d)
-
-![](https://shopify2006.com/assets/built/shopify2006.ico?v=b6d64c8b0d)
-
-[聊聊 Shopify 店铺视频自动播放和循环播放如何分别设置](https://shopify2006.com/shopify-video-autoplay-and-loop/)
-
-![](https://shopify2006.com/assets/built/shopify2006.ico?v=b6d64c8b0d)

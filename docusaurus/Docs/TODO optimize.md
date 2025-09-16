@@ -33,4 +33,3 @@
   3.  然后，在文本下方附上一个“**优化说明**”部分，用列表的形式逐条解释你做了哪些具体的修改以及为什么这样做。这能帮助我学习并理解 Docusaurus 的最佳实践。
    
 以下是需要优化的页面
-@/Users/Apple/Documents/GitHub/NotionNext/docusaurus/Docs/docs/跨境Ai链路/Ai-image-editing.md

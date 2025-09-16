@@ -5,15 +5,9 @@ keywords: ["Shopify", "结账页", "感谢页面", "订单状态页面", "个性
 slug: /shopify-checkout-thankyou-order-status-customization
 ---
 
-# Shopify 结账页 + 付款后感谢页面 + 订单状态页面 三大页面免费个性化定制方法
-
-[Shopify Plus](https://shopify2006.com/tag/shopify-plus/)
-
 ## Shopify 结账页 + 付款后感谢页面 + 订单状态页面 三大页面免费个性化定制方法
 
 更新于 2025-07-16
-
-[通过 Bilibili 观看本期 Shopify 教程](https://www.bilibili.com/video/BV1e8u8z2Ewd/?share_source=copy_web)[通过 Youtube 观看本期 Shopify 教程](https://youtu.be/M6pBTLJLDos?feature=shared)
 
 点击按钮访问 Shopify Plus 演示站之后，加购任意商品发起结账即可看到修改后的结账页效果：
 
@@ -44,8 +38,6 @@ Shopify 三大订单相关页面包括：结账页、感谢页面、订单状态
 -   对付款方式进行排序、重命名、或者根据特定条件隐藏
 
 但是这上面的功能需要 Shopify Plus 套餐的网站才可以使用，之前已经发布过相关的教程：
-
-![](https://shopify2006.com/content/images/icon/shopify2006-26.svg)
 
 ### 感谢页 (Thank You Page)
 
@@ -86,11 +78,3 @@ Shopify 三大订单相关页面包括：结账页、感谢页面、订单状态
 我在去年发布的教程中已经介绍过了，Checkout Blocks 原本是一个 $99/月的付费 App，后来被 Shopify 官方收购之后推出了免费套餐，即使你的 Shopify 网站不是 Shopify Plus 套餐也仍然可以在感谢页面和订单状态页面使用它。
 
 而如果你的 Shopify 网站使用的是 Shopify Plus 套装或者后续升级到 Plus 套餐，使用它则可以获得更多强大的定制功能。
-
-![](https://shopify2006.com/content/images/icon/shopify2006-28.svg)
-
-值得留意的是这个 App 被收购之后，已经没有再维护我去年教程中展示的网站了，但仍然值得尝试，对于追求用户体验或者希望减少客诉的 Shopify 网站来说值得一试，毕竟免费，不需要编辑代码，也不用担心影响加载速度。
-
-## 增强版主题
-
-![](https://shopify2006.com/content/images/icon/shopify2006-19.ico)
