@@ -1,8 +1,8 @@
 ---
-title: "跨境电商-局部控图"
+title: "2025最新跨境电商-局部控图"
 description: "全方位跨境指南-Ai赋能, 利用Krita和ComfyUI，通过本地部署或云服务，实现精准控制的AI图像生成与编辑，优化电商视觉内容。"
 keywords: ["AI作图", "Krita", "ComfyUI", "跨境电商", "视觉优化"]
-slug: /temp
+slug: /ai-image-editing-workflow
 tags: [AI, 图像生成, Krita, ComfyUI, 教程]
 ---
 import Tabs from '@theme/Tabs';
@@ -35,9 +35,29 @@ import videoPoster from '/img/video.png';
 :::info[会员访问链接]
 [最强换脸！可换脸型！redux联动ace++](https://www.liblib.art/lib3?uuid=ab03812c23254badb6135d8d110caacf&modelInfo=e2c816e65ae04ba7a24aa264f027a1df)
 :::
-第一次点击请先**注册登录**，完成后，再回到该页点链接访问[Ai应用链接](https://www.liblib.art/lib3?uuid=ab03812c23254badb6135d8d110caacf&modelInfo=e2c816e65ae04ba7a24aa264f027a1df)
+**注意：** 首次使用请先**注册并登录**平台，然后回到本页面，重新点击上面的链接才能成功访问。
 
+---
 
+**第1步：上传背景图 (Base Image)**
+
+来到操作界面后，在 **“上传背景图”** 区域上传您的主图。这张图片是您希望模特出现的场景图或已有的产品图。
+
+![上传背景图片](/img/局部控图-jn.png)
+
+---
+
+**第2步：上传目标人物图 (Target Face)**
+
+在 **“上传目标人物图”** 区域上传一张包含您想替换上去的人脸的清晰图片。AI将提取这张图片中的人脸特征，并将其应用到背景图的模特上。
+
+![上传需要添加的人脸图](../../static/img/局部控图-nw.png)
+
+---
+
+**第3步：一键生成与优化**
+
+点击 **“一键生成”** 并耐心等待几秒钟。AI会自动完成人脸融合。如果对结果不满意，可以尝试调整目标人物图或微调参数（如果平台支持），然后再次生成。
 
 ## 关于讲师
 
