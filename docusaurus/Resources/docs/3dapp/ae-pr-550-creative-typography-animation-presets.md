@@ -66,13 +66,3 @@ If you experience any issues with installation or compatibility:
 3. In AE/PR preferences, enable "Allow Scripts to Write Files and Access Network"
 
 For additional support or troubleshooting, please contact our technical support team.
-
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page.
-:::
-
-| Purchase Option | Download Link |
-|---|---|
-| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=655236139504) |

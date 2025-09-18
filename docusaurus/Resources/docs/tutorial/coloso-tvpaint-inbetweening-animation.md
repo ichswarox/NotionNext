@@ -60,33 +60,3 @@ This course is designed for creators who want to master the core workflow of tra
 5. **Basic Character Animation**: Breakdown of blinking, lip-sync, walk cycles, and turning motions.
 6. **Efficiency Boosters**: Frame duplication, mirroring, and practical use of auto-tweening features.
 7. **Output & Review**: Playback preview, timing adjustment, and exporting as video or image sequences.
-
-:::caution Important Notice
-GFXCamp is the **sole authorized distributor** of this course in Mainland China. Beware of counterfeit resources online. Protect your learning rights by purchasing from official channels.
-
-- Official Website: [https://www.gfxcamp.com/](https://www.gfxcamp.com/)
-- Official Taobao Store: [https://gfxcampcg.taobao.com](https://gfxcampcg.taobao.com)
-:::
-
-## Download Options
-
-<Tabs>
-<TabItem value="Chat" label="Chat With US" default>
-
-[Chat For Details](https://wa.me/8613237610083)
-
-</TabItem>
-<TabItem value="direct" label="Quick Purchase">
-
-[Chat For Details](https://wa.me/8613237610083)
-
-(The download link will appear on the order page after purchase)
-
-</TabItem>
-</Tabs>
-
-:::note Purchase Instructions
-- The download link will be displayed on the order confirmation page after successful payment.
-- If the link is invalid, please contact customer service via Weibo [@gfxcamp](http://weibo.com/gfxcamp).
-- This is a digital product; no refunds are available after purchase.
-:::

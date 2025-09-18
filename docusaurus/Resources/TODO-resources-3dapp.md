@@ -2,7 +2,7 @@
 按照这个范例文件
     @docs/3dapp/\#template.md
     不要生成js脚本处理需求
-    markdown文件名也要短一点符合谷歌seo
+    markdown文件名也要短一点符合谷歌seo 而且要和slug一样
     只需要改动markdown样式 使其更易读 内容严格按照原文不需要增加内容(翻译为英语，符合谷歌seo)
     这个部分帮我根据内容生成 slug:如果有的话 就不需要再生成了
     ---
@@ -13,3 +13,4 @@
     ---
 需要修改的页面在这个文件夹
 /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new
+完成后把文件移动到根目录下的finished

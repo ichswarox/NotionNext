@@ -1,0 +1,79 @@
+---
+title: The VFX School - Bridge Collapse in Houdini
+description: Advanced Houdini destruction course where you'll learn to collapse a huge bridge. Covers geometry fracturing, metal deformation, constraints, RBD/Vellum/Pyro simulations, debris, dust and volumes.
+keywords: [houdini, vfx, destruction, bridge collapse, rbd simulation, vellum, pyro, houdini tutorial, visual effects, simulation]
+slug: /houdini-bridge-collapse-tutorial
+---
+
+<!-- Above is frontmatter Part - generated based on content to meet Google SEO requirements, balancing automation efficiency with Google's E-E-A-T principles -->
+
+# Bridge Collapse in Houdini - Advanced Destruction Tutorial
+
+![Houdini Bridge Collapse Tutorial](https://www.gfxcamp.com/wp-content/uploads/2025/09/The-VFX-School-Bridge-Collapse.jpg)
+
+:::tip[Course Overview]
+In this advanced Houdini destruction course, you'll learn to shake the earth and collapse a huge bridge. This comprehensive tutorial covers everything from geometry fracturing to complex simulations, teaching you the skills needed for realistic destruction effects.
+:::
+
+## Course Details
+
+- **Software Required**: Houdini
+- **Course Duration**: 9 hours
+- **Materials Included**: Project files included
+- **Subtitles**: No subtitles (English audio only)
+- **Format**: MKV, 1920×1080 resolution
+
+## What You'll Learn
+
+- Geometry setup and fracturing techniques
+- Metal deformation and bending
+- Constraint creation and control
+- RBD (Rigid Body Dynamics) simulations
+- Vellum cloth and soft body simulations
+- Pyro volumetric effects for fire and smoke
+- Debris generation and particle systems
+- Dust and volume rendering techniques
+
+## Download
+
+:::warning[Download Notice]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File | Download Link | Password |
+|------|---------------|----------|
+| **Bridge Collapse in Houdini** | [Download](https://pan.baidu.com/s/1f6kw9nTYpDEnARwynLx9BA?pwd=ufsr) | `ufsr` |
+
+## Related Courses
+
+- [Houdini Renascence Program](https://www.gfxcamp.com/houdini-renascence-program/)
+- [The VFX School - Bridge Collaspe](https://www.gfxcamp.com/the-vfx-school-bridge-collaspe/)
+- [The VFX School - Tabletop Food Simulation Vol 01](https://www.gfxcamp.com/the-vfx-school-tabletop-food-simulation/)
+- [Vertex School - Houdini FX & Redshift - On Demand](https://www.gfxcamp.com/houdini-fx-redshift-on-demand/)
+- [Aggregation Rigid Body Self Assembly](https://www.gfxcamp.com/aggregation-rigid-body-self-assembly/)
+- [MPC Academy in-house The Focus Houdini FX Tutorials](https://www.gfxcamp.com/mpc-academy-in-house-the-focus-houdini-fx-tutorials/)
+- [Learn to make Helicopter Dust in Houdini from Scratch](https://www.gfxcamp.com/learn-to-make-helicopter-dust-in-houdini-from-scratch/)
+- [Mastering Houdini Simulation: Custom Forces, Velocity Fields](https://www.gfxcamp.com/mastering-houdini-simulation-custom-forces-velocity-fields/)
+
+## Tags
+
+- Houdini
+- Houdini Tutorial
+- The VFX School
+- Bridge Collapse
+- VFX Tutorial
+- Destruction Effects
+- RBD Simulation
+- Vellum
+- Pyro
+- Visual Effects
+- 3D Animation
+- Digital Art
+- Creative Workflow
+- Simulation
+- Effects Creation
+- Professional VFX
+- Creative Tools
+- Advanced Techniques
+- Particle Systems
+- Volume Rendering

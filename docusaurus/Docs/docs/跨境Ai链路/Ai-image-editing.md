@@ -2,7 +2,7 @@
 title: "2024跨境电商-局部控图"
 description: "全方位跨境指南-Ai赋能, 利用Krita和ComfyUI，通过本地部署或云服务，实现精准控制的AI图像生成与编辑，优化电商视觉内容。"
 keywords: ["AI作图", "Krita", "ComfyUI", "跨境电商", "视觉优化"]
-slug: /ecommerce-ai-editing-2024
+slug: /ai-image-editing
 tags: [AI, 图像生成, Krita, ComfyUI, 教程]
 ---
 import Tabs from '@theme/Tabs';
@@ -96,7 +96,11 @@ ComfyUI 内核: v0.3.13
 2.  **切换版本**: 打开启动器后，点击侧边栏的 `版本管理`，勾选 `0.3.42`，然后点击 `切换` 并确认安装。
 3.  **安装模型文件**:
     *   下载 AI 模型文件并放置到 ComfyUI 的指定文件夹中。
-
+    *   支持SDXL SD1.5 Flux大模型生成，为了在本地运行，
+    *   推荐使用至少16GB VRAM (NVIDIA)的显卡，否则生成图像将花费很长时间，或者可能由于内存不足而失败！
+    *   -SD1.5 推荐8GB 质量低 
+    *   -SDXL 推荐12GB 质量中 可满足大部分需求 
+    *   -FLUX 推家16GB显存 质量高
     <Tabs>
     <TabItem value="sdxl" label="SDXL 模型 (推荐入门)">
     **大小:** 约 80GB

@@ -33,12 +33,4 @@ The V7 update brings significant improvements:
 - **Size**: 3.33GB.
 - **Tutorials**: Includes 14 video tutorials with Chinese subtitles.
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click the link below to access the download page.
-:::
 
-| Purchase Option | Download Link |
-|---|---|
-| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=555242029647) |

@@ -7,14 +7,6 @@ slug: /shopify-dmarc-spf-setup
 
 # 第 197 期 解决 Shopify 店铺域名 DMARC 设置问题以及如何添加 SPF 记录
 
-[Shopify 店铺运营](https://shopify2006.com/tag/shopify-dian-pu-yun-ying/)
-
-更新于 2024-12-02
-
-[通过 YouTube 观看本期 Shopify 教程](https://youtu.be/3QCUfrkd1Kc)
-
-这是春节之后的第一期教程，祝大家开工大吉，龙年行大运。
-
 ---
 
 大部分店铺都在春节前收到了 Shopify 的通知邮件
@@ -140,5 +132,3 @@ v=DMARC1; p=none; rua=mailto:mailauth-reports@qq.com
 [访问这个工具](https://www.ssleye.com/ssltool/dns_check.html)，输入域名，选择 TXT，点击按钮查询。等个半小时到一小时，基本就会生效了。
 
 ---
-
-![](https://shopify2006.com/assets/built/shopify2006.ico?v=08074ad452)

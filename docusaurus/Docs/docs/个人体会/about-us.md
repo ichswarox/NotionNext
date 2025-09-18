@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 ## 关于Neo
 
-![跨境全链路](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9591a903-24f8-4ceb-8867-45a29630d3da%2FUntitled.jpeg?table=block&id=e5c0384a-9a9e-4a82-971b-ba70ffb5e7e3&t=e5c0384a-9a9e-4a82-971b-ba70ffb5e7e3&width=144&cache=v2)
+![NeoXu](/img/neoxu.png)
 
 > 我是NeoXu，互联网从业者、行为金融学研究员。我喜欢敲代码，喜欢总结和复盘，研究新兴的技术如何赋能电商。
 
@@ -203,3 +203,11 @@ import TabItem from '@theme/TabItem';
 我不是商人，我是观察者、翻译者、连接者。
 
 用代码建桥梁，用金融解动机，用AI传温度，用跨境——把“我”放进更大的世界，也让世界，温柔地流进“我”。
+
+# 个人体会
+电商竞争的第一性原理：高效匹配供需，创造独特差异化价值（创新）。
+财富的第一性原理：创造市场认可的价值 x 可规模化的程度，是积累而不是暴富。
+机会的第一性原理是趋势，不是运气。
+成功的第一性原理是试错，持续做高概率正确的事 x 时间复利，成功极少是线性增长，而是指数越迁，前期积累，后期爆发（技能、信任、资产、影响力皆是如此）
+利润的第一性原理是控制成本
+管理的第一性原理是激发潜力。

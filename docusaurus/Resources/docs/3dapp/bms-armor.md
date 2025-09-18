@@ -64,14 +64,6 @@ All models in this package are created with attention to detail, featuring reali
 - **FBX/OBJ Formats**: Compatible with most 3D software
 - **Storage Space**: 30.7GB available space for full package
 
-<!-- The Last Part-Download -->
-## Download Options
-:::warning[Download]
-Click on the link to go to the download page.
-:::
-
-[Download BMS Military Armed Character Tank Hard Surface 3D Asset Models - Armor Blender/FBX/OBJ/UE Formats](https://item.taobao.com/item.htm?id=966829403424)
-
 For direct purchase or if you encounter any download issues, please contact us via WeChat at +86 13237610083
 
 ## Conclusion

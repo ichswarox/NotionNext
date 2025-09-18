@@ -68,12 +68,3 @@ If you experience any issues with installation or compatibility:
 
 For additional support or troubleshooting, please contact our technical support team.
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page.
-:::
-
-| Purchase Option | Download Link |
-|---|---|
-| **Taobao** | [Click to Purchase](https://item.taobao.com/item.htm?id=657820157019) |
