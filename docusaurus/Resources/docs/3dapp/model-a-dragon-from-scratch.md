@@ -7,6 +7,7 @@ slug: /model-a-dragon-from-scratch
 
 # Udemy: Blender 3D Sculpting - Model A Dragon From Scratch
 
+
 ![Blender Dragon Sculpting Course](https://www.gfxcamp.com/wp-content/uploads/2025/09/Udemy-Blender-3D-Sculpting-Model-A-Dragon-From-Scratch.jpg)
 
 :::tip[Course Overview]
