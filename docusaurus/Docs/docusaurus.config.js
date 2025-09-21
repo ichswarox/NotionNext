@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'seoSidebar',
             position: 'left',
-            label: '跨境SEO链路',
+            label: '跨境站运营推广',
           },
           {
             type: 'docSidebar',
