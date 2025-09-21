@@ -1,30 +1,8 @@
----
-title: "如何配置Crisp聊天工具"
-description: "Crisp是一个强大的实时客服聊天工具，可以帮助网站所有者与访问者进行实时沟通。本文将详细介绍如何在WordPress网站上配置和使用Crisp聊天工具。"
-keywords: ["Crisp", "聊天工具", "WordPress", "客服", "实时沟通"]
-slug: /wp-setting-crisp
----
-
-<!-- Title Line-->
 # 如何配置Crisp聊天工具
 
-<!-- First Quote use as a part to Guide and attract readers -->
-:::tip[你是不是也想这样？]
-- ✅ 轻松在WordPress网站上添加实时聊天功能
-- ✅ 提高客户满意度和转化率
-- ✅ 专业客服体验，提升品牌形象
-别担心，配置Crisp聊天工具比你想象的简单！本文将一步步教你如何操作。
-:::
+Crisp是一个强大的实时客服聊天工具，可以帮助网站所有者与访问者进行实时沟通。本文将详细介绍如何在WordPress网站上配置和使用Crisp聊天工具。
 
-<!--This Part is use for how to effectively find, screen and determine suitable customers -->
-**这篇学完，你就能：**
-掌握Crisp聊天工具的基本功能和优势。
-学会注册和配置Crisp账户。
-掌握在WordPress中安装Crisp的多种方法。
-配置聊天框外观和基本设置。
-测试和验证聊天功能是否正常工作。
-
-## 一、Crisp聊天工具简介
+## 1. Crisp聊天工具简介
 
 Crisp是一款集实时聊天、聊天机器人、知识库、CRM等功能于一体的客户沟通平台。它可以帮助你：
 
