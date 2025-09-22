@@ -7,6 +7,8 @@ slug: /2d-cloud-textures-pack
 
 # 2D Cloud Textures Pack
 
+*Last updated: Sep 14 2025*
+
 ![2D Cloud Textures Pack](https://www.gfxcamp.com/wp-content/uploads/2025/09/2D-Cloud-Textures-Pack.jpg)
 
 :::tip[info]

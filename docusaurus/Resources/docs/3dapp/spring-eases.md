@@ -1,26 +1,30 @@
 ---
-title: Aescripts Spring Eases v1.0 - After Effects Animation Script
-description: Spring Eases is an After Effects script that creates target-based animation with inertia and bounce. Perfect for UI design and natural motion paths.
-keywords: [aescripts, after effects script, animation script, spring eases, motion graphics, ae plugin, after effects plugin]
+title: AE Target Point Movement Elastic Animation Script - Aescripts Spring Eases V1.0 + Tutorial
+description: Target-based animation script with inertia and bounce for After Effects. Create natural motion paths influenced by inertia with customizable elasticity.
+keywords: [aescripts, After Effects, animation script, Spring Eases, target-based animation, elastic animation, motion graphics, AE plugin]
 slug: /spring-eases
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-# Aescripts Spring Eases v1.0 - After Effects Animation Script
+<!--Last updated: Sep 17 2025-->
 
-![Spring Eases for After Effects](https://www.gfxcamp.com/wp-content/uploads/2025/09/Spring-Ease.jpg)
+# AE Target Point Movement Elastic Animation Script - Aescripts Spring Eases V1.0 + Tutorial
 
-:::tip[Overview]
-Spring Eases is an After Effects script that creates target-based animation with inertia and bounce. It provides a new animation system that moves toward targets with more natural motion paths influenced by inertia.
+![Spring Eases](https://www.gfxcamp.com/wp-content/uploads/2025/09/Spring-Ease.jpg)
+
+:::tip[info]
+Spring Eases is a target-based animation script with inertia and bounce for After Effects. Create natural motion paths influenced by inertia with customizable elasticity, frequency, and settling time.
 :::
 
 ## Key Features
 
-- **Target-based Animation**: Moves toward targets with inertia and bounce
-- **Natural Motion Paths**: Influenced by inertia for more realistic animation
-- **Adjustable Parameters**: Set elasticity, frequency, and settling time of the virtual spring
+- **Target-based Animation**: Move toward targets with natural motion
+- **Inertia-based Motion**: Create realistic motion paths influenced by inertia
+- **Customizable Parameters**: Set elasticity, frequency, and settling time
 - **UI Design Friendly**: Familiar motion commonly used in UI design
-- **Preconfigured Camera**: Easily create a camera with position and point of interest preconfigured
-- **Minimal UI**: Simple and minimal user interface
+- **Preconfigured Camera**: Easily create cameras with position and point of interest
+- **Minimal UI**: Simple and clean user interface
 
 ## Supported Software Versions
 
@@ -28,20 +32,17 @@ Spring Eases is an After Effects script that creates target-based animation with
 
 ## Installation Instructions
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 <Tabs>
-  <TabItem value="installation" label="Installation" default>
+  <TabItem value="installation" label="Installation Steps" default>
     <ol>
-      <li>Copy the jsxbin file to Support Files\\Scripts\\ScriptUI Panels</li>
+      <li>Copy the jsxbin file to Support Files\Scripts\ScriptUI Panels</li>
     </ol>
   </TabItem>
   <TabItem value="troubleshooting" label="Troubleshooting">
     <ul>
-      <li>Do not use the Chinese version of AE as expressions may cause errors</li>
-      <li>In Preferences—General panel, check "Allow Scripts to Write Files and Access Network"</li>
-      <li>Script may not support your AE version (less likely)</li>
+      <li>Do not use Chinese version of AE as expressions may cause errors</li>
+      <li>In Preferences → General panel, check "Allow Scripts to Write Files and Access Network"</li>
+      <li>Ensure the script supports your AE version (rarely an issue)</li>
     </ul>
   </TabItem>
 </Tabs>
@@ -53,28 +54,27 @@ Click on the link to go to the download page. The extraction password is provide
 :::
 
 | File | Download Link | Password |
-|------|---------------|----------|
-| **Spring Eases V1.0** | [Download](https://pan.baidu.com/s/17xKagevOT0wzhTfCl2WNwg?pwd=jizc) | `jizc` |
+| ---- | ------------- | -------- |
+| **Aescripts Spring Eases V1.0** | [Download](https://pan.baidu.com/s/17xKagevOT0wzhTfCl2WNwg?pwd=jizc) | `jizc` |
 
 ## Tags
 
-- Aescripts
-- After Effects Script
+- aescripts
+- After Effects
 - Animation Script
 - Spring Eases
+- Target-based Animation
+- Elastic Animation
 - Motion Graphics
 - AE Plugin
-- After Effects Plugin
+- Inertia Motion
 - UI Animation
-- Motion Design
-- Creative Software
-- Digital Animation
-- Visual Effects
-- Graphic Design
+- Bounce Animation
+- Natural Motion
 - Animation Tools
-- Creative Workflow
-- Design Software
-- Video Editing
-- Motion Graphics
-- Animation Techniques
-- Creative Coding
+- Motion Design
+- Visual Effects
+- Script Installation
+- AE Tutorial
+- Animation Workflow
+- Professional Animation
