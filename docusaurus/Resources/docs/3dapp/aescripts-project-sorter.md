@@ -52,17 +52,6 @@ Click on the link to go to the download page. The extraction password is provide
 |---------|---------------|----------|
 | **Project Sorter v1.7.3** | [Download](https://pan.baidu.com/s/1Wfklm8E7Hd4hPHG9GhWkQg?pwd=w9xj) | `w9xj` |
 
-## Related Scripts
-
-- [Aescripts Shifter 2 v2.0.4](https://www.gfxcamp.com/shifter-2/)
-- [Aescripts Easify 2 Pro v2.7.2](https://www.gfxcamp.com/easify-2-pro/)
-- [Aescripts Shortcakes v2.1.4](https://www.gfxcamp.com/shortcakes/)
-- [Aescripts Smart Collect for Premiere Pro v1.0.1](https://www.gfxcamp.com/smart-collect-for-premiere-pro/)
-- [Aescripts Pro IO v2.15.7](https://www.gfxcamp.com/pro-io-v2157/)
-- [Aescripts Spring Eases v1.0](https://www.gfxcamp.com/spring-eases/)
-- [Aescripts AE Notepad v2.0+v1.5](https://www.gfxcamp.com/ae-notepad/)
-- [Aescripts AEViewer 2 Pro v2.2.3](https://www.gfxcamp.com/aeviewer-2-pro/)
-
 ## Tags
 
 - Aescripts

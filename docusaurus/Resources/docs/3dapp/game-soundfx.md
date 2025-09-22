@@ -105,12 +105,6 @@ Click on the link to go to the download page. The extraction password is provide
 
 [Download Japanese/Epic/Orchestral/Casual/Horror/Zombie Game Sound Effects - Lossless WAV Audio Pack](http://pan.baidu.com/s/1bokQTLd)
 
-For direct purchase or if you encounter any download issues, please contact us via WeChat at +86 13237610083
-
-## Related Recommendations
-
-- [TV Games/Horror Games/Epic Games/Action Games/Japanese Games/Background Music Sound Effects](https://www.gfxcamp.com/game-music/)
-- [Mobile APP/Start Game/HUD/Menu UI/User Interaction/Action/Hit Feedback/Lossless Sound Effects](https://www.gfxcamp.com/game-sound/)
 
 ## Conclusion
 

@@ -54,17 +54,6 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **AEViewer 2 Pro v2.2.3** | [Download](https://pan.baidu.com/s/1VglqF4MFg8VjSt07FS22lw?pwd=pmid) | `pmid` |
 | **AEViewer 2 Pro v2.2** | [Download](https://pan.baidu.com/s/1N02yMDjaLH0dH_3AA3YZtQ?pwd=jn66) | `jn66` |
 
-## Related Scripts
-
-- [Aescripts AEviewer v1.7.1](https://www.gfxcamp.com/aescripts-aeviewer/)
-- [Aescripts Spring Eases v1.0](https://www.gfxcamp.com/spring-eases/)
-- [Aescripts Project Sorter v1.7.3](https://www.gfxcamp.com/project-sorter/)
-- [Aescripts AE Notepad v2.0+v1.5](https://www.gfxcamp.com/ae-notepad/)
-- [Aescripts Super 3D v1.4.4](https://www.gfxcamp.com/super-3d/)
-- [Aescripts GifGun v2.0.24](https://www.gfxcamp.com/gifgun-v2/)
-- [Aescripts ColorFlow v1.4.2](https://www.gfxcamp.com/colorflow/)
-- [Aescripts States v1.0.0](https://www.gfxcamp.com/states/)
-
 ## Tags
 
 - Aescripts

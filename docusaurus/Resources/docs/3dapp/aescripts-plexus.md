@@ -87,17 +87,6 @@ Click on the links to go to the download pages. The extraction passwords are pro
 ### Tutorials
 - [Tutorial Download](http://pan.baidu.com/s/1mhUTyZY)
 
-## Related Plugins
-
-- [Aescripts Plexus v3.1.11](https://www.gfxcamp.com/plexus-v3111/)
-- [Aescripts Plexus v3.1.10](https://www.gfxcamp.com/plexus-v3110/)
-- [Aescripts Plexus v3.1.5](https://www.gfxcamp.com/plexus-v315/)
-- [Aescripts Plexus v3.1.3](https://www.gfxcamp.com/plexus-v313/)
-- [Aescripts Plexus v3.1.2b](https://www.gfxcamp.com/plexus-v312b/)
-- [Aescripts Plexus v3.1.0](https://www.gfxcamp.com/plexus-v310/)
-- [Aescripts Plexus v3.0.13](https://www.gfxcamp.com/plexus-v3013/)
-- [Aescripts Plexus v3.1.9](https://www.gfxcamp.com/plexus-v318/)
-
 ## Tags
 
 - Aescripts

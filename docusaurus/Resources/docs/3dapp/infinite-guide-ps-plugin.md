@@ -36,17 +36,6 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Infinite Guide V1.0.5** | [Download](https://pan.baidu.com/s/1hng_VamQrFccrq6-AFRYCQ?pwd=7fnt) | `7fnt` |
 
-## Related Resources
-
-- [Infinite Tools – Unify Plugin v2.0.1 for Photoshop Win](https://www.gfxcamp.com/infinite-tools-unify-plugin/)
-- [Optics 2025.0 For Photoshop/Lightroom Win](https://www.gfxcamp.com/optics-2025/)
-- [Retouching Academy – MUA Retouch Panel V1.0.1](https://www.gfxcamp.com/retouching-academy-mua-retouch-panel/)
-- [Retouch Pro v2.0.3 – Retouch Panel for Photoshop](https://www.gfxcamp.com/retouch-pro-v2/)
-- [Retouch Pro – Retouch Panel for Photoshop CC2014-2021](https://www.gfxcamp.com/retouch-pro/)
-- [Boris FX Optics 2021.2 For Photoshop/Lightroom Win](https://www.gfxcamp.com/boris-fx-optics-2021/)
-- [Moody Photoshop Panel 1.1.2 Win/Mac](https://www.gfxcamp.com/moody-panel/)
-- [Athentech Perfectly Clear V3.5.8 Win/Mac](https://www.gfxcamp.com/perfectly-clear-v358/)
-
 ## Tags
 
 - Infinite Guide

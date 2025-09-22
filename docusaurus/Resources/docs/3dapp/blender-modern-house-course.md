@@ -41,17 +41,6 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Creating a Modern House in Blender Course** | [Download](https://pan.baidu.com/s/1KIvwJgZjzhA-rzUXAbstWA?pwd=ga3z) | `ga3z` |
 
-## Related Courses
-
-- [Advanced Interior Visualization Training](https://www.gfxcamp.com/advanced-interior-visualization-training/)
-- [Blender Environment Artist – Create 3D Worlds](https://www.gfxcamp.com/blender-environment-artist-create-3d-worlds/)
-- [Core Fundamentals: Unlock the Core of Blender](https://www.gfxcamp.com/core-fundamentals-unlock-the-core-of-blender/)
-- [Create a Stylized Anime Room in Blender](https://www.gfxcamp.com/create-a-stylized-anime-room-in-blender/)
-- [Create Realistic Industrial Environments with Blender and Eevee](https://www.gfxcamp.com/create-realistic-industrial-environments-with-blender-and-eevee/)
-- [30 Days from 0 Skill to Pro 3D Artist with Daz & Blender](https://www.gfxcamp.com/30-days-from-0-skill-to-pro-3d-artist-with-daz-blender/)
-- [Blender 3D Ultimate Isometric Scene Creation Masterclass](https://www.gfxcamp.com/blender-3d-ultimate-isometric-scene-creation-masterclass/)
-- [Unleash Your Creative Potential with Our Blender Meta Course](https://www.gfxcamp.com/unleash-your-creative-potential-with-our-blender-meta-course/)
-
 ## Tags
 
 - Blender

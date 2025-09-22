@@ -49,17 +49,6 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **xCloner v1.2** | [Download](https://pan.baidu.com/s/1N6fi0_2q37q7AcjlC-H5_w?pwd=afdm) | `afdm` |
 | **xCloner v1.0** | [Download](https://pan.baidu.com/s/1Zn2kbsM_TAs32Cj3YSwy4A?pwd=vqew) | `vqew` |
 
-## Related Plugins
-
-- [Aescripts Power Droste v1.0](https://www.gfxcamp.com/power-droste/)
-- [Aescripts AI Color Match v1.3.5](https://www.gfxcamp.com/ai-color-match/)
-- [Aescripts Pixelocybe v1.3.0](https://www.gfxcamp.com/aescripts-pixelocybe/)
-- [Aescripts Auto Crop 3.2.1.1](https://www.gfxcamp.com/auto-crop-3/)
-- [Aescripts Gaussian Splatting v1.6.5](https://www.gfxcamp.com/gaussian-splatting/)
-- [Aescripts Pixel Repeat v1.2](https://www.gfxcamp.com/pixel-repeat/)
-- [Aescripts Lockdown v3.1.6](https://www.gfxcamp.com/lockdown-v3/)
-- [Aescripts Gradient8 v1.2](https://www.gfxcamp.com/gradient8/)
-
 ## Tags
 
 - Aescripts

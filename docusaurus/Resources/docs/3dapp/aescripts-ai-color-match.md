@@ -55,17 +55,6 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **AI Color Match v1.3.2** | Win | [Download](https://pan.baidu.com/s/12Io6uDUErZFlJgjQe-2CQA?pwd=wbfq) | `wbfq` |
 | **AI Color Match v1.3.0** | Win | [Download](https://pan.baidu.com/s/1_RMs1kAeXz2ModH7VXmPEQ?pwd=tyg6) | `tyg6` |
 
-## Related Plugins
-
-- [Aescripts Pixelocybe v1.3.0](https://www.gfxcamp.com/aescripts-pixelocybe/)
-- [Aescripts Neural Enhancement Suite v1.7.26](https://www.gfxcamp.com/aescripts-neural-enhancement-suite/)
-- [Aescripts Color Grade Prompter v1.4.26](https://www.gfxcamp.com/color-grade-prompter/)
-- [Aescripts AI Motion Blur v1.1.26](https://www.gfxcamp.com/ai-motion-blur/)
-- [Aescripts Ballpoint v1.0.0](https://www.gfxcamp.com/ballpoint/)
-- [Aescripts Pixel Galactic v1.0.1](https://www.gfxcamp.com/pixel-galactic/)
-- [Aescripts ScaleUP v1.4.4](https://www.gfxcamp.com/aescripts-scaleup/)
-- [Aescripts MAD PAINTER v1.1.0](https://www.gfxcamp.com/mad-painter/)
-
 ## Tags
 
 - Aescripts

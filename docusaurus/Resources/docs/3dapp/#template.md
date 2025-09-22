@@ -6,7 +6,8 @@ keywords: [auto-rig pro, blender, character rigging, 3d animation, rig library, 
 slug: /Auto-Rig-Pro
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->
-*Last updated: Sep 14 2025*<!--generate depend on file modified time -->
+*Last updated: Sep 14 2025*
+<!--generate depend on file modified time -->
 
 <!--First Part-This is Title -->
 # Auto-Rig Pro: The Ultimate Rigging Tool for Blender

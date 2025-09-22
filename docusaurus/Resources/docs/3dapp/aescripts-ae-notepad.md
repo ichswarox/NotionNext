@@ -52,17 +52,6 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **AE Notepad v2.0** | [Download](https://pan.baidu.com/s/1GLwOJ7OGEFZm07IqxcIWiw?pwd=c3dk) | `c3dk` |
 | **AE Notepad v1.5** | [Download](https://pan.baidu.com/s/13VmgKR5czo7-7l1n0N6oeQ?pwd=9req) | `9req` |
 
-## Related Scripts
-
-- [Aescripts Spring Eases v1.0](https://www.gfxcamp.com/spring-eases/)
-- [Aescripts Project Sorter v1.7.3](https://www.gfxcamp.com/project-sorter/)
-- [Aescripts AEViewer 2 Pro v2.2.3](https://www.gfxcamp.com/aeviewer-2-pro/)
-- [Aescripts Super 3D v1.4.4](https://www.gfxcamp.com/super-3d/)
-- [Aescripts GifGun v2.0.24](https://www.gfxcamp.com/gifgun-v2/)
-- [Aescripts ColorFlow v1.4.2](https://www.gfxcamp.com/colorflow/)
-- [Aescripts States v1.0.0](https://www.gfxcamp.com/states/)
-- [Aescripts Chartist v1.6](https://www.gfxcamp.com/chartist/)
-
 ## Tags
 
 - Aescripts

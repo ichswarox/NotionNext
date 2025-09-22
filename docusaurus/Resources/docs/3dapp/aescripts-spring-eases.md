@@ -49,17 +49,6 @@ Click on the link to go to the download page. The extraction password is provide
 |---------|---------------|----------|
 | **Spring Eases v1.0** | [Download](https://pan.baidu.com/s/17xKagevOT0wzhTfCl2WNwg?pwd=jizc) | `jizc` |
 
-## Related Scripts
-
-- [Aescripts Crazy Shapes v1.1.7](https://www.gfxcamp.com/crazy-shapes/)
-- [Aescripts Keyless v1.0](https://www.gfxcamp.com/keyless/)
-- [Aescripts LOOPRAN v1.0.106](https://www.gfxcamp.com/loopran/)
-- [Aescripts Internal Property v1.0](https://www.gfxcamp.com/internal-property/)
-- [Aescripts Drive v1.01](https://www.gfxcamp.com/aescripts-drive/)
-- [Aescripts GoType v1.01](https://www.gfxcamp.com/aescripts-gotype/)
-- [Aescripts SPRINGY FX v1.0.1](https://www.gfxcamp.com/springy-fx-v101/)
-- [Aescripts Textor v1.1](https://www.gfxcamp.com/textor/)
-
 ## Tags
 
 - Aescripts

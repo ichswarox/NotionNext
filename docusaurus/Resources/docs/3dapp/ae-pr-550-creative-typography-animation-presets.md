@@ -52,17 +52,3 @@ This script dramatically improves text animation workflow efficiency in After Ef
 - **Professional Efficiency**: Advanced controls and workflow efficiency significantly reduce production time
 - **Comprehensive Toolkit**: All-in-one solution for professional text creation workflows
 
-## Related Resources
-
-- [AE + PR Script Presets + AI Files - 1500+ Text Titles Name Subtitles Bar Indicator Line Animations V3 Crack Version](https://www.gfxcamp.com/titles-pro/)
-- [AE Template + PR Preset - 100 Cinematic Film Text Titles Subtitle Layout Animations](https://www.gfxcamp.com/100-cinematic-film-titles/)
-- [AE Script Template - 700+ Modern Fashion Text Titles Layout Subtitle Animations Preset](https://www.gfxcamp.com/typo-kit/)
-
-## Technical Support
-
-If you experience any issues with installation or compatibility:
-1. Ensure you're using AE/PR CC 2020 or higher
-2. For AE script errors in Chinese versions, try using the English version
-3. In AE/PR preferences, enable "Allow Scripts to Write Files and Access Network"
-
-For additional support or troubleshooting, please contact our technical support team.

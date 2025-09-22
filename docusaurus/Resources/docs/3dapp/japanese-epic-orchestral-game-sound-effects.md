@@ -56,11 +56,6 @@ These sound effects are ideal for enhancing various gaming experiences:
 
 For the full version or if you encounter any download issues, please contact us via WhatsApp at +86 13237610083
 
-## Related Resources
-
-- [TV Games / Horror Games / Epic Games / Action Games / Japanese Games / Background Music Sound Effects](https://www.gfxcamp.com/game-music/)
-- [Mobile App / Game Start / HUD / Menu UI / User Interaction / Action / Impact Feedback / Lossless Sound Effects](https://www.gfxcamp.com/game-sound/)
-
 ## System Requirements
 
 - **Format**: WAV (Uncompressed)

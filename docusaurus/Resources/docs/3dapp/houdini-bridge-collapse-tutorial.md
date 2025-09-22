@@ -44,16 +44,6 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Bridge Collapse in Houdini** | [Download](https://pan.baidu.com/s/1f6kw9nTYpDEnARwynLx9BA?pwd=ufsr) | `ufsr` |
 
-## Related Courses
-
-- [Houdini Renascence Program](https://www.gfxcamp.com/houdini-renascence-program/)
-- [The VFX School - Bridge Collaspe](https://www.gfxcamp.com/the-vfx-school-bridge-collaspe/)
-- [The VFX School - Tabletop Food Simulation Vol 01](https://www.gfxcamp.com/the-vfx-school-tabletop-food-simulation/)
-- [Vertex School - Houdini FX & Redshift - On Demand](https://www.gfxcamp.com/houdini-fx-redshift-on-demand/)
-- [Aggregation Rigid Body Self Assembly](https://www.gfxcamp.com/aggregation-rigid-body-self-assembly/)
-- [MPC Academy in-house The Focus Houdini FX Tutorials](https://www.gfxcamp.com/mpc-academy-in-house-the-focus-houdini-fx-tutorials/)
-- [Learn to make Helicopter Dust in Houdini from Scratch](https://www.gfxcamp.com/learn-to-make-helicopter-dust-in-houdini-from-scratch/)
-- [Mastering Houdini Simulation: Custom Forces, Velocity Fields](https://www.gfxcamp.com/mastering-houdini-simulation-custom-forces-velocity-fields/)
 
 ## Tags
 

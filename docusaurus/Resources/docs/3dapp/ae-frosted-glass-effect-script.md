@@ -66,12 +66,6 @@ Even if you're new to glass effect creation in After Effects, the user-friendly 
 
 This script dramatically improves glass effect creation and adjustment efficiency in After Effects, allowing you to focus more on creativity and less on technical implementation.
 
-## Related Resources
-
-- [AE Graphic Layer Editing Script - Aescripts AEPathfinder V1.0.06](https://www.gfxcamp.com/aepathfinder/)
-- [AE Layer Selection Hide/Show Script - Aescripts Shy Bar V1.2.0.2 + Tutorial](https://www.gfxcamp.com/shy-bar/)
-- [AE Color Find and Replace Script - Aescripts ColorSwap V1.1](https://www.gfxcamp.com/aescripts-colorswap/)
-
 ## Technical Support
 
 For installation issues or compatibility questions, please ensure:

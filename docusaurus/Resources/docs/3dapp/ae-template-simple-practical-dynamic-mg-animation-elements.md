@@ -25,12 +25,3 @@ This AE template includes over 110 MG animation elements, all created directly i
 ## Demo
 
 ![Demo Image](https://img.alicdn.com/imgextra/i3/680650857/TB2SngmbrXlpuFjy1zbXXb_qpXa-680650857.gif)
-
-## Related Recommendations
-
-- [AE Template: 400+ MG Animation Graphic Line Elements Collection](https://www.gfxcamp.com/400-elements/)
-- [AE Template: 300 Cartoon MG Animation Creative Graphic Animation Elements Pack](https://www.gfxcamp.com/300-mg-shape/)
-- [AE Template: MG Animation Cartoon Character Scene Product Activity Explanation Intro](https://www.gfxcamp.com/mg-character-v3/)
-
-## Download
-[Chat For Details](https://wa.me/8613237610083)

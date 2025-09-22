@@ -40,17 +40,6 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **Super 3D v1.4.3** | [Download](https://pan.baidu.com/s/1mZGE0kNUjAP6NOqLJjOqkw?pwd=j9tx) | `j9tx` |
 | **Super 3D v1.3.2** | [Download](https://pan.baidu.com/s/1GRIvVOMXxauAJ-MT_b1zLQ?pwd=ynka) | `ynka` |
 
-## Related Scripts
-
-- [Aescripts Face 3D v1.1.3](https://www.gfxcamp.com/face-3d/)
-- [Aescripts 3D Modeler v1.1.0](https://www.gfxcamp.com/aescripts-3d-modeler/)
-- [Aescripts Spring Eases v1.0](https://www.gfxcamp.com/spring-eases/)
-- [Aescripts Project Sorter v1.7.3](https://www.gfxcamp.com/project-sorter/)
-- [Aescripts AE Notepad v2.0+v1.5](https://www.gfxcamp.com/ae-notepad/)
-- [Aescripts AEViewer 2 Pro v2.2.3](https://www.gfxcamp.com/aeviewer-2-pro/)
-- [Aescripts GifGun v2.0.24](https://www.gfxcamp.com/gifgun-v2/)
-- [Aescripts ColorFlow v1.4.2](https://www.gfxcamp.com/colorflow/)
-
 ## Tags
 
 - Aescripts

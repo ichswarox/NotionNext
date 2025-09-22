@@ -42,16 +42,6 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **In House Tool Building for Houdini TDs** | [Download](https://pan.baidu.com/s/1Etw7SAZT6vC5DsoAdI8-MA?pwd=g7be) | `g7be` |
 
-## Related Courses
-
-- [Learn to make Helicopter Dust in Houdini from Scratch](https://www.gfxcamp.com/learn-to-make-helicopter-dust-in-houdini-from-scratch/)
-- [Mastering Houdini Simulation: Custom Forces, Velocity Fields](https://www.gfxcamp.com/mastering-houdini-simulation-custom-forces-velocity-fields/)
-- [Humanoid Rigging For Games Using Houdini And KineFX](https://www.gfxcamp.com/humanoid-rigging-for-games-using-houdini-and-kinefx/)
-- [Fundamentals of Fur Grooming in Houdini](https://www.gfxcamp.com/fundamentals-of-fur-grooming-in-houdini/)
-- [Houdini FX for 3d Artist Course](https://www.gfxcamp.com/houdini-fx-for-3d-artist-course/)
-- [Getting Started With VEX](https://www.gfxcamp.com/getting-started-with-vex/)
-- [Houdini VEX Programming for Beginners](https://www.gfxcamp.com/houdini-vex-programming-for-beginners/)
-- [Houdini FX Vellum and Energy Effects](https://www.gfxcamp.com/houdini-fx-vellum-and-energy-effects/)
 
 ## Tags
 
