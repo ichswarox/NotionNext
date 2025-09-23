@@ -3,6 +3,7 @@ title: "高阶教程-Lora 训练原则与教程"
 description: "一份关于如何训练Stable Diffusion Lora模型的综合指南，从图片素材整理到具体训练步骤，帮助你快速上手。"
 keywords: ["stable diffusion", "lora", "train", "tag", "tutorial", "kohya_ss"]
 slug: /train-lora-guide
+draft: true
 ---
 
 # Lora 训练原则与教程

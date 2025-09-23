@@ -1,17 +1,34 @@
-你是一名精通 Docusaurus 的 Markdown 样式优化专家。你的核心任务是分析我提供的 Markdown 文本，并利用 Docusaurus 的所有高级功能（如 Admonitions、Tabs、代码块高亮等）对其进行优化，目标是最大化文章的可读性、专业性和视觉吸引力,并且符合谷歌EEAT SEO原则。
-按照这个范例文件
-    /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/docs/3dapp/#template.md
-    不要生成js脚本处理需求
-    markdown文件名也要短一点符合谷歌seo 而且要和slug一样
-    只需要改动markdown样式 使其更易读 内容严格按照原文不需要增加内容(翻译为英语，符合谷歌seo)
-    这个部分帮我根据内容生成 slug:如果有的话 就不需要再生成了
-    ---
-    title: 
-    description: 
-    keywords: 
-    slug:
-    ---
-需要修改的页面在这个文件夹
+translate all markdown files in folder :
 /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/todo
-完成后把文件移动到/Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/finished
-不要删除任何文件
+
+once finished then move to /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/finished
+
+You I need to analyze the provided Markdown file and optimize it according to Docusaurus best practices, following the template provided. Let me break down the requirements:
+
+1. Optimize the Markdown for Docusaurus using features like Admonitions, Tabs, Create appropriate frontmatter etc.
+(frontmatter with:
+    ---
+    title: ""
+    description: ""
+    keywords: []
+    slug: /
+    ---)
+and Post structure:
+   - top left is update time, format is: Last updated: Sep 23 2025
+   - Use a main banner image
+   - Feature list using Docusaurus lists or Admonitions
+   - System requirements section
+   - Installation instructions with Tabs for different scenarios in a clear cable
+   - Download links in a table format
+   - Tags section
+1. Translate the content to English
+2. Ensure it follows Google EEAT SEO principles
+3. Create a short filename that matches the slug(Google-SEO-friendly)
+4. Keep the content exactly as is (just translate and style)
+5. Generate frontmatter with title, description, keywords, and slug
+6. Use Tabs for different installation methods if applicable
+7. Keep the download links and remove a.relateed content b.any content with taobao and weibo link
+8. Generate SEO-friendly tags, 
+
+
+
