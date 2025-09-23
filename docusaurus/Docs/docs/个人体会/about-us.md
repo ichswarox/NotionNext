@@ -1,5 +1,5 @@
 ---
-title: '关于本站'
+title: '本站介绍'
 description: '很高兴NotionNext能受到网友的喜爱与传播，为此我专门开设了一个教程文档，关于软件的任何疑问请移步文档获取帮助'
 slug: /about-us
 tags: [个人成长, 思考, 网站]
@@ -11,9 +11,27 @@ import TabItem from '@theme/TabItem';
 
 ## 关于Neo
 
-![NeoXu](/img/neoxu.png)
-
-> 我是NeoXu，互联网从业者。我喜欢敲代码，喜欢总结和复盘，专注于AI在电商中的应用研究。
+<div className="row row--align-center">
+  <div className="col col--3">
+    <img
+      src="/img/neoxu.png"
+      alt="关于neo"
+      className="instructor-profile-pic"
+    />
+  </div>
+  <div className="col col--9">
+    <h3>NeoXu - 跨境电商从业者</h3>
+    <p><strong>成功打造多个百万级美区跨境电商，以AI全链路赋能品牌增长，打造多个高转化率独立站品牌。</strong></p>
+    <p>
+      生成式AI商业应用导师——NeoXu，拥有10年以上数字营销与自动化运营经验，已成功辅导超5,000名跨境卖家，系统化构建【AIGC电商工作流】【AI驱动的高转化内容矩阵】等实战教学体系。
+    </p>
+    <p>
+      超过十年电商经验，对北美市场有着独到的理解，现在全力通过Ai辅助你的跨境电商，完成从0到100的提高。
+      我的目标是，通过AI全链路的赋能，帮助您在竞争激烈的跨境电商市场中脱颖而出，打造独具特色且转化率超高的线上品牌。
+    </p>
+    <a href="/about-us">添加微信:Neogit &raquo;</a>
+  </div>
+</div>
 
 ## 成长经历
 

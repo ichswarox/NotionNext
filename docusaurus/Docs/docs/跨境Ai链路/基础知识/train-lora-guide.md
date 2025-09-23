@@ -1,5 +1,5 @@
 ---
-title: "Lora 训练原则与教程"
+title: "高阶教程-Lora 训练原则与教程"
 description: "一份关于如何训练Stable Diffusion Lora模型的综合指南，从图片素材整理到具体训练步骤，帮助你快速上手。"
 keywords: ["stable diffusion", "lora", "train", "tag", "tutorial", "kohya_ss"]
 slug: /train-lora-guide
@@ -7,12 +7,7 @@ slug: /train-lora-guide
 
 # Lora 训练原则与教程
 
-:::tip[核心关键词]
-- stable diffusion lora train tag tutorial
-- lora train if more precious tag more good result?
-:::
-
-> **Tagging 原则**: 你可能需要训练模型的特定部分，如腿部、脸部。因此，要准备局部的训练素材，让AI理解并产生和主体的关联。
+> **Tagging 打标签 原则**: 你可能需要训练模型的特定部分，如腿部、脸部。因此，要准备局部的训练素材，让AI理解并产生和主体的关联。
 
 **具体教程链接：** [Essential to Advanced Guide to Training a LoRA](https://civitai.com/articles/3105/essential-to-advanced-guide-to-training-a-lora) (在Civitai上搜索"tag"找到tag部分)
 

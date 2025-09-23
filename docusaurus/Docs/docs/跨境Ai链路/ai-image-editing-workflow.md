@@ -59,7 +59,7 @@ import videoPoster from '/img/video.png';
 
 点击 **“一键生成”** 并耐心等待几秒钟。AI会自动完成人脸融合。如果对结果不满意，可以尝试调整目标人物图或微调参数（如果平台支持），然后再次生成。
 
-## 关于讲师
+## 关于Neo
 
 <div className="row row--align-center">
   <div className="col col--3">
@@ -79,6 +79,6 @@ import videoPoster from '/img/video.png';
       超过十年电商经验，对北美市场有着独到的理解，现在全力通过Ai辅助你的跨境电商，完成从0到100的提高。
       我的目标是，通过AI全链路的赋能，帮助您在竞争激烈的跨境电商市场中脱颖而出，打造独具特色且转化率超高的线上品牌。
     </p>
-    <a href="#">瞭解更多 &raquo;</a>
+    <a href="/about-us">添加微信:Neogit &raquo;</a>
   </div>
 </div>

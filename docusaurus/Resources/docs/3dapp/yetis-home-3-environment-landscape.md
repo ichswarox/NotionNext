@@ -2,7 +2,7 @@
 title: Yeti's Home 3 Environment Landscape
 description: Epic mountain landscape render of Yeti's Home 3 showcasing advanced environment design and atmospheric rendering techniques in fantasy visualization.
 keywords: [yeti environment, mountain landscape, fantasy rendering, 3D environment, Redshift, atmospheric effects, landscape design, creature habitat]
-slug: /gallery/yetis-home-3-environment-landscape
+slug: /yetis-home-3-environment-landscape
 ---
 
 # Yeti's Home 3 Environment Landscape

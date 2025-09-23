@@ -2,7 +2,7 @@
 title: Yeti's Home 2 Environment Landscape
 description: Mountainous landscape render of Yeti's Home 2 showcasing advanced environment design and atmospheric rendering techniques in fantasy visualization.
 keywords: [yeti environment, mountain landscape, fantasy rendering, 3D environment, Redshift, atmospheric effects, landscape design, creature habitat]
-slug: /gallery/yetis-home-2-environment-landscape
+slug: /yetis-home-2-environment-landscape
 ---
 
 # Yeti's Home 2 Environment Landscape
