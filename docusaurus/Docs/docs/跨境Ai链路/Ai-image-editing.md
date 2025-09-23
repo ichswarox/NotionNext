@@ -93,12 +93,12 @@ ComfyUI 内核: v0.3.13
 ### 步骤 4: 启动并配置 ComfyUI 服务
 
 1.  **启动客户端**: 解压后，运行 `绘世启动器.exe`。
-    ![绘世启动器-kq.png](https://list.ucards.store/d/img/绘世启动器-kq.png)
-2.  **切换版本**: 打开启动器后，点击侧边栏的 `版本管理`，勾选 `0.3.42`，然后点击 `切换` 并确认安装。![绘世启动器-uk.png](https://list.ucards.store/d/img/绘世启动器-uk.png)
-![绘世启动器-vo.png](https://list.ucards.store/d/img/绘世启动器-vo.png)
+    ![绘世启动器-kq.png](https://list.ucards.store/d/img/绘世启动器-kq.webp)
+2.  **切换版本**: 打开启动器后，点击侧边栏的 `版本管理`，勾选 `0.3.42`，然后点击 `切换` 并确认安装。![绘世启动器-uk.png](https://list.ucards.store/d/img/绘世启动器-uk.webp)
+![绘世启动器-vo.png](https://list.ucards.store/d/img/绘世启动器-vo.webp)
 3.  **安装模型文件**:
     *   下载 AI 模型文件并放置到 ComfyUI 的指定文件夹中。
-  ![绘世启动器-bw.png](https://list.ucards.store/d/img/绘世启动器-bw.png)
+  ![绘世启动器-bw.png](https://list.ucards.store/d/img/绘世启动器-bw.webp)
     *   支持SDXL SD1.5 Flux大模型生成，为了在本地运行，
     *   推荐使用至少16GB VRAM (NVIDIA)的显卡，否则生成图像将花费很长时间，或者可能由于内存不足而失败！
     *   -SD1.5 推荐8GB 质量低 
@@ -115,29 +115,29 @@ ComfyUI 内核: v0.3.13
     </TabItem>
     </Tabs>
 
-4.  **一键启动**: 重启绘世启动器，点击 `高级选项`，然后点击右上角的 `一键启动`。![绘世启动器-na.png](https://list.ucards.store/d/img/绘世启动器-na.png)
+4.  **一键启动**: 重启绘世启动器，点击 `高级选项`，然后点击右上角的 `一键启动`。![绘世启动器-na.png](https://list.ucards.store/d/img/绘世启动器-na.webp)
 5.  **安装必要插件**:
-    *   当 ComfyUI 在浏览器中成功启动后，点击右下角的 `Manager` 按钮。![绘世启动器-wd.png](https://list.ucards.store/d/img/绘世启动器-wd.png)
+    *   当 ComfyUI 在浏览器中成功启动后，点击右下角的 `Manager` 按钮。![绘世启动器-wd.png](https://list.ucards.store/d/img/绘世启动器-wd.webp)
     *   点击Manage后再点击 `Install Custom Nodes`。
-    ![绘世启动器-qi.png](https://list.ucards.store/d/img/绘世启动器-qi.png)
+    ![绘世启动器-qi.png](https://list.ucards.store/d/img/绘世启动器-qi.webp)
     *   搜索并安装 `tooling nodes` 和 `inpaint nodes`。
-    ![绘世启动器-ex.png](https://list.ucards.store/d/img/绘世启动器-ex.png)
+    ![绘世启动器-ex.png](https://list.ucards.store/d/img/绘世启动器-ex.webp)
     * Select version选择latest 然后点击select
-    ![绘世启动器-nx.png](https://list.ucards.store/d/img/绘世启动器-nx.png)
+    ![绘世启动器-nx.png](https://list.ucards.store/d/img/绘世启动器-nx.webp)
     * 再搜索输入inpaint nodes，再点击install，需要选择版本的话和上次一样选择latest，如图：
-    ![绘世启动器-xx.png](https://list.ucards.store/d/img/绘世启动器-xx.png)
+    ![绘世启动器-xx.png](https://list.ucards.store/d/img/绘世启动器-xx.webp)
     * :::caution等待安装好以后不要在这里点击restart :::
-    ![绘世启动器-ey.png](https://list.ucards.store/d/img/绘世启动器-ey.png)
+    ![绘世启动器-ey.png](https://list.ucards.store/d/img/绘世启动器-ey.webp)
     * 点击一键启动
-    ![绘世启动器-ht.png](https://list.ucards.store/d/img/绘世启动器-ht.png)
+    ![绘世启动器-ht.png](https://list.ucards.store/d/img/绘世启动器-ht.webp)
     * 然后等待命令行一直跳到:To See the GUI go to:
-    ![绘世启动器-sh.png](https://list.ucards.store/d/img/绘世启动器-sh.png)
+    ![绘世启动器-sh.png](https://list.ucards.store/d/img/绘世启动器-sh.webp)
     * 回到Krita 输入地址 `127.0.0.1:8188` 并点击连接。
-    ![绘世启动器-op.png](https://list.ucards.store/d/img/绘世启动器-op.png)
+    ![绘世启动器-op.png](https://list.ucards.store/d/img/绘世启动器-op.webp)
 6.  **最终重启**: 返回**绘世启动器**，再次点击 `一键启动`。
 7.  **连接 Krita**:
     *   等待命令行界面显示 `To see the GUI go to http://127.0.0.1:8188`。
-  ![绘世启动器-df.png](https://list.ucards.store/d/img/绘世启动器-df.png)
+  ![绘世启动器-df.png](https://list.ucards.store/d/img/绘世启动器-df.webp)
 
 ## 方案二：云端部署 (仙宫云)
 
@@ -145,16 +145,16 @@ ComfyUI 内核: v0.3.13
 
 1.  **登录并部署**:
     *   登录 [仙宫云控制台](https://www.xiangongyun.com/console/instance)。
-    ![仙宫云-hv.png](https://list.ucards.store/d/img/仙宫云-hv.png)
+    ![仙宫云-hv.png](https://list.ucards.store/d/img/仙宫云-hv.webp)
     *   访问 [ComfyUI 镜像页面](https://www.xiangongyun.com/image/detail/5f64ceb1-edab-4989-9cca-2bf3e9bb75ba?r=189WCA) 并点击 `立即部署`。
-    ![仙宫云-qm.png](https://list.ucards.store/d/img/仙宫云-qm.png)
+    ![仙宫云-qm.png](https://list.ucards.store/d/img/仙宫云-qm.webp)
     *   按照推荐配置确认部署（新账号需实名认证）。
-    ![仙宫云-ki.png](https://list.ucards.store/d/img/仙宫云-ki.png)
-    ![仙宫云-wp.png](https://list.ucards.store/d/img/仙宫云-wp.png)
+    ![仙宫云-ki.png](https://list.ucards.store/d/img/仙宫云-ki.webp)
+    ![仙宫云-wp.png](https://list.ucards.store/d/img/仙宫云-wp.webp)
 2.  **连接 Krita**:
     *   部署成功后，在 [实例列表](https://www.xiangongyun.com/console/instance) 中找到你的 ComfyUI 实例。
     *   点击 `ComfyUI` 按钮，复制弹出窗口中的链接地址。
-    ![仙宫云-mt.png](https://list.ucards.store/d/img/仙宫云-mt.png)
+    ![仙宫云-mt.png](https://list.ucards.store/d/img/仙宫云-mt.webp)
     *   将此地址粘贴到 Krita 插件的服务器网址中，然后点击连接。
 
 ## 软件核心功能教程
@@ -245,33 +245,33 @@ C:\Users\[Yours User Name]\AppData\Roaming\krita
 ## 常见问题:如何修改分辨率？
 
 生成或者修改的图片建议1200x1200，大于这个分辨率每次生成会消耗更多的运算性能，在线版用户可能导致积分异常消耗，常规来说用SDXL模型生成1200宽高的图片会消耗5个积分。
-![如何修改分辨率-ld.png](https://list.ucards.store/d/img/如何修改分辨率-ld.png)
+![如何修改分辨率-ld.png](https://list.ucards.store/d/img/如何修改分辨率-ld.webp)
 
 如何克隆绘制？
-![如何克隆绘制-jz.png](https://list.ucards.store/d/img/如何克隆绘制-jz.png)
+![如何克隆绘制-jz.png](https://list.ucards.store/d/img/如何克隆绘制-jz.webp)
 
 如何渐隐区域？
-![如何渐隐区域-rs.png](https://list.ucards.store/d/img/如何渐隐区域-rs.png)
+![如何渐隐区域-rs.png](https://list.ucards.store/d/img/如何渐隐区域-rs.webp)
 <video src="https://list.ucards.store/d/img/如何渐隐区域-rs.mp4" controls width="600">
   你的浏览器不支持视频播放，请更新浏览器。
 </video>
 
 如何新建一个图层合并可见内容？
 找到图层---查看和更改图层属性---新建图层-基于可见内容
-![合并可见内容-xx.png](https://list.ucards.store/d/img/合并可见内容-xx.png)
+![合并可见内容-xx.png](https://list.ucards.store/d/img/合并可见内容-xx.webp)
 
 如何用曲线让产品融入？
 顶部菜单 滤镜---调整图像/颜色---曲线-颜色调整
-![颜色调整-lo.png](https://list.ucards.store/d/img/颜色调整-lo.png)
+![颜色调整-lo.png](https://list.ucards.store/d/img/颜色调整-lo.webp)
 <video src="https://list.ucards.store/d/img/颜色调整-lo.mp4" controls width="600">
   你的浏览器不支持视频播放，请更新浏览器。
 </video>
 
 如何笔刷消除边界？
 左边菜单 笔刷---在顶部搜索blender笔刷---合并可见图层后用笔刷涂抹边界
-![笔刷消除边界-lc.png](https://list.ucards.store/d/img/笔刷消除边界-lc.png)
+![笔刷消除边界-lc.png](https://list.ucards.store/d/img/笔刷消除边界-lc.webp)
 
-![颜色调整-lo.png](https://list.ucards.store/d/img/颜色调整-lo.png)
+![颜色调整-lo.png](https://list.ucards.store/d/img/颜色调整-lo.webp)
 <video src="https://list.ucards.store/d/img/笔刷消除边界.mp4" controls width="600">
   你的浏览器不支持视频播放，请更新浏览器。
 </video>

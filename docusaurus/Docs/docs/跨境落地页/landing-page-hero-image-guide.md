@@ -21,7 +21,7 @@ slug: /landing-page-hero-image-guide
 了解技术优化的硬性指标，确保设计与速度兼得。
 掌握A/B测试与迭代方法，持续优化转化效果。
 
-![落地页首图是连接用户与产品的关键桥梁](https://list.ucards.store/d/img/hero-selection-ii.png)
+![落地页首图是连接用户与产品的关键桥梁](https://list.ucards.store/d/img/hero-selection-ii.webp)
 `图示：落地页首图是连接用户与产品的关键桥梁`
 
 [首图模块下载访问链接](https://www.figma.com/design/aIDf4p4qZUwFfbNjhKH6wB/%E9%A6%96%E5%9B%BE%E6%A8%A1%E5%9D%97?node-id=0-5&t=P8AG1ePEMNyCpLxW-1)

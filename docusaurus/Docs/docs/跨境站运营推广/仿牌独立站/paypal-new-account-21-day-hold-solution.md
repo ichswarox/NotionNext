@@ -7,7 +7,7 @@ slug: /paypal-new-account-21-day-hold-solution
 
 # Paypal新账户第一次收款临时冻结21天怎么办？
 
-![paypal-hold-money.png](https://list.ucards.store/d/img/paypal-hold-money.png)
+![paypal-hold-money.png](https://list.ucards.store/d/img/paypal-hold-money.webp)
 
 :::tip[收到第一笔款项，却发现资金被冻结了？]
 - ✅ 账户余额显示“不可用”，资金被临时冻结21天？
@@ -50,7 +50,7 @@ slug: /paypal-new-account-21-day-hold-solution
 4.  在弹出的窗口中，选择承运商（如UPS, FedEx, USPS等），并输入有效的运单号。
 5.  将订单状态更新为 **“已发货” (Shipped)**。
 
-![add-tracking-info.png](https://list.ucards.store/d/img/add-tracking-info.png)
+![add-tracking-info.png](https://list.ucards.store/d/img/add-tracking-info.webp)
 
 ### 方法二：更新订单状态（适用于虚拟产品或无物流服务）
 

@@ -24,7 +24,7 @@ slug: /google-imagefx-imagen3-user-experience
 了解 Imagen 3 相较于其他主流模型的核心优势。
 信心满满地开始你的 AI 绘画创作之旅！
 
-![ImageFx 生成的中世纪风格庭院](https://list.ucards.store/d/img/google-imagefx-vh.png)
+![ImageFx 生成的中世纪风格庭院](https://list.ucards.store/d/img/google-imagefx-vh.webp)
 `图示：ImageFx 生成的中世纪风格庭院，展现了其强大的风格控制能力`
 
 ## 一、先从平台聊起：Gemini vs. ImageFx
@@ -48,7 +48,7 @@ slug: /google-imagefx-imagen3-user-experience
 > **Prompt:** A cinematic scene of a modern glass atrium during golden hour, with dramatic light rays filtering through the glass ceiling, creating complex light and shadow patterns on the marble floor, rich warm colors, photorealistic architectural photography style
 
 在 Gemini 上生成结果如下：
-![Gemini Imagen 3 picture](https://list.ucards.store/d/img/google-imagefx-jm.png)
+![Gemini Imagen 3 picture](https://list.ucards.store/d/img/google-imagefx-jm.webp)
 
 ### 2. ImageFx 上的 Imagen 3
 
@@ -60,7 +60,7 @@ slug: /google-imagefx-imagen3-user-experience
 #### ① 来看看例子
 
 在 ImageFx 上使用相同 Prompt 生成图片如下：
-![google-imagefx-kq.png](https://list.ucards.store/d/img/google-imagefx-kq.png)
+![google-imagefx-kq.png](https://list.ucards.store/d/img/google-imagefx-kq.webp)
 
 ---
 
@@ -79,11 +79,11 @@ slug: /google-imagefx-imagen3-user-experience
 
 - **1️⃣ 原始提示词及智能识别**
   > ImageFx 识别出 `modern` (现代) 等关键词。
-  > ![google-imagefx-wo.png](https://list.ucards.store/d/img/google-imagefx-wo.png)
+  > ![google-imagefx-wo.png](https://list.ucards.store/d/img/google-imagefx-wo.webp)
 
 - **2️⃣ 修改风格为 `medieval` (中世纪)**
   > 点击 `modern` 并选择 `medieval`，生成了风格迥异但同样高质量的图像。
-  > ![google-imagefx-zt.png](https://list.ucards.store/d/img/google-imagefx-zt.png)
+  > ![google-imagefx-zt.png](https://list.ucards.store/d/img/google-imagefx-zt.webp)
 
 ### 2. Seed 功能：创作连续性的关键
 
@@ -101,7 +101,7 @@ slug: /google-imagefx-imagen3-user-experience
 #### ① 来看看例子
 
 锁定 Seed 后，将提示词中的 `marble floor` (大理石地板) 改为 `wooden floors` (木地板)，画面主体结构和光影保持一致，但地板材质成功改变。
-![google-imagefx-zv.png](https://list.ucards.store/d/img/google-imagefx-zv.png)
+![google-imagefx-zv.png](https://list.ucards.store/d/img/google-imagefx-zv.webp)
 
 ---
 

@@ -7,7 +7,7 @@ slug: /cloak-technology-for-replica-sites
 
 # 仿牌独立站广告过审痛点突破：Cloak 斗篷技术（FB-Google 版）原理与插件推荐
 
-![facebook-google-instagram-cloak-ac.png](https://list.ucards.store/d/img/facebook-google-instagram-cloak-ac.png)
+![facebook-google-instagram-cloak-ac.png](https://list.ucards.store/d/img/facebook-google-instagram-cloak-ac.webp)
 
 :::tip[你是否也面临这些问题？]
 - ✅ 广告因“假冒商品”政策被拒？

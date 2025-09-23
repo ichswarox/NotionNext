@@ -47,7 +47,7 @@ slug: /wordpress-server-recommendation
 
 务必选择 **Ubuntu 22.04** 版本，这是目前最稳定且兼容性最好的选择之一。
 
-![购买时注意系统选择Ubuntu22](https://list.ucards.store/d/img/ubuntu22-so.png)
+![购买时注意系统选择Ubuntu22](https://list.ucards.store/d/img/ubuntu22-so.webp)
 `图示：操作系统选择 Ubuntu 22`
 
 ### 2. 服务器地理位置
@@ -56,5 +56,5 @@ slug: /wordpress-server-recommendation
 - **面向欧洲用户**：推荐选择美国东海岸的机房，如 **New York**。
 - **有国内访问需求或面向北美用户**：推荐选择美国西海岸的机房，如 **San Jose**。
 
-![服务器地点选择](https://list.ucards.store/d/img/ubuntu22-zs.png)
+![服务器地点选择](https://list.ucards.store/d/img/ubuntu22-zs.webp)
 `图示：服务器地理位置选择`

@@ -7,7 +7,7 @@ slug: /woocommerce-ab-redirect-payment-gateway-tutorial
 
 # WordPress-WooCommerce购物网站安装AB跳转支付插件接口的教程
 
-![woocommerce-payment-gateway.png](https://list.ucards.store/d/img/woocommerce-payment-gateway.png)
+![woocommerce-payment-gateway.png](https://list.ucards.store/d/img/woocommerce-payment-gateway.webp)
 
 :::tip[你是否正为支付接口烦恼？]
 - ✅ 支付通道不稳定，频繁被封？
@@ -52,7 +52,7 @@ AB跳转支付，也称为轮询支付或支付网关重定向，是一种针对
 
 ### 3. 上传插件
 点击页面顶部的 **“上传插件”** 按钮，然后选择你下载好的插件 `.zip` 文件，点击 **“现在安装”**。
-![upload-plugin.png](https://list.ucards.store/d/img/upload-plugin.png)
+![upload-plugin.png](https://list.ucards.store/d/img/upload-plugin.webp)
 
 ### 4. 激活插件
 安装成功后，点击 **“启用插件”** 按钮。激活后，通常在WooCommerce的设置菜单中会看到新的支付选项。

@@ -19,7 +19,7 @@ slug: /wordpress-https-unsafe-fix
 
 首先，在你的WordPress后台，进入“插件” -> “安装插件”，搜索 "Easy HTTPS (SSL) Redirection"，然后安装并启用它。
 
-![下载插件Easy HTTPS(SSL)Redirection](https://list.ucards.store/d/img/easy-https-redirection-bs.png)
+![下载插件Easy HTTPS(SSL)Redirection](https://list.ucards.store/d/img/easy-https-redirection-bs.webp)
 `图示：在WordPress插件市场搜索并安装Easy HTTPS (SSL) Redirection`
 
 ### 2. 配置插件
@@ -29,14 +29,14 @@ slug: /wordpress-https-unsafe-fix
 - **Enable automatic redirection to the HTTPS:** 勾选此项，开启自动跳转。
 - **Apply HTTPS redirection on:** 选择 "The whole domain"，即对全站生效。
 
-![按照图片配置](https://list.ucards.store/d/img/easy-https-redirection-xl.png)
+![按照图片配置](https://list.ucards.store/d/img/easy-https-redirection-xl.webp)
 `图示：Easy HTTPS (SSL) Redirection 插件配置页面`
 
 ### 3. 验证结果
 
 配置完成后，清除浏览器缓存，重新访问你的网站。此时，你应该能看到地址栏显示出安全锁标志，"不安全"的提示已经消失。
 
-![解决HTTPS错误](https://list.ucards.store/d/img/https-error-ih.png)
+![解决HTTPS错误](https://list.ucards.store/d/img/https-error-ih.webp)
 `图示：配置成功后，浏览器显示安全连接`
 
 ---

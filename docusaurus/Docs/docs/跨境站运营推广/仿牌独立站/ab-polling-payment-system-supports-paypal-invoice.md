@@ -7,7 +7,7 @@ slug: /ab-polling-payment-system-supports-paypal-invoice
 
 # 2025年仿牌独立站AB轮询支付系统支持-PayPal Invoice 通道
 
-![paypal-invoice-payment.png](https://list.ucards.store/d/img/paypal-invoice-payment.png)
+![paypal-invoice-payment.png](https://list.ucards.store/d/img/paypal-invoice-payment.webp)
 
 :::tip[还在为收款通道发愁吗？探索下一代支付解决方案！]
 - ✅ 传统AB站跳转模式风控越来越严？
@@ -60,7 +60,7 @@ slug: /ab-polling-payment-system-supports-paypal-invoice
 5.  **客户收到邮件并支付**：客户打开邮箱，看到一封来自PayPal的官方邮件，点击邮件中的“支付发票”按钮，在PayPal官方页面完成付款。
 6.  **状态回调，更新订单**：客户支付成功后，PayPal会向你的轮询系统发送一个IPN（即时付款通知）。系统收到通知后，再将“已付款”的状态同步回你的A站，自动更新订单状态。
 
-![ab-polling-invoice-flow.png](https://list.ucards.store/d/img/ab-polling-invoice-flow.png)
+![ab-polling-invoice-flow.png](https://list.ucards.store/d/img/ab-polling-invoice-flow.webp)
 
 ---
 

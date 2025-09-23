@@ -7,7 +7,7 @@ slug: /how-to-build-replica-site-for-beginners-2025
 
 # 2025年外贸仿牌独立站怎么做，新手入门必须了解
 
-![replica-site-guide.png](https://list.ucards.store/d/img/replica-site-guide.png)
+![replica-site-guide.png](https://list.ucards.store/d/img/replica-site-guide.webp)
 
 :::tip[想入局仿牌独立站，却不知从何下手？]
 - ✅ 对建站、收款、引流一头雾水？

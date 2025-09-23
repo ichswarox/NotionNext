@@ -7,7 +7,7 @@ slug: /woocommerce-deposits-and-payment-plans
 
 # 如何在WooCommerce商城中实现产品预付款和分阶段付款功能？
 
-![woocommerce-deposits.png](https://list.ucards.store/d/img/woocommerce-deposits.png)
+![woocommerce-deposits.png](https://list.ucards.store/d/img/woocommerce-deposits.webp)
 
 :::tip[你的商品单价是否较高？]
 - ✅ 销售高价值商品，客户一次性付款压力大？
@@ -58,7 +58,7 @@ slug: /woocommerce-deposits-and-payment-plans
 - **Default Deposit Amount**：填写默认的百分比或金额。
 - **Default Payment Plans**：选择一个默认的付款计划（如果已创建）。
 
-![deposits-global-settings.png](https://list.ucards.store/d/img/deposits-global-settings.png)
+![deposits-global-settings.png](https://list.ucards.store/d/img/deposits-global-settings.webp)
 
 ### 3. 创建付款计划 (Payment Plans)
 进入 **“WooCommerce” -> “Payment Plans” -> “Add New”**。
@@ -69,7 +69,7 @@ slug: /woocommerce-deposits-and-payment-plans
     - **第一行**：`Pay 50%` | `After 1` | `Month` (支付50%，在1个月后)
     - **第二行**：`Pay Remaining Balance` | `After 1` | `Month` (支付余款，再过1个月后)
 
-![payment-plan-setup.png](https://list.ucards.store/d/img/payment-plan-setup.png)
+![payment-plan-setup.png](https://list.ucards.store/d/img/payment-plan-setup.webp)
 
 ### 4. 为单个产品配置定金
 编辑一个产品，在 **“产品数据”** 面板中，你会看到一个新的 **“Deposits”** 选项卡。
@@ -78,7 +78,7 @@ slug: /woocommerce-deposits-and-payment-plans
 - **Deposit Type**：可以选择“百分比”、“固定金额”或“付款计划”。
 - **Deposit Amount / Payment Plans**：根据你的选择，填写具体的金额或选择一个已创建的付款计划。
 
-![product-deposit-settings.png](https://list.ucards.store/d/img/product-deposit-settings.png)
+![product-deposit-settings.png](https://list.ucards.store/d/img/product-deposit-settings.webp)
 
 ---
 
@@ -87,7 +87,7 @@ slug: /woocommerce-deposits-and-payment-plans
 ### 客户体验
 配置完成后，在产品页面，客户会看到支付选项，可以选择“全额付款”或“支付定金”。如果选择了定金，购物车和结账页面会清楚地显示本次需支付的金额和未来的付款计划。
 
-![frontend-view.png](https://list.ucards.store/d/img/frontend-view.png)
+![frontend-view.png](https://list.ucards.store/d/img/frontend-view.webp)
 
 ### 订单管理
 - **新订单**：当客户支付定金后，后台会生成一个状态为“部分付款 (Partially Paid)”的新订单。

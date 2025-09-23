@@ -19,7 +19,7 @@ slug: /paypal-me-for-replica-sites
 - 学会使用多账户轮询技术来分散风险。
 - 明白此方法相对于传统支付方式的优势。
 
-![paypal-payment-rj.png](https://list.ucards.store/d/img/paypal-payment-rj.png)
+![paypal-payment-rj.png](https://list.ucards.store/d/img/paypal-payment-rj.webp)
 `图示：PayPal.Me快捷收款指南`
 
 ## 一、PayPal.Me 是什么？
@@ -36,24 +36,23 @@ PayPal.Me是一种与您的企业账户相联的个性化链接。您仅需为�
 
 ### 1. 登录 PayPal 账户
 访问官网链接：[https://paypal.me](https://paypal.me) 并登录你的PayPal账户。
-![paypal-payment-zd.png](https://list.ucards.store/d/img/paypal-payment-zd.png) 
+![paypal-payment-zd.png](https://list.ucards.store/d/img/paypal-payment-zd.webp) 
 
 ### 2. 个性化你的页面
 添加你的Logo或头像，并附上一段简短的个人或企业介绍。
-![paypal-payment-oy.png](https://list.ucards.store/d/img/paypal-payment-oy.png)
+![paypal-payment-oy.png](https://list.ucards.store/d/img/paypal-payment-oy.webp)
 
 ### 3. 创建自定义链接
 为你的账户创建一个独特且易于记忆的链接。
-![paypal-payment-xq.png](https://list.ucards.store/d/img/paypal-payment-xq.png) 
+![paypal-payment-xq.png](https://list.ucards.store/d/img/paypal-payment-xq.webp) 
 
 ### 4. 创建成功并分享
 链接创建成功后，你就可以将它分享给你的客户或朋友，轻松收款了。
-![paypal-payment-fh.png](https://list.ucards.store/d/img/paypal-payment-fh.png)
+![paypal-payment-fh.png](https://list.ucards.store/d/img/paypal-payment-fh.webp)
 
 ## 三、PayPal.Me 付款流程是怎样的？
 
 虽然直接发送链接给客户手动付款可行，但这会大大增加工作量并降低转化率。通过技术手段，我们可以将这个流程自动化，实现“一步支付”。
-> 想了解更多黑科技？可以看看这篇文章：[Paypal黑科技 – 亲友互转](http://bbb " Paypal黑科技 – 亲友互转")
 
 ### 1. 结算界面
 客户在你的独立站填写基本信息并点击下单后，页面会自动跳转到PayPal网站。

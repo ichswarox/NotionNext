@@ -7,7 +7,7 @@ slug: /woocommerce-hide-billing-fields-for-virtual-products
 
 # WooCommerce：如果是虚拟产品，则隐藏结帐帐单字段
 
-![woocommerce-virtual-product.png](https://list.ucards.store/d/img/woocommerce-virtual-product.png)
+![woocommerce-virtual-product.png](https://list.ucards.store/d/img/woocommerce-virtual-product.webp)
 
 :::tip[你的网店是否销售虚拟产品？]
 - ✅ 销售软件、电子书、课程或服务？
