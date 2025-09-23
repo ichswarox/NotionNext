@@ -8,7 +8,7 @@ slug: /apple-compressor-v490
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-![FinalCutPro-pd.webp](https://list.ucards.store/d/img/FinalCutPro-pd.webp)
+![FinalCutPro-ro.webp](https://list.ucards.store/d/img/FinalCutPro-ro.webp)
 
 *Last updated: Sep 23 2025*
 
