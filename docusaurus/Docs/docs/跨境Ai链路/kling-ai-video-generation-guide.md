@@ -22,7 +22,7 @@ slug: /kling-ai-video-generation-guide
 学会利用局部参考等高级功能，精准控制视频效果。
 信心满满地为你的电商产品创建吸引人的视频广告！
 
-![利用AI技术，轻松生成高质量电商产品视频](https://list.ucards.store/d/img/kling-image-video-ae.webp)
+![利用AI技术，轻松生成高质量电商产品视频](https://list.ucards.store/d/img/kling-image-video-ae.png)
 `图示：利用AI技术，轻松生成高质量电商产品视频`
 
 ## 一、快速入门：三步生成你的第一个产品视频
@@ -34,7 +34,7 @@ slug: /kling-ai-video-generation-guide
 ### 1. 选择模型并上传图片
 首先，访问 [在线产品链接](https://app.klingai.com/cn/image-to-video/frame-mode/new?ra=4)，并选择 **可灵2.1** 大模型。
 
-> ![kling-image-video-fa.png](https://list.ucards.store/d/img/kling-image-video-fa.webp)
+> ![kling-image-video-fa.png](https://list.ucards.store/d/img/kling-image-video-fa.png)
 
 然后，选中 **图生视频** 功能，并上传你的产品图。
 

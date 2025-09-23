@@ -166,7 +166,7 @@ ComfyUI 内核: v0.3.13
 *   **图生图**: [案例下载](https://list.neoxu.store/d/editor_design/krita-assets/face-gatherer.kra)
 *   **扩展生成**: [案例下载](https://list.neoxu.store/d/editor_design/krita-assets/expand-Slab.kra)
 *   **智能移除**: [案例下载](https://list.neoxu.store/d/editor_design/krita-assets/remove.kra)
-*   
+  
 
 
 ## Krita 快捷键推荐配置表
