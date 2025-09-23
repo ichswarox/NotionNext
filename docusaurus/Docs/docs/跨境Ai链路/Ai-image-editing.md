@@ -242,12 +242,14 @@ C:\Users\[Yours User Name]\AppData\Roaming\krita
 :::
 
 
-## 常见问题:如何修改分辨率？
+## 常见问题:
+
+### 如何修改分辨率？
 
 生成或者修改的图片建议1200x1200，大于这个分辨率每次生成会消耗更多的运算性能，在线版用户可能导致积分异常消耗，常规来说用SDXL模型生成1200宽高的图片会消耗5个积分。
 ![如何修改分辨率-ld.png](https://list.ucards.store/d/img/如何修改分辨率-ld.webp)
 
-如何克隆绘制？
+### 如何克隆绘制？
 ![如何克隆绘制-jz.png](https://list.ucards.store/d/img/如何克隆绘制-jz.webp)
 
 如何渐隐区域？
@@ -256,18 +258,18 @@ C:\Users\[Yours User Name]\AppData\Roaming\krita
   你的浏览器不支持视频播放，请更新浏览器。
 </video>
 
-如何新建一个图层合并可见内容？
+###  如何新建一个图层合并可见内容？
 找到图层---查看和更改图层属性---新建图层-基于可见内容
 ![合并可见内容-xx.png](https://list.ucards.store/d/img/合并可见内容-xx.webp)
 
-如何用曲线让产品融入？
+### 如何用曲线让产品融入？
 顶部菜单 滤镜---调整图像/颜色---曲线-颜色调整
 ![颜色调整-lo.png](https://list.ucards.store/d/img/颜色调整-lo.webp)
 <video src="https://list.ucards.store/d/img/颜色调整-lo.mp4" controls width="600">
   你的浏览器不支持视频播放，请更新浏览器。
 </video>
 
-如何笔刷消除边界？
+### 如何笔刷消除边界？
 左边菜单 笔刷---在顶部搜索blender笔刷---合并可见图层后用笔刷涂抹边界
 ![笔刷消除边界-lc.png](https://list.ucards.store/d/img/笔刷消除边界-lc.webp)
 
@@ -275,3 +277,21 @@ C:\Users\[Yours User Name]\AppData\Roaming\krita
 <video src="https://list.ucards.store/d/img/笔刷消除边界.mp4" controls width="600">
   你的浏览器不支持视频播放，请更新浏览器。
 </video>
+
+### Krita Ai生成时间慢
+1.查看任务管理器 切换到显卡 查看显存的占用 正常来说
+    *   推荐使用至少16GB VRAM (NVIDIA)的显卡，否则生成图像将花费很长时间，或者可能由于内存不足而失败！
+    *   -SD1.5 推荐8GB 质量低 
+    *   -SDXL 推荐12GB 质量中 可满足大部分需求 
+    *   -FLUX 推家16GB显存 质量高
+同时注意一下，绘世启动器的这两个配置：
+生成引擎需要选择显卡，只支持Nvidia显卡，。
+使用共享显存，该选项是启动内存弥补显存不足，显存充足的情况下还是建议使用显存。（8G显存的显卡 建议打开）
+  ![comfyui-dc.webp](https://list.ucards.store/d/img/comfyui-dc.webp)
+
+
+### 提示有Missing Nodes
+    *  点击Manager
+    ![missing-nodes-ey.webp](https://list.ucards.store/d/img/missing-nodes-ey.webp)
+    *  点击install missing
+    ![install-missing-nodes-rk.webp](https://list.ucards.store/d/img/install-missing-nodes-rk.webp)
