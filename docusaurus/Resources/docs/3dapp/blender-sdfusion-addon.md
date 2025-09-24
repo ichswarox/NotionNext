@@ -6,17 +6,17 @@ slug: /blender-sdfusion-addon
 ---
 ![SDFusion: An Intuitive SDF-like Modeling Toolkit for Blender](../../static/img/SDFusion.jpg)
 
-import ReactPlayer from 'react-player';
-
 **SDFusion**, a new toolkit addon by developer Hinata Fugu, brings an intuitive, SDF (Signed Distance Field)-like workflow for non-destructive boolean and remeshing operations to Blender.
 
 <div className="player-wrapper">
-  <ReactPlayer
+  <iframe 
     className="react-player"
-    url="https://www.youtube.com/watch?v=hF-PL5eetSI"
-    width="100%"
-    height="100%"
-    controls={true}
+    src="https://www.youtube.com/embed/hF-PL5eetSI" 
+    width="100%" 
+    height="100%" 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowFullScreen
   />
 </div>
 
@@ -44,14 +44,6 @@ The addon comes bundled with a high-quality collection of original cutter assets
 
 :::caution Important Note
 The addon provides an **SDF-like** experience. It does not use Geometry Nodes but is structurally a boolean workflow based on collections.
-:::
-
-:::tip[Get SDFusion]
-You can get the latest version of SDFusion for **free** on Booth. It is also available for **$2** on Superhive. An older version is also available for free on the developer's Note page.
-
-*   **[➡️ Get SDFusion on BOOTH (Free)](https://hinata-hugu29.booth.pm/items/7194778)**
-*   **[➡️ Get SDFusion on Superhive ($2)](https://superhivemarket.com/products/sdfusion?ref=185)**
-*   **[➡️ Read more on Note (Older version)](https://note.com/gentle_lupine925/n/n7bf9feecac06)**
 :::
 
 #### Acknowledgements

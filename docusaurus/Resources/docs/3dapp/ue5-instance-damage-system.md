@@ -5,17 +5,17 @@ keywords: ['Unreal Engine 5', 'UE5', 'plugin', 'asset', 'game development', 'ins
 slug: /ue5-instance-damage-system
 ---
 
-import ReactPlayer from 'react-player';
-
 The **Instance Damage System v2.0**, a plugin by developer Adi for Unreal Engine 5, allows you to add damage and interaction to instanced static meshes. It makes it easy to implement systems where damaged instances are replaced, trigger physics simulations, or respawn over time.
 
 <div className="player-wrapper">
-  <ReactPlayer
+  <iframe 
     className="react-player"
-    url="https://www.youtube.com/watch?v=visaDh7EXeo"
-    width="100%"
-    height="100%"
-    controls={true}
+    src="https://www.youtube.com/embed/visaDh7EXeo" 
+    width="100%" 
+    height="100%" 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowFullScreen
   />
 </div>
 

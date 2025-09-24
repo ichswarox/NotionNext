@@ -5,8 +5,6 @@ keywords: ['Maxon', 'Cinema 4D', 'C4D', 'ZBrush', 'Redshift', 'Red Giant', 'Maxo
 slug: /maxon-fall-2025-release
 ---
 
-import ReactPlayer from 'react-player';
-
 Maxon has officially announced its Fall 2025 updates for its suite of creative tools, including major enhancements for Cinema 4D and ZBrush. Alongside the software news, the company has released a stunning collection of new demo reels showcasing the power of its products.
 
 ## Maxon Fall 2025 Release Overview
@@ -14,30 +12,34 @@ Maxon has officially announced its Fall 2025 updates for its suite of creative t
 This release introduces new innovations across the entire creative ecosystem, streamlining workflows and breaking down technical barriers for artists in VFX, motion graphics, 3D modeling, sculpting, rendering, and editing.
 
 <div className="player-wrapper">
-  <ReactPlayer
+  <iframe 
     className="react-player"
-    url="https://www.youtube.com/watch?v=Wa2poeAmFc4"
-    width="100%"
-    height="100%"
-    controls={true}
-  />
+    src="https://www.youtube.com/embed/Wa2poeAmFc4" 
+    width="100%" 
+    height="100%" 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowFullScreen
+ />
 </div>
 
 ---
 
 ## Software Updates
 
-### What’s New in Cinema 4D 2025
+### What's New in Cinema 4D 2025
 
 The latest release of Cinema 4D empowers artists with **MoGraph simulations for cloth, Pyro, particles, and liquids**. It also enhances the pipeline for game creators, allowing them to bring C4D assets directly into Unreal Engine with rigged animations. Other additions include **AI-powered search, procedural plants and clouds, and new materials** like wax, soap, and wool to enhance realism.
 
 <div className="player-wrapper">
-  <ReactPlayer
+  <iframe 
     className="react-player"
-    url="https://www.youtube.com/watch?v=7P_Uy1cGZqc"
-    width="100%"
-    height="100%"
-    controls={true}
+    src="https://www.youtube.com/embed/7P_Uy1cGZqc" 
+    width="100%" 
+    height="100%" 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowFullScreen
   />
 </div>
 
@@ -46,12 +48,14 @@ The latest release of Cinema 4D empowers artists with **MoGraph simulations for 
 The Fall 2025 ZBrush release introduces **Python scripting support**, enabling artists to create custom plugins, automate repetitive tasks, and integrate ZBrush into film and game pipelines. Key features from the iPad version, such as the **3D Print Hub and Scale Master**, are now part of the desktop version, providing powerful tools for rapid prototyping and 3D printing.
 
 <div className="player-wrapper">
-  <ReactPlayer
+  <iframe 
     className="react-player"
-    url="https://www.youtube.com/watch?v=DdKubRp7C4A"
-    width="100%"
-    height="100%"
-    controls={true}
+    src="https://www.youtube.com/embed/DdKubRp7C4A" 
+    width="100%" 
+    height="100%" 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowFullScreen
   />
 </div>
 
@@ -66,12 +70,14 @@ Maxon has also released a series of demo reels that highlight the incredible wor
 This reel showcases the combined power of Cinema 4D, Red Giant, Redshift, and ZBrush.
 
 <div className="player-wrapper">
-  <ReactPlayer
+  <iframe 
     className="react-player"
-    url="https://www.youtube.com/watch?v=-nCaykJUhFg"
-    width="100%"
-    height="100%"
-    controls={true}
+    src="https://www.youtube.com/embed/-nCaykJUhFg" 
+    width="100%" 
+    height="100%" 
+    frameBorder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowFullScreen
   />
 </div>
 
@@ -84,7 +90,3 @@ This reel showcases the combined power of Cinema 4D, Red Giant, Redshift, and ZB
 *   **[Maxon Gaming Reel 2025](https://www.youtube.com/watch?v=eHMNq8EY1Q0)**
 *   **[Maxon Sports Reel 2025](https://www.youtube.com/watch?v=XgP8YTSkkAw)**
 *   **[Maxon ArchViz Reel 2025](https://www.youtube.com/watch?v=FBVW2tc5gF4)**
-
-For more details on all the new releases, visit the official Maxon website.
-
-**[➡️ Maxon Official Website](https://www.maxon.net/)**

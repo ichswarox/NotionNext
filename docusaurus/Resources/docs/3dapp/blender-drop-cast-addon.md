@@ -7,19 +7,21 @@ slug: /blender-drop-cast-addon
 ![Drop Cast: A Physics-Based Scattering Tool for Blender](https://3dnchu.com/wp-content/uploads/drop-cast-v1-0.webp)
 
 
-import ReactPlayer from 'react-player';
-
 Casey_Sheep, a developer known for creating numerous useful addons, has released "Drop Cast," a new physics-based scattering tool for Blender. This addon simplifies the process of populating scenes with assets, using physics for realistic placement.
 
-<div className="player-wrapper">
-  <ReactPlayer
-    className="react-player"
-    url="https://www.youtube.com/watch?v=M9xXWZDTHlg"
-    width="100%"
-    height="100%"
-    controls={true}
-  />
+<div class="player-wrapper">
+  <iframe 
+    class="react-player"
+    src="https://www.youtube-nocookie.com/embed/M9xXWZDTHlg" 
+    width="100%" 
+    height="100%" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    title="Drop Cast Blender Addon Demo Video"
+ />
 </div>
+
 
 > With Drop Cast, you can transform any asset collection into a complete scene in seconds. No more tedious manual placement—just drop, scatter, and you're done.
 
