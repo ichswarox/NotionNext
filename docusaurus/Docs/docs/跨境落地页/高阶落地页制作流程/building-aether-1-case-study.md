@@ -230,13 +230,3 @@ Aether 1 成功地展示了品牌叙事、先进的 WebGL 交互和严谨的 3D 
 - **前端 / Webflow** – Youness Benammou
 
 ---
-
-## 七、拓展与资源
-
-### 1. 相关阅读
-
-- 📚[Wish You Were Here – Win a Free Ticket to Penpot Fest 2025!](https://tympanus.net/codrops/2025/08/04/wish-you-were-here-win-a-free-ticket-to-penpot-fest-2025/)
-- 📚[Designer Spotlight: Julie Marting](https://tympanus.net/codrops/2025/08/07/designer-spotlight-julie-marting/)
-- 📚[Ideas for Grid to Slideshow Switch Animations](https://tympanus.net/codrops/2023/05/04/ideas-for-grid-to-slideshow-switch-animations/)
-- 📚[Grid View Switch Animation](https://tympanus.net/codrops/2023/04/12/grid-view-switch-animation/)
-- 📚[Repetitive Typography Animation](https://tympanus.net/codrops/2021/10/20/repetitive-typography-animation/)

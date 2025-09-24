@@ -1,14 +1,14 @@
 ---
-title: "2025最新跨境电商-局部控图"
+title: "Liblib-局部控图"
 description: "全方位跨境指南-Ai赋能, 利用Krita和ComfyUI，通过本地部署或云服务，实现精准控制的AI图像生成与编辑，优化电商视觉内容。"
 keywords: ["AI作图", "Krita", "ComfyUI", "跨境电商", "视觉优化"]
-slug: /ai-image-editing-workflow
+slug: /liblib-ai-image-editing
 tags: [AI, 图像生成, Krita, ComfyUI, 教程]
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# 跨境全链路-Ai做图工具
+# Liblib-局部控图
 ![AI 图像工具](/img/image%20tool.jpg)
 
 

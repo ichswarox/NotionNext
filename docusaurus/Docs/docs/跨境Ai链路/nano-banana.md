@@ -1,5 +1,5 @@
 ---
-title: "最新控图工作流，90%跨境卖家还在手动修图？我用Gemini 2.5 Flash 10步搞定全品类产品页，效率提升800%"
+title: "Nano-Banana局部控图"
 description: "了解如何使用Gemini 2.5 Flash进行电商产品AI生成，创建一致性视觉内容。从主产品图到生活方式场景，10个步骤全面覆盖电商视觉内容制作。"
 keywords: ["AI生成", "Gemini 2.5 Flash", "电商视觉", "产品摄影", "图像生成", "视觉一致性"]
 slug: /gemini-ai-image-generation-ecommerce
@@ -7,7 +7,7 @@ slug: /gemini-ai-image-generation-ecommerce
 <!--https://www.philschmid.de/gemini-image-generation-product-->
 
 <!-- Title Line-->
-# 电商产品AI生成的10个步骤：Gemini 2.5 Flash实战指南
+# Nano-Banana局部控图
 
 ![Gemini AI图像生成示例](/img/master.jpg)
 `图示：使用Gemini 2.5 Flash生成的主产品图`
