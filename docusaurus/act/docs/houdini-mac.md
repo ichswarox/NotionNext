@@ -127,7 +127,7 @@ HOUDINI_DISABLE_OPENFX_DEFAULT_PATH = 1
 #### 注意事项
 - 选择以 `py3` 开头的版本，不要选择 `default` 版本
 - 根据你的 Houdini 版本修改配置信息中的版本号
-
+ 
 #### 配置步骤
 1. 找到 Houdini 配置文件 `houdini.env`
 2. 添加以下配置信息：
