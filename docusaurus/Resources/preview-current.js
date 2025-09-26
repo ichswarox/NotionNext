@@ -6,7 +6,7 @@ const filePathToUrl = (filePath) => {
   if (filePath.startsWith('docs/')) {
     const fileName = filePath.split('/').pop(); // 取文件名
     const slug = fileName.replace(/\.mdx?$/, ''); // 移除 .md 或 .mdx
-    return `http://localhost:3001/${slug}`;
+    return `http://localhost:3000/${slug}`;
   }
   return null;
 };
