@@ -5,7 +5,7 @@ keywords: ["DaVinci Resolve", "Kodak", "Film Emulation", "PowerGrade", "FilterGr
 slug: /davinci-resolve-kodak-film-emulation-powergrade
 ---
 
-<div class="text-right" style="margin-bottom: 1rem;">Last updated: Sep 30 2025</div>
+Last updated: Sep 30 2025
 
 ![DaVinci Resolve Kodak Film Emulation Powergrade - FilterGrade](https://www.gfxcamp.com/wp-content/uploads/2025/09/FilterGrade-Davinci-Resolve-Kodak-film-Emulation-Powergrade.jpg)
 

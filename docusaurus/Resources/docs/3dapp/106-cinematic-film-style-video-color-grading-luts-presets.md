@@ -5,8 +5,6 @@ keywords: ["3D LUTS", "AE Color Grading", "FCPX Color Grading", "Pr Color Gradin
 slug: /106-cinematic-film-style-video-color-grading-luts-presets
 ---
 
-<div class="text-right" style="margin-bottom: 1rem;">Last updated: Sep 30 2025</div>
-
 ![106 Cinematic Film-Style Video Color Grading LUTs Presets for DaVinci/AE/PR/FCPX/CapCut/PS etc.](https://www.gfxcamp.com/wp-content/uploads/2025/09/Film-Stock-Film-inspired-LUTs.jpg)
 
 ## 106 Cinematic Film-Style Video Color Grading LUTs Presets for DaVinci/AE/PR/FCPX/CapCut/PS etc.

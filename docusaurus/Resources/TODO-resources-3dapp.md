@@ -36,5 +36,7 @@ and Post structure:
 12. any link to taobao change to [Direct Download Link](https://wa.me/8613237610083)
 13. first banner image is like: 
     ![Alt-Name](https://www.gfxcamp.com/wp-content/uploads/2025/09/image.jpg)
+14. Don't import {Admonition} from '@docusaurus/theme-common';
+15. Don't add <div class just use docusaurus markdown format.
 
 

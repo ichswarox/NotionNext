@@ -5,7 +5,7 @@ keywords: ["Cinematic LUTs", "Video Color Grading", "Film Color Grading", "AE Co
 slug: /66-cinematic-video-luts-by-watzac
 ---
 
-<div class="text-right" style="margin-bottom: 1rem;">Last updated: Sep 30 2025</div>
+Last updated: Sep 30 2025
 
 ![66 Cinematic Video LUTs by Watzac - Professional Film-Style Color Grading Presets](https://www.gfxcamp.com/wp-content/uploads/2025/09/Cinematic-Video-LUTs-By-Watzac.jpg)
 

@@ -5,7 +5,7 @@ keywords: ["Kodak", "2383", "Colorist Factory", "LUTs", "AE Color Grading", "FCP
 slug: /kodak-2383-print-film-emulation-lut
 ---
 
-<div class="text-right" style="margin-bottom: 1rem;">Last updated: Sep 30 2025</div>
+Last updated: Sep 30 2025
 
 ![Kodak 2383 Print Film Emulation LUT - Colorist Factory](https://www.gfxcamp.com/wp-content/uploads/2025/09/Colorist-Factory-Kodak-2383-Print-Film-Emulation-LUT.jpg)
 
