@@ -1,78 +1,88 @@
 ---
-title: Aescripts Color Llama - AE/PR Color Replacement Plugin
-description: Create precise color pairs to transform one color into another for professional color grading and brand matching in After Effects and Premiere Pro
-keywords: ["After Effects", "Premiere Pro", "color grading", "plugin", "color replacement", "LUT", "video editing"]
+title: "Aescripts Color Llama V1.0"
+description: "AE/PR plugin for color selection and color replacement in videos. Create color pairs to transform one color into another, similar to Colorama but with more flexibility."
+keywords: ["AE plugin", "color replacement", "video editing", "color grading", "Pr plugin", "color swapping", "video color correction"]
 slug: /aescripts-color-llama
 ---
-
-Last updated: Sep 24 2025
-
-![Color Llama Plugin Interface](https://www.gfxcamp.com/wp-content/uploads/2025/09/Color-Llama.jpg)
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## AE/PR Color Replacement Plugin for Professional Color Grading
+# Aescripts Color Llama V1.0
 
-:::tip
-Like Colorama but with enhanced precision! Create color pairs to transform specific hues, perfect for professional color grading, brand color matching, and footage consistency across multiple cameras.
+<time className="post-meta">Last updated: Sep 24 2025</time>
+
+<div style={{textAlign: 'center', margin: '2rem 0'}}>
+  <img src="https://www.gfxcamp.com/wp-content/uploads/2025/09/Color-Llama.jpg" alt="Aescripts Color Llama" style={{maxWidth: '600px', height: 'auto'}} />
+</div>
+
+## Overview
+
+Color Llama works like Colorama but with more flexibility! Create pairs of colors to turn one color into another. Use it for color grading, matching brand colors, and matching footage shot on different cameras. Export the result to a Cube LUT file for use in most major video and animation software.
+
+:::info
+Like Colorama, but fuzzier! Create pairs of colors to turn one color into another. Use to color grade, match brand colors, and match footage shot on different cameras. Export the result to a Cube LUT file for use in most major video and animation software!
 :::
 
-### Core Functionality
+## Features
 
-- Create precise color transformation pairs
-- Target specific color ranges with adjustable fuzziness
-- Export results as Cube LUT files for cross-software compatibility
-- Ideal for color grading, brand color matching, and multi-camera footage alignment
-- Works seamlessly with most major video and animation software
+- Color selection and replacement
+- Create color pairs for transformation
+- Brand color matching
+- Multi-camera footage matching
+- Export to Cube LUT format
+- Compatible with major video software
+- Works with After Effects and Premiere Pro
 
-### System Requirements
-
-- **After Effects**: 2026, 2025, 2024
-- **Premiere Pro**: 2026, 2025, 2024
-- Windows operating system (Win)
-
-### Installation Instructions
+## Supported Software Versions
 
 <Tabs>
 <TabItem value="ae" label="After Effects">
-
-1. Copy `ColorLlama.aex` to:
-```
-C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\
-```
-
-2. For troubleshooting:
-   - Use English version of After Effects (Chinese version may cause expression errors)
-   - Enable script permissions: Edit → Preferences → General → Check "Allow Scripts to Write Files and Access Network"
-   - Ensure compatibility with your AE version
-
+- After Effects 2026
+- After Effects 2025
+- After Effects 2024
+</TabItem>
+<TabItem value="pr" label="Premiere Pro">
+- Premiere 2026
+- Premiere 2025
+- Premiere 2024
 </TabItem>
 </Tabs>
 
-### Tutorial Resources
-
-<iframe loading="lazy" src="https://player.youku.com/embed/XNjQ5NDc4NDY5Mg==" width="100%" height="360" frameborder="0" allowfullscreen allow="autoplay"></iframe>
-
-### Download Options
+## Installation
 
 <Tabs>
-<TabItem value="baidu" label="Baidu Cloud">
-
-| Resource | Link | Password |
-|----------|------|----------|
-| Color Llama V1.0 | [Download](https://pan.baidu.com/s/1cpi2GzJk805667ik0LiAEw?pwd=ktw3) | ktw3 |
-
+<TabItem value="ae" label="After Effects">
+  1. Copy ColorLlama.aex to C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\
+  2. Restart After Effects
+  3. The plugin will be available in your effects panel
+</TabItem>
+<TabItem value="pr" label="Premiere Pro">
+  1. Copy the plugin files to C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\
+  2. Restart Premiere Pro
+  3. The plugin will be available in your effects panel
 </TabItem>
 </Tabs>
 
-### Technical Specifications
+## Troubleshooting
 
-- Output Format: Cube LUT compatible
-- Workflow Integration: Directly exportable to most video/animation software
-- Precision Control: Adjustable fuzziness for targeted color replacement
-- Application: Professional color grading, brand color standardization, multi-camera matching
+- If the plugin doesn't work, avoid using Chinese version of AE as expressions may cause errors
+- In Preferences (Edit—Preferences—General), check "Allow Scripts to Write Files and Access Network"
+- Verify that your software version is supported by the plugin
 
-### SEO Tags
+## System Requirements
 
-#ae #premierepro #colorgrading #colormap #videoplugin #postproduction #editingtools #luts
+- After Effects 2024 or later / Premiere Pro 2024 or later
+- Windows operating system
+- Sufficient disk space for installation
+
+## Download Links
+
+| Software | Platform | File Size | Download Link |
+|----------|----------|-----------|---------------|
+| After Effects/Premiere | Windows | N/A | [Baidu Netdisk Download](https://pan.baidu.com/s/1cpi2GzJk805667ik0LiAEw?pwd=ktw3) |
+| After Effects/Premiere | Windows | N/A | Password: ktw3 |
+
+## Tags
+
+#aescripts #ae-plugin #color-llama #pr-plugin #color-swap-plugin #color-grading-plugin

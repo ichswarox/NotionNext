@@ -105,7 +105,7 @@ const config = {
         from: '/docs/', // or as RegExp: /\/docs\//
         to: '/',
       },
-      contextualSearch: false,
+      contextualSearch: true,
     },
       footer: {
         style: 'dark',
