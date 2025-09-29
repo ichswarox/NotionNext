@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '激活教程',
+  tagline: 'act are cool',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -67,7 +67,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Act',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -77,7 +77,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '激活教程',
           },
         ],
       },
@@ -85,11 +85,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '激活',
             items: [
               {
-                label: 'Houdini Mac',
-                to: '/docs/houdini-mac',
+                label: 'Houdini正版激活教程',
+                to: '/docs/houdini',
+              },
+              {
+                label: 'Eagle激活教程',
+                to: '/docs/eagle',
               },
             ],
           },
@@ -99,14 +103,6 @@ const config = {
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
               },
             ],
           },
@@ -120,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Love.`,
       },
       prism: {
         theme: prismThemes.github,

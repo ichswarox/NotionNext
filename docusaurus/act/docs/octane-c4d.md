@@ -1,3 +1,6 @@
+---
+unlisted: true
+---
 # Octane Render C4D 安装与使用指南
 
 ## 下载链接

@@ -1,4 +1,7 @@
-# Linux安装指南
+---
+unlisted: true
+---
+# Linux安装
 
 ## Official Installation Tutorials
 

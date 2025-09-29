@@ -18,7 +18,7 @@
 ## 第二步：激活软件
 
 1. **下载激活工具**：
-   [EXEIT 激活工具下载](https://list.neoxu.store/d/app/manage/Eagle%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.zip)
+   [激活工具v9下载(更新时间2025.9.10)](https://list.neoxu.store/d/app/manage/Eagle%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7.zip)
 
 2. **运行激活**：
    - 解压下载的激活工具压缩包

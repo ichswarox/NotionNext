@@ -1,7 +1,11 @@
+---
+unlisted: true
+---
+
 # Octane Blender
 在Free Trial Page 
-Octance X is fro Mac us
-Octane Render Prime is for windows user
+Octane X is for Mac users
+Octane Render Prime is for Windows users
 click try now 
 
 https://render.otoy.com/shop/prime.php
@@ -10,29 +14,26 @@ https://render.otoy.com/shop/prime.php
 
 
 blender在使用颜色空间的时候需要注意：
-DisPlay Device: SRGB
+Display Device: sRGB
 View Transform: Raw
 
 
-#blbl oc
-color management
-view transform Raw
+## Color Management
+View Transform: Raw
 
-sidebar
-check octane iamger
-check tone mapping ACES tone mapping
+Sidebar:
+Check Octane Image
+Check Tone Mapping: ACES Tone Mapping
 
 blender sculpt mode switch object
-![alt text](image-37.png)
+<!-- ![Blender Sculpt Mode Switch](image-37.png) -->
 
-#hotkey
-merge at center ct sh x
-Vertex Connect Path j to sh f
+## Hotkeys
+Merge at center: Ctrl + Shift + X  
+Vertex Connect Path: J to Shift + F  
 
-transformation view 
-ct al right
+Transformation view: Ctrl + Alt + Right
 
-
-sculpt 
-smooth modifier ff
-![alt text](image-40.png)
+## Sculpting
+Smooth modifier: FF  
+<!-- ![Smooth Modifier](image-40.png)-->

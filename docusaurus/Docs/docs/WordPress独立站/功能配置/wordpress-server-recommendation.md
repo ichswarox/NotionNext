@@ -5,7 +5,7 @@ keywords: ["WordPress服务器", "RackNerd", "VPS推荐", "建站服务器", "�
 slug: /wordpress-server-recommendation
 ---
 
-# 省钱又省心：WordPress独立站服务器首选推荐
+# WP独立站服务器首选推荐
 
 :::tip[还在为服务器烦恼吗？]
 - ✅ **超高性价比**：一年仅需 $21.98，即可拥有稳定快速的SSD服务器。

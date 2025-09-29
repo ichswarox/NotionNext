@@ -1,0 +1,3 @@
+如何重置WordPress
+使用插件Database Reset
+工具-数据库重置
