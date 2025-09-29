@@ -10,7 +10,7 @@ slug: /eagle-animation-rigged
 # VFX Grace - Aquila Nipalensis Animation Rigged 3D Model
 
 <!--Second Part-This is First Banner -->
-![VFX Grace - Aquila Nipalensis Animation Rigged 3D Model](/img/VFX-Grace-Aquila-Nipalensis-Animation-Rigged.jpg)
+![VFX Grace - Aquila Nipalensis Animation Rigged 3D Model](https://www.gfxcamp.com/wp-content/uploads/2025/09/VFX-Grace-Aquila-Nipalensis-Animation-Rigged.jpg)
 
 :::tip[info]
 This is a high-quality Aquila Nipalensis (Nepalese Eagle) 3D model featuring detailed head, claws, and wing feathers with realistic textures and fur. The model includes 5 different animations and is perfect for wildlife animations, documentaries, or any project requiring a realistic eagle.

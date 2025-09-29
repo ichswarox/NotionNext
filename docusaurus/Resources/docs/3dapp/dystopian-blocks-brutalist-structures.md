@@ -49,7 +49,7 @@ Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectu
 
 | Version | Download Link |
 |--------|---------------|
-| Dystopian Blocks | [Direct Purchase: 20 CNY](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fdystopian-blocks%2F) |
+| Dystopian Blocks | [Contact us](https://wa.me/8613237610083) |
 
 ## Tags
 [3D Models](/tag/3d-models/), [Blender](/tag/blender/), [Blender Models](/tag/blender-models/), [Blender Assets](/tag/blender-assets/), [Blender Presets](/tag/blender-presets/), [Architectural Models](/tag/architectural-models/), [Building Models](/tag/building-models/)

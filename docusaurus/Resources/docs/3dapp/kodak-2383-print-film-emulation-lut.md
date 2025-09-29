@@ -1,78 +1,70 @@
 ---
-title: "Kodak 2383 Print Film Emulation LUT by Colorist Factory"
-description: "A LUT preset that emulates the texture of Kodak 2383 film stock, in CUBE format, compatible with DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying."
-keywords: ["2383", "AE color grading", "Colorist Factory", "FCPX color grading", "Kodak", "LUTs", "Pr color grading", "Jianying", "Kodak", "film color grading", "video color grading", "DaVinci color grading"]
+title: "Kodak 2383 Print Film Emulation LUT - Colorist Factory"
+description: "A LUT preset simulating Kodak 2383 model film texture in CUBE format, compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs"
+keywords: ["Kodak", "2383", "Colorist Factory", "LUTs", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "Film Color Grading", "Video Color Grading", "DaVinci Resolve Color Grading"]
 slug: /kodak-2383-print-film-emulation-lut
 ---
 
-Last updated: Sep 25 2025
+<div class="text-right" style="margin-bottom: 1rem;">Last updated: Sep 30 2025</div>
 
-![](https://www.gfxcamp.com/wp-content/uploads/2025/09/Colorist-Factory-Kodak-2383-Print-Film-Emulation-LUT.jpg)
+![Kodak 2383 Print Film Emulation LUT - Colorist Factory](https://www.gfxcamp.com/wp-content/uploads/2025/09/Colorist-Factory-Kodak-2383-Print-Film-Emulation-LUT.jpg)
 
-## Kodak 2383 Print Film Emulation LUT by Colorist Factory
+## Kodak 2383 Print Film Emulation LUT - Colorist Factory
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+**Kodak 2383 Print Film Emulation LUT - Colorist Factory**
 
-:::tip Resource Summary
-- A LUT preset that emulates the texture of Kodak 2383 film stock
-- Format: CUBE
-- Compatible with DaVinci Resolve/PR/AE/FCPX/PS/Jianying and any software that supports LUTs
-- 2383 is a legendary stock used in films like Joker (2019), Pirates of the Caribbean, The Dark Knight, and many others
-- File size: Not specified
-:::
+A LUT preset simulating Kodak 2383 model film texture in CUBE format, compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs.
+
+2383 is a legendary stock used in films like Joker (2019), Pirates of the Caribbean, The Dark Knight, and many others. In this video, we'll attempt to recreate the Kodak 2383 print film emulation using the Glenderaterra LUT from our Premium Bundle.
+
+## Features
+
+- Simulates Kodak 2383 model film texture
+- Available in CUBE format
+- Compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs
+- Based on legendary stock used in films like Joker (2019), Pirates of the Caribbean, The Dark Knight
+- Professional film emulation for cinematic color grading
+- High-quality film texture reproduction
 
 ## System Requirements
 
-- Compatible with DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying
-- Any software that supports importing CUBE LUTs
-- Sufficient storage space for the package
+- Compatible with DaVinci Resolve, Adobe After Effects, Adobe Premiere Pro, Final Cut Pro X, Photoshop, CapCut, or any software that supports LUTs
+- Supports CUBE format files
 
 ## Installation Instructions
 
-<Tabs>
-<TabItem value="davinci" label="DaVinci Resolve">
-1. Open DaVinci Resolve
-2. Go to the Color page
-3. In the top left corner, find the LUTs section
-4. Right-click in the LUTs panel and select "Import LUT..."
-5. Navigate to your LUTs folder and select the desired LUT file
-</TabItem>
-<TabItem value="ae" label="After Effects">
-1. Open After Effects
-2. Create a new adjustment layer
-3. Apply the "Lumetri Color" effect to the adjustment layer
-4. In the Effect Controls panel, find the "Look" section
-5. Click the dropdown menu and select "Import Look"
-6. Select your CUBE file
-</TabItem>
-<TabItem value="pr" label="Premiere Pro">
-1. Open Premiere Pro
-2. Select your video clip on the timeline
-3. Go to the "Effects" panel
-4. Search for "Lumetri Color" and apply it to your clip
-5. In the "Basic Correction" section, find the "Look" dropdown
-6. Click "Import" and select your CUBE file
-</TabItem>
-<TabItem value="fcpx" label="Final Cut Pro X">
-1. Open Final Cut Pro X
-2. Go to the Effects Browser
-3. Navigate to the "Color Correction" category
-4. Drag the "Color Board" effect onto your clip
-5. Use third-party plugins like "Color Finale" or similar tools that support CUBE files
-</TabItem>
-</Tabs>
+### For DaVinci Resolve
+- Open DaVinci Resolve
+- Go to the Color page
+- Navigate to the OpenFX tab
+- Import the LUT files as needed
+
+### For Adobe After Effects
+- Place LUT files in your After Effects LUTs folder
+- Use the Lumetri Color effect to apply LUTs
+- Select your desired LUT from the dropdown
+
+### For Adobe Premiere Pro
+- Go to the Effects panel
+- Apply the Lumetri Color effect to your clip
+- Select the LUT from the Creative tab
 
 ## Download Links
 
-| Version | Platform | Size | Download Link |
-| :--- | :--- | :--- | :--- |
-| Kodak 2383 Print Film Emulation LUT | Universal (CUBE) | Not specified | [Baidu NetDisk](https://pan.baidu.com/s/1FcdMjEJh0J0n2ZJiEob8uQ?pwd=jpbx) (Extraction code: jpbx) |
-
-:::caution Important Note
-There are many fake websites and Taobao stores claiming to be the official site. Please be cautious to avoid fraud.
-:::
+| Platform | Link |
+|----------|------|
+| Baidu Netdisk | Available in original content |
 
 ## Tags
 
-`2383`, `AE color grading`, `Colorist Factory`, `FCPX color grading`, `Kodak`, `LUTs`, `Pr color grading`, `Jianying`, `Kodak`, `film color grading`, `video color grading`, `DaVinci color grading`
+- Kodak
+- 2383
+- Colorist Factory
+- LUTs
+- AE Color Grading
+- FCPX Color Grading
+- Pr Color Grading
+- CapCut
+- Film Color Grading
+- Video Color Grading
+- DaVinci Resolve Color Grading
