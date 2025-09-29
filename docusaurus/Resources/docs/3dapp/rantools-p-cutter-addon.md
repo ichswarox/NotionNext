@@ -2,7 +2,7 @@
 title: Rantools And P-Cutter All-In-One Addon for Blender
 description: Comprehensive Blender addon for hard surface modeling, rendering, lighting, modifiers, and texture baking with grid-based boolean system
 keywords: ["Blender", "addon", "hard surface", "modeling", "rendering", "texture baking", "boolean"]
-slug: /resources/rantools-p-cutter-addon
+slug: /rantools-p-cutter-addon
 ---
 
 Last updated: Sep 24 2025
@@ -31,6 +31,8 @@ Your one-stop solution for creation, detailing, presentation, and rendering! Fea
 - **Blender Versions**: 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3
 
 ### Installation Guide
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <Tabs>
 <TabItem value="blender40" label="Blender 4.0 and below">

@@ -2,7 +2,7 @@
 title: Paint System - Blender NPR Painting Plugin
 description: Simple yet flexible painting system for non-photo-realistic rendering directly on 3D models with brush-based material application
 keywords: ["Blender", "NPR", "painting", "plugin", "material painting", "non-photorealistic", "3D art"]
-slug: /resources/blender-paint-system
+slug: /blender-paint-system
 ---
 
 Last updated: Sep 24 2025
@@ -40,6 +40,8 @@ A simple but powerful painting system that lets you apply materials directly to 
 <iframe loading="lazy" src="https://player.youku.com/embed/XNjQ1Nzk0NTQ3Mg==" width="100%" height="360" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
 ### Download Options
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 <Tabs>
 <TabItem value="baidu" label="Baidu Cloud">

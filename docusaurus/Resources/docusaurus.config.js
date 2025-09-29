@@ -95,11 +95,6 @@ const config = {
             label: 'Gallery',
             position: 'left',
           },
-          {
-            href: 'https://github.com/',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
