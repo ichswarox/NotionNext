@@ -66,14 +66,3 @@ Kekit Pro is a General Tool-Kit Blender Add-on that contains a collection of sma
 ### Tags
 
 `Blender` `Blender Plugin` `Kekit`
-
-### Related Plugins
-
-- [Physical Grass Scatter And Draw : Real-Time Physics V1.2.0](https://www.gfxcamp.com/physical-grass-scatter-and-draw/)
-- [One Click Dust V1.0](https://www.gfxcamp.com/one-click-dust/)
-- [True Depth V2+V1.4.0](https://www.gfxcamp.com/true-depth/)
-- [Photographer 5.6.5 + Preset Library](https://www.gfxcamp.com/photographer-for-blender/)
-- [Light Wrangler V3.2.4+V2.2.4](https://www.gfxcamp.com/light-wrangler/)
-- [Colorist Pro V1.4.2 + Asset Presets](https://www.gfxcamp.com/colorist-pro/)
-- [Paint System V2.0.5](https://www.gfxcamp.com/paint-system/)
-- [Rantools And P-Cutter All-In-One Addon V3.3.10](https://www.gfxcamp.com/rantools-and-p-cutter-all-in-one-addon/)

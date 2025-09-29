@@ -1,0 +1,57 @@
+---
+title: "Dystopian Blocks - Brutalist Structures Kitbash Buildings for Blender"
+description: "Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectural 3D models for Blender, featuring 145 individual models and 45 building groups with 1K/2K/4K resolution textures."
+keywords: ["Blender", "3D models", "architectural models", "dystopian", "sci-fi", "kitbash", "building assets"]
+slug: /dystopian-blocks-brutalist-structures
+tags: [3D models, Blender, Blender models, Blender assets, Blender presets, architectural models, building models]
+date: 2025-09-29
+last_updated: Sep 23 2025
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import {Badge} from '@docusaurus/theme-common';
+
+# Dystopian Blocks - Brutalist Structures Kitbash Buildings for Blender
+
+<Tabs>
+<TabItem value="overview" label="Overview" default>
+Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectural 3D models for Blender, featuring authoritarian and dominant concrete buildings. It includes 145 individual models and 45 building groups with 1K/2K/4K resolution textures to choose from. These are individual model assets, not complete scenes. After installation, they can be accessed through the asset browser, visualized, and used by simply dragging and dropping.
+</TabItem>
+<TabItem value="specifications" label="Specifications">
+- **Individual Models**: 145 single models
+- **Building Groups**: 45 building groups
+- **Texture Resolutions**: 1K/2K/4K options
+- **File Size**: 5.31GB
+</TabItem>
+</Tabs>
+
+![Dystopian Blocks Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/Dystopian-Blocks-Brutalist-Structures-Kitbash-Buildings.jpg)
+
+## Feature List
+
+:::tip Key Features
+- **145 Individual Models**: Comprehensive collection of architectural elements
+- **45 Building Groups**: Pre-assembled building configurations
+- **Multiple Texture Resolutions**: Choose from 1K/2K/4K resolution textures
+- **Asset Browser Integration**: Direct access through Blender's asset browser
+- **Drag and Drop**: Easy implementation in your projects
+- **Futuristic Dystopian Style**: Authoritarian and dominant concrete architecture
+:::
+
+## System Requirements
+
+- **Software**: Blender 3.6 or higher
+- **Operating System**: Windows or Mac
+- **Hardware**: Any system capable of running Blender 3.6+
+
+## Download Links
+
+| Version | Download Link |
+|--------|---------------|
+| Dystopian Blocks | [Direct Purchase: 20 CNY](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fdystopian-blocks%2F) |
+
+## Tags
+[3D Models](/tag/3d-models/), [Blender](/tag/blender/), [Blender Models](/tag/blender-models/), [Blender Assets](/tag/blender-assets/), [Blender Presets](/tag/blender-presets/), [Architectural Models](/tag/architectural-models/), [Building Models](/tag/building-models/)
+
+_Last updated: Sep 23 2025_

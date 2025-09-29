@@ -67,14 +67,3 @@ If installation fails with .NET errors:
 ### Tags
 
 `Gaea` `Gaea 2` `Gaea Cracked Version` `Terrain Software`
-
-### Related Software and Tutorials
-
-- [QuadSpinner Gaea v1.3.2.7 Enterprise](https://www.gfxcamp.com/quadspinner-gaea-v1029/)
-- [Quadspinner GeoGlyph 2.2.0.357 + Gaea 1.0.14.8002](https://www.gfxcamp.com/quadspinner-geoglyph-gaea/)
-- [JangaFX Geogen V0.5.0](https://www.gfxcamp.com/geogen/)
-- [World Creator 2025.1](https://www.gfxcamp.com/world-creator-2025/)
-- [Beginner Terrain Creation using Gaea for Unreal Engine](https://www.gfxcamp.com/beginner-terrain-creation-using-gaea-for-unreal-engine/)
-- [Building Natural Environments Using Gaea & Houdini](https://www.gfxcamp.com/building-natural-environments-using-gaea-houdini/)
-- [Gaea Beginners Guide](https://www.gfxcamp.com/gaea-beginners-guide/)
-- [World Creator 202.2](https://www.gfxcamp.com/world-creator-2022/)

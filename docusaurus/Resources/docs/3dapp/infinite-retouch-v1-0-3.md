@@ -61,14 +61,3 @@ This is the retouching panel that fits to your workflow and is easy to customize
 ### Tags
 
 `Photoshop` `PS Plugin` `Retouching Plugin` `Infinite Retouch`
-
-### Related Plugins
-
-- [Infinite Guide V1.0.5 For Photoshop](https://www.gfxcamp.com/infinite-guide/)
-- [Infinite Tools – Unify Plugin v2.0.1 for Photoshop](https://www.gfxcamp.com/infinite-tools-unify-plugin/)
-- [Optics 2025.0 For Photoshop/Lightroom](https://www.gfxcamp.com/optics-2025/)
-- [Retouching Academy – MUA Retouch Panel V1.0.1](https://www.gfxcamp.com/retouching-academy-mua-retouch-panel/)
-- [Retouch Pro v2.0.3 – Retouch Panel for Photoshop](https://www.gfxcamp.com/retouch-pro-v2/)
-- [Retouch Pro – Retouch Panel for Photoshop CC2014-2021](https://www.gfxcamp.com/retouch-pro/)
-- [Boris FX Optics 2021.2 For Photoshop/Lightroom](https://www.gfxcamp.com/boris-fx-optics-2021/)
-- [Moody Photoshop Panel 1.1.2](https://www.gfxcamp.com/moody-panel/)

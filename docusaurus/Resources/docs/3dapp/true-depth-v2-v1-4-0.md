@@ -60,14 +60,3 @@ True Depth is an AI-powered Blender plugin that converts any image directly into
 ### Tags
 
 `Blender` `Blender Plugin` `True Depth` `Image to Model`
-
-### Related Plugins
-
-- [AutoDepth AI V1.1.3](https://www.gfxcamp.com/autodepth-ai/)
-- [Tracegenius Pro V3.2 + V2.1 – Advanced 2D Image To 3D Mesh Tracer](https://www.gfxcamp.com/tracegenius-pro/)
-- [Image Trace Generator v1.0.0](https://www.gfxcamp.com/image-trace-generator/)
-- [Physical Grass Scatter And Draw : Real-Time Physics V1.2.0](https://www.gfxcamp.com/physical-grass-scatter-and-draw/)
-- [One Click Dust V1.0](https://www.gfxcamp.com/one-click-dust/)
-- [Kekit Pro V3.46](https://www.gfxcamp.com/kekit/)
-- [Photographer 5.6.5 + Preset Library](https://www.gfxcamp.com/photographer-for-blender/)
-- [Light Wrangler V3.2.4+V2.4](https://www.gfxcamp.com/light-wrangler/)
