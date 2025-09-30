@@ -6,8 +6,9 @@ once finished then move to /Users/Apple/Documents/GitHub/NotionNext/docusaurus/R
 You I need to analyze the provided Markdown file and optimize it according to Docusaurus best practices, following the template provided. Let me break down the requirements:
 
 
-0. Direct use picture link from original markdown file.
-1. Optimize the Markdown for Docusaurus using features like Admonitions, Tabs, Create appropriate frontmatter etc.
+0. don't use js script to process the work or precess markdown file, do it one by one.
+1. Direct use picture link from original markdown file.
+2. Optimize the Markdown for Docusaurus using features like Admonitions, Tabs, Create appropriate frontmatter etc.
 (frontmatter with:
     ---
     title: ""
@@ -31,12 +32,10 @@ and Post structure:
 7. Use Tabs for different installation methods if applicable
 8. Keep the download links and remove a.relateed content b.any content with taobao and weibo link
 9. Generate SEO-friendly tags
-10. don't use js script to process the work.
-11. remove Related content part.
-12. any link to taobao change to [Direct Download Link](https://wa.me/8613237610083)
-13. first banner image is like: 
+10. remove Related content part.
+11. first banner image is like: 
     ![Alt-Name](https://www.gfxcamp.com/wp-content/uploads/2025/09/image.jpg)
-14. Don't import {Admonition} from '@docusaurus/theme-common';
-15. Don't add <div class just use docusaurus markdown format.
+12. Don't import {Admonition} from '@docusaurus/theme-common';
+13. Don't add <div class just use docusaurus markdown format.
 
 

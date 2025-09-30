@@ -2,7 +2,7 @@
 title: Interior Product and Cloth Design Renders
 description: Professional 3D renders showcasing interior products with advanced cloth simulation and material design techniques.
 keywords: [interior design, cloth simulation, product rendering, 3D visualization, Redshift, fabric materials, home decor, soft goods]
-slug: /gallery/interior-product-cloth-design
+slug: interior-product-cloth-design
 ---
 
 # Interior Product and Cloth Design Renders
