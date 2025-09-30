@@ -55,7 +55,7 @@ h.neoxu.store:填我给你的数字
 - **账号**：M5pP
 - **密码**：zo2BENVeY@d2Yc
 
-### 教育版证书冲突
+### 教育版证书冲突，
 如果误申请了非商业版证书，导致无法使用 Houdini FX 商业版客户端：
 1. 打开 License Administrator
 2. 删除 "Change License Server"
@@ -66,22 +66,23 @@ h.neoxu.store:填我给你的数字
 
 如果你遇到 Houdini 闪退、无法安装新版本或无法卸载版本的问题，请按以下步骤排查：
 
-#### 方法 A：重置配置文件（推荐）
+#### 方法 A：重置Houdini.env配置文件（推荐）
 
-如果 Houdini 出现闪退或异常行为，可能是配置文件损坏导致的：
+如果 Houdini 出现闪退或异常行为，可能是配置文件Houdini配置了插件导致的：
 
 1. **Mac 系统配置文件位置**：
    - 打开 Finder，按下 `Cmd + Shift + G`，然后粘贴以下路径：
    ```
    ~/Library/Preferences/
    ```
-   - 找到以 `com.sidefx.Houdini` 开头的相关文件夹，将其重命名或移至其他位置
+   - 找到以 `Houdini` 文件夹，文件夹内部对应Houdini版本号，重命名或移至其他位置
 
 2. **Windows 系统配置文件位置**：
    - 按下 `Win + R`，输入以下路径：
    ```
-   %APPDATA%\SideFX\
+   shell:personal
    ```
+   - 找到以 `Houdini` 开头的文件夹，对应Houdini版本号，重命名或移至其他位置
 
 3. **Linux 系统配置文件位置**：
    - 配置文件通常位于：
@@ -93,7 +94,7 @@ h.neoxu.store:填我给你的数字
    ~/houdiniX.Y/
    ```
 
-完成上述操作后，重新启动 Houdini Launcher。
+在这个配置文件夹找到你对应的houdini版本，比如Houdini 21或者 21.0,完成上述操作后，重新启动 Houdini Launcher。
 
 > **参考文档**：[Houdini 环境配置](https://www.sidefx.com/docs/houdini/basics/config_env.html)
 
@@ -111,15 +112,20 @@ h.neoxu.store:填我给你的数字
 - sudo /Applications/Houdini/Houdini21.0.440/Houdini\ FX\ 21.0.440.app/Contents/MacOS/houdinifx
 
 ##### 报错结果1: RG 错误提示
+如果遇到以 `RG` 开头的错误（通常与红巨星插件相关）
 ![HoudiniLauncher-pc.webp](https://list.ucards.store/d/img/HoudiniLauncher-pc.webp)
+![silhouette-ofx-oe.webp](https://list.ucards.store/d/img/silhouette-ofx-oe.webp)
+或者是 含有 plugin com.borisfx.silhouette.plugin.ofx报错信息
 ![HoudiniLauncher-ph.webp](https://list.ucards.store/d/img/HoudiniLauncher-ph.webp)
-如果遇到以 `RG` 开头的错误（通常与红巨星插件相关）：
+：
 
 在 `houdini.env` 文件中添加以下行：
 ```
 HOUDINI_DISABLE_OPENFX_DEFAULT_PATH = 1
 ```
 ![HoudiniLauncher-ep.webp](https://list.ucards.store/d/img/HoudiniLauncher-ep.webp)
+
+
 
 
 ### 安装 Octane for Houdini 插件
