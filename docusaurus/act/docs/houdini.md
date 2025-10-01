@@ -66,7 +66,7 @@ h.neoxu.store:填我给你的数字
 
 如果你遇到 Houdini 闪退、无法安装新版本或无法卸载版本的问题，请按以下步骤排查：
 
-#### 方法 A：重置Houdini.env配置文件（推荐）
+#### 方法 A：重置Houdini.env配置文件（极有可能无法解决，因为现在插件都是json引用，看接下来的方法）
 
 如果 Houdini 出现闪退或异常行为，可能是配置文件Houdini配置了插件导致的：
 
@@ -88,12 +88,9 @@ h.neoxu.store:填我给你的数字
    - 配置文件通常位于：
    ```
    ~/.houdiniX.Y/
-   ```
    或
-   ```
    ~/houdiniX.Y/
    ```
-
 在这个配置文件夹找到你对应的houdini版本，比如Houdini 21或者 21.0,完成上述操作后，重新启动 Houdini Launcher。
 
 > **参考文档**：[Houdini 环境配置](https://www.sidefx.com/docs/houdini/basics/config_env.html)
@@ -107,9 +104,14 @@ h.neoxu.store:填我给你的数字
 - 输入 Houdini 的启动命令
 
 **Linux/Mac 命令行启动方法（版本号记得替换）**：
-- 打开终端
+- 打开终端Terminal
 - 输入 Houdini 的启动命令
 - sudo /Applications/Houdini/Houdini21.0.440/Houdini\ FX\ 21.0.440.app/Contents/MacOS/houdinifx
+- 或者打开终端，输入sudo和一个空格，然后到如图的路径，把houdinifx文件拖入回车启动。
+  ![houdini-ex.webp](https://list.ucards.store/d/img/houdini-ex.webp)
+- 如果可以sudo可以直接启动了，没有其他报错，那就是文件夹的权限有问题：
+  chmod -R +x /Applications/Houdini/Houdini21.0.440/Houdini\ FX\ 21.0.440.app/Contents/MacOS/houdinifx 
+  或者打开终端，输入sudo和一个空格，然后到上图的路径，把houdinifx文件拖入回车修复。
 
 ##### 报错结果1: RG 错误提示
 如果遇到以 `RG` 开头的错误（通常与红巨星插件相关）
@@ -117,8 +119,9 @@ h.neoxu.store:填我给你的数字
 ![silhouette-ofx-oe.webp](https://list.ucards.store/d/img/silhouette-ofx-oe.webp)
 或者是 含有 plugin com.borisfx.silhouette.plugin.ofx报错信息
 ![HoudiniLauncher-ph.webp](https://list.ucards.store/d/img/HoudiniLauncher-ph.webp)
-：
-
+##### 报错结果2: 错误提示含有Topaz Labs LLC字样
+![houdini-yh.webp](https://list.ucards.store/d/img/houdini-yh.webp)
+解决方法：
 在 `houdini.env` 文件中添加以下行：
 ```
 HOUDINI_DISABLE_OPENFX_DEFAULT_PATH = 1
