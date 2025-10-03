@@ -95,6 +95,11 @@ const config = {
             label: 'Gallery',
             position: 'left',
           },
+          {
+            to: '/tags',
+            label: 'Tags',
+            position: 'left',
+          },
         ],
       },
     algolia: {
