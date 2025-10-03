@@ -48,19 +48,6 @@ Apple Compressor v4.11.0 is a powerful video transcoding software that integrate
 | Download Source | Link | Password |
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/1COhop_2D3MaBrl5Ylg2gVQ?pwd=44pg) | 44pg |
 
-
-## Related Resources
-
-- [Apple Compressor v4.11.0](/apple-compressor-v411)
-- [Apple Compressor v4.9.0](/apple-compressor-v490)
-- [Apple Compressor v4.6.6](/apple-compressor-v466)
-- [Apple Compressor v4.6.3](/apple-compressor-v463)
-- [Apple Compressor v4.6.1](/apple-compressor-v461)
-- [Apple Compressor v4.6](/apple-compressor-v460)
-- [Apple Compressor v4.5.4](/apple-compressor-v454)
-- [Apple Compressor v4.5.3](/apple-compressor-v453)
-
-
 ## Tags
 
 - Compressor

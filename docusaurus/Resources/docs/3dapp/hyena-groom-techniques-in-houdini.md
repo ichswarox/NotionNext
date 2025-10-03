@@ -50,7 +50,5 @@ In this course, you'll learn how to create realistic fur for creatures in VFX, d
 |--------|---------------|----------|
 | Hyena Groom Techniques in Houdini | [Baidu Netdisk](https://pan.baidu.com/s/1kce0Iy-bIr6LNXS4DhefjQ?pwd=r78e) | r78e |
 
-## Tags
-[Houdini](/tag/houdini/), [Houdini Tutorial](/tag/houdini-tutorial/), [Udemy](/tag/udemy/), [Fur Tutorial](/tag/fur-tutorial/)
 
 _Last updated: Sep 23 2025_

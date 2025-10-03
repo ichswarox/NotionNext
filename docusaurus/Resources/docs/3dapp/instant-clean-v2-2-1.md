@@ -73,7 +73,5 @@ Instant Clean is a single click mesh clean addon for Blender, including an easy 
 | Instant Clean V2.0.5 | [Baidu Netdisk](https://pan.baidu.com/s/1ZGncohDRkyCzi7uhvPUZPQ?pwd=29zn) | 29zn |
 | Instant Clean V1.2 | [Baidu Netdisk](https://pan.baidu.com/s/1zSlvCiqJo1kfiTo-8JZN-A?pwd=fwfo) | fwfo |
 
-## Tags
-[Blender](/tag/blender/), [Blender Add-on](/tag/blender-add-on/), [Mesh Plugin](/tag/mesh-plugin/)
 
 _Last updated: Sep 23 2025_

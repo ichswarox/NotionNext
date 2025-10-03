@@ -71,7 +71,5 @@ Winterify Deluxe is your ultimate toolkit for effortlessly crafting winter scene
 |--------|---------------|----------|
 | Winterify Deluxe | [Baidu Netdisk](https://pan.baidu.com/s/1Jy0iRl3JC1F6O3UkZ5KSZA?pwd=n3dw) | n3dw |
 
-## Tags
-[Blender](/tag/blender/), [Blender Add-on](/tag/blender-add-on/), [Blender Assets](/tag/blender-assets/), [Blender Presets](/tag/blender-presets/), [Winterify](/tag/winterify/), [Snow Scene](/tag/snow-scene/), [Winter Effects](/tag/winter-effects/)
 
 _Last updated: Sep 23 2025_

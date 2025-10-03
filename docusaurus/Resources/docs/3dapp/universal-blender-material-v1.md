@@ -82,7 +82,5 @@ Universal Blender Material is designed to quickly texture your 3D models for ren
 |--------|---------------|----------|
 | Universal Blender Material V1 | [Baidu Netdisk](https://pan.baidu.com/s/16Y1QOzLy2aFXEhvfr5oP5A?pwd=kc7w) | kc7w |
 
-## Tags
-[Blender](/tag/blender/), [Blender Add-on](/tag/blender-add-on/), [Universal Blender Material](/tag/universal-blender-material/), [Texture Plugin](/tag/texture-plugin/)
 
 _Last updated: Sep 23 2025_

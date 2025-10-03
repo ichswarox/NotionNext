@@ -51,7 +51,5 @@ This course is designed to help you get started with animation in Blender throug
 |--------|---------------|----------|
 | Getting Started With Animation In Blender | [Baidu Netdisk](https://pan.baidu.com/s/1U3wn5p5_WM9jfxAZcIAS5g?pwd=qe14) | qe14 |
 
-## Tags
-[Blender](/tag/blender/), [Blender Tutorial](/tag/blender-tutorial/), [Udemy](/tag/udemy/), [Animation Tutorial](/tag/animation-tutorial/), [Basics Tutorial](/tag/basics-tutorial/)
 
 _Last updated: Sep 23 2025_

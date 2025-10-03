@@ -130,12 +130,7 @@ const config = {
           },
           {
             title: 'More',
-            items: [
-              {
-                label: 'Sitemap',
-                to: '/sitemap.xml',
-              },
-            ],
+            items: [],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Resource App.`,

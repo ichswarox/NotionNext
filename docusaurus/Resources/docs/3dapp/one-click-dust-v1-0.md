@@ -69,7 +69,5 @@ One Click Dust V1.0 is an innovative add-on for Blender designed to bring your s
 |--------|---------------|----------|
 | One Click Dust V1.0 | [Baidu Netdisk](https://pan.baidu.com/s/1gXpwREh0c7a5FgjwChbpiA?pwd=8xh2) | 8xh2 |
 
-## Tags
-[Blender](/tag/blender/), [Blender Plugin](/tag/blender-plugin/), [One Click Dust](/tag/one-click-dust/), [Dust Plugin](/tag/dust-plugin/)
 
 _Last updated: Sep 23 2025_

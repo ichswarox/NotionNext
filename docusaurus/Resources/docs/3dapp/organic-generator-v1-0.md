@@ -49,7 +49,5 @@ This product contains a GeoNode Setup with 15+ modular assets and 10+ GeoNode Mo
 |--------|---------------|----------|
 | Organic Generator V1.0 | [Baidu Netdisk](https://pan.baidu.com/s/1Ci5ZZr5UDxaDv7OFP4SDsA?pwd=k9pw) | k9pw |
 
-## Tags
-[Blender](/tag/blender/), [Blender Generator](/tag/blender-generator/), [Blender Assets](/tag/blender-assets/), [Blender Presets](/tag/blender-presets/), [Organic Generator](/tag/organic-generator/), [Organic Modeling](/tag/organic-modeling/)
 
 _Last updated: Sep 23 2025_

@@ -14,6 +14,8 @@ import {Badge} from '@docusaurus/theme-common';
 
 # Dystopian Blocks - Brutalist Structures Kitbash Buildings for Blender
 
+![Dystopian Blocks Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/Dystopian-Blocks-Brutalist-Structures-Kitbash-Buildings.jpg)
+
 <Tabs>
 <TabItem value="overview" label="Overview" default>
 Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectural 3D models for Blender, featuring authoritarian and dominant concrete buildings. It includes 145 individual models and 45 building groups with 1K/2K/4K resolution textures to choose from. These are individual model assets, not complete scenes. After installation, they can be accessed through the asset browser, visualized, and used by simply dragging and dropping.
@@ -25,8 +27,6 @@ Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectu
 - **File Size**: 5.31GB
 </TabItem>
 </Tabs>
-
-![Dystopian Blocks Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/Dystopian-Blocks-Brutalist-Structures-Kitbash-Buildings.jpg)
 
 ## Feature List
 
@@ -51,7 +51,5 @@ Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectu
 |--------|---------------|
 | Dystopian Blocks | [Contact us](https://wa.me/8613237610083) |
 
-## Tags
-[3D Models](/tag/3d-models/), [Blender](/tag/blender/), [Blender Models](/tag/blender-models/), [Blender Assets](/tag/blender-assets/), [Blender Presets](/tag/blender-presets/), [Architectural Models](/tag/architectural-models/), [Building Models](/tag/building-models/)
 
 _Last updated: Sep 23 2025_

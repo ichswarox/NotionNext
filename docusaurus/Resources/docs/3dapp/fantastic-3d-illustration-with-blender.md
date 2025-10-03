@@ -50,7 +50,5 @@ In this course, Brellias teaches you how to create a futuristic science fiction 
 |--------|---------------|----------|
 | Fantastic 3D Illustr. with Blender | [Baidu Netdisk](https://pan.baidu.com/s/1g6UlwLYmcKpl9NTkVqLzCQ?pwd=c7rc) | c7rc |
 
-## Tags
-[Blender](/tag/blender/), [Blender Tutorial](/tag/blender-tutorial/), [Domestika](/tag/domestika/), [Scene Tutorial](/tag/scene-tutorial/), [Fantasy Tutorial](/tag/fantasy-tutorial/)
 
 _Last updated: Sep 23 2025_

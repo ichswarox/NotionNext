@@ -70,7 +70,5 @@ Jackimorphic Camera Pack is a camera setup designed for people who have used a r
 |--------|---------------|----------|
 | Jackimorphic Camera Pack V1.0.3 | [Baidu Netdisk](https://pan.baidu.com/s/1Fv-9kQ7XjaF9OyHl0J_jEg?pwd=vr8v) | vr8v |
 
-## Tags
-[Blender](/tag/blender/), [Blender Add-on](/tag/blender-add-on/), [Jackimorphic Camera Pack](/tag/jackimorphic-camera-pack/), [Camera Plugin](/tag/camera-plugin/)
 
 _Last updated: Sep 23 2025_

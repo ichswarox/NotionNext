@@ -55,17 +55,6 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/1cCrm7OyyDwQLIB74g2WKWA?pwd=lxlc) | lxlc |
 
-## Related Resources
-
-- [Apple Compressor v4.11.0](/apple-compressor-v411)
-- [Apple Compressor v4.9.0](/apple-compressor-v490)
-- [Apple Compressor v4.6.6](/apple-compressor-v466)
-- [Apple Compressor v4.6.3](/apple-compressor-v463)
-- [Apple Compressor v4.6.1](/apple-compressor-v461)
-- [Apple Compressor v4.6](/apple-compressor-v46)
-- [Apple Compressor v4.5.4](/apple-compressor-v454)
-- [Apple Compressor v4.5.3](/apple-compressor-v453)
-
 ## Tags
 
 - Compressor

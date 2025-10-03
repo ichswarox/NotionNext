@@ -47,7 +47,7 @@ Enhance your video projects with this professional collection of 20 minimal-styl
 <!-- The Last Part-Download -->
 ## Download
 
-[Paid Resource]((https://wa.me/8613237610083))
+[Paid Resource](https://wa.me/8613237610083)
 
 Transform your video editing workflow with these high-quality, professionally designed lower thirds that will save you time and elevate your creative projects.
 
