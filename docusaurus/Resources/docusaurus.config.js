@@ -119,19 +119,14 @@ const config = {
             title: 'Resources',
             items: [
               {
-                label: '3App',
-                to: '/category/3d-applications',
+                label: '3DApp',
+                to: '/category/3dapp',
               },
             ],
           },
           {
             title: 'Community',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
+            items: [],
           },
           {
             title: 'More',
