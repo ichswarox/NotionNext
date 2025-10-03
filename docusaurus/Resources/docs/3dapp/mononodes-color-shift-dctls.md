@@ -80,6 +80,7 @@ This is the official full version with no watermarks or black spots. It includes
 
 ## Download
 [Chat For Details](https://wa.me/8613237610083)
+[Direct Download Link](https://pan.hefamily.net/s/YOOoCy)
 
 
 ## Tags
