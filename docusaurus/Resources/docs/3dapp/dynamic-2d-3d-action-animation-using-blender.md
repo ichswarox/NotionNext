@@ -1,7 +1,7 @@
 ---
 title: "Coloso Blender Grease Pencil Dynamic Cartoon 2D/3D Animation Tutorial with Chinese/English Subtitles"
 description: "Learn to create dynamic 2D/3D action animations using Blender's Grease Pencil with this comprehensive tutorial. Perfect for animators looking to blend 2D and 3D techniques."
-keywords: ["blender", "grease pencil", "2d animation", "3d animation", "animation tutorial", "coloso", "character animation", "motion graphics"]
+tags: ["blender", "grease pencil", "2d animation", "3d animation", "animation tutorial", "coloso", "character animation", "motion graphics"]
 slug: /dynamic-2d-3d-action-animation-using-blender
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

@@ -1,7 +1,7 @@
 ---
 title: Sci-Fi Aircraft Racer Pamir Bal using Advanced Techniques
 description: Futuristic sci-fi aircraft racer render by Pamir Bal showcasing advanced 3D modeling and rendering techniques for fantasy vehicle visualization.
-keywords: [sci-fi aircraft, 3D rendering, Pamir Bal, futuristic vehicles, Redshift, concept design, fantasy rendering, vehicle visualization]
+tags: [sci-fi aircraft, 3D rendering, Pamir Bal, futuristic vehicles, Redshift, concept design, fantasy rendering, vehicle visualization]
 slug: /sci-fi-aircraft-racer-pamir-bal
 ---
 

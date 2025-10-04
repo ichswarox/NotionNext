@@ -1,7 +1,7 @@
 ---
 title: "Udemy Blender CGI & VFX Ads Mega Course - Real Footage VFX Compositing Tutorial"
 description: "Learn how to composite 3D elements with real footage in Blender. This comprehensive course covers element creation, camera tracking, and professional VFX techniques for advertising."
-keywords: ["Blender tutorial", "VFX compositing", "CGI advertising", "Udemy course", "Blender VFX", "camera tracking", "3D compositing"]
+tags: ["Blender tutorial", "VFX compositing", "CGI advertising", "Udemy course", "Blender VFX", "camera tracking", "3D compositing"]
 slug: /blender-cgi-vfx-ads-mega-course
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

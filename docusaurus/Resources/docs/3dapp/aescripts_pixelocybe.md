@@ -1,7 +1,7 @@
 ---
 title: "AE/PR Video Pixelation Mosaic Plugin Aescripts Pixelocybe v1.3.0 Win/Mac Crack"
 description: "Pixelocybe is a hybrid mosaic/displacement filter with a flexible two input pipeline. It can create pixel art mosaic effects on videos based on brightness displacement."
-keywords: ["after effects", "premiere", "plugin", "pixelation", "mosaic", "visual effects", "aescripts", "video editing", "motion graphics"]
+tags: ["after effects", "premiere", "plugin", "pixelation", "mosaic", "visual effects", "aescripts", "video editing", "motion graphics"]
 slug: /aescripts-pixelocybe
 ---
 

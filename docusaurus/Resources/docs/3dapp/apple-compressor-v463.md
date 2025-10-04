@@ -1,7 +1,7 @@
 ---
 title: "Apple Compressor v4.6.3 - Video Encoding Software"
 description: "Apple Compressor v4.6.3 Cracked Version - A video conversion tool highly integrated with Final Cut Pro and Motion, with newly added HEVC encoding support"
-keywords: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "HEVC", "HDR", "video conversion"]
+tags: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "HEVC", "HDR", "video conversion"]
 slug: /apple-compressor-v463
 ---
 

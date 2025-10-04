@@ -1,7 +1,7 @@
 ---
 title: AE Basic 3D Model Import Editing Script - Aescripts Super 3D V1.4.4 + Tutorial
 description: Powerful extension for After Effects that expands 3D capabilities. Add 3D objects, parametric primitives, and control textures with ease.
-keywords: [aescripts, After Effects, 3D script, Super 3D, 3D modeling, AE plugin, GLB, GLTF, animation]
+tags: [aescripts, After Effects, 3D script, Super 3D, 3D modeling, AE plugin, GLB, GLTF, animation]
 slug: /super-3d
 ---
 import Tabs from '@theme/Tabs';

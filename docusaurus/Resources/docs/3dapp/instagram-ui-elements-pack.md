@@ -1,7 +1,7 @@
 ---
 title: Instagram UI Elements Pack for After Effects - Social Media Animation
 description: Professional Instagram UI elements pack for After Effects. Create engaging social media animations with this easy-to-use template.
-keywords: [after effects, instagram, ui elements, social media, animation, ae template, video editing, instagram stories]
+tags: [after effects, instagram, ui elements, social media, animation, ae template, video editing, instagram stories]
 slug: /instagram-ui-elements-pack
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Aescripts Super 3D v1.4.4 - After Effects 3D Model Import Script
 description: Powerful After Effects extension that expands 3D capabilities. Easily add 3D objects, parametric primitives, and control textures. Supports GLB and GLTF formats.
-keywords: [aescripts, after effects, 3d script, super 3d, 3d modeling, glb, gltf, ae plugin, motion graphics, visual effects]
+tags: [aescripts, after effects, 3d script, super 3d, 3d modeling, glb, gltf, ae plugin, motion graphics, visual effects]
 slug: /aescripts-super-3d
 ---
 

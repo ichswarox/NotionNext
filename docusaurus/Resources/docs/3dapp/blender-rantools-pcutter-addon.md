@@ -1,7 +1,7 @@
 ---
 title: "Blender Hard Surface Modeling, Lighting, Rendering Addon - Rantools And P-Cutter All-In-One Addon V3.3.10"
 description: "Comprehensive Blender addon for hard surface modeling, lighting, rendering, modifiers, and texture baking with tools for every need."
-keywords: ["Blender", "Blender Addon", "Rantools", "Rendering Plugin", "Lighting Plugin", "Hard Surface Modeling"]
+tags: ["Blender", "Blender Addon", "Rantools", "Rendering Plugin", "Lighting Plugin", "Hard Surface Modeling"]
 slug: /blender-rantools-pcutter-addon
 ---
 

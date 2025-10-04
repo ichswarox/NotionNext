@@ -1,7 +1,7 @@
 ---
 title: "Apple Compressor v4.5.3 - Video Encoding Software"
 description: "Apple Compressor v4.5.3 Cracked Version - A video conversion tool highly integrated with Final Cut Pro and Motion, supporting encoding notifications and audio descriptions"
-keywords: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "notifications", "audio description", "video conversion"]
+tags: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "notifications", "audio description", "video conversion"]
 slug: /apple-compressor-v453
 ---
 

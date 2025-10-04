@@ -1,7 +1,7 @@
 ---
 title: Aescripts AEViewer 2 Pro v2.2.3 - Media Browser for AE/PR
 description: Revolutionary media browser for After Effects and Premiere Pro. Preview, apply, and import projects and media files in one click. Features trial and encrypted packs, responsive MOGRTs and more.
-keywords: [aescripts, after effects, premiere pro, aeviewer, media browser, project management, asset import, ae plugin, pr plugin]
+tags: [aescripts, after effects, premiere pro, aeviewer, media browser, project management, asset import, ae plugin, pr plugin]
 slug: /aescripts-aeviewer-2-pro
 ---
 

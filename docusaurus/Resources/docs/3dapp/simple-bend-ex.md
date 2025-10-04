@@ -1,7 +1,7 @@
 ---
 title: "Blender Mesh Bending Deformer Enhanced Plugin - Simple Bend Ex V1.1.0"
 description: "Simple Bend Ex is the enhanced version of the Simple Bend plugin that allows you to easily bend 3D models with flexible deformation controls. This powerful addon enables artists to create curved and bent mesh geometries with precision and ease."
-keywords: ["Blender", "Blender plugin", "Simple Bend Ex", "bend plugin", "mesh deformation", "3D modeling", "Blender addon", "deformer", "curved mesh", "bending tool", "3D animation", "geometry manipulation"]
+tags: ["Blender", "Blender plugin", "Simple Bend Ex", "bend plugin", "mesh deformation", "3D modeling", "Blender addon", "deformer", "curved mesh", "bending tool", "3D animation", "geometry manipulation"]
 slug: /simple-bend-ex
 ---
 

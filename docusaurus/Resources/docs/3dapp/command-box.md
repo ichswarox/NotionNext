@@ -1,7 +1,7 @@
 ---
 title: "Blender Plugin: Command Box V2025.08.19 - Quick Command Access Tool"
 description: "Download Command Box plugin for Blender. Access hundreds of commands with quick search functionality. Works with Blender 4.5, 4.4, 4.3, 4.2 and more."
-keywords: ["Blender plugin", "Command Box", "Blender command tool", "Blender addon", "quick commands", "Blender workflow", "3D modeling tools"]
+tags: ["Blender plugin", "Command Box", "Blender command tool", "Blender addon", "quick commands", "Blender workflow", "3D modeling tools"]
 slug: /command-box
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

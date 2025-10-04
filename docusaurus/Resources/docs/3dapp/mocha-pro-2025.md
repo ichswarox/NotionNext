@@ -2,7 +2,7 @@
 title: Mocha Pro 2025.5 v12.5.2 - Camera Tracking Software AE/OFX/AVX Plugin Win Crack Version
 sidebar_position: 1
 description: Mocha Pro 2025 is the world-renowned planar motion tracking, 3D tracking, rotoscoping, object removal, image stabilization and PowerMesh organic deformation tracking software.
-keywords: [Mocha, Mocha Pro, Video Tracking, Camera Tracking, Motion Tracking, Video Effects, AE Plugin, OFX Plugin, AVX Plugin, DaVinci Plugin]
+tags: [Mocha, Mocha Pro, Video Tracking, Camera Tracking, Motion Tracking, Video Effects, AE Plugin, OFX Plugin, AVX Plugin, DaVinci Plugin]
 slug: /mocha-pro-2025
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

@@ -1,7 +1,7 @@
 ---
 title: "AE Template: 360-Degree Rotatable Cartoon Character Male Female Child Role Scene MG Animation Material Package v2.03 + V3"
 description: "AE template featuring 360-degree rotatable cartoon characters (male, female, child) with scenes and MG animation materials. Includes V2.03 and V3 versions."
-keywords: ["AE template", "cartoon characters", "MG animation", "character animation", "360 degree rotation", "infographic animation", "motion graphics", "VideoHive", "After Effects"]
+tags: ["AE template", "cartoon characters", "MG animation", "character animation", "360 degree rotation", "infographic animation", "motion graphics", "VideoHive", "After Effects"]
 slug: /ae-template-360-degree-cartoon-characters
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Creating Character Concept Art with Blender and Grease Pencil"
 description: "Learn to create character concept art using Blender's Grease Pencil tool. This course covers creative ideation, colors and textures, sketching, and final results."
-keywords: ["Blender", "Grease Pencil", "character design", "concept art", "animation", "2D animation", "digital art", "Blender tutorial"]
+tags: ["Blender", "Grease Pencil", "character design", "concept art", "animation", "2D animation", "digital art", "Blender tutorial"]
 slug: /creating-character-concept-art-blender-grease-pencil
 ---
 

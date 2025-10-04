@@ -1,7 +1,7 @@
 ---
 title: "Udemy - Blender 3D Sculpting: Model A Dragon From Scratch"
 description: Learn to create a game-ready dragon in Blender with this comprehensive course covering modeling, sculpting, rigging, texturing, and lighting.
-keywords: [blender, blender tutorial, udemy, 3d sculpting, dragon modeling, character design, 3d animation, blender course]
+tags: [blender, blender tutorial, udemy, 3d sculpting, dragon modeling, character design, 3d animation, blender course]
 slug: /model-a-dragon-from-scratch
 ---
 

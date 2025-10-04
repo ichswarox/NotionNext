@@ -1,7 +1,7 @@
 ---
 title: "Apple Compressor v4.6.6 - Video Encoding Software"
 description: "Apple Compressor v4.6.6 Cracked Version - A video conversion tool highly integrated with Final Cut Pro and Motion, which makes full use of the Log-encoded videos of iPhone 15 Pro"
-keywords: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "iPhone 15 Pro", "Log encoding", "video conversion"]
+tags: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "iPhone 15 Pro", "Log encoding", "video conversion"]
 slug: /apple-compressor-v466
 ---
 

@@ -2,7 +2,7 @@
 title: Create Stunning Tech Timelines with This After Effects Template
 sidebar_position: 1
 description: A sleek, modern, and tech-inspired After Effects template for creating professional timeline presentations. Perfect for showcasing company history, product evolution, or any chronological story.
-keywords: [after effects template, timeline template, tech timeline, corporate presentation, ae template, history timeline]
+tags: [after effects template, timeline template, tech timeline, corporate presentation, ae template, history timeline]
 slug: /history-timeline-template
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

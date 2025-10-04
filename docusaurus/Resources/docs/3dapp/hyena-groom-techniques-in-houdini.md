@@ -1,11 +1,8 @@
 ---
 title: "Hyena Groom Techniques in Houdini - Realistic Fur Creation for VFX"
 description: "Learn how to create realistic fur for creatures in VFX with this comprehensive Houdini course covering production workflows with Solaris Karma, Mari and Zbrush."
-keywords: ["Houdini", "Houdini tutorial", "fur grooming", "VFX", "creature effects", "production workflow"]
 slug: /hyena-groom-techniques-in-houdini
 tags: [Houdini, Houdini tutorial, Udemy, fur tutorial]
-date: 2025-09-25
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

@@ -1,7 +1,7 @@
 ---
 title: 3DS MAX+ZBrush+Eight Monkey+SP AAA Game Weapon Modeling Tutorial
 description: Complete tutorial for creating AAA game weapon assets using 3DS MAX, ZBrush, Eight Monkey, and Substance Painter with Chinese/English subtitles.
-keywords: [3ds max, zbrush, substance painter, eight monkey, game weapon modeling, 3d modeling tutorial, game asset creation, weapon texturing, 3d rendering]
+tags: [3ds max, zbrush, substance painter, eight monkey, game weapon modeling, 3d modeling tutorial, game asset creation, weapon texturing, 3d rendering]
 slug: /ultimate-weapons-masterclass
 ---
 

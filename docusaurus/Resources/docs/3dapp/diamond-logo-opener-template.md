@@ -2,7 +2,7 @@
 title: After Effects Template - E3D Gold Diamond Crystal Shine Fashion Show Grand Awards Advertising TV Logo Opener
 sidebar_position: 1
 description: Create stunning intros with this After Effects E3D template featuring gold diamonds and crystals. Perfect for awards, fashion shows, and advertising. Customizable text, logo, and colors. Element 3D plugin required.
-keywords: [After Effects template, E3D, Element 3D, logo opener, awards show, fashion show, advertising intro, gold diamond, crystal effect]
+tags: [After Effects template, E3D, Element 3D, logo opener, awards show, fashion show, advertising intro, gold diamond, crystal effect]
 slug: /diamond-logo-opener-template
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

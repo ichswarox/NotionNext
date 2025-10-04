@@ -1,7 +1,7 @@
 ---
 title: App Promo Phone 17 Pro - iPhone 17 App Presentation Template for AE
 description: Professional iPhone 17 app presentation template for After Effects. Showcase your mobile app with this 4K resolution phone mockup animation.
-keywords: [after effects, iphone 17, app presentation, phone mockup, mobile app, ae template, app promo, video editing]
+tags: [after effects, iphone 17, app presentation, phone mockup, mobile app, ae template, app promo, video editing]
 slug: /app-promo-phone-17-pro
 ---
 

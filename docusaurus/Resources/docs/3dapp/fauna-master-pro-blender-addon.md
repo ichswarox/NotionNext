@@ -1,7 +1,7 @@
 ---
 title: "Fauna Master Pro: Advanced Creature Simulation in Blender"
 description: "Explore Fauna Master Pro, a powerful Blender addon for creating complex crowd simulations with over 150 species of animals, birds, and insects."
-keywords: ["Blender", "addon", "simulation", "crowd simulation", "animals", "creatures", "vfx", "animation", "Fauna Master Pro"]
+tags: ["Blender", "addon", "simulation", "crowd simulation", "animals", "creatures", "vfx", "animation", "Fauna Master Pro"]
 slug: /fauna-master-pro-blender-addon
 ---
 

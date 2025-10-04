@@ -1,7 +1,7 @@
 ---
 title: F14 Fighter Jet 3D Renders by Che Hsuan
 description: Detailed 3D renders of the F14 Tomcat fighter jet by Che Hsuan, showcasing advanced aircraft visualization and military aviation modeling techniques.
-keywords: [F14 Tomcat, fighter jet, 3D rendering, Che Hsuan, aircraft visualization, military aviation, Redshift, technical modeling]
+tags: [F14 Tomcat, fighter jet, 3D rendering, Che Hsuan, aircraft visualization, military aviation, Redshift, technical modeling]
 slug: /f14-fighter-jet-3d-renders-che-hsuan
 ---
 

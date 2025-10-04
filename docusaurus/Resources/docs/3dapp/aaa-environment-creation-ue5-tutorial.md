@@ -1,7 +1,7 @@
 ---
 title: "AAA Environment Creation in Unreal Engine 5 Tutorial"
 description: "Learn to create AAA-quality environments in Unreal Engine 5 with this comprehensive tutorial course by Mauriccio, available on Wingfox."
-keywords: ["Unreal Engine 5", "UE5", "tutorial", "game development", "environment art", "3D art", "gamedev", "Wingfox", "Mauriccio"]
+tags: ["Unreal Engine 5", "UE5", "tutorial", "game development", "environment art", "3D art", "gamedev", "Wingfox", "Mauriccio"]
 slug: /aaa-environment-creation-ue5-tutorial
 ---
 

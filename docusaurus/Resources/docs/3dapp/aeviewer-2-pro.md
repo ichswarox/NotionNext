@@ -1,7 +1,7 @@
 ---
 title: AE/PR Project Media Preview Organization Import Script - Aescripts AEViewer 2 Pro V2.2.3 Crack
 description: Revolutionary media browser for After Effects and Premiere Pro. Preview, apply, and import projects and media files in one click with enhanced features.
-keywords: [aescripts, After Effects, Premiere, AEViewer, media browser, project management, AE plugin, PR plugin, video editing]
+tags: [aescripts, After Effects, Premiere, AEViewer, media browser, project management, AE plugin, PR plugin, video editing]
 slug: /aeviewer-2-pro
 ---
 import Tabs from '@theme/Tabs';

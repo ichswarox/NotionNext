@@ -1,7 +1,7 @@
 ---
 title: "AE Frosted Glass Effect Script - Aescripts Liquid Glass V1.1 + Tutorial"
 description: "Download Aescripts Liquid Glass V1.1 for After Effects - Create frosted glass effect animations with one click. Includes tutorial for easy implementation."
-keywords: ["aescripts", "AE script", "Liquid Glass", "frosted glass effect", "glass texture", "after effects", "plugins", "motion graphics"]
+tags: ["aescripts", "AE script", "Liquid Glass", "frosted glass effect", "glass texture", "after effects", "plugins", "motion graphics"]
 slug: /ae-frosted-glass-effect-script
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

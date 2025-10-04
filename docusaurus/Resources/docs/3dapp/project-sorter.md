@@ -1,7 +1,7 @@
 ---
 title: AE/PR Media Organization Script - Aescripts Project Sorter V1.7.3 + Tutorial
 description: Organize project media in Premiere Pro and After Effects by sorting assets based on different media types for better project management.
-keywords: [aescripts, After Effects, Premiere, Project Sorter, media organization, asset management, video editing, AE script, PR script]
+tags: [aescripts, After Effects, Premiere, Project Sorter, media organization, asset management, video editing, AE script, PR script]
 slug: /project-sorter
 ---
 import Tabs from '@theme/Tabs';

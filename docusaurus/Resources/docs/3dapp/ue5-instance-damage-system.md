@@ -1,7 +1,7 @@
 ---
 title: "Instance Damage System v2.0 for Unreal Engine 5"
 description: "Discover the Instance Damage System, a powerful UE5 plugin that enables interaction and damage effects for instanced static meshes, perfect for open-world games."
-keywords: ['Unreal Engine 5', 'UE5', 'plugin', 'asset', 'game development', 'instance damage', 'destruction', 'open world']
+tags: ['Unreal Engine 5', 'UE5', 'plugin', 'asset', 'game development', 'instance damage', 'destruction', 'open world']
 slug: /ue5-instance-damage-system
 ---
 

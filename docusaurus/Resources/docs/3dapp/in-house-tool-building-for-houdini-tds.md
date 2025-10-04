@@ -1,7 +1,7 @@
 ---
 title: Houdini Animal Feather Creation Tutorial - Udemy In House Tool Building for Houdini TDs
 description: Learn to create complex tools in Houdini including VEX, Python for simulating feather effects. Gain the knowledge to be an effective Technical Director.
-keywords: [Houdini, feather creation, VEX, Python, Technical Director, Houdini TD, Udemy, 3D animation, visual effects]
+tags: [Houdini, feather creation, VEX, Python, Technical Director, Houdini TD, Udemy, 3D animation, visual effects]
 slug: /in-house-tool-building-for-houdini-tds
 ---
 

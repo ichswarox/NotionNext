@@ -1,7 +1,7 @@
 ---
 title: The Tyrant Dragon - Maya Rigged 3D Model
 description: A fully rigged dragon 3D model with textures and materials in Maya format. Perfect for animators and 3D artists working on fantasy creatures.
-keywords: [maya, 3d model, dragon model, rigged model, fantasy creature, 3d animation, maya rig, textured model, 3d asset]
+tags: [maya, 3d model, dragon model, rigged model, fantasy creature, 3d animation, maya rig, textured model, 3d asset]
 slug: /the-tyrant-dragon
 ---
 

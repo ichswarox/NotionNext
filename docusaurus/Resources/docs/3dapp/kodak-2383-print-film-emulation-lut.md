@@ -1,7 +1,7 @@
 ---
 title: "Kodak 2383 Print Film Emulation LUT - Colorist Factory"
 description: "A LUT preset simulating Kodak 2383 model film texture in CUBE format, compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs"
-keywords: ["Kodak", "2383", "Colorist Factory", "LUTs", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "Film Color Grading", "Video Color Grading", "DaVinci Resolve Color Grading"]
+tags: ["Kodak", "2383", "Colorist Factory", "LUTs", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "Film Color Grading", "Video Color Grading", "DaVinci Resolve Color Grading"]
 slug: /kodak-2383-print-film-emulation-lut
 ---
 

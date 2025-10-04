@@ -1,7 +1,7 @@
 ---
 title: Hair Tool v4.4.0 for Blender - Create Hair Mesh Ribbons | 3D Character Hair Addon
 description: Hair Tool is a powerful Blender addon that generates hair mesh ribbons with UVs from bezier or NURBS curves. Perfect for game character artists and 3D animators.
-keywords: [blender, hair tool, 3d hair, character hair, hair mesh, bezier curves, nurbs curves, 3d animation, blender addon, game development]
+tags: [blender, hair tool, 3d hair, character hair, hair mesh, bezier curves, nurbs curves, 3d animation, blender addon, game development]
 slug: /hair-tool-blender-v220
 ---
 

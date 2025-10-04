@@ -34,7 +34,7 @@
     ---
     title: 
     description: 
-    keywords: 
+    tags: 
     slug:
     ---
 

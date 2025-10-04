@@ -1,7 +1,7 @@
 ---
 title: "Red Giant V2026.0.0 - Complete Particle, Color & VFX Plugin Suite for AE, Premiere & More"
 description: "Red Giant V2026.0.0 is a comprehensive collection of plugins for video post-production, motion graphics, and visual effects. Includes Trapcode, Magic Bullet, and VFX Suit with over 25 powerful tools for particle effects, color grading, and visual effects."
-keywords: ["Red Giant", "Trapcode", "Magic Bullet", "VFX Suit", "After Effects", "Premiere Pro", "Visual Effects", "Color Grading", "Particle Effects", "Video Plugins"]
+tags: ["Red Giant", "Trapcode", "Magic Bullet", "VFX Suit", "After Effects", "Premiere Pro", "Visual Effects", "Color Grading", "Particle Effects", "Video Plugins"]
 slug: /red-giant-v2026
 ---
 

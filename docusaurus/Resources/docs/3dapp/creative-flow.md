@@ -1,7 +1,7 @@
 ---
 title: Creative Flow v1.8.2 for Blender
 description: A guide to Creative Flow, a comprehensive plugin for optimizing 3D modeling workflows in Blender. Learn about its features for organic and hard surface modeling, installation, and find download links for various versions.
-keywords: [creative flow, blender, 3d modeling, organic modeling, hard surface modeling, workflow optimization, plugin]
+tags: [creative flow, blender, 3d modeling, organic modeling, hard surface modeling, workflow optimization, plugin]
 slug: /creative-flow
 ---
 

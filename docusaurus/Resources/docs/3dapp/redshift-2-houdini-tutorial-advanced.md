@@ -1,7 +1,7 @@
 ---
 title: Redshift 2 Houdini Tutorial - Advanced Rendering Techniques
 description: Comprehensive tutorial on using Redshift 2 with Houdini for advanced 3D rendering, covering setup, optimization, and professional workflows.
-keywords: [Redshift, Houdini, 3D rendering, tutorial, GPU rendering, procedural modeling, VFX, animation]
+tags: [Redshift, Houdini, 3D rendering, tutorial, GPU rendering, procedural modeling, VFX, animation]
 slug: /redshift-2-houdini-tutorial-advanced
 ---
 

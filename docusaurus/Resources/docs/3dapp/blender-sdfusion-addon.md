@@ -1,7 +1,7 @@
 ---
 title: "SDFusion: An Intuitive SDF-like Modeling Toolkit for Blender"
 description: "Explore SDFusion, a Blender addon that simplifies non-destructive boolean and remeshing workflows with an intuitive, layer-based approach."
-keywords: ['Blender', 'addon', 'SDFusion', 'SDF', 'boolean', 'remesh', 'hard-surface modeling', 'non-destructive']
+tags: ['Blender', 'addon', 'SDFusion', 'SDF', 'boolean', 'remesh', 'hard-surface modeling', 'non-destructive']
 slug: /blender-sdfusion-addon
 ---
 ![SDFusion: An Intuitive SDF-like Modeling Toolkit for Blender](../../static/img/SDFusion.jpg)

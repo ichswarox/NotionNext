@@ -1,7 +1,7 @@
 ---
 title: AE Target Point Movement Elastic Animation Script - Aescripts Spring Eases V1.0 + Tutorial
 description: Target-based animation script with inertia and bounce for After Effects. Create natural motion paths influenced by inertia with customizable elasticity.
-keywords: [aescripts, After Effects, animation script, Spring Eases, target-based animation, elastic animation, motion graphics, AE plugin]
+tags: [aescripts, After Effects, animation script, Spring Eases, target-based animation, elastic animation, motion graphics, AE plugin]
 slug: /spring-eases
 ---
 import Tabs from '@theme/Tabs';

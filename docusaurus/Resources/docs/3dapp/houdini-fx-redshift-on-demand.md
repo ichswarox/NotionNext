@@ -1,7 +1,7 @@
 ---
 title: Houdini Fluid Particle Explosion VFX Tutorial - Vertex School Houdini FX & Redshift On Demand
 description: Comprehensive Houdini FX course covering simulations, third-party rendering, destruction, Vellum, dust and debris. Learn to create all main types of simulation effects used in VFX.
-keywords: [Houdini, fluid simulation, particle effects, explosion tutorial, VFX, Redshift, Vertex School, 3D animation, visual effects]
+tags: [Houdini, fluid simulation, particle effects, explosion tutorial, VFX, Redshift, Vertex School, 3D animation, visual effects]
 slug: /houdini-fx-redshift-on-demand
 ---
 

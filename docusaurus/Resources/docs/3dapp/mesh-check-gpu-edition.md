@@ -1,7 +1,7 @@
 ---
 title: "Blender Mesh Check Optimization Plugin - Mesh Check GPU Edition V4.0.7"
 description: "Mesh Check GPU Edition is a powerful Blender plugin that automatically checks models for triangles, holes, isolated points, and other issues, then optimizes and cleans them up."
-keywords: ["blender", "blender plugin", "mesh check", "3d modeling", "optimization", "model cleanup", "3d software", "cg tools"]
+tags: ["blender", "blender plugin", "mesh check", "3d modeling", "optimization", "model cleanup", "3d software", "cg tools"]
 slug: /mesh-check-gpu-edition
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

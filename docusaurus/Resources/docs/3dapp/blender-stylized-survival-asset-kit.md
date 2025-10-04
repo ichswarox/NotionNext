@@ -1,7 +1,7 @@
 ---
 title: "Blender Low-Poly Stylized Survival Assets Kit - 3D Models"
 description: "Collection of 138 hand-painted, stylized, mobile-friendly survivalist items in Blender format for game development."
-keywords: ["3D Models", "Blender", "Blender Models", "Low Poly", "Game Assets", "Survival Assets"]
+tags: ["3D Models", "Blender", "Blender Models", "Low Poly", "Game Assets", "Survival Assets"]
 slug: /blender-stylized-survival-asset-kit
 ---
 

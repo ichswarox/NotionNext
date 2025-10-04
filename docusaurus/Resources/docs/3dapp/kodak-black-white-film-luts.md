@@ -1,7 +1,7 @@
 ---
 title: "Eastman Kodak Black and White Film LUTs for Video Color Grading"
 description: "Contains 122 Kodak black and white film texture color grading LUTs presets in CUBE format, supporting DaVinci Resolve/PR/AE/FCPX/PS and any software that can call LUTs."
-keywords: ["Kodak", "LUTs", "Color Grading", "Video", "Film Emulation", "Black and White"]
+tags: ["Kodak", "LUTs", "Color Grading", "Video", "Film Emulation", "Black and White"]
 slug: "/kodak-black-white-film-luts"
 ---
 

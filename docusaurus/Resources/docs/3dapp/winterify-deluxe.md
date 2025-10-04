@@ -1,11 +1,8 @@
 ---
 title: "Winterify Deluxe - Winter Scene Environment Simulation Add-on for Blender"
 description: "Winterify Deluxe is your ultimate toolkit for effortlessly crafting winter scenes and environments in Blender with procedural and simulated assets, photorealistic scans, trees and VFX."
-keywords: ["Blender", "Blender add-on", "winter scene", "environment simulation", "3D assets", "VFX", "procedural assets"]
+tags: ["Blender", "Blender add-on", "winter scene", "environment simulation", "3D assets", "VFX", "procedural assets"]
 slug: /winterify-deluxe
-tags: [Blender, Blender add-on, Blender assets, Blender presets, Winterify, snow scene, winter effects]
-date: 2025-09-29
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

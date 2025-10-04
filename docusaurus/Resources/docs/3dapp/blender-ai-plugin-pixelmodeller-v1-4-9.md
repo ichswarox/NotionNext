@@ -2,7 +2,7 @@
 title: Blender AI Plugin - Pixelmodeller Ai V1.4.9 - AI-Powered 3D Model Generation
 sidebar_position: 1
 description: Discover Pixelmodeller Ai V1.4.9, a powerful AI plugin for Blender that generates detailed 3D models from images. Create watertight models with UVs and vertex colors for rendering and 3D printing.
-keywords: [Blender plugin, Pixelmodeller Ai, AI 3D modeling, 3D model generation, Blender AI tool, 3D printing models, Blender addon]
+tags: [Blender plugin, Pixelmodeller Ai, AI 3D modeling, 3D model generation, Blender AI tool, 3D printing models, Blender addon]
 slug: /blender-ai-plugin-pixelmodeller
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

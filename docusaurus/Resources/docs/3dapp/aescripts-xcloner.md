@@ -1,7 +1,7 @@
 ---
 title: Aescripts xCloner v1.2 - After Effects Layer Cloning Plugin
 description: Powerful After Effects plugin that clones any type of layer exceptionally fast with real-time preview. Supports materials, vector, shape layers, text and more.
-keywords: [aescripts, after effects, cloning plugin, xcloner, layer duplication, ae plugin, motion graphics, visual effects]
+tags: [aescripts, after effects, cloning plugin, xcloner, layer duplication, ae plugin, motion graphics, visual effects]
 slug: /aescripts-xcloner
 ---
 

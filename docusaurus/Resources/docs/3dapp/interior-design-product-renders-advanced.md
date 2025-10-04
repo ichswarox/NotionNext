@@ -1,7 +1,7 @@
 ---
 title: Interior Design Product Renders - Advanced Techniques
 description: Professional interior design visualization showcasing advanced product rendering techniques with realistic lighting and materials.
-keywords: [interior design, product visualization, 3D rendering, Redshift, architectural visualization, lighting design, material studies]
+tags: [interior design, product visualization, 3D rendering, Redshift, architectural visualization, lighting design, material studies]
 slug: /interior-design-product-renders-advanced
 ---
 

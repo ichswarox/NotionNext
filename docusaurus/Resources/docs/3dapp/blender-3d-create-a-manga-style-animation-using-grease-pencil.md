@@ -1,7 +1,7 @@
 ---
 title: Blender Grease Pencil Tutorial - Create a Manga Style Animation | 2D Animation in 3D
 description: Learn how to create a 3D manga-style scene animation using Blender's Grease Pencil tool. Draw inspiration from classic sci-fi manga series such as BLAME! to bring comic book aesthetics to life in Blender.
-keywords: [blender, grease pencil, manga animation, 2d animation, 3d animation, blame, sci-fi animation, character animation, blender tutorial, anime style]
+tags: [blender, grease pencil, manga animation, 2d animation, 3d animation, blame, sci-fi animation, character animation, blender tutorial, anime style]
 slug: /blender-grease-pencil-manga-animation
 ---
 

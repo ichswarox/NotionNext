@@ -1,7 +1,7 @@
 ---
 title: 3DS MAX Architecture Indoor and Outdoor Scene Lighting Tutorial - Creative Lighting Archviz Masterclass
 description: Learn advanced lighting techniques for indoor and outdoor architectural scenes in 3DS MAX with this comprehensive tutorial covering Creative Lighting philosophy and practical implementation.
-keywords: [3ds max, 3ds max tutorial, creative lighting, architectural visualization, lighting tutorial, 3d tutorial, tutorial, building rendering]
+tags: [3ds max, 3ds max tutorial, creative lighting, architectural visualization, lighting tutorial, 3d tutorial, tutorial, building rendering]
 slug: /creative-lighting-archviz-masterclass
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

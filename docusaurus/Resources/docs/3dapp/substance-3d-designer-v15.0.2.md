@@ -2,7 +2,7 @@
 title: Substance 3D Designer V15.0.2+V14.1.2+V13.1.2+V12.4.1 - 3D Texture Material Creation Software Win/Mac Chinese/English/Crack Version
 sidebar_position: 1
 description: Substance 3D Designer is a professional 3D texture material creation software that supports creating seamless assets, image filters, ambient lighting, and 3D models, suitable for game development and visual effects production.
-keywords: [Substance, Substance 3D Designer, material creation, 3D texturing, Substance Designer, procedural materials, 3D software, Substance crack]
+tags: [Substance, Substance 3D Designer, material creation, 3D texturing, Substance Designer, procedural materials, 3D software, Substance crack]
 slug: /substance-3d-designer-v15.0.2
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

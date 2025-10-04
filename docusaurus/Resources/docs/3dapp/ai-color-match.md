@@ -1,7 +1,7 @@
 ---
 title: AE/PR Video Color Tone Smart Matching Plugin - Aescripts AI Color Match V1.3.5 Win/Mac Crack + Tutorial
 description: Professional color correction and grading tool for Premiere and After Effects. Easily color match different shots with AI-powered technology.
-keywords: [aescripts, After Effects, Premiere, AI Color Match, color correction, color grading, video editing, AE plugin, PR plugin]
+tags: [aescripts, After Effects, Premiere, AI Color Match, color correction, color grading, video editing, AE plugin, PR plugin]
 slug: /ai-color-match
 ---
 import Tabs from '@theme/Tabs';

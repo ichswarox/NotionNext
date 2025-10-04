@@ -1,7 +1,7 @@
 ---
 title: "Udemy Marvelous Designer Mastery Full Course from Zero to Advance"
 description: "Comprehensive course covering Marvelous Designer workflows for fashion design, 3D modeling, and visualization, including character setup, pattern design, garment stitching, and fabric simulation."
-keywords: ["Marvelous Designer", "Fashion Design", "3D Modeling", "Udemy", "Course", "Fabric Simulation"]
+tags: ["Marvelous Designer", "Fashion Design", "3D Modeling", "Udemy", "Course", "Fabric Simulation"]
 slug: /udemy-marvelous-designer-mastery
 ---
 

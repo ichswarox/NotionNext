@@ -1,7 +1,7 @@
 ---
 title: 3D Shoes by Shawn Astrom for Hovercraft Studio
 description: Examine detailed 3D shoe renders created by Shawn Astrom for Hovercraft Studio, featuring advanced textile and material techniques.
-keywords: [3D shoes, product visualization, footwear design, 3D rendering, Redshift, Shawn Astrom]
+tags: [3D shoes, product visualization, footwear design, 3D rendering, Redshift, Shawn Astrom]
 slug: /3d-shoes-shawn-astrom
 ---
 

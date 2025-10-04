@@ -1,7 +1,7 @@
 ---
 title: Goldie Skull Render by Evan Patrick
 description: Striking 3D skull render with golden accents created by Evan Patrick, showcasing advanced material techniques and dramatic lighting design.
-keywords: [skull render, 3D art, Evan Patrick, Redshift, material studies, golden accents, dramatic lighting, artistic visualization]
+tags: [skull render, 3D art, Evan Patrick, Redshift, material studies, golden accents, dramatic lighting, artistic visualization]
 slug: /goldie-skull-render-evan-patrick
 ---
 

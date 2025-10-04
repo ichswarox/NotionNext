@@ -1,7 +1,7 @@
 ---
 title: The VFX School - Bridge Collapse in Houdini
 description: Advanced Houdini destruction course where you'll learn to collapse a huge bridge. Covers geometry fracturing, metal deformation, constraints, RBD/Vellum/Pyro simulations, debris, dust and volumes.
-keywords: [houdini, vfx, destruction, bridge collapse, rbd simulation, vellum, pyro, houdini tutorial, visual effects, simulation]
+tags: [houdini, vfx, destruction, bridge collapse, rbd simulation, vellum, pyro, houdini tutorial, visual effects, simulation]
 slug: /houdini-bridge-collapse-tutorial
 ---
 

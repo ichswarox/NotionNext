@@ -1,7 +1,7 @@
 ---
 title: "AE Script Template: 500+ Info Data Bar Pie Trend Chart Map ICON Animations Presets Infographics"
 description: "AE script template with 500+ info data bar, pie, trend chart, map, and ICON animation presets for infographics."
-keywords: ["AE script", "infographics", "data visualization", "chart animations", "bar chart", "pie chart", "trend chart", "motion factory", "information graphics", "After Effects", "videohive"]
+tags: ["AE script", "infographics", "data visualization", "chart animations", "bar chart", "pie chart", "trend chart", "motion factory", "information graphics", "After Effects", "videohive"]
 slug: /ae-script-template-500-infographics
 ---
 

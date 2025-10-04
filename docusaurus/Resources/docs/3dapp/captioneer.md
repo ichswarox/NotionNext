@@ -2,7 +2,7 @@
 title: Aescripts Captioneer V1.5.4 - Premiere Pro Subtitle Animation Script
 sidebar_position: 1
 description: Download Aescripts Captioneer V1.5.4 for Premiere Pro - the fastest way to create animated subtitles. Streamline your video editing workflow with this powerful script.
-keywords: [3D software, design tools, creative software, VFX tools]
+tags: [3D software, design tools, creative software, VFX tools]
 slug: /captioneer
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

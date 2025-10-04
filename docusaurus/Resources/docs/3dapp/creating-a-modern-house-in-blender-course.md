@@ -1,7 +1,7 @@
 ---
 title: Udemy - Creating a Modern House in Blender Course
 description: Learn to design and model a stunning modern house from scratch using Blender. This comprehensive course covers modeling, texturing, lighting, and rendering.
-keywords: [blender, blender tutorial, udemy, interior design, 3d modeling, 3d rendering, architectural visualization, blender course]
+tags: [blender, blender tutorial, udemy, interior design, 3d modeling, 3d rendering, architectural visualization, blender course]
 slug: /creating-a-modern-house-in-blender-course
 ---
 

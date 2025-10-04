@@ -2,7 +2,7 @@
 title: Blender Stylized Character Head Sculpting Modeling Material UV Binding Tutorial Chinese/English Subtitles
 sidebar_position: 1
 description: This tutorial provides a detailed explanation of the complete workflow steps for sculpting, modeling, retopology, UV mapping, material shading, and head binding of a cartoon character head in Blender, including 8 hours and 51 minutes of HD video tutorials and project files.
-keywords: [Blender, Blender tutorial, cartoon modeling, head modeling, modeling tutorial, rigging tutorial, sculpting tutorial, Chinese subtitles, 3D modeling, character design]
+tags: [Blender, Blender tutorial, cartoon modeling, head modeling, modeling tutorial, rigging tutorial, sculpting tutorial, Chinese subtitles, 3D modeling, character design]
 slug: /blender-stylized-head-sculpting-tutorial
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

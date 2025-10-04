@@ -1,7 +1,7 @@
 ---
 title: "C4D Real-time Interactive Renderer: Corona Renderer 13 Hotfix 1 for Cinema 4D R17-2025"
 description: "Corona Renderer 13 Hotfix 1 is a powerful real-time interactive renderer for Cinema 4D that delivers photorealistic rendering quality with physically accurate materials and lighting."
-keywords: ["C4D plugin", "Corona Renderer", "Cinema 4D renderer", "3D rendering", "real-time rendering", "Corona 13", "C4D rendering plugin", "VFX tools", "Cinema 4D R17", "Cinema 4D R18", "Cinema 4D R19", "Cinema 4D R20", "Cinema 4D R21", "Cinema 4D S22", "Cinema 4D R23", "Cinema 4D S24", "Cinema 4D R25", "Cinema 4D R26", "Cinema 4D 2023", "Cinema 4D 2024", "Cinema 4D 2025"]
+tags: ["C4D plugin", "Corona Renderer", "Cinema 4D renderer", "3D rendering", "real-time rendering", "Corona 13", "C4D rendering plugin", "VFX tools", "Cinema 4D R17", "Cinema 4D R18", "Cinema 4D R19", "Cinema 4D R20", "Cinema 4D R21", "Cinema 4D S22", "Cinema 4D R23", "Cinema 4D S24", "Cinema 4D R25", "Cinema 4D R26", "Cinema 4D 2023", "Cinema 4D 2024", "Cinema 4D 2025"]
 slug: /corona-renderer-13-cinema-4d
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

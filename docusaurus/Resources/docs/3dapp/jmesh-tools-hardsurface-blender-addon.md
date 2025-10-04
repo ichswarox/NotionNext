@@ -1,7 +1,7 @@
 ---
 title: "Blender Addon: JMesh Tools Hardsurface Blender Addon V4.4.0.2 - Professional Hard Surface Modeling Tool"
 description: "JMesh Tools is a powerful Blender addon for hard surface modeling with features like Booleans, Mirror, Arrays, Symmetrize and 2D primitives for boolean mesh operations."
-keywords: ["Blender addon", "JMesh Tools", "hard surface modeling", "Blender modeling tool", "Boolean operations", "mesh editing"]
+tags: ["Blender addon", "JMesh Tools", "hard surface modeling", "Blender modeling tool", "Boolean operations", "mesh editing"]
 slug: /jmesh-tools-hardsurface-blender-addon
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

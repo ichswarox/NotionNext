@@ -2,7 +2,7 @@
 title: ERGB Streak Panels v1.0.1 - Blender Creative Light Streak Background Effects Plugin
 sidebar_position: 1
 description: ERGB Streak Panels is a Blender plugin that quickly creates customizable light streak effects without complex node control, generating animated light streak fiber effects with one click.
-keywords: [ERGB Streak Panels, Blender plugin, light plugin, streak plugin, effects plugin, 3D effects, Blender effects, animation effects, background effects]
+tags: [ERGB Streak Panels, Blender plugin, light plugin, streak plugin, effects plugin, 3D effects, Blender effects, animation effects, background effects]
 slug: /ergb-streak-panels
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

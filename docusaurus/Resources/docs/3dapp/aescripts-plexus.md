@@ -1,7 +1,7 @@
 ---
 title: Aescripts Plexus v3.2.10 - 3D Particle Plugin for After Effects
 description: Next-generation particle engine for After Effects that lets you create, manipulate and visualize data in a procedural manner. Compatible with AE 2025, 2024, 2023, 2022, 2021, 2020, CC2019, CC2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6.
-keywords: [aescripts, plexus, after effects, particle plugin, 3d particles, motion graphics, visual effects, ae plugin]
+tags: [aescripts, plexus, after effects, particle plugin, 3d particles, motion graphics, visual effects, ae plugin]
 slug: /aescripts-plexus
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Foundry Katana 8.0v4 - Professional Lighting and Look Development Software"
 description: "The Foundry Katana 8.0v4 is a professional lighting and look development software for visual effects and animation. This破解版 (cracked version) includes full functionality for Windows."
-keywords: ["Katana", "The Foundry", "lighting software", "look development", "VFX", "3D rendering", "visual effects", "animation software"]
+tags: ["Katana", "The Foundry", "lighting software", "look development", "VFX", "3D rendering", "visual effects", "animation software"]
 slug: /katana-8
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

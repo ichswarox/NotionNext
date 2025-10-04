@@ -3,7 +3,7 @@ title: Cinematic Compositor Addon v2.0 + v1.4 for Blender
 sidebar_position: 3
 slug: /cinematic-compositor-addon
 description: Cinematic Compositor Addon is a powerful post-processing plugin for Blender that adds cinematic color grading, lens effects, and film grain to your renders.
-keywords: [cinematic compositor, blender, post-processing, color grading, lens effects, film grain, blender plugin]
+tags: [cinematic compositor, blender, post-processing, color grading, lens effects, film grain, blender plugin]
 ---
 
 # Cinematic Compositor Addon v2.0 + v1.4 for Blender

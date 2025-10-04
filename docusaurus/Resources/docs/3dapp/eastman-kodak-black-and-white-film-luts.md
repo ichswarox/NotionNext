@@ -1,7 +1,7 @@
 ---
 title: "Eastman Kodak Black and White Film LUTs - 122 B&W Film Emulation Presets"
 description: "122 Eastman Kodak black and white film LUTs presets in CUBE format, emulating classic B&W films including discontinued ones. Compatible with DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying."
-keywords: ["AE color grading", "Eastman", "FCPX color grading", "Kodak", "LUTs", "Pr color grading", "Jianying", "film color grading", "color grading presets", "DaVinci color grading", "black and white color grading"]
+tags: ["AE color grading", "Eastman", "FCPX color grading", "Kodak", "LUTs", "Pr color grading", "Jianying", "film color grading", "color grading presets", "DaVinci color grading", "black and white color grading"]
 slug: /eastman-kodak-black-and-white-film-luts
 ---
 

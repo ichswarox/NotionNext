@@ -1,7 +1,7 @@
 ---
 title: Earth Zoom Transitions - AE and DaVinci Resolve Video Transitions
 description: Professional video transitions for After Effects and DaVinci Resolve with Earth zoom effects. Perfect for creating impactful scene changes.
-keywords: [after effects, davinci resolve, video transitions, earth zoom, video editing, transition effects, ae templates, davinci templates]
+tags: [after effects, davinci resolve, video transitions, earth zoom, video editing, transition effects, ae templates, davinci templates]
 slug: /earth-zoom-transitions
 ---
 

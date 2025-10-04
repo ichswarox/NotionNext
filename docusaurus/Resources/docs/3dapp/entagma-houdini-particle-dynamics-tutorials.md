@@ -1,7 +1,7 @@
 ---
 title: "Entagma Houdini Particle Dynamics VEX SOPs Tutorials Collection"
 description: "Comprehensive collection of 14 Houdini tutorials covering particle dynamics, VEX, SOPs, rendering, procedural animation, and more. Includes English and Chinese subtitles."
-keywords: ["Blender Tutorial", "Entagma", "Houdini", "Houdini Tutorial", "SOPs", "UE Tutorial", "VEX", "Chinese Subtitles", "Function Tutorial", "Rendering Tutorial", "VFX Tutorial", "Particle Tutorial"]
+tags: ["Blender Tutorial", "Entagma", "Houdini", "Houdini Tutorial", "SOPs", "UE Tutorial", "VEX", "Chinese Subtitles", "Function Tutorial", "Rendering Tutorial", "VFX Tutorial", "Particle Tutorial"]
 slug: /entagma-houdini-particle-dynamics-tutorials
 ---
 

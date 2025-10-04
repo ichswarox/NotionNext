@@ -1,7 +1,7 @@
 ---
 title: "Anatomy in Motion: A Visual Reference for Artists"
 description: "The Japanese edition of the popular 3dtotal book 'Anatomy in Motion' is set to release in September 2025, offering a comprehensive visual guide to the human body in action."
-keywords: ['anatomy', 'art', 'book', 'reference', '3dtotal', 'Born Digital', 'drawing', 'sculpting', 'character design']
+tags: ['anatomy', 'art', 'book', 'reference', '3dtotal', 'Born Digital', 'drawing', 'sculpting', 'character design']
 slug: /book-anatomy-in-motion
 ---
 

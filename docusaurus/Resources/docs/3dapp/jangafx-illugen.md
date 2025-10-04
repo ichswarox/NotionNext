@@ -1,7 +1,7 @@
 ---
 title: "JangaFX Illugen v1.0.2 - Real-time VFX Asset Generation Software for Windows"
 description: "IlluGen is the world's first tool built specifically for generating assets for real-time VFX and tech artists. Create stunning visual effects for games with this specialized tool designed for real-time workflows."
-keywords: ["JangaFX", "Illugen", "VFX", "Real-time Effects", "3D Software", "Visual Effects", "Game Development", "Asset Generation", "Tech Art", "Special Effects"]
+tags: ["JangaFX", "Illugen", "VFX", "Real-time Effects", "3D Software", "Visual Effects", "Game Development", "Asset Generation", "Tech Art", "Special Effects"]
 slug: /jangafx-illugen
 ---
 

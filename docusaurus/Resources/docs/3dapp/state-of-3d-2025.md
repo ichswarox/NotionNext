@@ -1,12 +1,8 @@
 ---
 title: State of 3D 2025 - Global Survey for 3D Artists & Industry Trends
 description: Participate in the authoritative State of 3D 2025 survey by Andrew Price. Share insights on 3D industry trends, tools, salaries, AI usage & software adoption. Results published September 2025.
-keywords: [State of 3D, 3D survey, 3D industry trends, Blender, 3D artist salary, AI in 3D, Andrew Price, 3D software, 3D career, 3D tools, 3D workflow, industry survey, 3D community, Blender Guru]
+tags: [State of 3D, 3D survey, 3D industry trends, Blender, 3D artist salary, AI in 3D, Andrew Price, 3D software, 3D career, 3D tools, 3D workflow, industry survey, 3D community, Blender Guru]
 slug: /state-of-3d-2025
-tags: [3D Industry, Survey, Blender, AI, Career Development, Software Trends]
-author: Andrew Price
-date: 2025-09-15
-updated: 2025-09-15
 ---
 
 # State of 3D 2025: Global Survey for 3D Artists

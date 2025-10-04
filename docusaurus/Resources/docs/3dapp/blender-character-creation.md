@@ -2,7 +2,7 @@
 title: 'Master Realistic 3D Character Creation with Blender, ZBrush & CLO3D'
 sidebar_label: 'Realistic 3D Character Creation'
 description: 'An advanced course on creating realistic 3D characters using Blender, ZBrush, and CLO3D, covering modeling, texturing, and rendering.'
-keywords: ['3d character creation', 'blender', 'zbrush', 'clo3d', 'realistic character', '3d modeling', 'texturing', 'rendering']
+tags: ['3d character creation', 'blender', 'zbrush', 'clo3d', 'realistic character', '3d modeling', 'texturing', 'rendering']
 slug: /realistic-3d-character-creation-course
 ---
 

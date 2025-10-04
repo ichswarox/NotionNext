@@ -2,7 +2,7 @@
 title: Oktopo Remesher V1.0 - Blender Head Retopology Plugin
 sidebar_position: 1
 description: Oktopo Remesher is an automatic head retopology plugin for Blender that can create clean, animation-ready topology with one click.
-keywords: [Oktopo Remesher, Blender plugin, retopology plugin, wiring plugin, 3D modeling, character modeling, Blender addon, head modeling, automatic retopology]
+tags: [Oktopo Remesher, Blender plugin, retopology plugin, wiring plugin, 3D modeling, character modeling, Blender addon, head modeling, automatic retopology]
 slug: /oktopo-remesher
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

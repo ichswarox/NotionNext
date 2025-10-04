@@ -1,7 +1,7 @@
 ---
 title: Houdini Particle Rigid Body Soft Body Fluid VFX Simulation Tutorial - The VFX School Houdini Renascence Program
 description: Comprehensive Houdini tutorial training you to successfully tackle any FX project. Learn to create VFX using particles, volumes, rigid bodies, liquids and more.
-keywords: [Houdini, VFX, particle simulation, fluid simulation, rigid body, soft body, visual effects, 3D animation, Houdini tutorial]
+tags: [Houdini, VFX, particle simulation, fluid simulation, rigid body, soft body, visual effects, 3D animation, Houdini tutorial]
 slug: /houdini-renascence-program
 ---
 import Tabs from '@theme/Tabs';

@@ -1,7 +1,7 @@
 ---
 title: MAXON Cinema 4D 2026.0.0 Win - Chinese/English/Cracked Version
 description: Download MAXON Cinema 4D 2026 for Windows. Professional 3D animation, modeling, simulation and rendering software.
-keywords: [Cinema 4D, C4D 2026, 3D animation, 3D modeling, 3D rendering, motion graphics, visual effects, VFX, AR, VR, game development, visualization]
+tags: [Cinema 4D, C4D 2026, 3D animation, 3D modeling, 3D rendering, motion graphics, visual effects, VFX, AR, VR, game development, visualization]
 slug: /cinema-4d-2026
 ---
 

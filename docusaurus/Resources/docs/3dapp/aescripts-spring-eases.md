@@ -1,7 +1,7 @@
 ---
 title: Aescripts Spring Eases v1.0 - Target-Based Elastic Animation Script for AE
 description: Target-based animation script with inertia and bounce for After Effects. Create natural motion paths influenced by inertia with configurable elasticity, frequency, and settling time.
-keywords: [aescripts, after effects, spring eases, animation script, elastic animation, motion graphics, ae plugin, bounce animation]
+tags: [aescripts, after effects, spring eases, animation script, elastic animation, motion graphics, ae plugin, bounce animation]
 slug: /aescripts-spring-eases
 ---
 

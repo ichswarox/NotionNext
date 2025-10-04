@@ -1,7 +1,7 @@
 ---
 title: The Foundry Nuke Studio 16.0V5 Win Crack Patch
 description: Download The Foundry Nuke Studio 16.0V5 Win with crack patch. Includes installation guide and download links.
-keywords: [Nuke Studio, The Foundry, Nuke 16, crack, patch, installation guide, download]
+tags: [Nuke Studio, The Foundry, Nuke 16, crack, patch, installation guide, download]
 slug: /nuke-studio-16
 ---
 

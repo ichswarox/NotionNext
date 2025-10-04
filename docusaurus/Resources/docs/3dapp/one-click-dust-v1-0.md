@@ -1,11 +1,8 @@
 ---
 title: "One Click Dust V1.0 - Procedural Dust Effect Add-on for Blender"
 description: "One Click Dust V1.0 is an innovative add-on for Blender that effortlessly adds procedural dust effects to any object, enhancing the realism of your renders."
-keywords: ["Blender", "Blender add-on", "dust plugin", "procedural effects", "3D rendering"]
+tags: ["Blender", "Blender add-on", "dust plugin", "procedural effects", "3D rendering"]
 slug: /one-click-dust-v1-0
-tags: [Blender, Blender add-on, One Click Dust, dust plugin, procedural effects]
-date: 2025-09-28
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

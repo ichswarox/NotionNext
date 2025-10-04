@@ -1,7 +1,7 @@
 ---
 title: "Apple Compressor v4.11.0 Crack for macOS"
 description: "Download Apple Compressor v4.11.0 for macOS. Integrated with Final Cut Pro and Motion, it adds power and flexibility to video transcoding."
-keywords: [Apple Compressor, video transcoding, Final Cut Pro, Motion, macOS, crack, download]
+tags: [Apple Compressor, video transcoding, Final Cut Pro, Motion, macOS, crack, download]
 slug: /apple-compressor-v411
 ---
 

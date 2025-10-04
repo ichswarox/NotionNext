@@ -1,7 +1,7 @@
 ---
 title: "Apple Compressor v4.6.1 - Video Encoding Software"
 description: "Apple Compressor v4.6.1 Cracked Version - A video conversion tool highly integrated with Final Cut Pro and Motion, supporting video transparency preview and M1 chip optimization"
-keywords: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "M1 Max", "M1 Ultra", "video conversion"]
+tags: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "M1 Max", "M1 Ultra", "video conversion"]
 slug: /apple-compressor-v461
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Aescripts GifGun V2.0.24 Win/Mac Crack
 description: A guide to Aescripts GifGun, a plugin script for After Effects to export high-quality GIFs. Learn about its features, supported AE versions, installation steps, and find download links for various versions.
-keywords: [aescripts, gifgun, after effects, gif export, plugin script, animation, crack]
+tags: [aescripts, gifgun, after effects, gif export, plugin script, animation, crack]
 slug: /gifgun-v2
 ---
 

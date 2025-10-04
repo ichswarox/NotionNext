@@ -1,7 +1,7 @@
 ---
 title: BQR Boolean Quad Ready V1.6 for Blender
 description: A guide to BQR Boolean Quad Ready, a plugin for optimizing quad mesh topology during boolean operations in Blender. Learn about its features, installation, and find download links for various versions.
-keywords: [bqr boolean quad ready, blender, boolean operations, quad optimization, mesh topology, plugin]
+tags: [bqr boolean quad ready, blender, boolean operations, quad optimization, mesh topology, plugin]
 slug: /bqr-boolean-quad-ready
 ---
 

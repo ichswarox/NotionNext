@@ -2,7 +2,7 @@
 title: BoxCutter 7.20.8.3 + HardOps 0.9.88.7.8 for Blender
 sidebar_position: 2
 description: BoxCutter and HardOps are powerful hard-surface modeling plugins for Blender. This guide provides download links and installation instructions.
-keywords: [boxcutter, hardops, blender, hard-surface modeling, 3d modeling, blender plugin]
+tags: [boxcutter, hardops, blender, hard-surface modeling, 3d modeling, blender plugin]
 slug: /boxcutter-hardops-blender
 ---
 

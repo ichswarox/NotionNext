@@ -2,7 +2,7 @@
 title: 46 Indoor Potted Plants 3D Models - Evermotion Archmodels Vol. 260
 sidebar_position: 1
 description: Collection of 46 high-precision indoor decorative potted plants 3D models for 3ds Max with Vray and Corona renderers
-keywords: [3D models, potted plants, indoor plants, Evermotion, Archmodels, 3ds Max]
+tags: [3D models, potted plants, indoor plants, Evermotion, Archmodels, 3ds Max]
 slug: /indoor-potted-plants-3d-models
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

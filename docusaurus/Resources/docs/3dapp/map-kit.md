@@ -1,7 +1,7 @@
 ---
 title: "AE Script Preset - Simple 3D Map Location Marker Arrow Position Indicator Animation Preset"
 description: "Create stunning 3D map animations with this After Effects script preset. Quickly generate location graphics for any country with 137 world maps included by default. Customize colors, materials, and add path routes, landmarks, and flags."
-keywords: ["AE script", "AE preset", "3D map", "graphic map", "map preset", "location marker", "After Effects", "animation", "motion graphics", "video editing"]
+tags: ["AE script", "AE preset", "3D map", "graphic map", "map preset", "location marker", "After Effects", "animation", "motion graphics", "video editing"]
 slug: /map-kit
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

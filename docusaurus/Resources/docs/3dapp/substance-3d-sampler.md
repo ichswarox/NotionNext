@@ -2,7 +2,7 @@
 title: Substance 3D Sampler V5.1.1 + V4.5.2 - Real Material Texture Creation Software Win/Mac Chinese/English/Crack Version
 sidebar_position: 1
 description: Substance 3D Sampler is a core tool in 3D workflows that easily converts real photos into realistic surfaces or HDR environments, supporting Win/Mac platforms.
-keywords: [Substance, Substance 3D Sampler, material textures, 3D software, Substance Sampler, Substance Sampler English version, Substance Sampler crack]
+tags: [Substance, Substance 3D Sampler, material textures, 3D software, Substance Sampler, Substance Sampler English version, Substance Sampler crack]
 slug: /substance-3d-sampler
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

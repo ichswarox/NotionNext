@@ -2,7 +2,7 @@
 title: Curve Facefilled Pro V1.1.7 - Real-time Complex Graphics Curve Plugin for Blender
 sidebar_position: 1
 description: Curve Facefilled Pro V1.1.7 is a powerful Blender plugin that allows real-time filling of complex graphics, curves and grid lines with editable faces. Create 2D patterns and complex solid surface shapes for extrusion.
-keywords: [Blender, Curve Facefilled Pro, Blender plugin, curve drawing, real-time editing, 3D modeling, graphic design]
+tags: [Blender, Curve Facefilled Pro, Blender plugin, curve drawing, real-time editing, 3D modeling, graphic design]
 slug: /curve-facefilled-pro-v1-1-7
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

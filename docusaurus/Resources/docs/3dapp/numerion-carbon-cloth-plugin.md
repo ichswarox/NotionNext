@@ -1,7 +1,7 @@
 ---
 title: "Numerion Carbon Cloth Plugin v3.0.1 - Maya 2023-2026"
 description: "Next generation physics engine cloth simulation plugin for Maya 2023-2026 with realistic soft and rigid body simulation and collision"
-keywords: ["Carbon", "Maya", "Maya plugin", "Numerion", "cloth plugin", "simulation", "physics engine"]
+tags: ["Carbon", "Maya", "Maya plugin", "Numerion", "cloth plugin", "simulation", "physics engine"]
 slug: /numerion-carbon-cloth-plugin
 ---
 

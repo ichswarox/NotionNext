@@ -1,7 +1,7 @@
 ---
 title: Aescripts AE Notepad v2.0 - Lightweight Notepad for After Effects
 description: A lightweight notepad panel inside After Effects for writing notes, managing to-do lists, jumping to timestamps, and exporting/importing with a single click. All notes are saved per project.
-keywords: [aescripts, after effects, notepad, script, project management, note taking, ae plugin, productivity]
+tags: [aescripts, after effects, notepad, script, project management, note taking, ae plugin, productivity]
 slug: /aescripts-ae-notepad
 ---
 

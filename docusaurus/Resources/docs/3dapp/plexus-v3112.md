@@ -1,7 +1,7 @@
 ---
 title: AE 3D Particle Plugin - Aescripts Plexus V3.2.10 CS6-2025 Win/Mac Crack + Tutorial
 description: Next-gen particle engine for After Effects that lets you create, manipulate and visualize data in a procedural manner with advanced 3D capabilities and new features.
-keywords: [aescripts, Plexus, After Effects, particle plugin, 3D particles, visual effects, motion graphics, AE plugin, Plexus 3]
+tags: [aescripts, Plexus, After Effects, particle plugin, 3D particles, visual effects, motion graphics, AE plugin, Plexus 3]
 slug: /plexus-v3112
 ---
 import Tabs from '@theme/Tabs';

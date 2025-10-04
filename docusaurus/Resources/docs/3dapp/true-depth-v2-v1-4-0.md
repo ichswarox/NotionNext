@@ -1,7 +1,7 @@
 ---
 title: "True Depth V2+V1.4.0 Blender Plugin - AI Image to 3D Model"
 description: "AI-powered Blender plugin that converts any image directly into 3D geometry with one click"
-keywords: ["Blender", "plugin", "AI", "3D model", "image to 3D", "depth map"]
+tags: ["Blender", "plugin", "AI", "3D model", "image to 3D", "depth map"]
 slug: "/true-depth-v2-v1-4-0"
 ---
 

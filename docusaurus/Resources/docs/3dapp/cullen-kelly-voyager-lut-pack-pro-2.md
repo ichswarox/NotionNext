@@ -1,7 +1,7 @@
 ---
 title: "Cullen Kelly The Voyager LUT Pack Pro 2 - Narrative Documentary Video Color Grading Presets"
 description: "Includes 17 LUTs for DaVinci Wide Gamut, from cinematic narrative and documentaries to clean advertising styles, to modern Netflix or HBO series styles. Pro version includes 24 tone and palette LUTs and DaVinci PowerGrades node presets."
-keywords: ["LUTs", "Color Grading", "DaVinci Resolve", "Video", "Cinematic", "Documentary"]
+tags: ["LUTs", "Color Grading", "DaVinci Resolve", "Video", "Cinematic", "Documentary"]
 slug: "/cullen-kelly-voyager-lut-pack-pro-2"
 ---
 

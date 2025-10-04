@@ -1,29 +1,8 @@
 ---
 title: "Mononodes Color Shift DCTLs v4 - DaVinci Resolve Color Grading Plugin Presets Collection"
 description: "Professional film-style color grading plugin presets for DaVinci Resolve. Includes 13 collections with 62 DCTL nodes for precise color control through red, green, blue, cyan, magenta, and yellow adjustments. No watermarks or black spots."
-keywords: ["DaVinci Resolve", "DCTL", "Color Grading", "Mononodes", "Color Shift", "Film Look", "Video Grading", "Color Presets", "Post Production", "Color Correction"]
+tags: ["DaVinci Resolve", "DCTL", "Color Grading", "Mononodes", "Color Shift", "Film Look", "Video Grading", "Color Presets", "Post Production", "Color Correction"]
 slug: /mononodes-color-shift-dctls
-tags:
-  - DaVinci Resolve
-  - DCTL
-  - Color Grading
-  - Mononodes
-  - Color Shift
-  - Film Look
-  - Video Grading
-  - Color Presets
-  - Post Production
-  - Color Correction
-  - Cinematic Color
-  - Professional Grading
-  - Color Nodes
-  - Video Editing
-  - Digital Color
-  - Color Theory
-  - Hue Adjustment
-  - Saturation Control
-  - Density Control
-  - Film Emulation
 ---
 
 # Mononodes Color Shift DCTLS v4 - DaVinci Resolve Film Color Grading Plugin Presets Collection

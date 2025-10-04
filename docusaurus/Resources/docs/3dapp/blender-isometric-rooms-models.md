@@ -1,7 +1,7 @@
 ---
 title: "Blender Isometric Rooms Collection - Low-poly 3D Models for Bedrooms, Kitchens and Living Rooms"
 description: "Blender low-poly 3D models for isometric renders, games, animation projects, and interior visualizations including bedrooms, kitchens, living rooms and bakery cafes"
-keywords: ["3D model", "Blender", "Blender model", "CGTrader", "bedroom model", "living room model", "interior model", "miniature model", "kitchen model"]
+tags: ["3D model", "Blender", "Blender model", "CGTrader", "bedroom model", "living room model", "interior model", "miniature model", "kitchen model"]
 slug: /blender-isometric-rooms-models
 ---
 

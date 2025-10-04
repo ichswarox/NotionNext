@@ -1,7 +1,7 @@
 ---
 title: "QuadSpinner Gaea V2.2.4.0 - Natural Terrain Simulation Software"
 description: "Advanced terrain design software that brings together advanced toolsets for creating Hollywood quality results in minutes"
-keywords: ["Gaea", "terrain", "simulation", "3D", "landscape", "environment"]
+tags: ["Gaea", "terrain", "simulation", "3D", "landscape", "environment"]
 slug: "/quadspinner-gaea-v2-2-4-0"
 ---
 

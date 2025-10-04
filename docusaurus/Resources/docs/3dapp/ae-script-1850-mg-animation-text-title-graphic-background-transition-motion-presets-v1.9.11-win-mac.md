@@ -1,7 +1,7 @@
 ---
 title: "AE Script - 1850+ MG Animation Text Title Graphic Background Transition Motion Presets V1.9.11 Win/Mac"
 description: "AE extension script that can quickly generate various MG animation elements. Over 1850 elements with customizable colors, dynamics, size, and 3D effects."
-keywords: ["AE script", "MG animation", "motion presets", "text title", "graphic background", "video transition", "animation elements", "Videolancers", "Motion Bro", "After Effects"]
+tags: ["AE script", "MG animation", "motion presets", "text title", "graphic background", "video transition", "animation elements", "Videolancers", "Motion Bro", "After Effects"]
 slug: /ae-script-1850-mg-animation
 ---
 

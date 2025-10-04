@@ -1,7 +1,7 @@
 ---
 title: "Kekit Pro V3.46 Blender Plugin - General Tool Kit"
 description: "General tool kit Blender add-on containing a collection of scripts, tools, pie menus and more"
-keywords: ["Blender", "plugin", "tools", "scripts", "pie menus", "addon"]
+tags: ["Blender", "plugin", "tools", "scripts", "pie menus", "addon"]
 slug: "/kekit-pro-v3-46"
 ---
 

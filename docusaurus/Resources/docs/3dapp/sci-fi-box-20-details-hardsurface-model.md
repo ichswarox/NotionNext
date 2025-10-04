@@ -1,7 +1,7 @@
 ---
 title: "Sci-Fi Box 20 Details Hard Surface Model Asset"
 description: "Collection of 20 sci-fi themed crates with 4K textures and UV maps in Blender format. Perfect for creating futuristic environments and sci-fi scenes."
-keywords: ["3D Model", "Blender", "Blender Model", "Hard Surface Model", "Sci-Fi Model"]
+tags: ["3D Model", "Blender", "Blender Model", "Hard Surface Model", "Sci-Fi Model"]
 slug: /sci-fi-box-20-details-hardsurface-model
 ---
 

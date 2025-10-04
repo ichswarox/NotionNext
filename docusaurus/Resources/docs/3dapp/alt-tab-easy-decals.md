@@ -1,7 +1,7 @@
 ---
 title: "Alt Tab Easy Decals: The Effortless Decal Add-on for Blender"
 description: "Discover Alt Tab Easy Decals, a Blender add-on that simplifies applying decals and images to your models. Successor to 'Stamp It!', this tool is now available with a launch discount."
-keywords: [Blender, add-on, decal, texturing, 3D modeling, Alt Tab, Easy Decals, Stamp It!]
+tags: [Blender, add-on, decal, texturing, 3D modeling, Alt Tab, Easy Decals, Stamp It!]
 slug: /alt-tab-easy-decals
 ---
 

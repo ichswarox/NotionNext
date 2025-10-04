@@ -1,7 +1,7 @@
 ---
 title: "Blender Monster VFX Tutorial by FxForge"
 description: "Check out a monster creation workflow tutorial for Blender by FxForge (Albin Thorburn), showcasing a speedy process for bringing creatures to life."
-keywords: ['Blender', 'tutorial', 'VFX', 'monster', 'creature', 'FxForge', '3D modeling', 'timelapse']
+tags: ['Blender', 'tutorial', 'VFX', 'monster', 'creature', 'FxForge', '3D modeling', 'timelapse']
 slug: /blender-monster-vfx-tutorial
 ---
 ![Blender Monster VFX Tutorial by FxForge](<../../static/img/Blender Monster VFX Tutorial.jpg>)

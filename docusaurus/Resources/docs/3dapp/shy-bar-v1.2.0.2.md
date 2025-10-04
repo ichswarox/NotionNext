@@ -1,7 +1,7 @@
 ---
 title: "Shy Bar v1.2.0.2 - Layer Selection Script for After Effects"
 description: "Shy Bar v1.2.0.2 is a powerful script for After Effects that allows you to selectively display, hide, and select specific layers in multiple ways. Take command of your timeline and composition like never before."
-keywords: ["After Effects", "Shy Bar", "AE script", "layer management", "timeline control", "composition tools", "workflow enhancement"]
+tags: ["After Effects", "Shy Bar", "AE script", "layer management", "timeline control", "composition tools", "workflow enhancement"]
 slug: /shy-bar-v1-2-0-2
 ---
 

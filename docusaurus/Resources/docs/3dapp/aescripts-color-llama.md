@@ -1,7 +1,7 @@
 ---
 title: "Aescripts Color Llama V1.0"
 description: "AE/PR plugin for color selection and color replacement in videos. Create color pairs to transform one color into another, similar to Colorama but with more flexibility."
-keywords: ["AE plugin", "color replacement", "video editing", "color grading", "Pr plugin", "color swapping", "video color correction"]
+tags: ["AE plugin", "color replacement", "video editing", "color grading", "Pr plugin", "color swapping", "video color correction"]
 slug: /aescripts-color-llama
 ---
 

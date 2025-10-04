@@ -1,7 +1,7 @@
 ---
 title: "Coloso C4D Octane AE High-Quality Assets Motion Graphics LookDev Tutorial"
 description: "Learn to create stunning motion graphics scenes using high-quality assets in Cinema 4D with Octane Render and After Effects compositing through this comprehensive tutorial with 5 practical case studies."
-keywords: ["Cinema 4D", "Octane Render", "After Effects", "Motion Graphics", "LookDev", "3D Rendering", "Visual Effects", "Compositing", "C4D Tutorial", "AE Tutorial"]
+tags: ["Cinema 4D", "Octane Render", "After Effects", "Motion Graphics", "LookDev", "3D Rendering", "Visual Effects", "Compositing", "C4D Tutorial", "AE Tutorial"]
 slug: /coloso-c4d-octane-ae-motion-graphics-lookdev
 ---
 

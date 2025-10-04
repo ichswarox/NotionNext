@@ -1,7 +1,7 @@
 ---
 title: Swamp Environment Renders by Rodolfo
 description: Atmospheric swamp environment renders by Rodolfo showcasing advanced natural scene visualization and wetland ecosystem representation.
-keywords: [environment rendering, swamp scene, 3D landscape, Rodolfo, natural visualization, wetland ecosystem, atmospheric effects, Redshift]
+tags: [environment rendering, swamp scene, 3D landscape, Rodolfo, natural visualization, wetland ecosystem, atmospheric effects, Redshift]
 slug: /swamp-environment-renders-rodolfo
 ---
 

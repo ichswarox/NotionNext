@@ -1,7 +1,7 @@
 ---
 title: "BMS Military Armed Character Tank Hard Surface 3D Asset Models - Armor Blender/FBX/OBJ/UE Formats"
 description: "Discover the BMS Military Armed Character Tank Hard Surface 3D Asset Models in Armor Blender/FBX/OBJ/UE formats. This comprehensive package includes over 550 models: fully rigged character models, 35 pose actions, 3 complete tank armor vehicle models, 34 assembly model assets, and 500+ modular kit model assets with UVs and textures."
-keywords: ["3D models", "Armor", "BigMediumSmall", "Blender models", "BMS", "FBX models", "OBJ models", "UE models", "character models", "military models", "tank models", "role models", "premium assets", "3D assets"]
+tags: ["3D models", "Armor", "BigMediumSmall", "Blender models", "BMS", "FBX models", "OBJ models", "UE models", "character models", "military models", "tank models", "role models", "premium assets", "3D assets"]
 slug: /bms-armor
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

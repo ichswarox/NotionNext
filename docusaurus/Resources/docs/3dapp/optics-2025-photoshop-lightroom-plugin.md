@@ -1,7 +1,7 @@
 ---
 title: "Optics 2025.0.2 Photoshop/Lightroom Plugin"
 description: "Boris FX Optics plugin for Photoshop and Lightroom with over 180 filters and 1000s of presets for visual effects, color grading, and lighting effects."
-keywords: ["Lightroom", "lr plugin", "Optics", "Optics 2025", "Photoshop", "PS plugin"]
+tags: ["Lightroom", "lr plugin", "Optics", "Optics 2025", "Photoshop", "PS plugin"]
 slug: /optics-2025-photoshop-lightroom-plugin
 ---
 

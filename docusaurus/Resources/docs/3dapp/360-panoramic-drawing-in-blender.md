@@ -1,7 +1,7 @@
 ---
 title: 360 Panoramic Drawing in Blender
 description: A tutorial on creating 360-degree panoramic drawings in Blender 2.8 using Grease Pencil. Learn different approaches and techniques.
-keywords: [blender, 360 drawing, panoramic drawing, grease pencil, tutorial]
+tags: [blender, 360 drawing, panoramic drawing, grease pencil, tutorial]
 slug: /360-panoramic-drawing-in-blender
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "AE + Premiere/PR Script - 500+ Image Video Split Screen In/Out Animation Presets"
 description: "Download AE + Premiere/PR Script with 500+ image video split screen in/out animation presets. Perfect for creating professional split screen effects."
-keywords: ["AE split screen", "AE templates", "AE script", "split screen plugin", "video split screen", "after effects", "premiere", "videohive", "tool asset pack", "plugins", "premium assets"]
+tags: ["AE split screen", "AE templates", "AE script", "split screen plugin", "video split screen", "after effects", "premiere", "videohive", "tool asset pack", "plugins", "premium assets"]
 slug: /ae-pr-500-split-screen-animation-presets
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

@@ -1,11 +1,8 @@
 ---
 title: "Getting Started With Animation In Blender - Animation Fundamentals Tutorial"
 description: "Learn the basics of animation in Blender through easy and practical projects, covering keyframing, timeline, dope sheet, and animation view."
-keywords: ["Blender", "Blender tutorial", "animation", "keyframing", "animation basics", "Blender fundamentals"]
 slug: /getting-started-with-animation-in-blender
 tags: [Blender, Blender tutorial, Udemy, animation tutorial, basics tutorial]
-date: 2025-09-25
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

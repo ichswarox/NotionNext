@@ -1,7 +1,7 @@
 ---
 title: Random Flow v3.5.7 - Sci-fi Mesh Generator for Blender
 description: Random Flow is a powerful Blender addon for generating sci-fi style mesh details. Learn about its features, installation process, and download links for various versions.
-keywords: [random flow, blender, sci-fi mesh generator, 3d modeling, blender plugin, hard surface modeling, concept art, blender addon]
+tags: [random flow, blender, sci-fi mesh generator, 3d modeling, blender plugin, hard surface modeling, concept art, blender addon]
 slug: /random-flow-blender-plugin
 ---
 

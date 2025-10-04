@@ -1,7 +1,7 @@
 ---
 title: "Katana Arnold Renderer Plugin: KtoA SolidAngle Arnold V4.4.3.1 for Katana 4.5-8.0"
 description: "KtoA SolidAngle Arnold V4.4.3.1 is a powerful renderer plugin that provides a bridge to the Arnold renderer from within the standard Katana interface. Supports Katana versions 4.5 through 8.0."
-keywords: ["Katana plugin", "Arnold renderer", "KtoA", "SolidAngle", "rendering plugin", "3D rendering", "VFX tools", "Katana 4.5", "Katana 5.0", "Katana 6.0", "Katana 6.5", "Katana 7.0", "Katana 7.5", "Katana 8.0"]
+tags: ["Katana plugin", "Arnold renderer", "KtoA", "SolidAngle", "rendering plugin", "3D rendering", "VFX tools", "Katana 4.5", "Katana 5.0", "Katana 6.0", "Katana 6.5", "Katana 7.0", "Katana 7.5", "Katana 8.0"]
 slug: /katana-arnold-renderer-plugin-ktoa
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

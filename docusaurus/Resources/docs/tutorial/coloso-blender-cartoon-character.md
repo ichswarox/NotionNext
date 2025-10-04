@@ -1,7 +1,7 @@
 ---
 title: Coloso Blender Cartoon Character Modeling & Rigging Tutorial (Bilingual Subtitles)
 description: Step-by-step guide to transform 2D illustrations into 3D stylized cartoon characters in Blender. Covers modeling, texturing, rigging, and rendering. 40+ hours with project files. AI-translated English & Chinese subtitles.
-keywords: [Blender tutorial, Coloso 3D character, cartoon modeling Blender, Blender rigging for beginners, 2D to 3D character workflow, stylized character creation]
+tags: [Blender tutorial, Coloso 3D character, cartoon modeling Blender, Blender rigging for beginners, 2D to 3D character workflow, stylized character creation]
 slug: /coloso-blender-cartoon-character
 ---
 

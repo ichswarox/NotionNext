@@ -1,7 +1,7 @@
 ---
 title: BBTools Glow & Glare 2 V2.4.3 For Photoshop
 description: A guide to BBTools Glow & Glare 2, a Photoshop plugin for adding stunning glow and glare effects. Learn about its features, installation steps, and find the download link.
-keywords: [bbtools, glow & glare, photoshop, plugin, glow effects, glare effects, photo editing]
+tags: [bbtools, glow & glare, photoshop, plugin, glow effects, glare effects, photo editing]
 slug: /glow-glare-2
 ---
 

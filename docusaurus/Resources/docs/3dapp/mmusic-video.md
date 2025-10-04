@@ -1,7 +1,7 @@
 ---
 title: "DaVinci + FCPX Plugin - Music MV Short Video Transitions Effects Text Titles Subtitles Glare Lens Motion Presets mMusic Video"
 description: "Enhance your music videos and short films with the mMusic Video plugin for DaVinci Resolve and Final Cut Pro X. This comprehensive plugin includes 17 video effects, 7 camera motion presets, 17 color grading LUTs, 20 text title animations, and 6 video transitions."
-keywords: ["DaVinci", "FCPX", "Final Cut Pro X", "mMusic Video", "video effects", "transitions", "text titles", "subtitles", "color grading", "LUTs", "camera motion", "VHS effects", "retro effects", "video editing", "motion graphics"]
+tags: ["DaVinci", "FCPX", "Final Cut Pro X", "mMusic Video", "video effects", "transitions", "text titles", "subtitles", "color grading", "LUTs", "camera motion", "VHS effects", "retro effects", "video editing", "motion graphics"]
 slug: /mmusic-video
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

@@ -1,7 +1,7 @@
 ---
 title: AE Object Copy Clone Plugin - Aescripts xCloner v1.2 Win Crack + Tutorial
 description: After Effects plugin that clones any type of layer exceptionally fast with real-time preview while adjusting numerous options.
-keywords: [aescripts, After Effects, clone plugin, xCloner, layer duplication, AE plugin, visual effects, motion graphics]
+tags: [aescripts, After Effects, clone plugin, xCloner, layer duplication, AE plugin, visual effects, motion graphics]
 slug: /xcloner
 ---
 import Tabs from '@theme/Tabs';

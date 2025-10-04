@@ -2,7 +2,7 @@
 title: Auto-Rig Pro v3.75.20 + Rig Library + Quick Rig for Blender
 sidebar_position: 1
 description: A guide to Auto-Rig Pro, a powerful character rigging plugin for Blender. Learn about its features, installation, and find download links for various versions.
-keywords: [auto-rig pro, blender, character rigging, 3d animation, rig library, quick rig, blender plugin]
+tags: [auto-rig pro, blender, character rigging, 3d animation, rig library, quick rig, blender plugin]
 slug: /Auto-Rig-Pro
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->
@@ -13,7 +13,7 @@ slug: /Auto-Rig-Pro
 # Auto-Rig Pro: The Ultimate Rigging Tool for Blender
 
 <!--Second Part-This is First Banner -->
-![Auto-Rig Pro for Blender](https://www.gfxcamp.com/wp-content/uploads/2019/08/Auto-Rig-Pro-3.41.59-for-Blender-2.8.jpg)
+![auto-rig-pro-ke.webp](https://list.ucards.store/d/img/auto-rig-pro-ke.webp)
 
 :::tip[info]
 Auto-Rig Pro is a comprehensive all-in-one addon for rigging characters, retargeting animations, and providing a clean workflow to export to game engines like Unity and Unreal Engine. It significantly streamlines the 3D character animation workflow in Blender.

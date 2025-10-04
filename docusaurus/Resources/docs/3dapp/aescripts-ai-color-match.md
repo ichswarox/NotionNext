@@ -1,7 +1,7 @@
 ---
 title: Aescripts AI Color Match v1.3.5 - Smart Color Matching Plugin for AE/PR
 description: Professional color correction and grading plugin that makes it easy to match colors between different shots in Premiere and After Effects. Select one clip and intelligently convert the tone to match another.
-keywords: [aescripts, after effects, premiere pro, ai color match, color correction, color grading, color matching, ae plugin, pr plugin]
+tags: [aescripts, after effects, premiere pro, ai color match, color correction, color grading, color matching, ae plugin, pr plugin]
 slug: /aescripts-ai-color-match
 ---
 

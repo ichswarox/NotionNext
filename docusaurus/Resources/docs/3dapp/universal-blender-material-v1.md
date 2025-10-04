@@ -1,11 +1,8 @@
 ---
 title: "Universal Blender Material V1 - Quick Texture Material Add-on for Blender"
 description: "Universal Blender Material is a quick texture solution for 3D models in Blender, designed with usability and performance in mind, supporting only Cycles renderer."
-keywords: ["Blender", "Blender add-on", "material plugin", "texture", "Cycles renderer", "3D modeling"]
+tags: ["Blender", "Blender add-on", "material plugin", "texture", "Cycles renderer", "3D modeling"]
 slug: /universal-blender-material-v1
-tags: [Blender, Blender add-on, Universal Blender Material, texture plugin]
-date: 2025-09-29
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

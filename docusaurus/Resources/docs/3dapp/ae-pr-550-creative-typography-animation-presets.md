@@ -1,7 +1,7 @@
 ---
 title: "AE + PR Script - 550+ Creative Modern Business Corporate Clean Text Titles Typography Animation Presets"
 description: "Download AE + PR Script with 550+ creative modern business corporate clean text titles typography animation presets. Perfect for After Effects and Premiere Pro projects."
-keywords: ["AE script", "AtomX", "Premiere", "PR script", "Videohive", "subtitle animation", "text layout", "text titles", "after effects", "premiere templates", "plugins", "premium assets"]
+tags: ["AE script", "AtomX", "Premiere", "PR script", "Videohive", "subtitle animation", "text layout", "text titles", "after effects", "premiere templates", "plugins", "premium assets"]
 slug: /ae-pr-550-creative-typography-animation-presets
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

@@ -1,7 +1,7 @@
 ---
 title: "Blender Target Lighting Plugin - Light Wrangler V3.2.4+V2.2.4 + Tutorial"
 description: "Advanced Blender lighting plugin that enables targeted lighting on specific model locations with support for HDRI, Gobo, and IES."
-keywords: ["Blender", "Blender Addon", "Light Wrangler", "Lighting Plugin", "HDRI", "IES"]
+tags: ["Blender", "Blender Addon", "Light Wrangler", "Lighting Plugin", "HDRI", "IES"]
 slug: /blender-light-wrangler-addon
 ---
 

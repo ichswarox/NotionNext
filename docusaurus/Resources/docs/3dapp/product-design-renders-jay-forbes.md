@@ -1,7 +1,7 @@
 ---
 title: Product Design Renders by Jay Forbes
 description: Innovative product design visualization showcasing Jay Forbes' creative approach to 3D rendering and industrial design concepts.
-keywords: [product design, 3D rendering, Jay Forbes, industrial design, visualization, Redshift, concept design, creative rendering]
+tags: [product design, 3D rendering, Jay Forbes, industrial design, visualization, Redshift, concept design, creative rendering]
 slug: /product-design-renders-jay-forbes
 ---
 

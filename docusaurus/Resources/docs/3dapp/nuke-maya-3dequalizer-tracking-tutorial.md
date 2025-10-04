@@ -1,7 +1,7 @@
 ---
 title: "Nuke+Maya+3DEqualizer Video Tracking Tutorial - Scene Match and Compositing"
 description: "Comprehensive tutorial on video tracking, scene matching and compositing using Nuke, Maya, 3DEqualizer, DaVinci Resolve and Blender"
-keywords: ["Nuke", "Maya", "3DEqualizer", "video tracking", "scene matching", "compositing", "VFX", "camera tracking"]
+tags: ["Nuke", "Maya", "3DEqualizer", "video tracking", "scene matching", "compositing", "VFX", "camera tracking"]
 slug: /nuke-maya-3dequalizer-tracking-tutorial
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Fruit Market 3D Model Asset"
 description: "Collection of various fruit models, shelves, and fruit stalls in FBX format with textures and materials. Perfect for creating realistic market scenes."
-keywords: ["3D Model", "FBX Model", "Fruit Model", "Market Asset", "3D Asset"]
+tags: ["3D Model", "FBX Model", "Fruit Model", "Market Asset", "3D Asset"]
 slug: /fruit-market-3d-model-asset
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Blender Floor Texture Blending Plugin - Floor Blend v1.0.0
 description: Floor Blend is an addon that simplifies blending floor textures with one click, along with offering additional helpful features for Blender users. This powerful plugin streamlines your workflow while providing additional helpful features.
-keywords: [blender, blender plugin, floor blend, texture blending, addon, 3d software, cg tools]
+tags: [blender, blender plugin, floor blend, texture blending, addon, 3d software, cg tools]
 slug: /floor-blend
 ---
 

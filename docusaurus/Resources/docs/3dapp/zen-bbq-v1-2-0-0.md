@@ -1,7 +1,7 @@
 ---
 title: "Blender Bevel Plugin Zen BBQ V1.2.0.0"
 description: "Zen BBQ is a powerful Blender addon for creating, adjusting, and visualizing bevels with just a few clicks. Compatible with multiple Blender versions."
-keywords: ["Blender addon", "bevel plugin", "Zen BBQ", "3D modeling", "Blender bevel", "mesh editing"]
+tags: ["Blender addon", "bevel plugin", "Zen BBQ", "3D modeling", "Blender bevel", "mesh editing"]
 slug: /zen-bbq-v1-2-0-0
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

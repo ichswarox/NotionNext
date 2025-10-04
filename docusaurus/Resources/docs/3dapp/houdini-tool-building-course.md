@@ -1,7 +1,7 @@
 ---
 title: Udemy - In House Tool Building for Houdini TDs
 description: Advanced Houdini course focusing on building complex tools including VEX and Python for creating effects like feathers. Designed to make you an effective Technical Director.
-keywords: [houdini, vfx, technical director, tool building, vex programming, python scripting, feather effects, houdini tutorial, procedural modeling]
+tags: [houdini, vfx, technical director, tool building, vex programming, python scripting, feather effects, houdini tutorial, procedural modeling]
 slug: /houdini-tool-building-course
 ---
 

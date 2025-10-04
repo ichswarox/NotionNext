@@ -1,7 +1,7 @@
 ---
 title: "Space and Planet HDRI - Premium Cosmic Environment Textures"
 description: "Professional collection of 8 high-quality space planet HDRI materials in 16K EXR format for realistic 3D rendering and VFX projects."
-keywords: ["Space HDRI", "Planet Environment Textures", "3D Space Backgrounds", "Cosmic HDRI Materials", "16K Resolution Textures", "EXR Environment Maps"]
+tags: ["Space HDRI", "Planet Environment Textures", "3D Space Backgrounds", "Cosmic HDRI Materials", "16K Resolution Textures", "EXR Environment Maps"]
 slug: /space-and-planet-hdri
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Extra Nodes For Geometry Nodes V3.5 Blender Add-on"
 description: "Advanced procedural particle system nodes and XPBD physics nodes for unparalleled control over each particle in Blender, with versatile curve growth, tracer, scatter, and utility nodes for motion graphics projects."
-keywords: ["Blender", "Geometry Nodes", "Add-on", "Motion Graphics", "Particle System", "XPBD Physics", "Procedural"]
+tags: ["Blender", "Geometry Nodes", "Add-on", "Motion Graphics", "Particle System", "XPBD Physics", "Procedural"]
 slug: /extra-nodes-for-geometry-nodes-v35
 ---
 

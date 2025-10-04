@@ -1,7 +1,7 @@
 ---
 title: Create Stylish Grain & Noise Shading in After Effects with Shade It Script
 description: Shade It is a powerful After Effects script for motion graphics artists who want to add stylish, textured shadows to their work with a single click. Perfect for creating popular grain and noise effects in your MG animations.
-keywords: [after effects, shade it, script, grain shading, noise effects, motion graphics, animation, shadows, visual effects, mg animation]
+tags: [after effects, shade it, script, grain shading, noise effects, motion graphics, animation, shadows, visual effects, mg animation]
 slug: /grain-noise-shading-script
 ---
 

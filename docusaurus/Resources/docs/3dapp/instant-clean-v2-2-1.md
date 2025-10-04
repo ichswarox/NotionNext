@@ -1,11 +1,8 @@
 ---
 title: "Instant Clean V2.2.1 - Mesh Optimization and Cleanup Add-on for Blender"
 description: "Instant Clean is a single click mesh clean addon for Blender that intelligently removes unnecessary mesh topology with an easy-to-use preset system."
-keywords: ["Blender", "Blender add-on", "mesh cleanup", "topology optimization", "modeling", "mesh processing"]
+tags: ["Blender", "Blender add-on", "mesh cleanup", "topology optimization", "modeling", "mesh processing"]
 slug: /instant-clean-v2-2-1
-tags: [Blender, Blender add-on, mesh plugin]
-date: 2025-09-29
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

@@ -1,7 +1,7 @@
 ---
 title: 2D Cloud Textures Pack - High-Quality Cloud Image Assets
 description: Explore a collection of 125 high-quality 2D cloud textures (jpg), perfect for VFX, animation, and illustration.
-keywords: [cloud textures, vfx, animation, illustration, image assets, jpg textures, cloud images, visual effects]
+tags: [cloud textures, vfx, animation, illustration, image assets, jpg textures, cloud images, visual effects]
 slug: /2d-cloud-textures-pack
 ---
 

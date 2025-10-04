@@ -1,7 +1,7 @@
 ---
 title: "V-Ray 7.10.02 for SketchUp 2021-2025 Win - Professional Rendering Plugin"
 description: "Professional rendering software combining real-time and photorealistic rendering for SketchUp"
-keywords: ["sketchup", "v-ray", "vray", "vray 7", "rendering plugin", "3D rendering", "architectural visualization", "CG tools", "design software", "visualization tools"]
+tags: ["sketchup", "v-ray", "vray", "vray 7", "rendering plugin", "3D rendering", "architectural visualization", "CG tools", "design software", "visualization tools"]
 slug: /vray_7_for_sketchup
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

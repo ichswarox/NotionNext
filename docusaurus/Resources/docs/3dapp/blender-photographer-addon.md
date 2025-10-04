@@ -1,7 +1,7 @@
 ---
 title: "Blender Camera and Lighting Setup Plugin - Photographer 5.6.5 + Preset Library"
 description: "Blender addon for easy camera focus, lighting setup, and parameter adjustments with support for EEVEE, Cycles, and LuxCore renderers."
-keywords: ["Blender", "Blender Addon", "Photographer", "Camera Plugin", "Lighting Plugin", "EEVEE", "Cycles"]
+tags: ["Blender", "Blender Addon", "Photographer", "Camera Plugin", "Lighting Plugin", "EEVEE", "Cycles"]
 slug: /blender-photographer-addon
 ---
 

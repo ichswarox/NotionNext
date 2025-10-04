@@ -13,7 +13,7 @@ You I need to analyze the provided Markdown file and optimize it according to Do
     ---
     title: ""
     description: ""
-    keywords: []
+    tags: []
     tags: []
     slug: /
     ---)

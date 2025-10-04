@@ -1,11 +1,8 @@
 ---
 title: "Fantastic 3D Illustration with Blender - Create Futuristic Sci-Fi Landscapes"
 description: "Learn to create futuristic science fiction landscapes in Blender with this comprehensive tutorial covering impossible compositions and vaporwave/cyberpunk styling."
-keywords: ["Blender", "Blender tutorial", "3D illustration", "sci-fi", "vaporwave", "cyberpunk", "landscape"]
 slug: /fantastic-3d-illustration-with-blender
 tags: [Blender, Blender tutorial, 3D illustration, sci-fi, vaporwave, cyberpunk, landscape]
-date: 2025-09-26
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

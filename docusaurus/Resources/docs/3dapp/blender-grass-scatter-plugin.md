@@ -1,7 +1,7 @@
 ---
 title: "Physical Grass Scatter Plugin for Blender - Real-Time Physics V1.2.0"
 description: "Blender add-on for creating realistic grass scattering effects with real-time physics simulation, compatible with Blender 3.6-4.5"
-keywords: ["Blender", "Blender plugin", "Physical Grass Scatter", "scatter plugin", "grass scatter", "simulation"]
+tags: ["Blender", "Blender plugin", "Physical Grass Scatter", "scatter plugin", "grass scatter", "simulation"]
 slug: /blender-grass-scatter-plugin
 ---
 

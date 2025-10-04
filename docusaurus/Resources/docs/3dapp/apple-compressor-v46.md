@@ -1,7 +1,7 @@
 ---
 title: "Apple Compressor v4.6 - Video Encoding Software"
 description: "Apple Compressor v4.6 Cracked Version - A video conversion tool highly integrated with Final Cut Pro and Motion, supporting automatic encoding and Canon Cinema RAW Light"
-keywords: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "Canon RAW", "iPhone 13", "video conversion"]
+tags: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "Canon RAW", "iPhone 13", "video conversion"]
 slug: /apple-compressor-v46
 ---
 

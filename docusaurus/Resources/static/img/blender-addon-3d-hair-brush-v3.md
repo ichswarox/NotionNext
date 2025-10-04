@@ -1,7 +1,7 @@
 ---
 title: "Blender Addon: 3D Hair Brush V3 - Professional Hair Grooming Tool"
 description: "Discover the powerful 3D Hair Brush V3 addon for Blender. Create stunning hairstyles and animal fur with this professional hair grooming tool supporting the new hair system."
-keywords: ["Blender addon", "3D Hair Brush", "hair grooming", "hair styling", "VFX Grace", "Blender hair tool"]
+tags: ["Blender addon", "3D Hair Brush", "hair grooming", "hair styling", "VFX Grace", "Blender hair tool"]
 slug: /blender-addon-3d-hair-brush-v3
 ---
 

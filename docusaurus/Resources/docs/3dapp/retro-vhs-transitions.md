@@ -1,7 +1,7 @@
 ---
 title: Premiere/PR Script - 225 Retro Film Projector Paper Scratch VHS Film Burn Effects Video Transitions
 description: This package contains 225 video transition effects, including film strips, burn holes, graffiti elements, scratch films, VHS, paper stop-motion, tape markers, lens flares, and more. Enhance your video projects with this comprehensive collection of retro-style video transitions.
-keywords: [Premiere Pro, PR script, VHS transitions, retro film effects, video transitions, film burn effects, paper scratch, AtomX script, video editing, transition effects]
+tags: [Premiere Pro, PR script, VHS transitions, retro film effects, video transitions, film burn effects, paper scratch, AtomX script, video editing, transition effects]
 slug: /retro-vhs-transitions
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

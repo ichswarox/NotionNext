@@ -1,7 +1,7 @@
 ---
 title: "Houdini FX Course Tutorial - Complete Guide to Core Concepts"
 description: "Comprehensive Houdini tutorial covering core concepts including SOPs, POPs, VEX, Vellum, MPM, RBDs, FLIP, and Pyro for beginners and advanced users"
-keywords: ["Houdini", "FX tutorial", "SOPs", "POPs", "VEX", "Vellum", "RBDs", "FLIP", "Pyro", "3D effects", "VFX", "simulation"]
+tags: ["Houdini", "FX tutorial", "SOPs", "POPs", "VEX", "Vellum", "RBDs", "FLIP", "Pyro", "3D effects", "VFX", "simulation"]
 slug: /houdini-fx-course-tutorial
 ---
 

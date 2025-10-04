@@ -1,7 +1,7 @@
 ---
 title: "Digital Juice Collection - Continuous Updates"
 description: "Comprehensive collection of Digital Juice assets for video production and design"
-keywords: ["digital juice", "video assets", "motion graphics", "visual effects", "stock footage", "CG assets", "3D software", "design tools", "creative software", "VFX tools"]
+tags: ["digital juice", "video assets", "motion graphics", "visual effects", "stock footage", "CG assets", "3D software", "design tools", "creative software", "VFX tools"]
 slug: /digital_juice_collection
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

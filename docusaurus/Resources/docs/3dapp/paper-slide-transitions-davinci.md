@@ -1,7 +1,7 @@
 ---
 title: Paper Slide Transitions for DaVinci Resolve - Page Flip Video Effects
 description: Paper slide transitions for DaVinci Resolve with page flip effects. Create engaging transitions with this easy-to-use preset pack.
-keywords: [davinci resolve, video transitions, paper slide, page flip, video editing, transition presets, davinci presets]
+tags: [davinci resolve, video transitions, paper slide, page flip, video editing, transition presets, davinci presets]
 slug: /paper-slide-transitions-davinci
 ---
 

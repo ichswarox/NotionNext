@@ -1,7 +1,7 @@
 ---
 title: "Blender Plugin for Importing Models to UE: Blender For Unreal Engine V4.4.2"
 description: "Blender For Unreal Engine V4.4.2 is a powerful plugin that allows direct import of Blender model projects, scenes, lighting, and cameras into Unreal Engine. Supports multiple Blender versions."
-keywords: ["Blender plugin", "Unreal Engine", "Blender For Unreal Engine", "3D model import", "UE4", "UE5", "bridge plugin", "Blender addon"]
+tags: ["Blender plugin", "Unreal Engine", "Blender For Unreal Engine", "3D model import", "UE4", "UE5", "bridge plugin", "Blender addon"]
 slug: /blender-for-unreal-engine-v4-4-2
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

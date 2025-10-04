@@ -1,7 +1,7 @@
 ---
 title: "Blender Plugin: Better FBX Importer & Exporter V6.2.4 - Enhanced FBX Support"
 description: "Download Better FBX Importer & Exporter plugin for Blender. Import and export FBX files with full compatibility for all versions from 5.3 to 2020. Works with Blender 2.8+."
-keywords: ["Blender plugin", "FBX importer", "FBX exporter", "Better FBX Importer & Exporter", "Blender FBX", "3D model import", "3D model export", "Blender addon"]
+tags: ["Blender plugin", "FBX importer", "FBX exporter", "Better FBX Importer & Exporter", "Blender FBX", "3D model import", "3D model export", "Blender addon"]
 slug: /better-fbx-importer-exporter
 ---
 

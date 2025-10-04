@@ -1,7 +1,7 @@
 ---
 title: "Infinite Retouch V1.0.3 Photoshop Plugin"
 description: "Advanced Photoshop plugin for portrait retouching with multiple functions including noise addition, sharpening and more"
-keywords: ["Photoshop", "plugin", "retouching", "portrait", "image editing"]
+tags: ["Photoshop", "plugin", "retouching", "portrait", "image editing"]
 slug: "/infinite-retouch-v1-0-3"
 ---
 

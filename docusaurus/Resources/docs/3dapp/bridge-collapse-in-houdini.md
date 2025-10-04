@@ -1,7 +1,7 @@
 ---
 title: The VFX School - Bridge Collapse in Houdini
 description: Learn to create a massive bridge collapse effect in Houdini. This comprehensive course covers geometry fracturing, metal deformation, constraints, RBD simulations, and more.
-keywords: [houdini, houdini tutorial, vfx school, bridge collapse, destruction effects, 3d simulation, visual effects, houdini course]
+tags: [houdini, houdini tutorial, vfx school, bridge collapse, destruction effects, 3d simulation, visual effects, houdini course]
 slug: /bridge-collapse-in-houdini
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Global HDRI Plugin for Blender - 500+ High Dynamic Range Environment Light Maps"
 description: "Enhance your Blender projects with over 500 high-quality HDRI environment light maps. This plugin offers seamless integration with 8K resolution HDRIs organized by category including studio, nature, interior, city, fantasy, and sci-fi."
-keywords: ["Blender", "HDRI", "Global HDRI", "Environment Lighting", "Light Maps", "Blender Plugin", "3D Rendering", "CGI", "Lighting Presets", "Asset Library"]
+tags: ["Blender", "HDRI", "Global HDRI", "Environment Lighting", "Light Maps", "Blender Plugin", "3D Rendering", "CGI", "Lighting Presets", "Asset Library"]
 slug: /blender-global-hdri-plugin
 ---
 

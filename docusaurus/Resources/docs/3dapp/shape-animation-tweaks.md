@@ -2,7 +2,7 @@
 title: 'Interactive Shape & Path Animation in After Effects with Tweaks'
 sidebar_label: 'Aescripts Tweaks'
 description: A powerful script for After Effects that opens up new possibilities for shape and path animation. From morphing shapes to fine-tuning paths and innovatively distributing layers.
-keywords: [after effects, shape animation, path animation, tweaks, motion graphics, animation script, after effects plugin]
+tags: [after effects, shape animation, path animation, tweaks, motion graphics, animation script, after effects plugin]
 slug: /shape-animation-tweaks
 ---
 

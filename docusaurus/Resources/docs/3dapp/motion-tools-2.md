@@ -2,7 +2,7 @@
 title: Motion Tools Pro 2025 V2.0.11 - AE Script for Keyframe Curve Adjustment, Center Point Alignment, and Elastic Animation
 sidebar_position: 5
 description: Motion Tools Pro is an After Effects script developed by Motion Design School for adjusting keyframe curves, aligning center points, and generating elastic animations.
-keywords: [motion tools, after effects, ae script, keyframe curve, center point alignment, elastic animation, motion design school]
+tags: [motion tools, after effects, ae script, keyframe curve, center point alignment, elastic animation, motion design school]
 slug: /motion-tools-2025
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

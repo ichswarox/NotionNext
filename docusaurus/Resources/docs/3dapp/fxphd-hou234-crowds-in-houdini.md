@@ -1,7 +1,7 @@
 ---
 title: "FXPHD HOU234 - Crowds in Houdini Tutorial"
 description: "Comprehensive guide to creating and animating crowd scenes using motion capture data and various assets from VFX308 course, taught by VFX supervisor Charles Chorein."
-keywords: ["Houdini", "Crowds", "Tutorial", "FXPHD", "Motion Capture", "Animation", "VFX"]
+tags: ["Houdini", "Crowds", "Tutorial", "FXPHD", "Motion Capture", "Animation", "VFX"]
 slug: /3dapp/fxphd-hou234-crowds-in-houdini
 ---
 

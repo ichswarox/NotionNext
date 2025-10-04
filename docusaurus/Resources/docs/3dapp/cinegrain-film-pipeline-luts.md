@@ -1,7 +1,7 @@
 ---
 title: "Cinegrain Film Pipeline LUTs"
 description: "Collection of 56 film profile LUTs and 25 special process LUTs in CUBE format for color grading. Supports DaVinci Resolve, Premiere, After Effects, FCPX, Photoshop, and other software that supports LUTs."
-keywords: ["AE Color Grading", "Cinegrain", "FCPX Color Grading", "LUTs", "Pr Color Grading", "Film Color Grading", "Video Color Grading", "Color Grading Presets", "DaVinci Color Grading"]
+tags: ["AE Color Grading", "Cinegrain", "FCPX Color Grading", "LUTs", "Pr Color Grading", "Film Color Grading", "Video Color Grading", "Color Grading Presets", "DaVinci Color Grading"]
 slug: /cinegrain-film-pipeline-luts
 ---
 

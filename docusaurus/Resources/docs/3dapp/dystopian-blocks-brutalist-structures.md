@@ -1,11 +1,8 @@
 ---
 title: "Dystopian Blocks - Brutalist Structures Kitbash Buildings for Blender"
 description: "Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectural 3D models for Blender, featuring 145 individual models and 45 building groups with 1K/2K/4K resolution textures."
-keywords: ["Blender", "3D models", "architectural models", "dystopian", "sci-fi", "kitbash", "building assets"]
 slug: /dystopian-blocks-brutalist-structures
 tags: [3D models, Blender, Blender models, Blender assets, Blender presets, architectural models, building models]
-date: 2025-09-29
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

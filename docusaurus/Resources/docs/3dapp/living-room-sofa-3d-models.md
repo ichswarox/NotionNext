@@ -1,7 +1,7 @@
 ---
 title: "Living Room Sofa 3D Models - Evermotion Archmodels Vol.197"
 description: "Collection of 20 highly detailed sets of furniture with sofas and couches models for 3ds Max"
-keywords: ["3D models", "sofa", "living room", "furniture", "Evermotion", "Archmodels", "3ds Max"]
+tags: ["3D models", "sofa", "living room", "furniture", "Evermotion", "Archmodels", "3ds Max"]
 slug: /living-room-sofa-3d-models
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

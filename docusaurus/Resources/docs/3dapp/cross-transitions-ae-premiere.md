@@ -1,7 +1,7 @@
 ---
 title: Transitions - Cross Transitions for AE and Premiere - Photo Slide Animation
 description: Professional photo and video slideshow transitions for After Effects and Premiere Pro. Perfect for creating engaging cross transitions in your projects.
-keywords: [after effects, premiere pro, video transitions, cross transitions, photo slideshow, video editing, ae templates, pr presets]
+tags: [after effects, premiere pro, video transitions, cross transitions, photo slideshow, video editing, ae templates, pr presets]
 slug: /cross-transitions-ae-premiere
 ---
 

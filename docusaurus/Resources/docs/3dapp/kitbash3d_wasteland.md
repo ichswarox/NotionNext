@@ -1,7 +1,7 @@
 ---
 title: "Wasteland Industrial Ruins 3D Models for C4D/MAX/FBX/OBJ/Maya/Blender"
 description: "Kitbash3D - Wasteland industrial ruin scene 3D models including factories, warehouses, and dock ruins"
-keywords: ["3d models", "c4d models", "kitbash3d", "industrial models", "ruin models", "factory models", "warehouse models", "CG assets", "3D software", "design tools"]
+tags: ["3d models", "c4d models", "kitbash3d", "industrial models", "ruin models", "factory models", "warehouse models", "CG assets", "3D software", "design tools"]
 slug: /kitbash3d_wasteland
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

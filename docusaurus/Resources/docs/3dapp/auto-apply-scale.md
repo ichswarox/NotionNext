@@ -1,7 +1,7 @@
 ---
 title: "Auto Apply Scale V2.0 - Blender Plugin for Automatic Scale Adjustment"
 description: "Download the Auto Apply Scale V2.0 plugin for Blender. This utility helps you work better and avoid common issues that occur when you don't have applied scales."
-keywords: ["Auto Apply Scale", "Blender", "Blender plugin", "scale plugin", "3D modeling", "3D animation"]
+tags: ["Auto Apply Scale", "Blender", "Blender plugin", "scale plugin", "3D modeling", "3D animation"]
 slug: /auto-apply-scale
 sidebar_position: 3
 ---

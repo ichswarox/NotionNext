@@ -1,7 +1,7 @@
 ---
 title: "FCPX Plugin - 20 Minimal Lower Thirds Name Titles Animation Presets"
 description: "Professional collection of 20 minimal-style lower thirds name titles for Final Cut Pro X with fully customizable parameters"
-keywords: ["FCPX plugin", "lower thirds", "name titles", "animation presets", "video editing", "motion graphics", "Mac only"]
+tags: ["FCPX plugin", "lower thirds", "name titles", "animation presets", "video editing", "motion graphics", "Mac only"]
 slug: /fcpx-minimal-lower-thirds
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

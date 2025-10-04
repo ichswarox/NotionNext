@@ -1,7 +1,7 @@
 ---
 title: One-Click PBR Pro V0.8.1 for Blender
 description: A guide to One-Click PBR Pro, a plugin for converting any image to layered PBR maps in Blender. Learn about its real-time controls, installation, and find the download link.
-keywords: [one-click pbr pro, blender, pbr mapping, texture conversion, real-time controls, plugin]
+tags: [one-click pbr pro, blender, pbr mapping, texture conversion, real-time controls, plugin]
 slug: /one-click-pbr-pro
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Procedural Cloth Sewing Toolbox V0.35 for Blender - Complete Sewing Solution
 description: The Procedural Cloth Sewing Toolbox V0.35 is an advanced addon for Blender that revolutionizes how 3D artists create realistic sewing details on garments. This powerful collection of procedural tools leverages Blender's geometry and shader nodes to generate intricate, fully procedural sewing elements.
-keywords: [Blender addon, procedural cloth, sewing toolbox, cloth simulation, 3D garment creation, fabric simulation, Blender tools]
+tags: [Blender addon, procedural cloth, sewing toolbox, cloth simulation, 3D garment creation, fabric simulation, Blender tools]
 slug: /procedural-cloth-sewing-toolbox
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

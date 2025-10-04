@@ -1,7 +1,7 @@
 ---
 title: "AE Pathfinder Script Aescripts AEPathfinder V1.0.06"
 description: "Advanced vector shape editing script for After Effects that allows combining, splitting, trimming, and animating vector shapes across single or multiple layers"
-keywords: ["after effects", "ae script", "pathfinder", "shape layer", "vector editing", "animation", "graphic design", "motion graphics", "visual effects", "aescripts"]
+tags: ["after effects", "ae script", "pathfinder", "shape layer", "vector editing", "animation", "graphic design", "motion graphics", "visual effects", "aescripts"]
 slug: /aepathfinder
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

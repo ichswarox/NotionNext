@@ -1,7 +1,7 @@
 ---
 title: "Stunning Mountain Landscapes in Blender - Snow Mountain Lakeside Scene Project"
 description: "Download this professional Blender snow mountain lakeside scene project featuring realistic 3D landscapes with雪山湖泊村庄三维自然场景工程."
-keywords: ["Blender", "3D landscape", "mountain scene", "snow landscape", "Blender project", "3D model", "scene design"]
+tags: ["Blender", "3D landscape", "mountain scene", "snow landscape", "Blender project", "3D model", "scene design"]
 slug: /stunning-mountain-landscapes-in-blender
 ---
 

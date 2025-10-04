@@ -2,7 +2,7 @@
 title: Generate Animated Circuit Boards in After Effects with circuitFX
 sidebar_label: Aescripts circuitFX
 description: circuitFX is a specialized tool for After Effects designed to generate intricate, graphical circuit board animations with a single click.
-keywords: [After Effects, circuitFX, circuit animation, electronics, sci-fi, HUD, motion graphics, AE script]
+tags: [After Effects, circuitFX, circuit animation, electronics, sci-fi, HUD, motion graphics, AE script]
 slug: /aescripts-circuitfx
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "AE Script - 3333 Distortion Perspective Rotation Impact Camera Video Seamless Transitions Presets V10.1 Videolancers Transitions + Motion Bro 4 Cracked"
 description: "AE script with 3333 presets for distortion, perspective, rotation, impact, and camera video seamless transitions. Compatible with Motion Bro 4."
-keywords: ["AE script", "video transitions", "motion presets", "distortion effects", "perspective transitions", "camera effects", "seamless transitions", "Videolancers", "Motion Bro 4", "After Effects"]
+tags: ["AE script", "video transitions", "motion presets", "distortion effects", "perspective transitions", "camera effects", "seamless transitions", "Videolancers", "Motion Bro 4", "After Effects"]
 slug: /ae-script-3333-video-transitions
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Blender Neon Sign Generator Plugin - Procedural Signs V2.0.0+V1.1.0 + Preset Pack
 description: Create stunning neon signs and billboards procedurally in Blender with the Procedural Signs plugin. This powerful addon offers customizable parameters for generating a wide variety of neon signage effects for urban environments, commercial zones, and digital platforms.
-keywords: [Blender, Blender plugin, neon signs, billboard generator, procedural modeling, 3D signage, urban design, commercial signage, VFX tools, Blender addon]
+tags: [Blender, Blender plugin, neon signs, billboard generator, procedural modeling, 3D signage, urban design, commercial signage, VFX tools, Blender addon]
 slug: /procedural-signs
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

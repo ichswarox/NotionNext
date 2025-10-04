@@ -1,7 +1,7 @@
 ---
 title: "Blender Scene Rendering Color Grading Addon - Colorist Pro V1.4.2 + Asset Presets"
 description: "Blender addon for real-time color grading with LUTs presets, featuring viewport preview and adjustable parameters for enhanced rendering."
-keywords: ["Blender", "Blender Addon", "Blender Color Grading", "Colorist Pro", "LUTs"]
+tags: ["Blender", "Blender Addon", "Blender Color Grading", "Colorist Pro", "LUTs"]
 slug: /blender-colorist-pro-addon
 ---
 

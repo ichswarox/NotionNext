@@ -2,7 +2,7 @@
 title: 'Advanced Green Screen Keying in After Effects with After Keying'
 sidebar_label: 'Aescripts After Keying'
 description: 'Powerful After Effects script for advanced green screen keying with one-click background removal and professional compositing features'
-keywords: ['after effects', 'ae script', 'green screen', 'keying', 'compositing', 'keylight', 'video editing', 'visual effects']
+tags: ['after effects', 'ae script', 'green screen', 'keying', 'compositing', 'keylight', 'video editing', 'visual effects']
 slug: /advanced-green-screen-keying
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

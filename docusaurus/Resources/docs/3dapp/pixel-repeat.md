@@ -1,7 +1,7 @@
 ---
 title: After Effects Plugin - Aescripts Pixel Repeat V1.2 - Pixel Looping and Stretching Tool
 description: Aescripts Pixel Repeat V1.2 is an After Effects plugin for creating pixel looping and stretching effects. Perfect for glitch art, stylized streaks, and other unique visual effects. Supports AE 2025, 2024 on Windows.
-keywords: [After Effects plugin, Aescripts Pixel Repeat, pixel looping, glitch art, visual effects, motion graphics, AE tools]
+tags: [After Effects plugin, Aescripts Pixel Repeat, pixel looping, glitch art, visual effects, motion graphics, AE tools]
 slug: /pixel-repeat
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

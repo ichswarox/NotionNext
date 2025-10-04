@@ -1,7 +1,7 @@
 ---
 title: "Corona Renderer 13 Hotfix 1 for 3ds Max 2016-2026 - Real-time Interactive Renderer"
 description: "Download Corona Renderer 13 Hotfix 1 for 3ds Max with crack. A real-time interactive renderer for 3ds Max that delivers photorealistic rendering quality with material library and Nvidia AI denoiser."
-keywords: ["Corona Renderer", "3ds Max plugin", "3D rendering software", "real-time rendering", "photorealistic rendering", "3D Max renderer"]
+tags: ["Corona Renderer", "3ds Max plugin", "3D rendering software", "real-time rendering", "photorealistic rendering", "3D Max renderer"]
 slug: /corona-renderer-13-for-3ds-max
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

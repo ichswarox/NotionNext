@@ -1,7 +1,7 @@
 ---
 title: "JangaFX LiquidGen v1.0.2 - Real-time Liquid Simulation Software for Windows"
 description: "Create realistic liquid simulations including water, blood, ketchup, and slime with JangaFX LiquidGen. Features real-time meshing, customizable forces, sparse simulation domains, and a real-time path tracer."
-keywords: ["JangaFX", "LiquidGen", "Liquid Simulation", "Fluid Simulation", "3D Software", "Real-time Rendering", "VFX", "CGI", "Water Simulation", "Particle Effects"]
+tags: ["JangaFX", "LiquidGen", "Liquid Simulation", "Fluid Simulation", "3D Software", "Real-time Rendering", "VFX", "CGI", "Water Simulation", "Particle Effects"]
 slug: /jangafx-liquidgen
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Scene Perspective Drawing Tutorial - Proko The Perspective Course with Chinese/English Subtitles"
 description: "Master perspective drawing with this comprehensive course from Proko. Learn to see, imagine, and draw in perspective like a professional artist. Includes Chinese/English multilingual subtitles."
-keywords: ["proko", "perspective drawing", "scene drawing", "2d tutorial", "drawing course", "perspective tutorial", "art education", "visual arts", "hand drawing", "composition"]
+tags: ["proko", "perspective drawing", "scene drawing", "2d tutorial", "drawing course", "perspective tutorial", "art education", "visual arts", "hand drawing", "composition"]
 slug: /the-perspective-course
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple Compressor v4.9.0 - Video Encoding Software"
 description: "Apple Compressor v4.9.0 Cracked Version - A video conversion tool highly integrated with Final Cut Pro and Motion, supporting spatial video encoding and compatible with Apple Vision Pro"
-keywords: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "Apple Vision Pro", "spatial video", "video conversion"]
+tags: ["Apple Compressor", "video encoding", "Final Cut Pro", "Motion", "Apple Vision Pro", "spatial video", "video conversion"]
 slug: /apple-compressor-v490
 ---
 

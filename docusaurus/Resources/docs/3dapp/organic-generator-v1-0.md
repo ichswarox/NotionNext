@@ -1,11 +1,8 @@
 ---
 title: "Organic Generator V1.0 - Blender GeoNode Setup for Organic Assets"
 description: "Organic Generator V1.0 contains a GeoNode Setup with 15+ modular assets and 10+ GeoNode Modifier Presets for quick iteration, concept art and illustration."
-keywords: ["Blender", "Blender add-on", "organic generator", "GeoNode", "3D assets", "procedural modeling"]
+tags: ["Blender", "Blender add-on", "organic generator", "GeoNode", "3D assets", "procedural modeling"]
 slug: /organic-generator-v1-0
-tags: [Blender, Blender generator, Blender assets, Blender presets, Organic Generator, organic modeling]
-date: 2025-09-26
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

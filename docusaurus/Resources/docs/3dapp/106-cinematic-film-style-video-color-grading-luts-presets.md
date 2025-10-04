@@ -1,7 +1,7 @@
 ---
 title: "106 Cinematic Film-Style Video Color Grading LUTs Presets for DaVinci/AE/PR/FCPX/CapCut/PS etc."
 description: "Contains 106 cinematic film-style video color grading LUTs presets in CUBE format, compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs"
-keywords: ["3D LUTS", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "Cinematic Color Grading", "Film Color Grading", "Video Color Grading", "Color Grading Presets", "DaVinci Resolve Color Grading"]
+tags: ["3D LUTS", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "Cinematic Color Grading", "Film Color Grading", "Video Color Grading", "Color Grading Presets", "DaVinci Resolve Color Grading"]
 slug: /106-cinematic-film-style-video-color-grading-luts-presets
 ---
 

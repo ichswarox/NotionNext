@@ -2,7 +2,7 @@
 title: Sprite Particles For Realtime Vfx With Geonodes V2.0 - Blender Custom Particle Effects Node Asset Presets
 sidebar_position: 1
 description: Blender particle effects asset presets based on geometry nodes, capable of creating various real-time visual effects such as explosions, water splashes, campfires, smoke, and steam.
-keywords: [Sprite Particles, Blender plugin, particle effects, real-time particles, explosion effects, geometry nodes, 3D effects, VFX assets, Blender effects]
+tags: [Sprite Particles, Blender plugin, particle effects, real-time particles, explosion effects, geometry nodes, 3D effects, VFX assets, Blender effects]
 slug: /sprite-particles-for-realtime-vfx-with-geonodes
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

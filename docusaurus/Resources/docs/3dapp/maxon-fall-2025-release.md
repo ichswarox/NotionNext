@@ -1,7 +1,7 @@
 ---
 title: "Maxon Announces Fall 2025 Updates for Cinema 4D, ZBrush & More"
 description: "Maxon unveils its Fall 2025 updates, featuring significant enhancements for Cinema 4D and ZBrush, alongside a stunning collection of new demo reels."
-keywords: ['Maxon', 'Cinema 4D', 'C4D', 'ZBrush', 'Redshift', 'Red Giant', 'Maxon One', '3D', 'VFX', 'motion graphics', 'update']
+tags: ['Maxon', 'Cinema 4D', 'C4D', 'ZBrush', 'Redshift', 'Red Giant', 'Maxon One', '3D', 'VFX', 'motion graphics', 'update']
 slug: /maxon-fall-2025-release
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "HairFlow Plugin for Blender Hair Animation Simulation v1.2.2"
 description: "HairFlow is an animation plugin for Blender's new hair system. It works with any curve object, whether hair generated through modifiers or finished hair without geometry nodes."
-keywords: ["Blender", "Blender Plugin", "HairFlow", "Hair Animation", "Hair Plugin"]
+tags: ["Blender", "Blender Plugin", "HairFlow", "Hair Animation", "Hair Plugin"]
 slug: /blender-hairflow-plugin
 ---
 

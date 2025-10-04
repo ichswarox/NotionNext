@@ -1,7 +1,7 @@
 ---
 title: "GreyscaleGorilla Fundamental of Octane Tutorial"
 description: "Introduction to Octane renderer basics, covering setup, texture creation, and essential techniques for Cinema 4D users by Octane expert David Ariew."
-keywords: ["Octane", "Cinema 4D", "Tutorial", "Rendering", "GreyscaleGorilla", "GSG"]
+tags: ["Octane", "Cinema 4D", "Tutorial", "Rendering", "GreyscaleGorilla", "GSG"]
 slug: /3dapp/gsg-fundamental-of-octane
 ---
 

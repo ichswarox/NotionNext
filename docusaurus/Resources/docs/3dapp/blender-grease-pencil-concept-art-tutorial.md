@@ -1,7 +1,7 @@
 ---
 title: "Blender Grease Pencil Character Concept Art Drawing Tutorial with Chinese/English Subtitles"
 description: "This course teaches how to create single character concept art using Blender's Grease Pencil tool, including creative concept, colors and textures, sketching, and final effects."
-keywords: ["Blender", "Grease Pencil", "Concept Art", "Character Design", "Tutorial", "Animation"]
+tags: ["Blender", "Grease Pencil", "Concept Art", "Character Design", "Tutorial", "Animation"]
 slug: "/blender-grease-pencil-concept-art-tutorial"
 ---
 

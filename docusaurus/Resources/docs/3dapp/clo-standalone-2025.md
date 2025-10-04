@@ -1,7 +1,7 @@
 ---
 title: "CLO Standalone OnlineAuth 2025.1.166 - 3D Fashion Design & Presentation Software"
 description: "CLO Standalone OnlineAuth 2025.1.166 is a powerful 3D fashion design and presentation software that helps fashion designers showcase clothing in realistic virtual environments with accurate 3D garment simulation."
-keywords: ["CLO", "CLO3D", "Fashion Design", "3D Software", "Virtual Clothing", "Garment Simulation", "Fashion Presentation", "Clothing Design", "3D Modeling"]
+tags: ["CLO", "CLO3D", "Fashion Design", "3D Software", "Virtual Clothing", "Garment Simulation", "Fashion Presentation", "Clothing Design", "3D Modeling"]
 slug: /clo-standalone-2025
 ---
 

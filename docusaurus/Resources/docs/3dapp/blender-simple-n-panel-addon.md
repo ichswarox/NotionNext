@@ -1,7 +1,7 @@
 ---
 title: Blender Addon - Simple N-Panel V1.1.17 Quick Access Plugin
 description: Simple N-Panel is the definitive solution for managing a growing collection of addons, moving all your vertical tabs into one clean, lightning-fast popup menu. This plugin streamlines your Blender workflow by organizing all addon panels into a single, easily accessible interface.
-keywords: [Blender addon, Simple N-Panel, workflow tool, addon management, interface optimization, Blender plugin]
+tags: [Blender addon, Simple N-Panel, workflow tool, addon management, interface optimization, Blender plugin]
 slug: /blender-simple-n-panel-addon
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

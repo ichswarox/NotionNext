@@ -1,7 +1,7 @@
 ---
 title: Natural Terrain Simulation Software QuadSpinner Gaea V2.2.1.0 Win Crack
 description: Gaea is a powerful terrain design software that allows users to quickly simulate various natural terrain effects, including terrain erosion, geology, coloring, and UI elements.
-keywords: [gaea, terrain software, landscape design, 3d modeling, procedural generation, visual effects, terrain erosion, geology, cg software]
+tags: [gaea, terrain software, landscape design, 3d modeling, procedural generation, visual effects, terrain erosion, geology, cg software]
 slug: /gaea-v2
 ---
 

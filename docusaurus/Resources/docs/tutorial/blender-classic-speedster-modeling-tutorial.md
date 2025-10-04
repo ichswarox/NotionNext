@@ -2,7 +2,7 @@
 title: Blender Classic Car Modeling Texturing Lighting Rendering Tutorial Udemy – Create a Classic Speedster with Blender
 sidebar_position: 1
 description: Starting with Blender's basic modeling tools, build the basic shape of the car, learn advanced hard surface modeling techniques, assign materials and add textures for leather seats and wooden texture steering wheels, set up lighting and render final images.
-keywords: [Blender, Blender tutorial, Udemy, modeling tutorial, car modeling, rendering tutorial, lighting tutorial, texturing tutorial, hard surface modeling, 3D modeling]
+tags: [Blender, Blender tutorial, Udemy, modeling tutorial, car modeling, rendering tutorial, lighting tutorial, texturing tutorial, hard surface modeling, 3D modeling]
 slug: /blender-classic-speedster-modeling-tutorial
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

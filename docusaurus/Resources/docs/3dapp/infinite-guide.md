@@ -1,7 +1,7 @@
 ---
 title: Infinite Guide v1.0.5 - Photoshop Retouching Plugin for Windows
 description: Infinite Guide is a Photoshop plugin that guides you through every step of the retouching process. Perfect for learning and streamlining your Photoshop workflow.
-keywords: [infinite guide, photoshop plugin, retouching plugin, ps plugin, photo editing, photoshop tutorial, photoshop tools]
+tags: [infinite guide, photoshop plugin, retouching plugin, ps plugin, photo editing, photoshop tutorial, photoshop tools]
 slug: /infinite-guide
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Blender Position-Specific Light Generation Plugin: Light Painter V1.5.5"
 description: "Light Painter V1.5.5 is a powerful Blender plugin that allows you to draw light positions at specified locations on 3D models to quickly generate various lighting or projection effects."
-keywords: ["Blender plugin", "Light Painter", "Blender lighting", "3D lighting", "lighting plugin", "Blender addon", "VFX tools", "3D rendering"]
+tags: ["Blender plugin", "Light Painter", "Blender lighting", "3D lighting", "lighting plugin", "Blender addon", "VFX tools", "3D rendering"]
 slug: /light-painter-blender-plugin
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

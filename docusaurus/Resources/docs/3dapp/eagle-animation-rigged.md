@@ -1,7 +1,7 @@
 ---
 title: "VFX Grace - Aquila Nipalensis Animation Rigged 3D Model for Blender"
 description: "High-quality animated and rigged 3D eagle model with detailed feathers, 4K textures, and 5 animations. Perfect for Blender artists and VFX professionals."
-keywords: ["blender", "3d model", "eagle", "vfx grace", "rigged model", "animated 3d model", "bird model", "3d assets", "cycles renderer"]
+tags: ["blender", "3d model", "eagle", "vfx grace", "rigged model", "animated 3d model", "bird model", "3d assets", "cycles renderer"]
 slug: /eagle-animation-rigged
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

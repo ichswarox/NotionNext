@@ -2,7 +2,7 @@
 title: Hingegenious - Blender Hinge Generator Asset Preset
 sidebar_position: 4
 description: Hingegenious is a powerful digital tool for generating fully parametric 3D hinge models in Blender, perfect for 3D printing applications.
-keywords: [hingegenious, blender, hinge generator, 3d printing, parametric modeling, blender asset]
+tags: [hingegenious, blender, hinge generator, 3d printing, parametric modeling, blender asset]
 slug: /hingegenious
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

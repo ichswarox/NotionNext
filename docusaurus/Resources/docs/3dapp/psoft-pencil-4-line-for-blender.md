@@ -1,7 +1,7 @@
 ---
 title: Blender Toon Rendering Plugin - PSOFT Pencil+ 4 Line for Blender v4.1.5 + Material + Render App v4.1.1 Win Crack
 description: PSOFT Pencil+ 4 Line for Blender is a post-processing effects addon that adds hand-drawn style lines to 3D objects. When used together with PSOFT Pencil+ 4 Render App, it enables easy utilization of high-quality lines adopted by many anime productions.
-keywords: [Blender, Blender plugin, Pencil+, PSOFT, toon rendering, anime style, 3D rendering, hand-drawn lines, cartoon shading, non-photorealistic rendering, NPR, Blender addon]
+tags: [Blender, Blender plugin, Pencil+, PSOFT, toon rendering, anime style, 3D rendering, hand-drawn lines, cartoon shading, non-photorealistic rendering, NPR, Blender addon]
 slug: /psoft-pencil-4-line-for-blender
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

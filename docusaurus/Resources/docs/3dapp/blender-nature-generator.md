@@ -1,13 +1,13 @@
 ---
 title: "The Nature Generator v1.2 - Blender Plugin for Rocks, Cliffs, Terrain & Plants"
 description: "Generate diverse natural environment elements in Blender including rocks, cliffs, ground, mountains, flowers, and plants. Use scatter distribution controls and drag-and-drop assets from the asset browser."
-keywords: ["Blender", "Nature Generator", "Terrain Plugin", "Rock Generator", "Cliff Model", "Ground Generator", "Plant Assets", "3D Environment", "Blender Plugin", "Asset Library"]
+tags : ["Blender", "Nature Generator", "Terrain Plugin", "Rock Generator", "Cliff Model", "Ground Generator", "Plant Assets", "3D Environment", "Blender Plugin", "Asset Library"]
 slug: /blender-nature-generator
 ---
 
 # The Nature Generator v1.2 - Natural Terrain Asset Preset Plugin for Blender
 
-![The Nature Generator for Blender](https://www.gfxcamp.com/wp-content/uploads/2025/09/The-Nature-Generator-Blender.jpg)
+![generator-he.webp](https://list.ucards.store/d/img/generator-he.webp)
 
 ## Asset Overview
 
@@ -38,27 +38,6 @@ The plugin features scatter distribution controls for precise placement and can 
 - Comprehensive asset library
 
 ## Download
-[Chat For Details](https://wa.me/8613237610083)
+[Limit Speed Download Link](https://list.neoxu.store/d/app/model/blender/The%20Nature%20Generator%20v1.2.zip)
 
-## Tags
-
-- Blender
-- Nature Generator
-- Terrain Plugin
-- Rock Generator
-- Cliff Model
-- Ground Generator
-- Plant Assets
-- 3D Environment
-- Blender Plugin
-- Asset Library
-- Natural Elements
-- Landscape Design
-- Environmental Art
-- Game Development
-- 3D Modeling
-- Procedural Generation
-- Digital Art
-- Terrain Generation
-- Vegetation Assets
-- Mountain Landscapes
+[Hight Speed Download Link Request](https://wa.me/8613237610083)

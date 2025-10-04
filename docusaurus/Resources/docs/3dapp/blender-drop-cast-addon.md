@@ -1,7 +1,7 @@
 ---
 title: 'Drop Cast: A Physics-Based Scattering Tool for Blender'
 description: 'Discover Drop Cast, a powerful and intuitive physics-based scattering addon for Blender that transforms asset collections into complete scenes in seconds.'
-keywords: ['Blender', 'addon', 'Drop Cast', 'physics-based scattering', '3D modeling', 'Casey_Sheep']
+tags: ['Blender', 'addon', 'Drop Cast', 'physics-based scattering', '3D modeling', 'Casey_Sheep']
 slug: /blender-drop-cast-addon
 ---
 ![Drop Cast: A Physics-Based Scattering Tool for Blender](https://3dnchu.com/wp-content/uploads/drop-cast-v1-0.webp)

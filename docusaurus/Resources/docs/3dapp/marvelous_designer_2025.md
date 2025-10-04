@@ -1,7 +1,7 @@
 ---
 title: "Marvelous Designer 2025 Enterprise - 3D Fashion Design Software with Advanced Cloth Simulation"
 description: "Get Marvelous Designer 2025 Enterprise Edition - the industry-leading 3D fashion design software with advanced cloth simulation. Create realistic garments with intuitive tools."
-keywords: ["3D software", "design tools", "creative software", "VFX tools"]
+tags: ["3D software", "design tools", "creative software", "VFX tools"]
 slug: /marvelous_designer_2025
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

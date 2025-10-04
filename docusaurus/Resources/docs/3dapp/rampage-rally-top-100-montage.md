@@ -1,7 +1,7 @@
 ---
 title: "Top 100 3D Vehicle Montage from Rampage Rally Challenge"
 description: "Watch the top 100 3D vehicle animations from the Rampage Rally CG challenge, where 2,625 artists created original works from a single template."
-keywords: ["CG challenge", "3D animation", "VFX", "Clinton Jones", "Rampage Rally", "motion graphics", "community challenge"]
+tags: ["CG challenge", "3D animation", "VFX", "Clinton Jones", "Rampage Rally", "motion graphics", "community challenge"]
 slug: /rampage-rally-top-100-montage
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "99 Set 4K PBR Materials Vol.01"
 description: "Premium collection of 99 high-quality 4K PBR materials for 3D projects"
-keywords: ["pbr", "textures", "materials", "3D", "Blender", "Substance Designer", "CG assets", "3D software", "design tools", "creative software"]
+tags: ["pbr", "textures", "materials", "3D", "Blender", "Substance Designer", "CG assets", "3D software", "design tools", "creative software"]
 slug: /99_pbr_materials_vol_01
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

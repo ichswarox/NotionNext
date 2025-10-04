@@ -1,7 +1,7 @@
 ---
 title: "Learn UI Visual Effects from 'Dead by Daylight' in UE5"
 description: "An online course by CGWORLD ONLINE ACADEMY featuring UI Technical Designer Adrian Saito, breaking down UI material creation and visual expression techniques used in 'Dead by Daylight'."
-keywords: ['Dead by Daylight', 'UI', 'VFX', 'Unreal Engine 5', 'UE5', 'CGWORLD', 'tutorial', 'game development']
+tags: ['Dead by Daylight', 'UI', 'VFX', 'Unreal Engine 5', 'UE5', 'CGWORLD', 'tutorial', 'game development']
 slug: /learn-dbd-ui-vfx-ue5
 ---
 

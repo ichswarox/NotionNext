@@ -1,7 +1,7 @@
 ---
 title: "DaVinci Resolve Kodak Film Emulation Powergrade - FilterGrade"
 description: "Fully editable DaVinci Resolve Powergrade that gives your footage aesthetic and filmic look with few simple clicks, simulating Kodak 250D film effect"
-keywords: ["DaVinci Resolve", "Kodak", "Film Emulation", "PowerGrade", "FilterGrade", "Color Grading", "Video Color Grading", "Film Color Grading", "DaVinci Resolve Color Grading", "DaVinci Resolve Presets"]
+tags: ["DaVinci Resolve", "Kodak", "Film Emulation", "PowerGrade", "FilterGrade", "Color Grading", "Video Color Grading", "Film Color Grading", "DaVinci Resolve Color Grading", "DaVinci Resolve Presets"]
 slug: /davinci-resolve-kodak-film-emulation-powergrade
 ---
 

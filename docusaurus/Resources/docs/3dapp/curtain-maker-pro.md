@@ -1,7 +1,7 @@
 ---
 title: Curtain Maker Pro v1.1.6 for Blender - Create Realistic Curtains
 description: Free Blender addon to generate and customize procedural curtain meshes. Perfect for interior design and architectural visualization.
-keywords: [blender, curtain maker pro, blender plugin, 3d curtains, interior design, architectural visualization, procedural meshes]
+tags: [blender, curtain maker pro, blender plugin, 3d curtains, interior design, architectural visualization, procedural meshes]
 slug: /curtain-maker-pro
 ---
 

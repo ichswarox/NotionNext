@@ -1,7 +1,7 @@
 ---
 title: Import 3D Gaussian Splatting Models into After Effects with Aescripts Plugin
 description: Unlock the power of 3D content within your 2D workflow with the Gaussian Splatting plugin for After Effects. This tool allows you to import, manipulate, and render 3D Gaussian Splatting (.ply) files directly inside After Effects.
-keywords: [after effects, gaussian splatting, 3d models, aescripts, plugin, ply files, motion graphics, visual effects, 3d reconstruction]
+tags: [after effects, gaussian splatting, 3d models, aescripts, plugin, ply files, motion graphics, visual effects, 3d reconstruction]
 slug: /gaussian-splatting-plugin
 ---
 

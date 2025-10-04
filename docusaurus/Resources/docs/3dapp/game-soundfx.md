@@ -1,7 +1,7 @@
 ---
 title: Japanese/Epic/Orchestral/Casual/Horror/Zombie Game Sound Effects - Lossless WAV Audio Pack
 description: A comprehensive collection of 72 professionally crafted game sound effects covering Japanese games, epic orchestral scores, casual gameplay, horror atmospheres, and zombie themes. Each WAV file ranges from 10-90 seconds in length, perfect for game development, video production, and multimedia projects.
-keywords: [game sound effects, Japanese game audio, epic game sounds, orchestral game music, casual game audio, horror game sounds, zombie sound effects, lossless WAV, game audio pack, sound design, audio assets, music sound effects, premium audio素材]
+tags: [game sound effects, Japanese game audio, epic game sounds, orchestral game music, casual game audio, horror game sounds, zombie sound effects, lossless WAV, game audio pack, sound design, audio assets, music sound effects, premium audio素材]
 slug: /game-soundfx
 ---
 

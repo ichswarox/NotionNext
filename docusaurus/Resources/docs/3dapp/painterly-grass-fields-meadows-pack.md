@@ -1,7 +1,7 @@
 ---
 title: "Blender Cartoon Oil Painting Style Field Grass Assets Preset: Painterly Grass - Fields & Meadows Pack for Blender EEVEE"
 description: "Painterly Grass - Fields & Meadows is a 3D grass and field asset pack that brings the quality of 2D painting directly into the 3D workspace. Perfect for creating stunning renders that look like paintings."
-keywords: ["Blender asset", "Painterly Grass", "Blender grass asset", "Blender field asset", "EEVEE renderer", "3D grass", "cartoon style", "Blender preset"]
+tags: ["Blender asset", "Painterly Grass", "Blender grass asset", "Blender field asset", "EEVEE renderer", "3D grass", "cartoon style", "Blender preset"]
 slug: /painterly-grass-fields-meadows-pack
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

@@ -1,7 +1,7 @@
 ---
 title: Render Raw V1.2.16 - Pixel Perfect Color Correction for Blender
 description: A guide to Render Raw, a plugin for perfecting colors in Blender renders. Learn about its features for advanced color workflow, installation, and find download links for various versions.
-keywords: [render raw, blender, color correction, rendering, pixel perfect, plugin]
+tags: [render raw, blender, color correction, rendering, pixel perfect, plugin]
 slug: /render-raw
 ---
 

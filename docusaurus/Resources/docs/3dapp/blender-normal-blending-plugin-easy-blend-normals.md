@@ -2,7 +2,7 @@
 title: "Blender Normal Blending Plugin: Easy Blend Normals v1.0.1"
 sidebar_position: 1
 description: "Easy Blend Normals v1.0.1 is a Blender plugin that allows you to smoothly blend normals between two objects with just one click. Perfect for seamless shading and hiding seams in 3D models."
-keywords: ["Blender plugin", "Easy Blend Normals", "normal blending", "3D modeling", "seamless shading", "Blender 4.5", "geometry nodes", "Blender addon", "3D rendering", "normal maps"]
+tags: ["Blender plugin", "Easy Blend Normals", "normal blending", "3D modeling", "seamless shading", "Blender 4.5", "geometry nodes", "Blender addon", "3D rendering", "normal maps"]
 slug: /blender-normal-blending-plugin-easy-blend-normals
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

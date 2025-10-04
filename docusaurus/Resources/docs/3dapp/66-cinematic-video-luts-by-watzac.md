@@ -1,7 +1,7 @@
 ---
 title: "66 Cinematic Video LUTs by Watzac - Professional Film-Style Color Grading Presets"
 description: "Contains 66 professional cinematic LUTs in CUBE format, supporting major camera brands like Canon, DJI, Panasonic, Sony, and compatible with DaVinci Resolve, PR, AE, FCPX, PS, CapCut or any software that can load LUTs"
-keywords: ["Cinematic LUTs", "Video Color Grading", "Film Color Grading", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "3D LUTS", "Color Grading Presets", "DaVinci Resolve Color Grading"]
+tags: ["Cinematic LUTs", "Video Color Grading", "Film Color Grading", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "3D LUTS", "Color Grading Presets", "DaVinci Resolve Color Grading"]
 slug: /66-cinematic-video-luts-by-watzac
 ---
 

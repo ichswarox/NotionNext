@@ -1,7 +1,7 @@
 ---
 title: "10 Nordic Design Interior Scenes 3D Models - Evermotion Archinteriors Vol. 48"
 description: "High-quality 3D models of 10 Nordic design interior scenes with textures and materials for 3ds Max and Blender"
-keywords: ["3D models", "Nordic design", "interior scenes", "Evermotion", "Archinteriors", "3ds Max", "Blender"]
+tags: ["3D models", "Nordic design", "interior scenes", "Evermotion", "Archinteriors", "3ds Max", "Blender"]
 slug: /nordic-design-interior-scenes-3d-models
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

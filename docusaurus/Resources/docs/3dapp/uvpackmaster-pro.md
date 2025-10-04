@@ -1,7 +1,7 @@
 ---
 title: "Blender Addon: UVPackmaster PRO v3.4.3 - Advanced UV Packing Tool"
 description: "UVPackmaster PRO is an efficient and fully-featured UV packing engine for Blender with CPU and CUDA acceleration. This professional tool significantly improves UV packing efficiency with intelligent algorithms."
-keywords: ["Blender addon", "UVPackmaster", "UV packing", "Blender UV tool", "3D modeling", "texture mapping", "CUDA acceleration", "UV optimization"]
+tags: ["Blender addon", "UVPackmaster", "UV packing", "Blender UV tool", "3D modeling", "texture mapping", "CUDA acceleration", "UV optimization"]
 slug: /uvpackmaster-pro
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Genshin Impact Blender Assets Collection - 3D Models for Game Assets
 description: Collection of models from the game Genshin Impact. Fully ready for the asset browser with basic models like beds, chairs, doors, floors, plants, tables, trees, etc.
-keywords: [blender, genshin impact, 3d models, game assets, asset browser, blender assets, 3d modeling, game development]
+tags: [blender, genshin impact, 3d models, game assets, asset browser, blender assets, 3d modeling, game development]
 slug: /genshin-impact-blender-assets
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Red Giant Universe V2026.0.0 - Video Effects Preset Library for AE, Premiere & DaVinci"
 description: "Red Giant Universe V2026.0.0 is a powerful library of video editing and visual effects plugins. Create stunning transitions, visual effects, and motion graphics with this comprehensive toolkit that works across multiple platforms."
-keywords: ["Red Giant", "Universe", "After Effects", "Premiere Pro", "DaVinci Resolve", "Visual Effects", "Video Plugins", "Motion Graphics", "Transitions", "Video Editing"]
+tags: ["Red Giant", "Universe", "After Effects", "Premiere Pro", "DaVinci Resolve", "Visual Effects", "Video Plugins", "Motion Graphics", "Transitions", "Video Editing"]
 slug: /red-giant-universe-v2026
 ---
 

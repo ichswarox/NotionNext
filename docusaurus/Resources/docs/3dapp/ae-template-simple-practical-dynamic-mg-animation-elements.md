@@ -1,7 +1,7 @@
 ---
 title: "AE Template: Simple Practical Dynamic MG Animation Elements"
 description: "This AE template includes over 110 MG animation elements, all created directly in After Effects. You can modify the dynamics, thickness, color, etc. It also includes rendered videos with alpha channels that can be used directly in any other software."
-keywords: [AE template, After Effects, MG animation, motion graphics, animation elements, rendered video, alpha channel]
+tags: [AE template, After Effects, MG animation, motion graphics, animation elements, rendered video, alpha channel]
 slug: /ae-template-simple-mg-animation-elements
 ---
 

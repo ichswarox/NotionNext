@@ -1,7 +1,7 @@
 ---
 title: "AE Color Search and Replace Script Aescripts ColorSwap V1.1"
 description: "Script for After Effects that allows quick search and replace of colors within compositions or entire projects"
-keywords: ["after effects", "ae script", "color swap", "color search", "color replace", "animation", "motion graphics", "visual effects", "aescripts"]
+tags: ["after effects", "ae script", "color swap", "color search", "color replace", "animation", "motion graphics", "visual effects", "aescripts"]
 slug: /aescripts-colorswap
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

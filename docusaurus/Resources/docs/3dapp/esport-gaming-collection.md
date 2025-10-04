@@ -1,7 +1,7 @@
 ---
 title: Esport Gaming Collection - 3D Models for Gaming Rooms, Chairs, Computers (3DS MAX/C4D/Blender/FBX/OBJ/UE5)
 description: A collection of 4 modern-style esports gaming room 3D models with textures and materials, available in C4D/Blender/FBX/OBJ/3DS MAX/UE5 formats.
-keywords: [3D models, esports gaming, gaming room, 3DS MAX, Cinema 4D, Blender, FBX, OBJ, UE5, gaming chair, computer models, scene assets]
+tags: [3D models, esports gaming, gaming room, 3DS MAX, Cinema 4D, Blender, FBX, OBJ, UE5, gaming chair, computer models, scene assets]
 slug: /esport-gaming-collection
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Texturing Workflow in After Effects with Ray Dynamic Texture
 description: Ray Dynamic Texture is an essential script for any After Effects user looking to simplify their texturing process. This tool allows you to easily add and manage a variety of texture and material effects on your layers.
-keywords: [After Effects, Ray Dynamic Texture, texturing workflow, AE script, material effects, layer management, animation tools]
+tags: [After Effects, Ray Dynamic Texture, texturing workflow, AE script, material effects, layer management, animation tools]
 slug: /ray-dynamic-texture-script
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

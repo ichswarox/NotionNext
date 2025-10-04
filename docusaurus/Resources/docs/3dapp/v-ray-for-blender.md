@@ -1,7 +1,7 @@
 ---
 title: V-Ray 7.10.00 for Blender 4.2 - 4.5 Win Crack
 description: A guide to V-Ray for Blender, a powerful rendering engine. Learn about its features, installation steps for Windows, and find download links for various Blender versions.
-keywords: [v-ray, blender, rendering engine, crack, 3d rendering, vray for blender]
+tags: [v-ray, blender, rendering engine, crack, 3d rendering, vray for blender]
 slug: /v-ray-for-blender
 ---
 

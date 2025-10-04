@@ -1,7 +1,7 @@
 ---
 title: "Coloso Maya Stylized Fight Animation Tutorial with Chinese/English Subtitles"
 description: "Learn professional-level stylized fight animation techniques in Maya with this comprehensive tutorial featuring Chinese and English subtitles."
-keywords: ["Maya", "Animation Tutorial", "Fight Animation", "Stylized Animation", "Chinese Subtitles", "3D Animation"]
+tags: ["Maya", "Animation Tutorial", "Fight Animation", "Stylized Animation", "Chinese Subtitles", "3D Animation"]
 slug: /maya-stylized-fight-animation-tutorial
 ---
 

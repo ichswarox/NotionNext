@@ -1,7 +1,7 @@
 ---
 title: "Spaceship Hard Surface Kitbash 350 Details 3D Model Asset"
 description: "Collection of 350 pieces for building spaceships in Blender format. Perfect for creating sci-fi spacecraft models with detailed hard surface components."
-keywords: ["3D Model", "Blender", "Blender Model", "Spaceship", "Hard Surface Model"]
+tags: ["3D Model", "Blender", "Blender Model", "Spaceship", "Hard Surface Model"]
 slug: /spaceship-hard-surface-kitbash-350-details
 ---
 

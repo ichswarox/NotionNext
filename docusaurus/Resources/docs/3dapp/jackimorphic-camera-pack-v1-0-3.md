@@ -1,11 +1,8 @@
 ---
 title: "Jackimorphic Camera Pack V1.0.3 - Real Camera Simulation Add-on for Blender"
 description: "Jackimorphic Camera Pack is a camera setup for people who have used a real camera before and a real anamorphic lens or want to start learning to take real anamorphic photography/film."
-keywords: ["Blender", "Blender add-on", "camera plugin", "anamorphic lens", "realistic camera", "cinematography"]
+tags: ["Blender", "Blender add-on", "camera plugin", "anamorphic lens", "realistic camera", "cinematography"]
 slug: /jackimorphic-camera-pack-v1-0-3
-tags: [Blender, Blender add-on, Jackimorphic Camera Pack, camera plugin]
-date: 2025-09-29
-last_updated: Sep 23 2025
 ---
 
 import Tabs from '@theme/Tabs';

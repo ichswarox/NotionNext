@@ -1,7 +1,7 @@
 ---
 title: "Face Model Plugin for Nuke Based on Images - KeenTools V2525.2.0 + V2024.3.0"
 description: "Nuke node plugin that can create 3D human face models based on multiple reference images with facial expression control"
-keywords: ["Nuke plugin", "KeenTools", "3D face model", "facial tracking", "VFX"]
+tags: ["Nuke plugin", "KeenTools", "3D face model", "facial tracking", "VFX"]
 slug: /face-model-plugin-for-nuke
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

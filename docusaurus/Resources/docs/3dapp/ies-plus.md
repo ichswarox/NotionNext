@@ -2,7 +2,7 @@
 title: IES Plus V1.3 - Blender Procedural IES Light Control Asset Presets
 sidebar_position: 1
 description: IES Plus brings fully procedural IES lighting and general lighting workflows to Blender, allowing you to perfect lighting effects directly in the shader editor without external IES profiles.
-keywords: [IES Plus, Blender plugin, lighting plugin, IES lighting, procedural lighting, 3D lighting, Blender lighting, light control, shaders]
+tags: [IES Plus, Blender plugin, lighting plugin, IES lighting, procedural lighting, 3D lighting, Blender lighting, light control, shaders]
 slug: /ies-plus
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->

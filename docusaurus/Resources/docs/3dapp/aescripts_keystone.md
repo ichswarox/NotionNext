@@ -1,7 +1,7 @@
 ---
 title: "AE Keyframe Copy Paste Align Mirror Scale Control Script Aescripts Keystone v2.0.9 + Tutorial"
 description: "Script for After Effects that allows simultaneous operations on multiple keyframes including copy, paste, mirror, align, scale, and curve adjustment"
-keywords: ["after effects", "ae script", "keyframe", "animation", "motion graphics", "keystone", "aescripts", "keyframe editing", "visual effects"]
+tags: ["after effects", "ae script", "keyframe", "animation", "motion graphics", "keystone", "aescripts", "keyframe editing", "visual effects"]
 slug: /aescripts-keystone
 ---
 

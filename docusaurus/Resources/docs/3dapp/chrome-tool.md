@@ -1,7 +1,7 @@
 ---
 title: "AE Template + PR Preset - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation"
 description: "Create cool and fashionable chrome alloy style text, logo, or graphic animations with this AE template and PR preset. All text logos, fonts, colors, size and position parameters can be modified with transparent background."
-keywords: ["AE template", "PR preset", "text animation", "logo animation", "graffiti text", "chrome alloy", "premium assets", "motion graphics", "videohive", "titles"]
+tags: ["AE template", "PR preset", "text animation", "logo animation", "graffiti text", "chrome alloy", "premium assets", "motion graphics", "videohive", "titles"]
 slug: /chrome-tool
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

@@ -1,7 +1,7 @@
 ---
 title: "106 Cinematic Film-Style LUTs Presets for DaVinci Resolve/AE/PR/FCPX/Jianying/PS"
 description: "106 cinematic film-style LUTs presets in CUBE format, compatible with DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying. Perfect for achieving professional film looks on your videos."
-keywords: ["3D LUTS", "AE color grading", "FCPX color grading", "Pr color grading", "Jianying", "film color grading", "film stock color grading", "video color grading", "color grading presets", "DaVinci color grading"]
+tags: ["3D LUTS", "AE color grading", "FCPX color grading", "Pr color grading", "Jianying", "film color grading", "film stock color grading", "video color grading", "color grading presets", "DaVinci color grading"]
 slug: /106-film-style-luts-presets
 ---
 import Tabs from '@theme/Tabs';

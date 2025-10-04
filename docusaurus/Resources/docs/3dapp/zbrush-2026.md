@@ -1,7 +1,7 @@
 ---
 title: ZBrush 2026.0.0 Win - Chinese/English/Cracked Version
 description: Download ZBrush 2026 for Windows. Digital sculpting, modeling and painting software for creating highly detailed 3D models.
-keywords: [ZBrush, ZBrush 2026, 3D sculpting, 3D modeling, digital sculpting, 3D painting, 3D art, character design, concept art]
+tags: [ZBrush, ZBrush 2026, 3D sculpting, 3D modeling, digital sculpting, 3D painting, 3D art, character design, concept art]
 slug: /zbrush-2026
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Thea Render V4.0.1400.0158 for SketchUp 2020-2025"
 description: "High-quality physically-based global illumination renderer for SketchUp, suitable for interior and architectural visualization with state-of-the-art rendering techniques."
-keywords: ["SketchUp", "Thea Render", "Renderer", "Archviz", "Rendering", "SketchUp Plugin"]
+tags: ["SketchUp", "Thea Render", "Renderer", "Archviz", "Rendering", "SketchUp Plugin"]
 slug: /thea-render-v4-sketchup
 ---
 

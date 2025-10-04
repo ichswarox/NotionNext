@@ -1,7 +1,7 @@
 ---
 title: "Zephyr Designz: Turning a Toyota MR2 into a Modern Classic with Blender"
 description: "Watch a fascinating timelapse video from Zephyr Designz showcasing the process of modeling a custom bodykit for a Toyota MR2 in Blender."
-keywords: ['Blender', 'timelapse', 'car modeling', 'automotive design', 'Zephyr Designz', 'Toyota MR2', '3D modeling']
+tags: ['Blender', 'timelapse', 'car modeling', 'automotive design', 'Zephyr Designz', 'Toyota MR2', '3D modeling']
 slug: /blender-toyota-mr2-zephyr-designz
 ---
 

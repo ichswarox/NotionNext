@@ -1,7 +1,7 @@
 ---
 title: "Pixel Dot Drawer: A Free Blender Addon for Pixel Art"
 description: "Discover Pixel Dot Drawer, a free Blender addon by Kushiro that makes it easy to draw pixel art in the texture editor."
-keywords: ["Blender", "addon", "pixel art", "gamedev", "free", "texture painting", "Kushiro", "Pixel Dot Drawer"]
+tags: ["Blender", "addon", "pixel art", "gamedev", "free", "texture painting", "Kushiro", "Pixel Dot Drawer"]
 slug: /pixel-dot-drawer-free-blender-addon
 ---
 

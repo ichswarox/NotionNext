@@ -1,7 +1,7 @@
 ---
 title: "Japanese Epic Orchestral Game Sound Effects - 72 High-Quality WAV Files"
 description: "Download 72 high-quality WAV sound effects for games with Japanese, epic, orchestral, casual, horror, and zombie themes. Perfect for game developers and audio designers."
-keywords: ["game sound effects", "japanese game audio", "epic game sounds", "orchestral sound effects", "horror game audio", "zombie sound effects", "casual game sounds", "WAV audio files"]
+tags: ["game sound effects", "japanese game audio", "epic game sounds", "orchestral sound effects", "horror game audio", "zombie sound effects", "casual game sounds", "WAV audio files"]
 slug: /japanese-epic-orchestral-game-sound-effects
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->

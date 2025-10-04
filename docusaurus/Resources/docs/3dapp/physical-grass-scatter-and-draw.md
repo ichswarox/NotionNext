@@ -1,7 +1,7 @@
 ---
 title: Physical Grass Scatter And Draw v1.1.1 for Blender - Real-Time Physics Plugin
 description: Physical Grass Scatter And Draw is a powerful Blender addon that creates realistic grass scattering effects with real-time physics simulation. Perfect for landscape artists and environment designers.
-keywords: [blender, physical grass scatter, grass plugin, scattering plugin, landscape design, real-time physics, environment design, 3d animation, blender addon, vegetation]
+tags: [blender, physical grass scatter, grass plugin, scattering plugin, landscape design, real-time physics, environment design, 3d animation, blender addon, vegetation]
 slug: /physical-grass-scatter-and-draw
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
