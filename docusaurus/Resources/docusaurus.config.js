@@ -100,6 +100,11 @@ const config = {
             label: 'Tags',
             position: 'left',
           },
+          {
+            to: '/about-us',
+            label: 'About Us',
+            position: 'left',
+          },
         ],
       },
     algolia: {

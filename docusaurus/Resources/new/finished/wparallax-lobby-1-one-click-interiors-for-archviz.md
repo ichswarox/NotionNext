@@ -1,7 +1,7 @@
 ---
 title: "Commercial Lobby 3D Parallax Maps - wParallax Lobby 1"
 description: "High-quality 3D parallax maps for commercial lobbies with detailed 4K/2K textures for architectural visualization in 3DS MAX, C4D, and FBX formats."
-keywords: ["3D textures", "wParallax", "lobby models", "parallax maps", "archviz", "3D models", "architectural visualization", "3DS MAX", "Cinema 4D", "FBX"]
+tags: ["3D textures", "wParallax", "lobby models", "parallax maps", "archviz", "3D models", "architectural visualization", "3DS MAX", "Cinema 4D", "FBX"]
 slug: /wparallax-lobby-1-one-click-interiors-for-archviz
 ---
 

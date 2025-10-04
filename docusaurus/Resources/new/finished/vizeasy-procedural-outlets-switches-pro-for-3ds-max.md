@@ -1,7 +1,7 @@
 ---
 title: "3DS MAX Procedural Outlets & Switches Pro Plugin - VizEasy"
 description: "Advanced 3DS MAX plugin for generating realistic electrical fixtures with one-click placement and full customization for architectural visualization."
-keywords: ["3ds MAX", "3DS MAX plugin", "Switches", "VizEasy", "switch plugin", "electrical fixtures", "architectural visualization", "procedural generation"]
+tags: ["3ds MAX", "3DS MAX plugin", "Switches", "VizEasy", "switch plugin", "electrical fixtures", "architectural visualization", "procedural generation"]
 slug: /vizeasy-procedural-outlets-switches-pro-for-3ds-max
 ---
 
