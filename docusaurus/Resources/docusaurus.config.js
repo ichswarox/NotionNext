@@ -115,7 +115,7 @@ const config = {
     algolia: {
       appId: 'X2OVBWAWEW',
       apiKey: '953a15a62d0f415d3d9930f2c7f773b9',
-      indexName: 'resources',
+      indexName: 'resources_ucards_store_x2ovbwawew_pages',
       replaceSearchResultPathname: {
         from: '/docs/', // or as RegExp: /\/docs\//
         to: '/',
