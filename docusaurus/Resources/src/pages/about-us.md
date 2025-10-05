@@ -2,7 +2,7 @@
 title: About Us
 ---
 
-import SharedNote from '@site/src/components/SharedNote';
+import SharedNote from '@site/src/components/PremiumDownload';
 
 # About Us
 

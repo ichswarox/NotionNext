@@ -7,6 +7,8 @@ slug: /blender-ai-plugin-pixelmodeller
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
+import PremiumDownload from '@site/src/components/PremiumDownload';
+
 <!--First Part-This is Title -->
 # Blender AI Plugin: Pixelmodeller Ai V1.4.9 - AI-Powered 3D Model Generation
 
@@ -66,14 +68,10 @@ import TabItem from '@theme/TabItem';
 
 <!-- The Last Part-Download -->
 ## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Pixelmodeller Ai V1.4.9**  | [Download](https://pan.baidu.com/s/1fWq3mj3fI4ASZUPcD6_weA?pwd=k64a)        | `k64a`   |
 
 
-import PremiumDownload from '@site/src/components/SharedNote';
-<SharedNote />
+<PremiumDownload />
