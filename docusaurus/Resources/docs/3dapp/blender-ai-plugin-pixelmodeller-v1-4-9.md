@@ -11,7 +11,7 @@ slug: /blender-ai-plugin-pixelmodeller
 # Blender AI Plugin: Pixelmodeller Ai V1.4.9 - AI-Powered 3D Model Generation
 
 <!--Second Part-This is First Banner -->
-![Pixelmodeller Ai V1.4.9 - AI-Powered 3D Model Generation](https://www.gfxcamp.com/wp-content/uploads/2025/08/Pixelmodeller-Ai.jpg)
+![pixelmodeller-ot.webp](https://list.ucards.store/d/img/pixelmodeller-ot.webp)
 
 :::tip[info]
 The **Pixelmodeller Ai V1.4.9** is an innovative AI-powered plugin for Blender that transforms the way 3D artists create models. This cutting-edge tool allows users to generate incredibly detailed 3D models with just a click of a button, or watch as 3D models materialize in real-time as you paint in the 2D image editor. With **Pixelmodeller Ai V1.4.9**, the possibilities for creative expression are virtually limitless.
@@ -73,3 +73,7 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Pixelmodeller Ai V1.4.9**  | [Download](https://pan.baidu.com/s/1fWq3mj3fI4ASZUPcD6_weA?pwd=k64a)        | `k64a`   |
+
+
+import PremiumDownload from '@site/src/components/SharedNote';
+<SharedNote />
