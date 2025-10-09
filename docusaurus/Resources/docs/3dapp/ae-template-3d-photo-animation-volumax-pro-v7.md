@@ -32,5 +32,11 @@ The V7 update brings significant improvements:
 - **Plugins**: No third-party plugins required.
 - **Size**: 3.33GB.
 - **Tutorials**: Includes 14 video tutorials with Chinese subtitles.
+- 
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |
 
 

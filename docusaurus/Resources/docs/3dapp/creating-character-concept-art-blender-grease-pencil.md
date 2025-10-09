@@ -82,7 +82,3 @@ This tutorial covers the complete process of creating character concept art usin
 |---------|----------|-----------|---------------|
 | Tutorial | Universal | 1.33GB | [Baidu Netdisk Download](https://pan.baidu.com/s/1cpi2GzJk805667ik0LiAEw?pwd=ktw3) |
 | Tutorial | Universal | 1.33GB | Password: ktw3 |
-
-## Tags
-
-#blender #blender-tutorial #chinese-subtitles #fundamentals #concept-art #drawing-tutorial #grease-pencil-tutorial

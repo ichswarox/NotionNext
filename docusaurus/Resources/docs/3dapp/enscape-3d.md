@@ -75,16 +75,3 @@ Click on the link to go to the download page. The extraction password is provide
 | **Enscape 3D V3.0.2**        | [Download](https://pan.baidu.com/s/1RvJd6muaUnrLv1NKhTvLOQ)                 | `rxun`   |
 | **Enscape 3D V2.9.1**        | [Download](https://pan.baidu.com/s/1Y5hjIdk3IfPtMTKCugMuLQ)                 | `jfy7`   |
 | **Enscape 3D V3 Presets**    | [Download](https://pan.baidu.com/s/1IHhYJBEqi4e4ODhlJVOY4w)                 | `y57w`   |
-
-## Tags
-
-- Enscape 3D
-- Real-Time Rendering
-- Virtual Reality
-- Revit Plugin
-- SketchUp Plugin
-- Rhino Plugin
-- ArchiCAD Plugin
-- 3D Rendering
-- Crack
-- Preset Library

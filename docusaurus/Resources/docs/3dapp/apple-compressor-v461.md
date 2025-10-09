@@ -55,14 +55,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/12G4MQIfOSbZq-Kse9OrUBA?pwd=wtd2) | wtd2 |
-
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- M1 Max
-- M1 Ultra
-- Video conversion
-- Mac software

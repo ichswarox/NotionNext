@@ -54,14 +54,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/1cCrm7OyyDwQLIB74g2WKWA?pwd=lxlc) | lxlc |
-
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- iPhone 15 Pro
-- Log encoding
-- Video conversion
-- Mac software

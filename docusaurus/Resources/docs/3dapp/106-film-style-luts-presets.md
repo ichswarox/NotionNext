@@ -65,12 +65,4 @@ Last updated: Sep 25 2025
 
 | Version | Platform | Size | Download Link |
 | :--- | :--- | :--- | :--- |
-| 106 Cinematic Film-Style LUTs | Universal (CUBE) | 282MB | [Purchase Required - 15 CNY](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Ffilm-inspired-luts%2F) |
-
-:::caution Important Note
-There are many fake websites and Taobao stores claiming to be the official site. Please be cautious to avoid fraud.
-:::
-
-## Tags
-
-`3D LUTS`, `AE color grading`, `FCPX color grading`, `Pr color grading`, `Jianying`, `film color grading`, `film stock color grading`, `video color grading`, `color grading presets`, `DaVinci color grading`
+| 106 Cinematic Film-Style LUTs | Universal (CUBE) | 282MB | [Premium Content](https://wa.me/8613237610083) |

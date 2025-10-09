@@ -42,13 +42,3 @@ Click on the link to go to the download page. The extraction password is provide
 | ------------------------------- | -------------------------------------------------------------------------- | -------- |
 | **BBTools Glow & Glare 2 V2.4.3** | [Download](https://pan.baidu.com/s/1kQUqcS6Wai7kg0kLMla1uw?pwd=kv9d)        | `kv9d`   |
 
-## Tags
-
-- BBTools
-- Glow & Glare
-- Photoshop
-- Plugin
-- Glow Effects
-- Glare Effects
-- Photo Editing
-- Digital Art

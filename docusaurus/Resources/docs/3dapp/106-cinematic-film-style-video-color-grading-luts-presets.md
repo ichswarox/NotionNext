@@ -33,39 +33,51 @@ File Size:
 - Compatible with DaVinci Resolve, Adobe After Effects, Adobe Premiere Pro, Final Cut Pro X, Photoshop, CapCut, or any software that supports LUTs
 - Supports CUBE format files
 
+## What are LUTs?
+
+LUTs (Look-Up Tables) are color grading tools that transform the colors in your video footage to achieve a specific look or mood. These 106 cinematic film-style LUTs provide professional color grading presets that can instantly give your footage a cinematic appearance.
+
 ## Installation Instructions
 
 ### For DaVinci Resolve
-- Open DaVinci Resolve
-- Go to the Color page
-- Navigate to the OpenFX tab
-- Import the LUT files as needed
+1. Open DaVinci Resolve
+2. Go to the Color page
+3. In the top toolbar, click on the "OpenFX" tab
+4. Click on the "LUT" option in the Effects Library
+5. Right-click in the preview window and select "Load LUT"
+6. Navigate to your LUT file and select it
+7. Adjust the intensity using the Mix slider if needed
 
 ### For Adobe After Effects
-- Place LUT files in your After Effects LUTs folder
-- Use the Lumetri Color effect to apply LUTs
-- Select your desired LUT from the dropdown
+1. Place the LUT files in your After Effects LUTs folder (typically located at: `Program Files/Adobe/Adobe After Effects [version]/Support Files/Plug-ins/Effects/Color Correction/Lumetri Color`)
+2. Open your project in After Effects
+3. Apply the "Lumetri Color" effect to your footage
+4. In the Effect Controls panel, expand the "Creative" section
+5. Under "Look", click the dropdown menu and select "Import Look"
+6. Navigate to your LUT file and select it
+7. Adjust the intensity using the "Look Amount" slider
 
 ### For Adobe Premiere Pro
-- Go to the Effects panel
-- Apply the Lumetri Color effect to your clip
-- Select the LUT from the Creative tab
+1. Open your project in Premiere Pro
+2. Go to the Effects panel (Window > Effects)
+3. Search for "Lumetri Color" and apply it to your clip
+4. In the Effect Controls panel, expand the "Creative" section
+5. Under "Look", click the dropdown menu and select "Import Look"
+6. Navigate to your LUT file and select it
+7. Adjust the intensity using the "Look Amount" slider
 
-## Download Links
+### For Final Cut Pro X
+1. Open Final Cut Pro X
+2. Go to the Effects Browser (Window > Effects Browser)
+3. Search for "Color Board" or "Color Wheels"
+4. Apply the effect to your clip
+5. Some third-party plugins are required to directly import CUBE LUTs in FCPX
+6. Alternatively, use the built-in color correction tools to match the desired look
 
-| Platform | Link |
-|----------|------|
-| Baidu Netdisk | Available in original content |
+### For CapCut
+1. Import your video to CapCut
+2. Select the clip in the timeline
+3. Tap on "Filters" or "Adjust" depending on your version
+4. Look for preset filters that match the cinematic style of your LUTs
+5. Since CapCut doesn't directly support CUBE files, you'll need to apply visual adjustments manually to achieve similar results
 
-## Tags
-
-- 3D LUTS
-- AE Color Grading
-- FCPX Color Grading
-- Pr Color Grading
-- CapCut
-- Cinematic Color Grading
-- Film Color Grading
-- Video Color Grading
-- Color Grading Presets
-- DaVinci Resolve Color Grading

@@ -61,26 +61,3 @@ Click on the links to go to the download pages. The extraction passwords are pro
     </ul>
   </TabItem>
 </Tabs>
-
-## Tags
-
-- aescripts
-- After Effects
-- Premiere
-- AEViewer
-- Media Browser
-- Project Management
-- AE Plugin
-- PR Plugin
-- Video Editing
-- File Organization
-- Media Preview
-- Import Tools
-- Workflow Enhancement
-- Motion Graphics
-- Template Authoring
-- MOGRTs
-- Project Import
-- Media Management
-- Creative Tools
-- Post Production

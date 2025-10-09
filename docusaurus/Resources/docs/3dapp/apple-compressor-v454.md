@@ -52,15 +52,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/1ZgxryMRUFRtvGP2w4Si1XA) | ibcd |
-
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- Stability
-- DVD
-- Blu-ray
-- Video conversion
-- Mac software

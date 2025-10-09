@@ -54,14 +54,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/14-ZELjLPykpN_fT3f8b_IQ?pwd=rp2m) | rp2m |
-
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- Apple Silicon
-- H.264
-- Video conversion
-- Mac software

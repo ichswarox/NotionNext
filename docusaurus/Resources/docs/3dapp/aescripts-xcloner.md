@@ -48,26 +48,3 @@ Click on the links to go to the download pages. The extraction passwords are pro
 |---------|---------------|----------|
 | **xCloner v1.2** | [Download](https://pan.baidu.com/s/1N6fi0_2q37q7AcjlC-H5_w?pwd=afdm) | `afdm` |
 | **xCloner v1.0** | [Download](https://pan.baidu.com/s/1Zn2kbsM_TAs32Cj3YSwy4A?pwd=vqew) | `vqew` |
-
-## Tags
-
-- Aescripts
-- AE Plugin
-- xCloner
-- Cloning Plugin
-- Copy Plugin
-- After Effects
-- Motion Graphics
-- Visual Effects
-- Layer Duplication
-- Creative Tools
-- Digital Art
-- Workflow Tools
-- Creative Software
-- Professional Tools
-- Effects Plugin
-- Animation
-- Design Tools
-- Repetition Effects
-- Pattern Generation
-- Creative Workflow

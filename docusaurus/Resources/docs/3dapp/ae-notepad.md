@@ -59,25 +59,8 @@ Click on the links to go to the download pages. The extraction passwords are pro
   </TabItem>
 </Tabs>
 
-## Tags
+## Download Links
 
-- aescripts
-- After Effects
-- Notepad Script
-- AE Plugin
-- Project Management
-- Note Taking
-- Video Editing
-- Timestamp Navigation
-- To-Do Lists
-- Workflow Enhancement
-- Creative Tools
-- Productivity
-- Project Organization
-- Script Installation
-- AE Scripts
-- Task Management
-- Media Production
-- Digital Workflow
-- Content Creation
-- Post Production
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

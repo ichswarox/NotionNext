@@ -86,26 +86,3 @@ Click on the links to go to the download pages. The extraction passwords are pro
 
 ### Tutorials
 - [Tutorial Download](http://pan.baidu.com/s/1mhUTyZY)
-
-## Tags
-
-- Aescripts
-- Plexus
-- Plexus 3
-- Plexus破解版
-- Particle Plugin
-- After Effects
-- Motion Graphics
-- Visual Effects
-- 3D Particles
-- Creative Tools
-- Digital Art
-- Workflow Tools
-- Creative Software
-- Professional Tools
-- Effects Plugin
-- Animation
-- Design Tools
-- Particle Systems
-- Creative Workflow
-- VFX

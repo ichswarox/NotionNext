@@ -48,16 +48,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Curtain Maker Pro v1.1.6**  | [Download](https://pan.baidu.com/s/1wC-7EN3LwcI4gClxUa2rWQ?pwd=3jhx)        | `3jhx`   |
-
-## Tags
-
-- Blender Plugin
-- Curtain Generator
-- 3D Modeling
-- Interior Design
-- Architectural Visualization
-- Procedural Meshes
-- Blender Addon
-- 3D Textiles
-- Drapery Simulation
-- Blender Tools

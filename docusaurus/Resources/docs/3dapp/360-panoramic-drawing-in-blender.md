@@ -30,13 +30,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File                                | Download Link                                                              | Password |
 | ----------------------------------- | -------------------------------------------------------------------------- | -------- |
 | **360 Panoramic Drawing Tutorial**  | [Download](https://pan.baidu.com/s/14s5_vH_6HEGlZ5uCdSAyEw?pwd=sc24)        | `sc24`   |
-
-## Tags
-
-- Blender
-- 360 Drawing
-- Panoramic Drawing
-- Grease Pencil
-- Tutorial
-- 3D Art
-- Digital Painting

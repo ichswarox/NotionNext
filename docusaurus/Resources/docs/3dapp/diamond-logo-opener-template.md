@@ -32,9 +32,8 @@ After Effects template for E3D gold diamond crystal shine fashion show, grand aw
 *   **Tutorial:** Video tutorial included.
 *   **Music:** Background music is not included.
 
-<!-- The Last Part-Download -->
-## Download
-:::warning[Download]
-This is a premium resource. Please contact us for access.
-:::
+## Download Links
 
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

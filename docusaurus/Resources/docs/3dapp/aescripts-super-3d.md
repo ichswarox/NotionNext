@@ -39,26 +39,3 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **Super 3D v1.4.4** | [Download](https://pan.baidu.com/s/1u2_iXDnvZi7GrOUDRMqisg?pwd=vfix) | `vfix` |
 | **Super 3D v1.4.3** | [Download](https://pan.baidu.com/s/1mZGE0kNUjAP6NOqLJjOqkw?pwd=j9tx) | `j9tx` |
 | **Super 3D v1.3.2** | [Download](https://pan.baidu.com/s/1GRIvVOMXxauAJ-MT_b1zLQ?pwd=ynka) | `ynka` |
-
-## Tags
-
-- Aescripts
-- AE Script
-- Super 3D
-- 3D Script
-- After Effects
-- Motion Graphics
-- Visual Effects
-- 3D Modeling
-- GLB Format
-- GLTF Format
-- AE Plugin
-- Animation
-- Creative Tools
-- Digital Art
-- Workflow Tools
-- Creative Software
-- Professional Tools
-- Effects Plugin
-- 3D Animation
-- Design Tools

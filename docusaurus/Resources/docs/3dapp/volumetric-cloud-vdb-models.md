@@ -23,19 +23,6 @@ Enhance your 3D scenes with this comprehensive collection of 60 static volumetri
 -   **Format**: `.vdb` format, compatible with any 3D software that supports VDB files (e.g., Blender, Houdini, Cinema 4D).
 -   **Total Size**: 5.54 GB
 
-:::tip Compatibility
-These VDB models can be used in a wide range of 3D applications, including but not limited to:
-- Blender
-- Houdini
-- Cinema 4D (with appropriate render engine)
-- Maya (with Arnold or V-Ray)
-- 3ds Max (with V-Ray)
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
-### Important Information
-
-:::caution Disclaimer
-This content is provided for informational and educational purposes. Please ensure you have the rights to use any assets in your projects. The download links and purchasing information have been removed.
-:::
-
-This asset pack is ideal for creating realistic skies, atmospheric effects, and abstract nebula-like structures in your digital environments.

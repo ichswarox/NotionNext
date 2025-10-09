@@ -99,3 +99,9 @@ Suitable for various projects including:
 The **AE Template: 360-Degree Rotatable Cartoon Character Male Female Child Role Scene MG Animation Material Package** represents exceptional value for motion graphics designers and video editors. With its extensive library of professionally crafted cartoon characters, seamless integration with After Effects, and affordable price point, this template is an indispensable asset for anyone serious about character animation production.
 
 Whether you're a freelancer, content creator, or part of a production studio, this template will significantly enhance your animation capabilities while reducing production time and effort.
+
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

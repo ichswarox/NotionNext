@@ -38,47 +38,8 @@ This in-depth tutorial covers:
 - Scene composition and timing
 - Rendering and export settings
 
-## Visual Examples
+## Download Links
 
-![Example 1](/img/O1CN015u9VCh2KND8eqgNTz_80049544.webp)
-![Example 2](/img/O1CN01HNDiAi2KND8lgOnAj_80049544.webp)
-![Example 3](/img/O1CN01zneCw02KND8jaDF0s_80049544.webp)
-
-<!-- The Last Part-Download -->
-## Download
-
-[Paid Resource](https://wa.me/8613237610083)
-
-## Why Learn Blender Animation?
-
-Blender has become one of the most popular animation tools in the industry, offering powerful 2D and 3D capabilities in a single platform. With Grease Pencil, you can create stunning 2D animations while leveraging 3D elements for depth and complexity.
-
-This course is perfect for:
-- Traditional 2D animators looking to expand their skillset
-- 3D artists interested in 2D animation techniques
-- Motion graphics designers
-- Independent creators and content makers
-- Students and professionals in animation
-
-## System Requirements
-
-- Blender (latest version recommended)
-- Computer with at least 8GB RAM
-- Graphics card with 2GB VRAM or more
-- 10GB free disk space for project files
-
-## Learning Outcomes
-
-By the end of this course, you'll be able to:
-1. Master Blender's animation workflow
-2. Create professional 2D animations using Grease Pencil
-3. Integrate 3D elements seamlessly with 2D animation
-4. Composite complex animation scenes
-5. Render and export animations in various formats
-6. Apply industry-standard animation principles
-
----
-
-For purchasing instructions, please [click here](https://www.gfxcamp.com/how-to-download/)
-
-(Supports Alipay/WeChat Pay. Download links are available after purchase)
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

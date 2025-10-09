@@ -63,8 +63,8 @@ import TabItem from '@theme/TabItem';
 
 While many addons of this type focused on smaller creatures like insects, this addon is notable for including larger animals.
 
-## Download
+## Download Links
 
-Get Fauna Master Pro from the Superhive Market:
-
-[**Fauna Master Pro on Superhive Market**](https://superhivemarket.com/products/fauna-master-pro?ref=185)
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

@@ -50,27 +50,3 @@ Click on the link to go to the download page. The extraction password is provide
 | **V1.2.0.0 Version**       | [Download V1.2.0.0 Version](https://pan.baidu.com/s/11DctC5m0Ui-DGkChePwIgA?pwd=hkfj) | `hkfj`   |
 | **V1.0.4.0 Version**       | [Download V1.0.4.0 Version](https://pan.baidu.com/s/1lsAjELj8VLU4n_a_NY0GuA?pwd=rds9) | `rds9`   |
 | **V1.0.3.2 Version**       | [Download V1.0.3.2 Version](https://pan.baidu.com/s/1G2F4wTrWrxx0yEU6ca8xmQ?pwd=q5ps) | `q5ps`   |
-
-<!-- Generate new SEO-optimized tags based on content for this part,Ensure tags align with Google's E-E-A-T principles  -->
-## Tags
-
-- Blender Addon
-- Bevel Plugin
-- Zen BBQ
-- 3D Modeling
-- Mesh Editing
-- Blender Bevel
-- Geometry Tools
-- Blender Plugin
-- Modeling Workflow
-- Bevel Creation
-- Visual Editing
-- Time-Saving Tools
-- User-Friendly Interface
-- Blender 4.5
-- Blender 4.4
-- Blender 4.3
-- Blender 4.2
-- Blender 4.1
-- Blender 4.0
-- Blender 3.6

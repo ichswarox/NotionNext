@@ -53,16 +53,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/12lfKvR6UJbpJBtpTu_E_TQ) | kbmv |
-
-## Related Resources
-
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- Notifications
-- Audio description
-- Video conversion
-- Mac software

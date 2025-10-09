@@ -51,26 +51,3 @@ Click on the links to go to the download pages. The extraction passwords are pro
 |---------|---------------|----------|
 | **AE Notepad v2.0** | [Download](https://pan.baidu.com/s/1GLwOJ7OGEFZm07IqxcIWiw?pwd=c3dk) | `c3dk` |
 | **AE Notepad v1.5** | [Download](https://pan.baidu.com/s/13VmgKR5czo7-7l1n0N6oeQ?pwd=9req) | `9req` |
-
-## Tags
-
-- Aescripts
-- AE Script
-- Notepad
-- Note Taking
-- After Effects
-- Project Management
-- Productivity
-- Workflow Tools
-- Creative Tools
-- Digital Art
-- Organization
-- Creative Software
-- Professional Tools
-- Script Panel
-- Task Management
-- Time Management
-- Creative Workflow
-- Notes Management
-- Project Organization
-- Design Tools

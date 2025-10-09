@@ -52,3 +52,9 @@ This script dramatically improves split screen animation workflow efficiency in 
 - **Professional Quality**: Studio-grade animations suitable for commercial projects
 - **Easy Implementation**: One-click application with customizable parameters
 - **Versatile Applications**: Perfect for tutorials, comparisons, interviews, and multi-angle footage
+
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

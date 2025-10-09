@@ -25,3 +25,9 @@ This AE template includes over 110 MG animation elements, all created directly i
 ## Demo
 
 ![Demo Image](https://img.alicdn.com/imgextra/i3/680650857/TB2SngmbrXlpuFjy1zbXXb_qpXa-680650857.gif)
+
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

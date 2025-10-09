@@ -72,7 +72,3 @@ import TabItem from '@theme/TabItem';
 :::caution Important Note
 There are many fake websites and Taobao stores claiming to be the official site. Please be cautious to avoid fraud.
 :::
-
-## Tags
-
-`AE color grading`, `Eastman`, `FCPX color grading`, `Kodak`, `LUTs`, `Pr color grading`, `Jianying`, `film color grading`, `color grading presets`, `DaVinci color grading`, `black and white color grading`

@@ -63,15 +63,3 @@ Click on the link to go to the download page. The extraction password is provide
 | **Creative Flow V1.7.7**  | [Download](https://pan.baidu.com/s/1DpwKxn3NRA9a_TA6NXh1dw?pwd=gqxb)        | `gqxb`   |
 | **Creative Flow V1.7.4**  | [Download](https://pan.baidu.com/s/1hrLy6WwZDj3iNBOQC1M8JA?pwd=eqkg)        | `eqkg`   |
 | **Creative Flow V1.6.5**  | [Download](https://pan.baidu.com/s/1plFiiWu6PpzYA1OOZjgRfg?pwd=7ymu)        | `7ymu`   |
-
-## Tags
-
-- Blender 3D Modeling
-- Creative Flow
-- Organic Modeling
-- Hard Surface Modeling
-- Workflow Optimization
-- Blender Plugin
-- 3D Modeling
-- 3D Animation
-- Blender Addon

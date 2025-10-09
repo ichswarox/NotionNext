@@ -54,26 +54,3 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **AI Color Match v1.3.5** | Mac | [Download](https://pan.baidu.com/s/12unDKGl5mleRILvKsJ1fPQ?pwd=gt7g) | `gt7g` |
 | **AI Color Match v1.3.2** | Win | [Download](https://pan.baidu.com/s/12Io6uDUErZFlJgjQe-2CQA?pwd=wbfq) | `wbfq` |
 | **AI Color Match v1.3.0** | Win | [Download](https://pan.baidu.com/s/1_RMs1kAeXz2ModH7VXmPEQ?pwd=tyg6) | `tyg6` |
-
-## Tags
-
-- Aescripts
-- AE Plugin
-- AI Color Match
-- PR Plugin
-- Color Matching
-- Color Correction
-- Color Grading
-- After Effects
-- Premiere Pro
-- Video Editing
-- Visual Effects
-- Creative Tools
-- Digital Art
-- Workflow Tools
-- Creative Software
-- Professional Tools
-- Effects Plugin
-- Color Management
-- Video Processing
-- Creative Workflow

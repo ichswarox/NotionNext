@@ -29,16 +29,6 @@ xCloner is an After Effects plugin that clones any type of layer exceptionally f
 
 - After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6
 
-## Downloads
-
-:::warning[Download]
-Click on the links to go to the download pages. The extraction passwords are provided next to each link.
-:::
-
-| File | Download Link | Password |
-| ---- | ------------- | -------- |
-| **xCloner v1.2** | [Download](https://pan.baidu.com/s/1N6fi0_2q37q7AcjlC-H5_w?pwd=afdm) | `afdm` |
-| **xCloner v1.0** | [Download](https://pan.baidu.com/s/1Zn2kbsM_TAs32Cj3YSwy4A?pwd=vqew) | `vqew` |
 
 ## Installation Instructions
 
@@ -57,25 +47,13 @@ Click on the links to go to the download pages. The extraction passwords are pro
   </TabItem>
 </Tabs>
 
-## Tags
+## Downloads
 
-- aescripts
-- After Effects
-- Clone Plugin
-- xCloner
-- Layer Duplication
-- AE Plugin
-- Visual Effects
-- Motion Graphics
-- Shape Layers
-- Text Layers
-- Vector Layers
-- Footage Cloning
-- Real-time Preview
-- AE Tools
-- Plugin Installation
-- Creative Workflow
-- Animation Tools
-- Graphic Design
-- Video Editing
-- After Effects Plugins
+| File | Download Link | Password |
+| ---- | ------------- | -------- |
+| **xCloner v1.2** | [Download](https://pan.baidu.com/s/1N6fi0_2q37q7AcjlC-H5_w?pwd=afdm) | `afdm` |
+| **xCloner v1.0** | [Download](https://pan.baidu.com/s/1Zn2kbsM_TAs32Cj3YSwy4A?pwd=vqew) | `vqew` |
+
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

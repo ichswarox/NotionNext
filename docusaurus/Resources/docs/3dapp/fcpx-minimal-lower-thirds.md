@@ -44,11 +44,8 @@ Enhance your video projects with this professional collection of 20 minimal-styl
 - YouTube creators and social media editors
 - Anyone needing quick and easy-to-edit lower thirds animations
 
-<!-- The Last Part-Download -->
-## Download
+## Download Links
 
-[Paid Resource](https://wa.me/8613237610083)
-
-Transform your video editing workflow with these high-quality, professionally designed lower thirds that will save you time and elevate your creative projects.
-
-*Note: This is a premium Mac-only resource for Final Cut Pro X. For purchasing or licensing inquiries, please contact us via WhatsApp at +86 13237610083*
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

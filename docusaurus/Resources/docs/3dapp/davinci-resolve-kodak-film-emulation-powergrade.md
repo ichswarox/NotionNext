@@ -41,19 +41,6 @@ Fully editable DaVinci Resolve Powergrade. Giving your footage aesthetic and fil
 
 ## Download Links
 
-| Platform | Link |
-|----------|------|
-| Baidu Netdisk | Available in original content |
-
-## Tags
-
-- DaVinci Resolve
-- Kodak
-- Film Emulation
-- PowerGrade
-- FilterGrade
-- Color Grading
-- Video Color Grading
-- Film Color Grading
-- DaVinci Resolve Color Grading
-- DaVinci Resolve Presets
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

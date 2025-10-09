@@ -26,24 +26,3 @@ Click the link to go to the download page. The extraction password is provided n
 
 [Download ZBrush 2026.0.0](https://pan.baidu.com/s/1uVG5qAVele_fsCVcyTizCQ?pwd=avcc)
 Password: `avcc`
-
-## Tags
-
-- ZBrush
-- ZBrush 2026
-- 3D Sculpting
-- Digital Sculpting
-- 3D Modeling
-- 3D Painting
-- 3D Art
-- Character Design
-- Concept Art
-- 3D Design
-- 3D Software
-- Digital Art
-- 3D Animation
-- Visual Effects
-- VFX
-- 3D Rendering
-- 3D Texturing
-- 3D Mesh

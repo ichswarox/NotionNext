@@ -20,3 +20,9 @@ Genesis Pro is a film emulation plugin for DaVinci Resolve that simulates 42 neg
 -   Installation steps are included.
 -   An official video tutorial with Chinese subtitles is also provided.
 :::
+
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

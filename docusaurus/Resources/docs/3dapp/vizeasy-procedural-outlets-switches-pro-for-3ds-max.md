@@ -30,3 +30,7 @@ The VizEasy Procedural Outlets & Switches script for 3ds Max is your ultimate so
 | Link                                                              | Password |
 | ----------------------------------------------------------------- | -------- |
 | [Baidu Pan](https://pan.baidu.com/s/1ztoiXG1vrVW4ClXWuq8DJA?pwd=cs47) | `cs47`   |
+
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -77,11 +77,14 @@ The intuitive interface makes it accessible for both beginners learning motion g
 5. Double-click any preset to apply it directly to your composition
 6. Customize colors, timing, and other parameters as needed
 
-## Download
-[Chat For Details](https://wa.me/8613237610083)
-
 ## Conclusion
 
 The **AE Script - 1850+ MG Animation Text Title Graphic Background Transition Motion Presets** represents exceptional value for motion graphics designers and video editors. With its extensive library of professionally crafted animation elements, seamless integration with After Effects, and affordable price point, this toolkit is an indispensable asset for anyone serious about motion graphics production.
 
 Whether you're a freelancer, content creator, or part of a production studio, this script will significantly enhance your animation capabilities while reducing production time and effort.
+
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

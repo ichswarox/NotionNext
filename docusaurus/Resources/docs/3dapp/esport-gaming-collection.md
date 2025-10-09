@@ -61,25 +61,8 @@ import TabItem from '@theme/TabItem';
 4. Apply textures and materials as needed for your project
 5. Render or export according to your project requirements
 
-## Tags
+## Download Links
 
-- 3D Models
-- Esports Gaming
-- Gaming Room
-- 3DS MAX Models
-- Cinema 4D Models
-- Blender Models
-- FBX Models
-- OBJ Models
-- UE5 Models
-- Scene Assets
-- Gaming Chair Models
-- Computer Models
-- Modern Interior
-- Esports Environment
-- Game Development Assets
-- Architectural Visualization
-- 3D Scene Collection
-- Gaming Furniture
-- Electronic Equipment Models
-- Real-time Rendering Assets
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

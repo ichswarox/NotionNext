@@ -46,14 +46,3 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 </Tabs>
-
-### Technical Specifications
-
-- Format: CUBE LUTs + .drp PowerGrades
-- Color Space: DaVinci Wide Gamut
-- Resolution: Universal (works in all resolutions)
-- Application: Film emulation, creative looks, broadcast standards
-
-### SEO Tags
-
-#color-grading #LUTs #DaVinciResolve #video-presets #film-emulation #creative-looks #professional-grading #cinematic-color

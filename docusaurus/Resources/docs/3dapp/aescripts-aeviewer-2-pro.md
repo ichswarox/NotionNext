@@ -53,26 +53,3 @@ Click on the links to go to the download pages. The extraction passwords are pro
 |---------|---------------|----------|
 | **AEViewer 2 Pro v2.2.3** | [Download](https://pan.baidu.com/s/1VglqF4MFg8VjSt07FS22lw?pwd=pmid) | `pmid` |
 | **AEViewer 2 Pro v2.2** | [Download](https://pan.baidu.com/s/1N02yMDjaLH0dH_3AA3YZtQ?pwd=jn66) | `jn66` |
-
-## Tags
-
-- Aescripts
-- AEViewer
-- AEViewer 2
-- AEViewer破解版
-- AE Script
-- PR Script
-- Project Preview
-- Media Browser
-- After Effects
-- Premiere Pro
-- Asset Management
-- Project Import
-- Creative Tools
-- Digital Art
-- Workflow Tools
-- Creative Software
-- Professional Tools
-- File Organization
-- Media Management
-- Creative Workflow

@@ -62,6 +62,6 @@ The installation process is straightforward as this package contains pre-formatt
 |--------|---------------|----------|
 | 3DS MAX/C4D/FBX | [Baidu Netdisk Download](https://pan.baidu.com/s/1T7TnNCNMMsrcyYB8Y-vTjw?pwd=hdec) | hdec |
 
-## Tags
-
-`3D textures`, `wParallax`, `lobby models`, `parallax maps`, `archviz`
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

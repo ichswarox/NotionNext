@@ -34,8 +34,12 @@ Alt Tab, known for numerous high-quality add-ons, has released "Alt Tab Easy Dec
 > - Organized node groups
 > - Simple and organized UI
 
-"Alt Tab Easy Decals" is available on Superhive for $39.99. **Until around 1:00 PM on Saturday, September 6th (JST), it is available for a launch price of $23.99.**
-Also, **if you have already purchased "Stamp It!", you can get it for half price ($12) by entering the code "ALTTABDECAL" at checkout.**
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |
+
 
 ## Links
 

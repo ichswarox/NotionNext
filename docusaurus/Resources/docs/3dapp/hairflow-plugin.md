@@ -45,11 +45,3 @@ Click on the link to go to the download page. The extraction password is provide
 | ---- | ------------- | -------- |
 | **Version 1.2.2** | [Download](https://pan.baidu.com/s/1DD1AGWnvJJdY6GXjCqL8jA?pwd=bibj) | `bibj` |
 | **Version 1.2.1** | [Download](https://pan.baidu.com/s/1BHeDZqVon_SS4nNUn-HYHA?pwd=igxj) | `igxj` |
-
-## Tags
-
-- Blender
-- Blender Plugin
-- HairFlow
-- Hair Animation
-- Hair Plugin

@@ -50,11 +50,6 @@ Our advanced Procedural Particle System nodes and XPBD Physics nodes empower art
 
 ## Download Links
 
-| Version | Download Link | Password |
-|---------|---------------|----------|
-| V3.5 | [Direct Download Link](https://wa.me/8613237610083) | c429 |
-| V3.0 | [Direct Download Link](https://wa.me/8613237610083) | sjtq |
-
-## Tags
-
-`Blender` `Blender Asset` `Blender Preset` `Extra Nodes` `Geometry Nodes` `Visual Effects` `Motion Graphics` `Particle System` `Procedural` `XPBD Physics`
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

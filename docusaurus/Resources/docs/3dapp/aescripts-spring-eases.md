@@ -48,26 +48,3 @@ Click on the link to go to the download page. The extraction password is provide
 | Version | Download Link | Password |
 |---------|---------------|----------|
 | **Spring Eases v1.0** | [Download](https://pan.baidu.com/s/17xKagevOT0wzhTfCl2WNwg?pwd=jizc) | `jizc` |
-
-## Tags
-
-- Aescripts
-- AE Script
-- Spring Eases
-- Animation Script
-- Elastic Animation
-- Motion Graphics
-- After Effects
-- Bounce Animation
-- Inertia Animation
-- Creative Tools
-- Digital Art
-- Workflow Tools
-- Creative Software
-- Professional Tools
-- Animation System
-- Physics-Based Animation
-- UI Animation
-- Creative Workflow
-- Design Tools
-- Motion Design

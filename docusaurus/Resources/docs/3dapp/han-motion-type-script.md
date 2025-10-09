@@ -35,8 +35,7 @@ This script includes 30 text animation presets, specifically designed for the un
 
 <!-- The Last Part-Download -->
 ## Download Links
-:::warning[Download]
-This is a premium resource. Please contact us for access.
-:::
 
-[Download Han Motion Type](https://wa.me/8613237610083)
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

@@ -84,5 +84,8 @@ The **AE Script - 3333 Distortion Perspective Rotation Impact Camera Video Seaml
 
 Whether you're a content creator, video editor, or part of a production team, this script will significantly enhance your editing capabilities while reducing production time and effort.
 
-## Download
-[Chat For Details](https://wa.me/8613237610083)
+## Download Links
+
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

@@ -2,7 +2,7 @@
 
 ## 概述
 
-本指南将详细介绍如何激活 Houdini 软件。
+本指南将详细介绍如何激活 Houdini 软件，如果激活完毕后，遇到安装问题，比如无法安装Houdini，打开闪退问题，这些问题99%是因为本机的环境问题，不是证书，但在联系卖家之前，请仔细阅读 [Houdini 闪退问题解决指南](#houdini-闪退问题解决指南)
 
 ## 步骤 1：下载Launcher
 
@@ -108,7 +108,7 @@ h.neoxu.store:填我给你的数字
 - 输入 Houdini 的启动命令
 - sudo /Applications/Houdini/Houdini21.0.440/Houdini\ FX\ 21.0.440.app/Contents/MacOS/houdinifx
 - 或者打开终端，输入sudo和一个空格，然后到如图的路径，把houdinifx文件拖入回车启动。
-  ![houdini-ex.webp](https://list.ucards.store/d/img/houdini-ex.webp)
+ ![houdini-ex.webp](https://list.ucards.store/d/img/houdini-ex.webp)
 - 如果可以sudo可以直接启动了，没有其他报错，那就是文件夹的权限有问题：
   chmod -R +x /Applications/Houdini/Houdini21.0.440/Houdini\ FX\ 21.0.440.app/Contents/MacOS/houdinifx 
   或者打开终端，输入sudo和一个空格，然后到上图的路径，把houdinifx文件拖入回车修复。

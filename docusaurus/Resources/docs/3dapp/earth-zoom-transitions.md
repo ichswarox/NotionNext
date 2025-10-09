@@ -43,16 +43,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Earth Zoom Transitions**  | [Download](https://pan.baidu.com/s/1t_CNcilERXn-fWU1bsI4-g?pwd=sps6)        | `sps6`   |
-
-## Tags
-
-- After Effects
-- DaVinci Resolve
-- Video Transitions
-- Earth Zoom
-- Video Editing
-- AE Templates
-- DaVinci Templates
-- Transition Effects
-- Motion Graphics
-- Video Production

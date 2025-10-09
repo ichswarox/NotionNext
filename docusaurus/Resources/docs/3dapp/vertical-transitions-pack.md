@@ -39,34 +39,6 @@ Includes a total of 400 vertical video transitions, featuring effects like film 
 *   **Music:** Background music is not included.
 
 ## Download Links
-:::warning[Download]
-This is a paid resource. Please contact us for purchase information.
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Vertical Transitions Pack** | [Contact Us for Purchase](https://wa.me/8613237610083)                     | -        |
-
-<!-- Generate new SEO-optimized tags based on content for this part,Ensure tags align with Google's E-E-A-T principles  -->
-## Tags
-
-- Premiere Pro Vertical Transitions
-- Film Damage
-- Neon Effects
-- Video Glitches
-- Retro Video
-- AtomX Script
-- Video Editing
-- Motion Graphics
-- Transition Pack
-- VHS Effects
-- Light Leaks
-- Video Effects
-- Editing Tools
-- Creative Software
-- Digital Media
-- Video Production
-- Post Production
-- Visual Effects
-- Media Editing
-- Professional Editing

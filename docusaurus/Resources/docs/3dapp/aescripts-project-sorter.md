@@ -51,26 +51,3 @@ Click on the link to go to the download page. The extraction password is provide
 | Version | Download Link | Password |
 |---------|---------------|----------|
 | **Project Sorter v1.7.3** | [Download](https://pan.baidu.com/s/1Wfklm8E7Hd4hPHG9GhWkQg?pwd=w9xj) | `w9xj` |
-
-## Tags
-
-- Aescripts
-- AE Script
-- Project Sorter
-- PR Script
-- Media Organization
-- Asset Management
-- After Effects
-- Premiere Pro
-- Workflow Tools
-- Creative Tools
-- Digital Art
-- File Organization
-- Creative Software
-- Professional Tools
-- Project Management
-- Media Sorting
-- Creative Workflow
-- Design Tools
-- Video Editing
-- Organization Tools

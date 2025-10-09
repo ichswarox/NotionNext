@@ -76,8 +76,3 @@ A comprehensive collection of 14 tutorials by Entagma, including 12 Houdini tuto
 |----------|------|----------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1_j0LoJtacTgBxlG0tRaiTg?pwd=w7rh) | w7rh |
 
-### Direct Download Link
-[Direct Download Link](https://wa.me/8613237610083)
-
-### Tags
-`Blender Tutorial` `Entagma` `Houdini` `Houdini Tutorial` `SOPs` `UE Tutorial` `VEX` `Chinese Subtitles` `Function Tutorial` `Rendering Tutorial` `VFX Tutorial` `Particle Tutorial`

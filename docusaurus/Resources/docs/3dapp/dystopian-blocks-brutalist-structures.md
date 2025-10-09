@@ -45,8 +45,5 @@ Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectu
 ## Download Links
 
 | Version | Download Link |
-|--------|---------------|
-| Dystopian Blocks | [Contact us](https://wa.me/8613237610083) |
-
-
-_Last updated: Sep 23 2025_
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

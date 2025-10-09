@@ -9,7 +9,7 @@ slug: /2d-cloud-textures-pack
 
 *Last updated: Sep 14 2025*
 
-![2D Cloud Textures Pack](https://www.gfxcamp.com/wp-content/uploads/2025/09/2D-Cloud-Textures-Pack.jpg)
+![cloud-qd.webp](https://list.ucards.store/d/img/cloud-qd.webp)
 
 :::tip[info]
 Explore a collection of 125 high-quality 2D cloud textures (jpg), perfect for VFX, animation, and illustration. These assets will enhance your visual projects with realistic cloud elements.
@@ -39,15 +39,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **2D Cloud Textures Pack**  | [Download](https://pan.baidu.com/s/1u9gi1FwVFmzlTrZP2PqyfA?pwd=udxw)        | `udxw`   |
 
-## Tags
-
-- Cloud Textures
-- VFX Assets
-- Animation
-- Illustration
-- Image Assets
-- JPG Textures
-- Visual Effects
-- Graphic Design
-- Nature Textures
-- Sky Elements
+:::info[Direct Link]
+For users who have trouble accessing Baidu Cloud, you can also try the direct link:
+[Direct Download](https://assetsvfx.gumroad.com/l/125CloudTexturesPack)
+:::

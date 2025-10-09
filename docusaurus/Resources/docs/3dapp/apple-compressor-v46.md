@@ -53,15 +53,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/10O7h47H1U7o08C42l1llBw) | p3x3 |
-
-## Tags
-
-- Apple
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- Canon RAW
-- iPhone 13
-- Video conversion
-- Mac software

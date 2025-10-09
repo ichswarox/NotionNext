@@ -49,6 +49,6 @@ The VizEasy Procedural Outlets & Switches script for 3ds Max is your ultimate so
 |------|---------------|----------|
 | Plugin | [Direct Download Link](https://wa.me/8613237610083) | cs47 |
 
-## Tags
-
-`3ds MAX` `3DS MAX Plugin` `Switches` `VizEasy` `Switch Plugin` `Electrical Fixtures` `Architecture` `3D` `Plugin`
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

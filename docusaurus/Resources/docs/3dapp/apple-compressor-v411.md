@@ -48,13 +48,3 @@ Apple Compressor v4.11.0 is a powerful video transcoding software that integrate
 | Download Source | Link | Password |
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/1COhop_2D3MaBrl5Ylg2gVQ?pwd=44pg) | 44pg |
 
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- Apple Silicon
-- H.264
-- Video conversion
-- Mac software

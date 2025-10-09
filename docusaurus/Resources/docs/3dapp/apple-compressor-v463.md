@@ -55,14 +55,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/17m6Y4bE71i2W08kly_XP5Q?pwd=ttuk) | ttuk |
-
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- HEVC
-- HDR
-- Video conversion
-- Mac software

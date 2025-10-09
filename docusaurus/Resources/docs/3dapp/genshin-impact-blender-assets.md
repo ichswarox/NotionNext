@@ -43,16 +43,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Genshin Impact Assets Collection**  | [Download](https://pan.baidu.com/s/1PHYf0dRsN58EUOMaoWtFqg?pwd=xbhb)        | `xbhb`   |
-
-## Tags
-
-- Blender Models
-- Genshin Impact
-- Game Assets
-- 3D Models
-- Asset Browser
-- Blender Assets
-- Interior Design
-- Game Development
-- 3D Modeling
-- Fantasy Assets

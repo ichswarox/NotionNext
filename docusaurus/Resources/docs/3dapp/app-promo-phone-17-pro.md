@@ -44,16 +44,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **App Promo Phone 17 Pro**  | [Download](https://pan.baidu.com/s/1aLkKTBuRWzNoaVSt1RIm4A?pwd=mipv)        | `mipv`   |
-
-## Tags
-
-- After Effects
-- iPhone 17
-- App Presentation
-- Phone Mockup
-- Mobile App
-- AE Template
-- App Promo
-- Video Editing
-- 4K Resolution
-- Motion Graphics

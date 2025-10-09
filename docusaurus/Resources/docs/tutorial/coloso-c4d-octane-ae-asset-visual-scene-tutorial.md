@@ -40,26 +40,3 @@ This course provides comprehensive instruction on creating high-quality visual s
 
 ## Download
 [Chat For Details](https://wa.me/8613237610083)
-
-## Tags
-
-- C4D Tutorial
-- Octane Render Tutorial
-- After Effects Tutorial
-- Motion Graphics Tutorial
-- 3D Rendering
-- Visual Effects
-- Compositing Tutorial
-- Scene Design
-- Asset Usage
-- 3D Animation
-- Professional Rendering
-- Visual Scene Creation
-- Cinema 4D
-- Octane Renderer
-- Post Production
-- Digital Art
-- 3D Asset Integration
-- Scene Composition
-- Realistic Materials
-- Workflow Tutorial

@@ -53,21 +53,3 @@ Click the link to go to the download page. The extraction password is provided n
 | File Version | Download Link | Password |
 |--------------|---------------|----------|
 | ERGB Streak Panels v1.0.1 | [Download Link](https://pan.baidu.com/s/1YBLNvz7idwCB4z8PvCdm9Q?pwd=mnxc) | `mnxc` |
-
-## Tags
-
-- Blender
-- Blender plugin
-- ERGB Streak Panels
-- light plugin
-- streak plugin
-- effects plugin
-- 3D effects
-- Blender effects
-- animation effects
-- background effects
-- fiber animation
-- creative effects
-- VFX tools
-- visual effects
-- rendering plugin

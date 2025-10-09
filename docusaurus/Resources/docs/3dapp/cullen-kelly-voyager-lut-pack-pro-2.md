@@ -70,8 +70,3 @@ The Voyager LUTs create beautiful studio-quality creative looks to help you grad
 | Platform | Link |
 |----------|------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1prMCrU1lnesIEA0tSsMU5Q?pwd=hvki) |
-| Direct Download | [Direct Download Link](https://wa.me/8613237610083) |
-
-## Tags
-
-`LUTs`, `Color Grading`, `DaVinci Resolve`, `Video`, `Cinematic`, `Documentary`, `Cullen Kelly`, `The Voyager LUT`, `Film Look`

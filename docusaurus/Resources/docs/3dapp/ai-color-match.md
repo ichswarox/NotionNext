@@ -70,25 +70,4 @@ Click on the links to go to the download pages. The extraction passwords are pro
   </TabItem>
 </Tabs>
 
-## Tags
 
-- aescripts
-- After Effects
-- Premiere
-- AI Color Match
-- Color Correction
-- Color Grading
-- Video Editing
-- AE Plugin
-- PR Plugin
-- Color Matching
-- AI Technology
-- Post Production
-- Visual Consistency
-- Media Processing
-- Color Science
-- Workflow Enhancement
-- Creative Tools
-- Professional Grading
-- Video Post-Processing
-- Digital Color Management

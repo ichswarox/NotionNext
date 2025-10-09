@@ -61,6 +61,3 @@ In this training, Octane expert David Ariew gives you a super informative and ef
 |------|---------------|----------|
 | Tutorial | [Direct Download Link](https://wa.me/8613237610083) | rjzr |
 
-## Tags
-
-`Octane` `Cinema 4D` `Tutorial` `Rendering` `GreyscaleGorilla` `GSG` `OC Tutorial` `OC Renderer` `Basic Tutorial` `3D`

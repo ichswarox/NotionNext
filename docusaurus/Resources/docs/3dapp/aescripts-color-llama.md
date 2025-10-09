@@ -83,6 +83,3 @@ Like Colorama, but fuzzier! Create pairs of colors to turn one color into anothe
 | After Effects/Premiere | Windows | N/A | [Baidu Netdisk Download](https://pan.baidu.com/s/1cpi2GzJk805667ik0LiAEw?pwd=ktw3) |
 | After Effects/Premiere | Windows | N/A | Password: ktw3 |
 
-## Tags
-
-#aescripts #ae-plugin #color-llama #pr-plugin #color-swap-plugin #color-grading-plugin

@@ -53,9 +53,3 @@ Dive into the world of fruits with "Fruit Market" asset! It includes a wide vari
 | Platform | Link | Password |
 |----------|------|----------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1ykV8FNn_NY-5iQg8AHJt0w?pwd=uuky) | uuky |
-
-### Direct Download Link
-[Direct Download Link](https://wa.me/8613237610083)
-
-### Tags
-`3D Model` `FBX Model` `Fruit Model` `Market Asset` `3D Asset`

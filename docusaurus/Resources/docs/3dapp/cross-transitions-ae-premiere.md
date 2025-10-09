@@ -46,16 +46,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Cross Transitions Pack**  | [Download](https://pan.baidu.com/s/1VJ8czxiUda4ChZUDS-YDYA?pwd=r7yf)        | `r7yf`   |
-
-## Tags
-
-- After Effects
-- Premiere Pro
-- Video Transitions
-- Cross Transitions
-- Photo Slideshow
-- Video Editing
-- AE Templates
-- PR Presets
-- Mogrt
-- Motion Graphics

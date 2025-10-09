@@ -33,12 +33,12 @@ Unlike other environment creation courses, this course doesn't just teach you "h
 This tutorial is in **English**.
 :::
 
-### Pricing
+## Download Link
 
--   **Course Price**: **$19**
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
 
-This course offers a detailed look at how a single scene is constructed from start to finish.
-
-## Get the Course
-
-[**AAA Environment Creation in Unreal Engine 5 on Wingfox**](https://www.wingfox.com/c/9528_1574_50392)
+| File                                | Download Link                                                              |
+| ----------------------------------- | -------------------------------------------------------------------------- |
+| **AAA Environment Creation in Unreal Engine 5 Tutorial**  | [Premium Content](https://wa.me/8613237610083)|

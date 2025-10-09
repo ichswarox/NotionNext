@@ -78,6 +78,14 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      announcementBar: {
+        id: 'baiduyun_download',
+        content:
+          'If you can\'t download resources from Baiduyun, request us for direct link WhatsApp <a target="_blank" rel="noopener noreferrer" href="https://wa.me/8613237610083">https://wa.me/8613237610083</a>',
+        backgroundColor: '#4a90e2',
+        textColor: '#ffffff',
+        isCloseable: true,
+      },
       navbar: {
         title: 'Resources',
         logo: {
@@ -87,28 +95,33 @@ const config = {
         items: [
           {
             to: '/category/3dapp',
-            label: '3DApp',
+            label: '3DApp 🎨',
             position: 'left',
           },
           {
             to: '/category/tutorial',
-            label: 'Tutorial',
+            label: 'Tutorial 📚',
             position: 'left',
           },
           {
             to: '/category/gallery',
-            label: 'Gallery',
+            label: 'Gallery 🖼️',
             position: 'left',
           },
           {
             to: '/tags',
-            label: 'Tags',
+            label: 'Tags 🏷️',
             position: 'left',
           },
           {
             to: '/about-us',
-            label: 'About Us',
+            label: 'About Us ℹ️',
             position: 'left',
+          },
+          {
+            to: 'https://wa.me/+8613237610083',
+            label: 'Request Update',
+            position: 'right',
           },
         ],
       },

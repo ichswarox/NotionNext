@@ -26,10 +26,8 @@ Evermotion – Archexteriors Vol. 32 is a set of 3D models containing 10 complet
 - **Tutorial**: No tutorial included.
 - **Music**: Background music is not included.
 
-<!-- The Last Part-Download -->
 ## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
 
-[Paid Resources](https://wa.me/8613237610083)
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |

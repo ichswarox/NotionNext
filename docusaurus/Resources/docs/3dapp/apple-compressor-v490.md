@@ -54,14 +54,3 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 | Download Source | Link | Password |
 |-----------------|------|----------|
 | Baidu Netdisk | [Download Link](https://pan.baidu.com/s/15Gcb6vTrF-Ur4uO2ibPwhg?pwd=makb) | makb |
-
-## Tags
-
-- Compressor
-- Video encoding
-- Final Cut Pro
-- Motion
-- Apple Vision Pro
-- Spatial video
-- Video conversion
-- Mac software

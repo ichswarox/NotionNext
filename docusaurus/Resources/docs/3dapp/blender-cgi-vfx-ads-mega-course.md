@@ -88,3 +88,4 @@ Experienced artists will appreciate the advanced techniques and workflow optimiz
 The "Blender CGI & VFX Ads Mega Course" provides an excellent pathway to mastering VFX compositing techniques in Blender. With practical examples, comprehensive curriculum, and professional insights, this course equips you with the skills needed to create stunning VFX advertisements that seamlessly blend 3D elements with real footage.
 
 Whether you're creating content for advertising, film, or personal projects, the techniques taught in this course will elevate your Blender skills to a professional level.
+

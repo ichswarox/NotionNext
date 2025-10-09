@@ -60,17 +60,4 @@ Contains 66 video color grading presets in CUBE format, supporting major camera 
 
 | Platform | Link |
 |----------|------|
-| Baidu Netdisk | Available in original content |
-
-## Tags
-
-- Cinematic LUTs
-- Video Color Grading
-- Film Color Grading
-- AE Color Grading
-- FCPX Color Grading
-- Pr Color Grading
-- CapCut
-- 3D LUTS
-- Color Grading Presets
-- DaVinci Resolve Color Grading
+| Baidu Netdisk | [Premium Content](https://wa.me/8613237610083)|

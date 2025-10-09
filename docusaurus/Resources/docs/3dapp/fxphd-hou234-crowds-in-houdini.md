@@ -59,9 +59,9 @@ This course, taught by VFX supervisor Charles Chorein, provides a comprehensive 
 
 ## Download Links
 
-| Type | Download Link | Password |
-|------|---------------|----------|
-| Tutorial | [Direct Download Link](https://wa.me/8613237610083) | utn6 |
+| Version | Download Link |
+| :---| :--- |
+| Content | [Premium Content](https://wa.me/8613237610083) |
 
 ## Tags
 
