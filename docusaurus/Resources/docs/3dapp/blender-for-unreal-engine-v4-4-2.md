@@ -60,18 +60,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
 
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **V4.4.2 Version**  | [Download](https://pan.baidu.com/s/1pP0qbdnsq5gY4WkqFaXOdA?pwd=7t6k)        | `7t6k`   |
-| **V4.4.0 Version**  | [Download](https://pan.baidu.com/s/1b3iXpnSsK6bEcpd_J_vs3A?pwd=4abh)        | `4abh`   |
-| **V4.3.12 Version**  | [Download](https://pan.baidu.com/s/1cIFmXOHI9Upbj3TJVHdkCg?pwd=7d5b)        | `7d5b`   |
-| **V4.3.9 Version**  | [Download](https://pan.baidu.com/s/1ifSOYziISx9r1SiTz5BRnw?pwd=2ux3)        | `2ux3`   |
 
 ## Why Choose Blender For Unreal Engine V4.4.2?
 
@@ -100,3 +89,21 @@ With support for Blender versions from 2.8 through 4.5, this plugin accommodates
 The **Blender For Unreal Engine V4.4.2** plugin is an essential tool for any 3D artist or developer working in both Blender and Unreal Engine environments. By providing a seamless bridge between these platforms, it significantly reduces production time and eliminates common import/export issues.
 
 Whether you're creating architectural visualizations, game assets, or cinematic content, this plugin streamlines your workflow and ensures professional-quality results. Its comprehensive feature set and wide version compatibility make it a valuable addition to any 3D content creation toolkit.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **V4.4.2 Version**  | [Download](https://pan.baidu.com/s/1pP0qbdnsq5gY4WkqFaXOdA?pwd=7t6k)        | `7t6k`   |
+| **V4.4.0 Version**  | [Download](https://pan.baidu.com/s/1b3iXpnSsK6bEcpd_J_vs3A?pwd=4abh)        | `4abh`   |
+| **V4.3.12 Version**  | [Download](https://pan.baidu.com/s/1cIFmXOHI9Upbj3TJVHdkCg?pwd=7d5b)        | `7d5b`   |
+| **V4.3.9 Version**  | [Download](https://pan.baidu.com/s/1ifSOYziISx9r1SiTz5BRnw?pwd=2ux3)        | `2ux3`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -27,3 +27,8 @@ Click on the link to go to the download page. The extraction password is provide
 | **V1.5.4** | [Download](https://pan.baidu.com/s/1CpZYbg3ZTcbBD86J82dbEg?pwd=7dp4) | `7dp4` |
 | **V1.4.1** | [Download](https://pan.baidu.com/s/1IJF-a0GiN08kDfNuxC78TA?pwd=bvyd) | `bvyd` |
 | **V1.3.0** | [Download](https://pan.baidu.com/s/18ABjdLUmtT0tMJnQF6gx2g?pwd=34sv) | `34sv` |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

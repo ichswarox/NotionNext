@@ -76,3 +76,7 @@ A comprehensive collection of 14 tutorials by Entagma, including 12 Houdini tuto
 |----------|------|----------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1_j0LoJtacTgBxlG0tRaiTg?pwd=w7rh) | w7rh |
 
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

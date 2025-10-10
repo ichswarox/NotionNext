@@ -39,6 +39,19 @@ A simple but powerful painting system that lets you apply materials directly to 
 
 <iframe loading="lazy" src="https://player.youku.com/embed/XNjQ1Nzk0NTQ3Mg==" width="100%" height="360" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
+
+
+### Technical Specifications
+
+- **Workflow**: Direct brush-based material painting on 3D models
+- **Best For**: Stylized renders, concept art, illustration, NPR projects
+- **Integration**: Seamless with Blender's viewport and material system
+- **Compatibility**: Works with Eevee and Cycles render engines
+
+### SEO Tags
+
+#Blender #painting-plugin #NPR #non-photorealistic #material-painting #digital-art #3D-illustration #artist-tools
+
 ### Download Options
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -56,13 +69,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 
-### Technical Specifications
-
-- **Workflow**: Direct brush-based material painting on 3D models
-- **Best For**: Stylized renders, concept art, illustration, NPR projects
-- **Integration**: Seamless with Blender's viewport and material system
-- **Compatibility**: Works with Eevee and Cycles render engines
-
-### SEO Tags
-
-#Blender #painting-plugin #NPR #non-photorealistic #material-painting #digital-art #3D-illustration #artist-tools
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -51,17 +51,6 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **V2025.08.19 Version**  | [Download](https://pan.baidu.com/s/1_tx01ELDCc12nJ2hP79sVw?pwd=p7bz)        | `p7bz`   |
-| **V2025.03.03 Version**  | [Download](https://pan.baidu.com/s/1yyVWTBcMr7d-RukPy6yPig?pwd=g7nm)        | `g7nm`   |
-| **V1 Version**  | [Download](https://pan.baidu.com/s/10DdKb8B2YDaAxXvY0wNdww?pwd=guts)        | `guts`   |
 
 ## Why Choose Command Box for Blender?
 
@@ -116,3 +105,20 @@ Command Box is ideal for:
 Command Box V2025.08.19 is an essential addon for any Blender user looking to optimize their workflow. With hundreds of commands at your fingertips and smart actions that automate common tasks, this plugin transforms how you interact with Blender's extensive feature set.
 
 Whether you're a beginner looking to accelerate your learning process or a professional seeking maximum efficiency, Command Box delivers the tools you need to work faster and smarter in Blender. The time saved through quick command access quickly justifies the investment in this powerful addon.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **V2025.08.19 Version**  | [Download](https://pan.baidu.com/s/1_tx01ELDCc12nJ2hP79sVw?pwd=p7bz)        | `p7bz`   |
+| **V2025.03.03 Version**  | [Download](https://pan.baidu.com/s/1yyVWTBcMr7d-RukPy6yPig?pwd=g7nm)        | `g7nm`   |
+| **V1 Version**  | [Download](https://pan.baidu.com/s/10DdKb8B2YDaAxXvY0wNdww?pwd=guts)        | `guts`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

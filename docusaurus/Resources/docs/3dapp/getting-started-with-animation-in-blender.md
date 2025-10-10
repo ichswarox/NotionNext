@@ -47,6 +47,7 @@ This course is designed to help you get started with animation in Blender throug
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Getting Started With Animation In Blender | [Baidu Netdisk](https://pan.baidu.com/s/1U3wn5p5_WM9jfxAZcIAS5g?pwd=qe14) | qe14 |
-
-
-_Last updated: Sep 23 2025_
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

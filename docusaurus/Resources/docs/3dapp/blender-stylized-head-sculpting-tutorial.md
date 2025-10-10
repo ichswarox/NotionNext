@@ -51,34 +51,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Purchase Information
-
-:::warning[Purchase Notice]
-This tutorial is paid content. Please purchase through official channels to obtain full access.
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
-| Purchase Method | Link |
-|-----------------|------|
-| Taobao Purchase | [Click to go to Taobao purchase](https://item.taobao.com/item.htm?id=978098726208) |
-| Direct Purchase | [Click to purchase directly: 20 yuan](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fhow-to-sculpt-a-stylized-head-in-blender%2F) |
-| Purchase Steps | [Click to view purchase steps instructions](https://www.gfxcamp.com/how-to-download/) |
-
-## Tags
-
-- Blender
-- Blender tutorial
-- Chinese subtitles
-- cartoon modeling
-- head modeling
-- modeling tutorial
-- rigging tutorial
-- sculpting tutorial
-- 3D modeling
-- character design
-- UV unwrapping
-- material shading
-- skeletal binding
-- animation production
-- Blender learning
-- 3D character
-- cartoon style

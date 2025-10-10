@@ -56,3 +56,8 @@ For purchase instructions, please visit: [View Purchase Instructions](https://ww
 ## Conclusion
 
 This **Chrome Tool** template and preset package is perfect for motion designers and video editors who want to add stylish, professional-looking chrome alloy text animations to their projects. With support for both After Effects and Premiere Pro, full customization options, and 4K resolution, it's an excellent choice for creating eye-catching titles and logos in your videos.
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

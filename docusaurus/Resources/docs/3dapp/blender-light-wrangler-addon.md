@@ -54,15 +54,7 @@ Light Wrangler is the ultimate lighting solution for Blender. It allows targeted
 </TabItem>
 </Tabs>
 
-## Download Links
-
-| Version | Description | Direct Download |
-|---------|-------------|-----------------|
-| V3.2.4 | Latest version | [Direct Download Link](https://wa.me/8613237610083) |
-| V3.1.13 | Previous version | [Direct Download Link](https://wa.me/8613237610083) |
-| V2.2.4 | V2 version | [Direct Download Link](https://wa.me/8613237610083) |
-| V2.1.3 | V2 version with tutorial | [Direct Download Link](https://wa.me/8613237610083) |
-
-## Tags
-
-`#Blender` `#BlenderAddon` `#LightWrangler` `#LightingPlugin` `#HDRI` `#IES`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

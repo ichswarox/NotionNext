@@ -70,11 +70,10 @@ This Isometric Interior Bundle includes a beautifully stylized collection of roo
 | Application | Games, animation, interior visualization |
 | Category | 3D Models, Interior Models |
 
-## Download Links
-
-| Platform | Link | Notes |
-|----------|------|-------|
-| Official Source | [https://www.gfxcamp.com/isometric-rooms-collection-bedrooms-kitchens-living-rooms-low-poly-3d-model/](https://www.gfxcamp.com/isometric-rooms-collection-bedrooms-kitchens-living-rooms-low-poly-3d-model/) | Original resource page |
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
 
 ## Tags
 

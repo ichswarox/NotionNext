@@ -41,3 +41,7 @@ Click on the link to go to the download page. The extraction password is provide
 | ----------------------------- | ------------------------------------------------------------------------ | -------- |
 | **KeenTools V2025.2.0**       | [Download](https://pan.baidu.com/s/18ouY0kYZeXhdAuSJEnbYZA?pwd=ikhh)     | `ikhh`   |
 | **KeenTools V2024.3.0**       | [Download](https://pan.baidu.com/s/18_aoYoH7Zp8wCjaz1IT07Q?pwd=sddg)     | `sddg`   |
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

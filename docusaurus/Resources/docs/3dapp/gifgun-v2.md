@@ -46,13 +46,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V2.0.17**     | [Download](https://pan.baidu.com/s/1bzQZZjydh6Rj4jWNoZcfDA?pwd=tqm6)        | `tqm6`   |
 | **V2.0.9**      | [Download](https://pan.baidu.com/s/1X7TtszJ-m4qpc5nfOLm-OQ?pwd=0zcx)        | `0zcx`   |
 
-## Tags
-
-- Aescripts
-- GifGun
-- After Effects
-- GIF Export
-- Plugin Script
-- Animation
-- Crack
-- Digital Media
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -63,8 +63,7 @@ import TabItem from '@theme/TabItem';
 
 While many addons of this type focused on smaller creatures like insects, this addon is notable for including larger animals.
 
-## Download Links
-
-| Version | Download Link |
-| :---| :--- |
-| Content | [Premium Content](https://wa.me/8613237610083) |
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

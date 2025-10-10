@@ -69,8 +69,8 @@ This course teaches how to create single character concept art using Blender's G
 | Platform | Link |
 |----------|------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1VafgKIXkfKqlPWbCbCCrhg?pwd=ye69) |
-| Direct Download | [Direct Download Link](https://wa.me/8613237610083) |
 
-## Tags
-
-`Blender`, `Grease Pencil`, `Concept Art`, `Character Design`, `Tutorial`, `Animation`, `Chinese Subtitles`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

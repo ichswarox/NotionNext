@@ -41,25 +41,7 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Creating a Modern House in Blender Course** | [Download](https://pan.baidu.com/s/1KIvwJgZjzhA-rzUXAbstWA?pwd=ga3z) | `ga3z` |
 
-## Tags
-
-- Blender
-- Blender Tutorial
-- Udemy
-- Interior Tutorial
-- Modeling Tutorial
-- Rendering Tutorial
-- Lighting Tutorial
-- Texturing Tutorial
-- Architectural Visualization
-- 3D Architecture
-- Modern House Design
-- Blender Course
-- 3D Modeling
-- Digital Art
-- Creative Workflow
-- Design Software
-- Architecture
-- 3D Design
-- Professional Rendering
-- Creative Tools
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

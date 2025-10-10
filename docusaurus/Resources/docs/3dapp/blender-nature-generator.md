@@ -37,7 +37,6 @@ The plugin features scatter distribution controls for precise placement and can 
 - Optimized for Cycles renderer
 - Comprehensive asset library
 
-## Download
+## Direct Download
 [Limit Speed Download Link](https://list.neoxu.store/d/app/model/blender/The%20Nature%20Generator%20v1.2.zip)
 
-[Hight Speed Download Link Request](https://wa.me/8613237610083)

@@ -48,4 +48,7 @@ For a limited time, you can get a **25% discount** using the coupon code: `dc25`
 
 For more information and to purchase the addon, visit the official product page.
 
-**[➡️ Get Drop Cast on Superhive](https://superhivemarket.com/products/drop-cast?ref=185)**
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

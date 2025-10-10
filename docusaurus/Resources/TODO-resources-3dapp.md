@@ -12,10 +12,9 @@ You I need to analyze the provided Markdown file and optimize it according to Do
 (frontmatter with:
     ---
     title: ""
-    description: ""
-    tags: []
-    tags: []
-    slug: /
+    description: "this is a description"
+    tags: [tags]
+    slug: /name
     ---)
 and Post structure:
    - top left is update time, format is: Last updated: Sep date 2025
@@ -24,19 +23,18 @@ and Post structure:
    - System requirements section
    - Installation instructions with Tabs for different scenarios in a clear cable
    - Download links in a table format
-   - Tags section
-3. Translate the content to English
-4. Ensure it follows Google EEAT SEO principles
-5. Create a short filename that matches the slug(Google-SEO-friendly)
-6. Keep the content exactly as is (just translate and style)
-7. Generate frontmatter with title, description, keywords, and slug
-8. Use Tabs for different installation methods if applicable
-9. Keep the download links and remove a.relateed content b.any content with taobao and weibo link
-10. Generate SEO-friendly tags
-11.  remove Related content part.
-12. first banner image is like: 
+1. Translate the content to English
+2. Ensure it follows Google EEAT SEO principles
+3. Create a short filename that matches the slug(Google-SEO-friendly and keep it simple)
+4. Keep the content exactly as is (just translate and style)
+5. Generate frontmatter with title, description, keywords, and slug
+6. Use Tabs for different installation methods if applicable
+7. Keep the download links and remove a.relateed content b.any content with taobao and weibo link
+8. Remove Related content part.
+9.  first banner image is like: 
     ![Alt-Name](https://www.gfxcamp.com/wp-content/uploads/2025/09/image.jpg)
-13. Don't import {Admonition} from '@docusaurus/theme-common';
-14. Don't add <div class just use docusaurus markdown format.
+
+10. Don't import {Admonition} from '@docusaurus/theme-common';
+11. Don't add <div class just use docusaurus markdown format.
 
 

@@ -62,14 +62,13 @@ Precision Film Emulation in an ACES Pipeline. Grade Once – Render any Delivery
 </TabItem>
 </Tabs>
 
-### Download Links
+## Download Links
 
 | Platform | Link | Password |
 |----------|------|----------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1_j0LoJtacTgBxlG0tRaiTg?pwd=w7rh) | w7rh |
 
-### Direct Download Link
-[Direct Download Link](https://wa.me/8613237610083)
-
-### Tags
-`AE Color Grading` `Cinegrain` `FCPX Color Grading` `LUTs` `Pr Color Grading` `Film Color Grading` `Video Color Grading` `Color Grading Presets` `DaVinci Color Grading`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

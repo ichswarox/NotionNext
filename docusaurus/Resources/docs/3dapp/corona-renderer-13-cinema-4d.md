@@ -74,16 +74,6 @@ Copy LegionLib_Release.dll to the following installation directories:
 - Vantage real-time bridge functionality is now accessible
 - AI-powered features are unlocked for enhanced workflow
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **13 Hotfix 1 Version**  | [Download](https://pan.baidu.com/s/1_FTcZYHVvusy4ubacNEXYA?pwd=b7e8)        | `b7e8`   |
-| **13 Version**  | [Download](https://pan.baidu.com/s/1PCslpmkaJR_Vljkx3CNR1w?pwd=jcav)        | `jcav`   |
 
 ## Why Choose Corona Renderer 13 Hotfix 1?
 
@@ -106,3 +96,19 @@ With both biased and unbiased rendering modes, users can choose the approach tha
 The **Corona Renderer 13 Hotfix 1** represents a significant advancement in real-time rendering technology for Cinema 4D. Its combination of photorealistic output, user-friendly interface, and robust feature set makes it an indispensable tool for any serious 3D artist.
 
 Whether you're creating architectural visualizations, product renders, or visual effects, this renderer provides the professional tools needed to achieve stunning results with significantly reduced production time. The **Corona Renderer 13 Hotfix 1** sets a new standard for rendering in Cinema 4D.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **13 Hotfix 1 Version**  | [Download](https://pan.baidu.com/s/1_FTcZYHVvusy4ubacNEXYA?pwd=b7e8)        | `b7e8`   |
+| **13 Version**  | [Download](https://pan.baidu.com/s/1PCslpmkaJR_Vljkx3CNR1w?pwd=jcav)        | `jcav`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

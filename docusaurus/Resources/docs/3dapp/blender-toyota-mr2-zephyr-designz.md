@@ -23,3 +23,8 @@ Zephyr Designz, known for creating fictional custom car designs, has released th
 > "Hello everyone! As promised, here is the timelapse video of the modeling for the Toyota MR2 concept body kit. To be honest, I couldn't concentrate during the texturing and rendering, so I wasn't able to record that part. I'll be sure to cover it next time! I'll be adding more videos as we go! I hope you enjoy this series. For this MR2 concept, I've incorporated a fully custom new front and rear bumper, an integrated splitter and diffuser, twin exhausts, side skirts, and a front LED daylight set, all sitting on Vossen HF5 wheels with Yokohama Advan Neova AD08R tires for an authentic stance! Please let me know your thoughts to help me improve in the future."
 
 It's impressive to see that this level of work was done in Blender. Below are a few other incredible designs from the channel.
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

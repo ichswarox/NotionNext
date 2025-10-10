@@ -60,16 +60,6 @@ Generate various hair types in real-time with the new hair strand material type,
 - RAM: 16GB minimum (32GB recommended)
 - Storage: 5GB available space for installation
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **V2025.1.126 Version**  | [Download](https://pan.baidu.com/s/1w1SBORuyiAyw0aoOcyHejw?pwd=yr2j)        | `yr2j`   |
-| **V2025.0.128 Version**  | [Download](https://pan.baidu.com/s/1I6vfy3s7dfPamykk4q972g?pwd=wis9)        | `wis9`   |
 
 ## About CLO 3D Software
 
@@ -91,3 +81,19 @@ The software bridges the gap between creativity and technology, allowing designe
 ---
 
 For technical support or questions about CLO Standalone OnlineAuth 2025, please contact our support team.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **V2025.1.126 Version**  | [Download](https://pan.baidu.com/s/1w1SBORuyiAyw0aoOcyHejw?pwd=yr2j)        | `yr2j`   |
+| **V2025.0.128 Version**  | [Download](https://pan.baidu.com/s/1I6vfy3s7dfPamykk4q972g?pwd=wis9)        | `wis9`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

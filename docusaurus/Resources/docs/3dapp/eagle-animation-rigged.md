@@ -36,12 +36,10 @@ This is a high-quality Aquila Nipalensis (Nepalese Eagle) 3D model featuring det
 - **Polycount**: Optimized for performance
 
 <!-- The Last Part-Download -->
-## Download Links
-
-| Version | Download Link |
-| :---| :--- |
-| Content | [Premium Content](https://wa.me/8613237610083) |
-
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
 ## Usage Rights
 
 This 3D model is suitable for both personal and commercial projects, including:

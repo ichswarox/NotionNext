@@ -63,3 +63,8 @@ For details and registration, please check the official website!
 ## Links
 
 -   [Blender Fes 2025 AW – Let's dive into the world of Blender together!](https://cgworld.jp/special/blenderfes/vol5/)
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

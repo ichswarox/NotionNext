@@ -17,8 +17,6 @@ slug: /history-timeline-template
 Showcase your company's history, product evolution, or any chronological story with this sleek, modern, and tech-inspired After Effects template. It's perfect for creating professional and engaging presentations, corporate videos, and promotional content.
 :::
 
-[Paid Resources](https://wa.me/8613237610083)
-
 ## Template Specifications
 
 - **Compatibility:** Adobe After Effects CS5 and higher. Works with all language versions of AE.
@@ -28,7 +26,7 @@ Showcase your company's history, product evolution, or any chronological story w
 - **Ease of Use:** No tutorial necessary; simply drop in your photos and edit the text.
 - **Music:** Please note that the background music is not included.
 
-## Download
-:::warning[Download]
-This is a premium resource. Please contact us for access.
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

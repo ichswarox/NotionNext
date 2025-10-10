@@ -43,3 +43,8 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Earth Zoom Transitions**  | [Download](https://pan.baidu.com/s/1t_CNcilERXn-fWU1bsI4-g?pwd=sps6)        | `sps6`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

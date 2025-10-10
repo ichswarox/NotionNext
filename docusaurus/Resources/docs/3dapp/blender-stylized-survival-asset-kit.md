@@ -63,12 +63,7 @@ The Survival Asset Kit is perfect for kickstarting your game development. This p
 </TabItem>
 </Tabs>
 
-## Download Links
-
-| Version | Description | Direct Download |
-|---------|-------------|-----------------|
-| Complete Kit | All 138 survival assets | [Direct Download Link](https://wa.me/861323761083) |
-
-## Tags
-
-`#3DModels` `#Blender` `#BlenderModels` `#LowPoly` `#GameAssets` `#SurvivalAssets`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

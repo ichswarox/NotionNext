@@ -48,10 +48,11 @@ BoxCutter and HardOps are essential tools for hard-surface modeling in Blender. 
 
 ## Download Links
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | File | Download Link | Password |
 |---|---|---|
 | **BoxCutter + HardOps** | [Download](https://pan.baidu.com/s/1hy7NfmhoBhPzOa0TKeTE6Q?pwd=3pb8) | `3pb8` |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

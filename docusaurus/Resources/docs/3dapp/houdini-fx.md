@@ -94,6 +94,11 @@ Issues Reported:
 Contact us for details.
 
 Tested version:
+- Houdini FX 21.0.44
+- Houdini FX 20.5
+- Houdini FX 19.5
+- Houdini FX 18.5
+- Houdini FX 17.5
 
 
 ## Download Links

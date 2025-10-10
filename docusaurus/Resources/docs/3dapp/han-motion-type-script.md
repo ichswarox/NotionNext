@@ -34,8 +34,7 @@ This script includes 30 text animation presets, specifically designed for the un
 - **Music**: Background music is not included.
 
 <!-- The Last Part-Download -->
-## Download Links
-
-| Version | Download Link |
-| :---| :--- |
-| Content | [Premium Content](https://wa.me/8613237610083) |
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

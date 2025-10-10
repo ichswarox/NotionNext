@@ -56,18 +56,8 @@ The Photographer addon makes it much easier to set up and adjust lighting, camer
 </TabItem>
 </Tabs>
 
-## Download Links
 
-| Version | Description | Direct Download |
-|---------|-------------|-----------------|
-| V5.6.5 | Latest plugin | [Direct Download Link](https://wa.me/8613237610083) |
-| V5.5.3 | Previous plugin | [Direct Download Link](https://wa.me/8613237610083) |
-| V5.4.14 | Previous plugin | [Direct Download Link](https://wa.me/8613237610083) |
-| V5.3.4 | Previous plugin | [Direct Download Link](https://wa.me/8613237610083) |
-| V5.0.10 | Previous plugin | [Direct Download Link](https://wa.me/8613237610083) |
-| V4.8.5 | Older plugin | [Direct Download Link](https://wa.me/8613237610083) |
-| Preset Pack | Light Pack 01 | [Direct Download Link](https://wa.me/8613237610083) |
-
-## Tags
-
-`#Blender` `#BlenderAddon` `#Photographer` `#CameraPlugin` `#LightingPlugin` `#EEVEE` `#Cycles`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

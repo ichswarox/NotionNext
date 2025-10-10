@@ -36,12 +36,12 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 ## Download Links
-
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | File | Download Link | Password |
 | ---- | ------------- | -------- |
 | **Version 1.2.2** | [Download](https://pan.baidu.com/s/1DD1AGWnvJJdY6GXjCqL8jA?pwd=bibj) | `bibj` |
 | **Version 1.2.1** | [Download](https://pan.baidu.com/s/1BHeDZqVon_SS4nNUn-HYHA?pwd=igxj) | `igxj` |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

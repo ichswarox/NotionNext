@@ -39,8 +39,7 @@ Fully editable DaVinci Resolve Powergrade. Giving your footage aesthetic and fil
 - Import the drx+dpx files to your project
 - Apply the PowerGrade to your footage as needed
 
-## Download Links
-
-| Version | Download Link |
-| :---| :--- |
-| Content | [Premium Content](https://wa.me/8613237610083) |
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

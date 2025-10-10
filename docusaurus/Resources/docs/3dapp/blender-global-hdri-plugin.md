@@ -34,28 +34,7 @@ The plugin also allows you to organize and use your own HDRI files.
 - Compatible with both Windows and Mac
 - Total size: 59.8GB
 
-## Download
-[Chat For Details](https://wa.me/8613237610083)
-
-## Tags
-
-- Blender
-- HDRI
-- Global HDRI
-- Environment Lighting
-- Light Maps
-- Blender Plugin
-- 3D Rendering
-- CGI
-- Lighting Presets
-- Asset Library
-- 8K Resolution
-- Studio Lighting
-- Natural Lighting
-- Interior Lighting
-- City Lighting
-- Fantasy Environments
-- Sci-Fi Environments
-- Blender Assets
-- Lighting Setup
-- Render Quality
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

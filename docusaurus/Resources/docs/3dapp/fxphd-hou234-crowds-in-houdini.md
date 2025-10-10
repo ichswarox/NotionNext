@@ -57,12 +57,10 @@ This course, taught by VFX supervisor Charles Chorein, provides a comprehensive 
 </TabItem>
 </Tabs>
 
-## Download Links
-
-| Version | Download Link |
-| :---| :--- |
-| Content | [Premium Content](https://wa.me/8613237610083) |
-
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
 ## Tags
 
 `Houdini` `FXPHD` `HOU234` `Crowds` `Tutorial` `Motion Capture` `Animation` `VFX` `Maya` `3D`

@@ -23,34 +23,12 @@ In this Houdini destruction course, we are going to shake the earth to collapse 
 
 ## Download
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | File | Download Link | Password |
 |------|---------------|----------|
 | **Bridge Collapse in Houdini Course** | [Download](https://pan.baidu.com/s/1f6kw9nTYpDEnARwynLx9BA?pwd=ufsr) | `ufsr` |
 
 
-## Tags
-
-- Houdini
-- Houdini Tutorial
-- The VFX School
-- Bridge Collapse
-- Destruction Effects
-- 3D Simulation
-- Visual Effects
-- Houdini Course
-- RBD Simulation
-- Vellum
-- Pyro
-- Geometry Fracturing
-- Metal Deformation
-- Constraints
-- Debris Simulation
-- Dust Effects
-- VFX
-- Computer Graphics
-- Special Effects
-- Digital Art
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -65,15 +65,6 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1AXR1F2v-JKOhzTL1Du97kw?pwd=hvne)
-
-**Extraction Password: hvne**
 
 ## Who Should Use Floor Blend?
 
@@ -86,3 +77,18 @@ This plugin is ideal for:
 ## Conclusion
 
 **Floor Blend v1.0.0** is a valuable addition to any Blender artist's toolkit, especially those working with floor textures in architectural visualization projects. With its one-click blending capability and intuitive interface, this plugin can significantly speed up your workflow while maintaining professional quality results.
+
+<!-- The Last Part-Download -->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+[Download from Baidu Netdisk](https://pan.baidu.com/s/1AXR1F2v-JKOhzTL1Du97kw?pwd=hvne)
+
+**Extraction Password: hvne**
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

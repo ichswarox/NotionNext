@@ -25,3 +25,8 @@ The Dragon Knight 3D model is fully rigged and textured for concept art projects
 | Download Source | Password |
 | --- | --- |
 | [Baidu Pan](https://pan.baidu.com/s/1wAmrbvpHcnGL2aLtPMqfYg?pwd=bh7b) | bh7b |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

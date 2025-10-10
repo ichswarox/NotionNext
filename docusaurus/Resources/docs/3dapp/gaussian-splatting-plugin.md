@@ -50,3 +50,8 @@ Click on the link to go to the download page. The extraction password is provide
 | **v1.6.5** | [Download](https://pan.baidu.com/s/1hJs11udoBT6GYhp15r8VwQ?pwd=wxqe) | `wxqe` |
 | **v1.5.0** | [Download](https://pan.baidu.com/s/1In_vm7hcH13ViNdNC72vlg?pwd=n8ri) | `n8ri` |
 | **v1.3.5** | [Download](https://pan.baidu.com/s/1rhhxzlrFX914CIgZ5Hkkdw?pwd=hryp) | `hryp` |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -124,16 +124,7 @@ When sharing your work, include relevant keywords such as:
 - Document creative techniques and workflows
 - Include technical specifications and usage tips
 
-<!-- The Last Part-Download -->
-## Download Information
-:::warning[Download]
-**Download V1.1.7: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1MBqwHgxnPKKCS8qqvsfb3A?pwd=j4qi)**
 
-Extraction code: j4qi
-
-**Download V1.1.6: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1p3ZFWk2AdrxnWfFm29lMLQ?pwd=5ahc)**
-
-Extraction code: 5ahc
 
 ### System Requirements
 - Blender 3.6 – 4.5
@@ -145,3 +136,19 @@ Extraction code: 5ahc
 ---
 
 *Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
+
+<!-- The Last Part-Download -->
+## Download Information
+:::warning[Download]
+**Download V1.1.7: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1MBqwHgxnPKKCS8qqvsfb3A?pwd=j4qi)**
+
+Extraction code: j4qi
+
+**Download V1.1.6: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1p3ZFWk2AdrxnWfFm29lMLQ?pwd=5ahc)**
+
+Extraction code: 5ahc
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

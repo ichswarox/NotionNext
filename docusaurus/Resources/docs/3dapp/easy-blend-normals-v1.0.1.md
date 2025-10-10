@@ -116,6 +116,18 @@ When sharing your work, include relevant keywords such as:
 - Document creative techniques and workflows
 - Include technical specifications and usage tips
 
+
+
+### System Requirements
+- Blender 4.5
+- Minimum 4GB RAM recommended
+- 50MB available disk space
+- Internet connection for initial download
+
+---
+
+*Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
+
 <!-- The Last Part-Download -->
 ## Download Information
 
@@ -127,12 +139,7 @@ Click on the link to go to the download page. The extraction password is provide
 | ------------------------ | ----------------------------------------------------------------------- | -------- |
 | **Easy Blend Normals**   | [Download](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)    | `w3es`   |
 
-### System Requirements
-- Blender 4.5
-- Minimum 4GB RAM recommended
-- 50MB available disk space
-- Internet connection for initial download
-
----
-
-*Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

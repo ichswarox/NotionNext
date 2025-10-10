@@ -48,3 +48,8 @@ The addon provides an **SDF-like** experience. It does not use Geometry Nodes bu
 
 #### Acknowledgements
 The development of SDFusion was greatly influenced by pioneering addons like **Boolean Quick Remesh (BQR)** and **Simply Concept**. SDFusion honors the concept of an intuitive boolean workflow they introduced while exploring a new approach that utilizes Blender's native collection system for a simpler, more organized user experience.
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

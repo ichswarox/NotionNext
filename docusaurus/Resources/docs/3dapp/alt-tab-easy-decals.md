@@ -34,12 +34,10 @@ Alt Tab, known for numerous high-quality add-ons, has released "Alt Tab Easy Dec
 > - Organized node groups
 > - Simple and organized UI
 
-## Download Links
-
-| Version | Download Link |
-| :---| :--- |
-| Content | [Premium Content](https://wa.me/8613237610083) |
-
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
 
 ## Links
 

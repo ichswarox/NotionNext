@@ -33,10 +33,8 @@ The V7 update brings significant improvements:
 - **Size**: 3.33GB.
 - **Tutorials**: Includes 14 video tutorials with Chinese subtitles.
 - 
-## Download Links
-
-| Version | Download Link |
-| :---| :--- |
-| Content | [Premium Content](https://wa.me/8613237610083) |
-
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
 

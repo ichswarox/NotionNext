@@ -55,9 +55,7 @@ In this training, Octane expert David Ariew gives you a super informative and ef
 </TabItem>
 </Tabs>
 
-## Download Links
-
-| Type | Download Link | Password |
-|------|---------------|----------|
-| Tutorial | [Direct Download Link](https://wa.me/8613237610083) | rjzr |
-
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

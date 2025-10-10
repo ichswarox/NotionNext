@@ -49,12 +49,9 @@ import TabItem from '@theme/TabItem';
 
 | Version | Platform | Size | Download Link |
 | :--- | :--- | :--- | :--- |
-| Coloso Maya Stylized Fight Animation Tutorial | Maya/Animbot | 18.9GB | [Download unavaliable](#) |
+| Coloso Maya Stylized Fight Animation Tutorial | Maya/Animbot | 18.9GB | [Premium Download](#) |
 
-:::caution Important Note
-There are many fake websites and Taobao stores claiming to be the official site. Please be cautious to avoid fraud.
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
-## Tags
-
-`Coloso`, `Maya`, `Maya tutorial`, `Chinese subtitles`, `fight animation`, `combat animation`, `character animation`, `3D animation`, `animation tutorial`

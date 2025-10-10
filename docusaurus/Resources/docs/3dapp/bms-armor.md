@@ -69,3 +69,8 @@ For direct purchase or if you encounter any download issues, please contact us v
 ## Conclusion
 
 The **BMS Military Armed Character Tank Hard Surface 3D Asset Models** package is an essential resource for any 3D artist or developer working on military-themed projects. With over 550 high-quality models and support for multiple popular 3D software formats, this comprehensive package provides everything needed to create realistic military environments and characters.
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

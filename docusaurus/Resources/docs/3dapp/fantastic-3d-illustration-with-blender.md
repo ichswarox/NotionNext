@@ -46,3 +46,8 @@ In this course, Brellias teaches you how to create a futuristic science fiction 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Fantastic 3D Illustr. with Blender | [Baidu Netdisk](https://pan.baidu.com/s/1g6UlwLYmcKpl9NTkVqLzCQ?pwd=c7rc) | c7rc |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

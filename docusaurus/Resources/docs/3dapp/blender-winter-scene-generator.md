@@ -27,3 +27,8 @@ Winterify Deluxe is your ultimate toolkit for effortlessly crafting winter scene
 | Source                                                              | Password |
 | ------------------------------------------------------------------- | -------- |
 | [Baidu Netdisk](https://pan.baidu.com/s/1Jy0iRl3JC1F6O3UkZ5KSZA?pwd=n3dw) | `n3dw`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

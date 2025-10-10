@@ -63,12 +63,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 
-## Download Links
-
-| Version | Platform | Size | Download Link |
-| :--- | :--- | :--- | :--- |
-| Eastman Kodak Black and White Film LUTs | Universal (CUBE) | Not specified | [Baidu NetDisk](https://pan.baidu.com/s/1VafgKIXkfKqlPWbCbCCrhg?pwd=ye69) (Extraction code: ye69) |
-
-:::caution Important Note
-There are many fake websites and Taobao stores claiming to be the official site. Please be cautious to avoid fraud.
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -44,26 +44,3 @@ Click on the link to go to the download page. The extraction password is provide
 | File | Download Link | Password |
 | ---- | ------------- | -------- |
 | **Houdini FX & Redshift On Demand** | [Download](https://pan.baidu.com/s/1K2iGSGoUySNeU-b5uvmzHg?pwd=gr1p) | `gr1p` |
-
-## Tags
-
-- Houdini
-- Fluid Simulation
-- Particle Effects
-- Explosion Tutorial
-- VFX
-- Redshift
-- Vertex School
-- 3D Animation
-- Visual Effects
-- Destruction
-- Vellum
-- Dust Simulation
-- Debris
-- Simulation
-- Houdini FX
-- Rendering
-- VFX Production
-- Houdini Tutorial
-- Special Effects
-- Computer Graphics
