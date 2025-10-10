@@ -57,12 +57,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Options
 
-:::warning[Download]
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1Y70Bq4lBcTQsCKj0Vx9mYA?pwd=2c22)
-**Extraction Password: 2c22**
-:::
 
 ## Why Choose Painterly Grass - Fields & Meadows Pack?
 
@@ -81,3 +76,15 @@ With pre-built scene files and organized asset libraries, you can quickly implem
 The **Painterly Grass - Fields & Meadows Pack** is an essential asset collection for Blender artists working on stylized projects. Its unique approach to 3D grass and field assets, combined with the distinctive oil painting aesthetic, makes it a valuable addition to any creative toolkit.
 
 Whether you're creating animated shorts, game environments, or artistic renders, this pack provides the professional assets needed to achieve stunning results that stand out from traditional photorealistic approaches. Bring the beauty of 2D painting into your 3D world with Painterly Grass.
+
+## Download Options
+
+:::warning[Download]
+[Download from Baidu Netdisk](https://pan.baidu.com/s/1Y70Bq4lBcTQsCKj0Vx9mYA?pwd=2c22)
+**Extraction Password: 2c22**
+:::
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -53,13 +53,7 @@ Click on the link to go to the download page. The extraction password is provide
 | ---------------------------- | -------------------------------------------------------------------------- | -------- |
 | **One-Click PBR Pro V0.8.1** | [Download](https://pan.baidu.com/s/1qwLLCvj4BoMHrKONv_wtsA?pwd=pi91)        | `pi91`   |
 
-## Tags
-
-- Blender PBR Mapping
-- One-Click PBR Pro
-- Texture Conversion
-- Real-Time Controls
-- Blender Plugin
-- 3D Texturing
-- 3D Materials
-- Blender Addon
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

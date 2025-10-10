@@ -46,14 +46,6 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Options
-
-:::warning[Download]
-| File                     | Download Link                                                       | Password |
-| ------------------------ | ------------------------------------------------------------------- | -------- |
-| **V4.0.7 Version**       | [Download](https://pan.baidu.com/s/1XUaUrJTd99ZkTtPeDmhjfQ?pwd=yrpr) | `yrpr`   |
-| **V0.4.0 Version**       | [Download](https://pan.baidu.com/s/1KKGJeW-lVKbO6CH8g4Xukg?pwd=8ckz) | `8ckz`   |
-:::
 
 ## Who Should Use Mesh Check GPU Edition?
 
@@ -67,3 +59,17 @@ This plugin is ideal for:
 ## Conclusion
 
 **Mesh Check GPU Edition V4.0.7** is an invaluable tool for maintaining high-quality mesh topology in Blender. Whether you're preparing models for rendering, 3D printing, or game development, this plugin helps ensure your geometry is clean and optimized. With support for multiple Blender versions and GPU acceleration, it's both versatile and efficient for professional 3D workflows.
+
+## Download Options
+
+:::warning[Download]
+| File                     | Download Link                                                       | Password |
+| ------------------------ | ------------------------------------------------------------------- | -------- |
+| **V4.0.7 Version**       | [Download](https://pan.baidu.com/s/1XUaUrJTd99ZkTtPeDmhjfQ?pwd=yrpr) | `yrpr`   |
+| **V0.4.0 Version**       | [Download](https://pan.baidu.com/s/1KKGJeW-lVKbO6CH8g4Xukg?pwd=8ckz) | `8ckz`   |
+:::
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

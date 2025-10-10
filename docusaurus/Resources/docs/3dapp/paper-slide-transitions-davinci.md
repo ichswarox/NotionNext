@@ -45,15 +45,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Paper Slide Transitions**  | [Download](https://pan.baidu.com/s/1Oa1vTwA2QvpDiEs4lh1JYg?pwd=5hbh)        | `5hbh`   |
 
-## Tags
-
-- DaVinci Resolve
-- Video Transitions
-- Paper Slide
-- Page Flip
-- Video Editing
-- Transition Presets
-- DaVinci Presets
-- Motion Graphics
-- Creative Transitions
-- Video Production
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

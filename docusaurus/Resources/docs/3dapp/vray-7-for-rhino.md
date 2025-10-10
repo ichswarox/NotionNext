@@ -81,6 +81,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V-Ray 7.10.01 Version**  | [Download V-Ray 7.10.01 Version](https://pan.baidu.com/s/1jSzmuXkysGrgr4FPxkLDSA?pwd=rdw1) | `rdw1`   |
 | **V-Ray 7.00.01 Version**  | [Download V-Ray 7.00.01 Version](https://pan.baidu.com/s/1z3Mi3t9RtwvO3uns8VGKYg?pwd=bqch) | `bqch`   |
 
+## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

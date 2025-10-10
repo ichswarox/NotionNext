@@ -37,3 +37,8 @@ This material is included in:
 
 **Extraction Code: pxz7**
 :::
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

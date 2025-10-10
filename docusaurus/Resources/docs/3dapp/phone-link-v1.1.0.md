@@ -127,13 +127,6 @@ When sharing your work, include relevant keywords such as:
 - Document creative techniques and workflows
 - Include technical specifications and usage tips
 
-## Download Information
-
-:::warning[Download]
-**Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/18GtQsW787yXFqbsFjPxMYQ?pwd=aqtr)**
-
-Extraction code: aqtr
-:::
 
 ### System Requirements
 
@@ -146,3 +139,15 @@ Extraction code: aqtr
 ---
 
 *Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
+## Download Information
+
+:::warning[Download]
+**Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/18GtQsW787yXFqbsFjPxMYQ?pwd=aqtr)**
+
+Extraction code: aqtr
+:::
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

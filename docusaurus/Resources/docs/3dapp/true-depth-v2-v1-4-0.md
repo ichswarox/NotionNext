@@ -57,6 +57,7 @@ True Depth is an AI-powered Blender plugin that converts any image directly into
 | V2 | [Baidu Netdisk Download](https://pan.baidu.com/s/1bpmJnn_5gH3nwwZ29itKKw?pwd=iak6) | iak6 |
 | V1.4.0 | [Baidu Netdisk Download](https://pan.baidu.com/s/1eZ4iRrz3QXpJhmFeJNXiSA?pwd=n9ij) | n9ij |
 
-### Tags
-
-`Blender` `Blender Plugin` `True Depth` `Image to Model`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

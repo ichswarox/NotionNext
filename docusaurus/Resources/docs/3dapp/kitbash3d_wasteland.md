@@ -33,9 +33,11 @@ This comprehensive 3D model collection features industrial wasteland ruins inclu
 - **Polygon Count**: 2.1 million faces
 - **File Size**: 34.1GB when extracted
 
-## Download
-[Chat For Details](https://wa.me/8613237610083)
-
 ## Conclusion
 
 The Kitbash3D Wasteland collection offers an extensive library of industrial ruin 3D models perfect for creating post-apocalyptic scenes, game environments, or cinematic visual effects. With support for multiple software platforms and high-quality PBR materials, these assets provide exceptional value for 3D artists and designers working on projects requiring detailed industrial environments.
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

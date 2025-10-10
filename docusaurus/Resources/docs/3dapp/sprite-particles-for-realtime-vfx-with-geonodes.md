@@ -59,20 +59,7 @@ Click the link to go to the download page. The extraction password is provided n
 | Sprite Particles V2.0 | [Download Link](https://pan.baidu.com/s/1kK7yXykQYCDW6kELSKS0dQ?pwd=5sm8) | `5sm8` |
 | Sprite Particles V1.2.1 | [Download Link](https://pan.baidu.com/s/1uNk2DGDMgaUSdJn5Fz5suw?pwd=p6yk) | `p6yk` |
 
-## Tags
-
-- Blender
-- Blender plugin
-- Sprite Particles
-- real-time particles
-- explosion effects
-- particle effects
-- geometry nodes
-- 3D effects
-- VFX assets
-- Blender effects
-- game effects
-- animation effects
-- smoke effects
-- fire effects
-- asset presets
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -49,6 +49,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Blender 4.3 Version**    | [Download](https://pan.baidu.com/s/1psz6DjD_Cvz0kqjNcYPnRw?pwd=ysge)        | `ysge`   |
 | **Blender 4.4 Version**    | [Download](https://pan.baidu.com/s/17shIBaGtex_zBFi2R52s_g?pwd=4nm9)        | `4nm9`   |
 
+## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -100,6 +100,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **UVPackmaster PRO v3.2.6** | [Download](https://pan.baidu.com/s/1p-cfOLjmuwQP09CzKqL3uw?pwd=fst9)      | `fst9`   |
 | **UVPackmaster PRO v3.2.2** | [Download](https://pan.baidu.com/s/1UlmEUyXpXPvP5VZ9T--3cw?pwd=jwhh)      | `jwhh`   |
 
+## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

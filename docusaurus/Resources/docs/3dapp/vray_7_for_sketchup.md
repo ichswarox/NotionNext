@@ -51,6 +51,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Download V7.10.02 Version** | [Download V7.10.02](https://pan.baidu.com/s/11SEuTE5297vC0v7DDsR9Gg?pwd=6ize) | `6ize`   |
 | **Download V7.10.01 Version** | [Download V7.10.01](https://pan.baidu.com/s/1V-528lop6-uJTyw9jrpFLA?pwd=firb) | `firb`   |
 
+## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -64,16 +64,6 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Options
-
-:::warning[Download]
-Choose from multiple versions of the Light Painter plugin:
-:::
-
-| File                     | Download Link                                                       | Password |
-| ------------------------ | ------------------------------------------------------------------- | -------- |
-| **V1.5.5 Version**       | [Download](https://pan.baidu.com/s/1P_-YW_bFSpX96YM70pbdlw?pwd=j3vn) | `j3vn`   |
-| **V1.4.1 Version**       | [Download](https://pan.baidu.com/s/1u6kFiWjXM-lsEiz_Qcv5YQ?pwd=nsaa) | `nsaa`   |
 
 ## Why Choose Light Painter V1.5.5?
 
@@ -102,3 +92,19 @@ This plugin dramatically reduces the time spent on lighting setup, allowing you 
 The **Light Painter V1.5.5** plugin is an essential tool for any Blender artist looking to enhance their lighting workflow. Its unique painting-based approach to light placement makes it intuitive for both beginners and experienced users.
 
 Whether you're creating architectural visualizations, product renders, character scenes, or VFX shots, this plugin provides the professional tools needed to achieve stunning lighting effects with significantly reduced setup time. Light Painter V1.5.5 represents a new approach to 3D lighting that prioritizes creativity over technical complexity.
+
+## Download Options
+
+:::warning[Download]
+Choose from multiple versions of the Light Painter plugin:
+:::
+
+| File                     | Download Link                                                       | Password |
+| ------------------------ | ------------------------------------------------------------------- | -------- |
+| **V1.5.5 Version**       | [Download](https://pan.baidu.com/s/1P_-YW_bFSpX96YM70pbdlw?pwd=j3vn) | `j3vn`   |
+| **V1.4.1 Version**       | [Download](https://pan.baidu.com/s/1u6kFiWjXM-lsEiz_Qcv5YQ?pwd=nsaa) | `nsaa`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

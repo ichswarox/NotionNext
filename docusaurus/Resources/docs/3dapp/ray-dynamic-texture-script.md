@@ -29,18 +29,7 @@ This script conveniently stores textures along with their layer settings, includ
 -   **Permissions:** For the script to function correctly, you must enable the "Allow Scripts to Write Files and Access Network" option in your After Effects preferences (`Edit > Preferences > General` on Windows or `After Effects > Settings > General` on macOS).
 -   **Language:** It is highly recommended to use the English version of After Effects to avoid potential expression errors.
 
-<!-- The Last Part-Download -->
-## Download Options
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Ray Dynamic Texture v1.5.8** | [Download](https://pan.baidu.com/s/1EQh1k0Z4Z94Zv5I6Y6daug?pwd=igbn) | `igbn`   |
-| **Ray Dynamic Texture v1.5.6** | [Download](https://pan.baidu.com/s/1W8WpIwHESciKRuEhRwwS2g) | `tqx3`   |
-| **Ray Dynamic Texture Tutorial** | [Download](http://pan.baidu.com/s/1gff2oev) |  |
 
 ## The Solution for Tedious Texture Work in After Effects
 
@@ -54,3 +43,21 @@ Ray Dynamic Texture solves the common problem of repetitive texturing tasks in A
 4. **Flexibility**: Easily customize and modify stored presets for different projects
 
 Whether you're a motion graphics designer, VFX artist, or animator, Ray Dynamic Texture can significantly enhance your productivity in After Effects.
+
+<!-- The Last Part-Download -->
+## Download Options
+
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Ray Dynamic Texture v1.5.8** | [Download](https://pan.baidu.com/s/1EQh1k0Z4Z94Zv5I6Y6daug?pwd=igbn) | `igbn`   |
+| **Ray Dynamic Texture v1.5.6** | [Download](https://pan.baidu.com/s/1W8WpIwHESciKRuEhRwwS2g) | `tqx3`   |
+| **Ray Dynamic Texture Tutorial** | [Download](http://pan.baidu.com/s/1gff2oev) |  |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

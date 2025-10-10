@@ -44,16 +44,7 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Instagram UI Elements Pack**  | [Download](https://pan.baidu.com/s/1NGxatWaeEXe7ugW9-xiMqg?pwd=qa4f)        | `qa4f`   |
-
-## Tags
-
-- After Effects
-- Instagram
-- UI Elements
-- Social Media
-- Animation
-- AE Template
-- Video Editing
-- Instagram Stories
-- Motion Graphics
-- Social Media Marketing
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

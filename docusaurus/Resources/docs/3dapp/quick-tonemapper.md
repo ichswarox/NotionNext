@@ -44,18 +44,6 @@ If the script isn't working:
 - In Preferences > General panel, check "Allow Scripts to Write Files and Access Network"
 - Verify script compatibility with your AE version (rarely an issue)
 
-<!-- The Last Part-Download -->
-## Download Options
-
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Quick ToneMapper V1.1 Win** | [Download](https://pan.baidu.com/s/1Eg1XcmTbWkBrweL1OH6FOQ?pwd=5fru) | `5fru`   |
-| **Quick ToneMapper V1.0 Win** | [Download](https://pan.baidu.com/s/16LHwbvfxye6r5_uQlQB8UQ?pwd=ncqo) | `ncqo`   |
-| **Quick ToneMapper V1.0 Mac** | [Download](https://pan.baidu.com/s/1-BNOYq9m1OSCyqnSqqTKQA?pwd=ucfh) | `ucfh`   |
 
 ## Who Should Use Quick ToneMapper?
 
@@ -69,3 +57,21 @@ This plugin is ideal for:
 ## Conclusion
 
 **Quick ToneMapper V1.1** is an invaluable tool for After Effects users who work with 3D renders and need flexible tone mapping options in post-production. By eliminating the need to bake tone mapping during rendering, this script saves valuable time and provides unparalleled creative flexibility. With support for multiple AE versions and both Windows and Mac platforms, it's a versatile addition to any VFX artist's toolkit.
+
+<!-- The Last Part-Download -->
+## Download Options
+
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Quick ToneMapper V1.1 Win** | [Download](https://pan.baidu.com/s/1Eg1XcmTbWkBrweL1OH6FOQ?pwd=5fru) | `5fru`   |
+| **Quick ToneMapper V1.0 Win** | [Download](https://pan.baidu.com/s/16LHwbvfxye6r5_uQlQB8UQ?pwd=ncqo) | `ncqo`   |
+| **Quick ToneMapper V1.0 Mac** | [Download](https://pan.baidu.com/s/1-BNOYq9m1OSCyqnSqqTKQA?pwd=ucfh) | `ucfh`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

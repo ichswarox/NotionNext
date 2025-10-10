@@ -63,31 +63,11 @@ import TabItem from '@theme/TabItem';
 
 ## Download Links
 
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | File Version | Download Link | Password |
 |---------------|----------|
 | SynthEyes Pro 2025.5-b3399 | [Download Link](https://pan.baidu.com/s/1oZ06zWHsXNRkXOM7f-gGPA?pwd=cx6c) | `cx6c` |
 
-## Tags
-
-- SynthEyes
-- SynthEyes 2025
-- SynthEyes Pro 2025
-- SynthEyes crack
-- video tracking
-- camera matchmoving
-- motion capture
-- compositing software
-- VFX software
-- tracking software
-- 3D tracking
-- video processing
-- virtual sets
-- stereo production
-- VR production
-- accident reconstruction
-- product placement
-- face capture
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

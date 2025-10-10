@@ -76,12 +76,7 @@ This course teaches how to use 3DEqualizer for camera video tracking, color matc
 | Language | English audio with AI-accurate Chinese/English subtitles |
 | Size | 44GB |
 
-## Download Links
-
-| Platform | Link | Price |
-|----------|------|-------|
-| Official Website | [https://www.gfxcamp.com/fxphd-vfx308/](https://www.gfxcamp.com/fxphd-vfx308/) | $20 |
-
-## Tags
-
-3DEqualizer, FXPHD, Maya tutorial, Nuke, Nuke tutorial, vfx308, Compositing tutorial, Scene compositing, Camera tracking, Video tracking
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -51,25 +51,7 @@ Note: This is the official multilingual version that automatically detects your 
 
 **Extraction Password: 4qmb**
 
-## Tags
-
-- Red Giant
-- Universe
-- After Effects
-- Premiere Pro
-- DaVinci Resolve
-- Visual Effects
-- Video Plugins
-- Motion Graphics
-- Transitions
-- Video Editing
-- Plugin Suite
-- Special Effects
-- Post Production
-- Creative Tools
-- Pixel Art
-- Retro Effects
-- Modern Design
-- Video Transitions
-- Text Effects
-- Professional Software
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

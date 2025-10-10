@@ -56,25 +56,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Tags
-
-- AE Plugin
-- AVX Plugin
-- Mocha
-- Mocha 2025
-- Mocha Plugin
-- Mocha Crack Version
-- OFX Plugin
-- DaVinci Plugin
-- Video Tracking
-- Camera Tracking
-- Motion Tracking
-- Video Effects
-- Planar Tracking
-- 3D Tracking
-- Object Removal
-- Image Stabilization
-- Rotoscoping
-- PowerMesh
-- Video Processing
-- Post Production
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

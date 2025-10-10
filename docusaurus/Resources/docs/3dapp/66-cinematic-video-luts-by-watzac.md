@@ -58,6 +58,7 @@ Contains 66 video color grading presets in CUBE format, supporting major camera 
 
 ## Download Links
 
-| Platform | Link |
-|----------|------|
-| Baidu Netdisk | [Premium Content](https://wa.me/8613237610083)|
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

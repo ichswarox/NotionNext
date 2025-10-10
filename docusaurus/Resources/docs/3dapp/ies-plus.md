@@ -57,20 +57,7 @@ Click the link to go to the download page. The extraction password is provided n
 |--------------|---------------|----------|
 | IES Plus V1.3 | [Download Link](https://pan.baidu.com/s/1BBGUNKX3U-9qBNnLkenPbw?pwd=u2j8) | `u2j8` |
 
-## Tags
-
-- Blender
-- Blender plugin
-- IES
-- IES Plus
-- lighting plugin
-- procedural lighting
-- 3D lighting
-- Blender lighting
-- light control
-- shaders
-- procedural shaders
-- light presets
-- asset library
-- lighting design
-- rendering tools
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

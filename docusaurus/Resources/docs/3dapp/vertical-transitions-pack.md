@@ -39,6 +39,7 @@ Includes a total of 400 vertical video transitions, featuring effects like film 
 *   **Music:** Background music is not included.
 
 ## Download Links
+## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

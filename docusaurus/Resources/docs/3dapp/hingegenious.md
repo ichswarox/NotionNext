@@ -33,6 +33,7 @@ Hingegenious is a powerful digital tool that lets you generate fully parametric 
 Download Hingegenious:
 [Download Hingegenious](https://pan.baidu.com/s/1fmGoc18iHoNTvXv_zi24Bg?pwd=hq9e) (Password: hq9e)
 :::
+## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

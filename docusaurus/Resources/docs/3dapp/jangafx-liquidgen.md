@@ -41,26 +41,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **v1.0.0 (Cracked Version)** | [Download](https://pan.baidu.com/s/1LiHBgls6ggaI8ZvQDGKlmQ?pwd=fpqe) | `fpqe` |
 | **v1.0.0 (Direct Use)** | [Download](https://pan.baidu.com/s/1OOxP6Ot6TlaC8YMHfaksMw?pwd=wu4q) | `wu4q` |
 | **v0.3.0** | [Download](https://pan.baidu.com/s/1QuHzGz0-RZj77Ddpusl03Q?pwd=b7hg) | `b7hg` |
-
-## Tags
-
-- JangaFX
-- LiquidGen
-- Liquid Simulation
-- Fluid Simulation
-- 3D Software
-- Real-time Rendering
-- VFX
-- CGI
-- Water Simulation
-- Particle Effects
-- Windows Software
-- Simulation Tools
-- 3D Animation
-- Visual Effects
-- Special Effects
-- Fluid Dynamics
-- Real-time Path Tracing
-- Mesh Generation
-- Physics Simulation
-- Digital Art
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

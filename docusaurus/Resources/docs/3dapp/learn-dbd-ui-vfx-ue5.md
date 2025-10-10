@@ -41,3 +41,8 @@ The course will be conducted using Unreal Engine 5, but the concepts covered are
 This is a rare opportunity to learn specialized knowledge about UI materials. If you are a UI artist, this is a must-see course!
 
 **[➡️ Register for the Course on CGWORLD ONLINE ACADEMY](https://academy.cgworld.jp/contents/1888)**
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

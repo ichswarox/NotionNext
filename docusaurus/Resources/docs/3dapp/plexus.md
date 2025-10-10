@@ -41,19 +41,7 @@ Plexus is a next-gen particle engine for After Effects that lets you create, man
 
 - After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC2019, CC2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC, CS6
 
-## Downloads
 
-:::warning[Download]
-Click on the links to go to the download pages. The extraction passwords are provided next to each link.
-:::
-
-| File | Download Link | Password |
-| ---- | ------------- | -------- |
-| **Plexus V3.2.10 Win** | [Download](https://pan.baidu.com/s/1Rf8ucWGBbS1ka108X3k6kQ?pwd=i8hc) | `i8hc` |
-| **Plexus V3.2.7 Win** | [Download](https://pan.baidu.com/s/1b90US5h9qdIUC0hzX5n7xg?pwd=hv1p) | `hv1p` |
-| **Plexus V3.2.6 Win** | [Download](https://pan.baidu.com/s/11X9KCJYLiyoa7IAGRbVUTw?pwd=qcn1) | `qcn1` |
-| **Plexus V3.2.6 Mac** | [Download](https://pan.baidu.com/s/15m43xu-q_eD-cBhZ6XMbeQ?pwd=bogu) | `bogu` |
-| **Tutorial** | [Download](http://pan.baidu.com/s/1mhUTyZY) | - |
 
 ## Installation Notes
 
@@ -78,26 +66,21 @@ Click on the links to go to the download pages. The extraction passwords are pro
     </ul>
   </TabItem>
 </Tabs>
+## Downloads
 
-## Tags
+:::warning[Download]
+Click on the links to go to the download pages. The extraction passwords are provided next to each link.
+:::
 
-- aescripts
-- Plexus
-- After Effects
-- Particle Plugin
-- 3D Particles
-- Visual Effects
-- Motion Graphics
-- AE Plugin
-- Plexus 3
-- Particle Engine
-- 3D Animation
-- Data Visualization
-- Procedural Animation
-- VFX
-- Motion Design
-- Creative Coding
-- Particle Systems
-- 3D Modeling
-- Simulation
-- After Effects Plugins
+| File | Download Link | Password |
+| ---- | ------------- | -------- |
+| **Plexus V3.2.10 Win** | [Download](https://pan.baidu.com/s/1Rf8ucWGBbS1ka108X3k6kQ?pwd=i8hc) | `i8hc` |
+| **Plexus V3.2.7 Win** | [Download](https://pan.baidu.com/s/1b90US5h9qdIUC0hzX5n7xg?pwd=hv1p) | `hv1p` |
+| **Plexus V3.2.6 Win** | [Download](https://pan.baidu.com/s/11X9KCJYLiyoa7IAGRbVUTw?pwd=qcn1) | `qcn1` |
+| **Plexus V3.2.6 Mac** | [Download](https://pan.baidu.com/s/15m43xu-q_eD-cBhZ6XMbeQ?pwd=bogu) | `bogu` |
+| **Tutorial** | [Download](http://pan.baidu.com/s/1mhUTyZY) | - |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

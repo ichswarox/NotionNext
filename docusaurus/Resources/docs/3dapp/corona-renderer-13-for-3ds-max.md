@@ -47,16 +47,6 @@ Corona Renderer is a cutting-edge rendering solution integrated into 3ds Max tha
    - C:\Program Files\Chaos\Corona\Corona Renderer for 3ds Max\Standalone
    - C:\Program Files\Chaos\Corona\Corona Renderer for 3ds Max\Image Editor
 
-<!-- The Last Part-Download -->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Corona Renderer 13 Hotfix 1 Version**  | [Download](https://pan.baidu.com/s/1Lzw10wW53-l7B--oaZqljQ?pwd=uas2)        | `uas2`   |
-| **Corona Renderer 13 Version**  | [Download](https://pan.baidu.com/s/1OyoQrrlBhakij6Vw8zqq1g?pwd=6p6x)        | `6p6x`   |
 
 ## About Corona Renderer 13
 
@@ -80,14 +70,15 @@ Users have reported that the installation process is straightforward when follow
 
 The AI enhancement features and Vantage integration have been points of interest for users, with some reporting successful usage after proper installation.
 
-## Tags
+<!-- The Last Part-Download -->
+## Download Links
 
-- 3ds Max
-- 3ds Max Plugin
-- 3ds Max Renderer
-- Corona Renderer
-- Rendering Software
-- Photorealistic Rendering
-- 3D Rendering
-- VFX
-- Architecture Visualization
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Corona Renderer 13 Hotfix 1 Version**  | [Download](https://pan.baidu.com/s/1Lzw10wW53-l7B--oaZqljQ?pwd=uas2)        | `uas2`   |
+| **Corona Renderer 13 Version**  | [Download](https://pan.baidu.com/s/1OyoQrrlBhakij6Vw8zqq1g?pwd=6p6x)        | `6p6x`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

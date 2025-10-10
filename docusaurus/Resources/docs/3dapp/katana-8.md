@@ -1,6 +1,6 @@
 ---
 title: "The Foundry Katana 8.0v4 - Professional Lighting and Look Development Software"
-description: "The Foundry Katana 8.0v4 is a professional lighting and look development software for visual effects and animation. This破解版 (cracked version) includes full functionality for Windows."
+description: "The Foundry Katana 8.0v4 is a professional lighting and look development software for visual effects and animation. This cracked version includes full functionality for Windows."
 tags: ["Katana", "The Foundry", "lighting software", "look development", "VFX", "3D rendering", "visual effects", "animation software"]
 slug: /katana-8
 ---
@@ -62,15 +62,7 @@ KATANA is a look development and lighting tool that replaces traditional CG work
    - Default license port is 5053, so it would be 5053@127.0.0.1
    - If you specified a particular port, enter: specified_port@127.0.0.1
 
-## Download Options
-:::warning[Download]
-[Download Katana 8.0V4](https://pan.baidu.com/s/1QpYJX1-uM-dhppXSvQ9oUQ?pwd=8tpb)
 
-**Password**: 8tpb
-
-[Download Katana 8.0V3](https://pan.baidu.com/s/1HMkkFLjgnMpY8YUUGI4hWQ?pwd=2k9w)
-
-**Password**: 2k9w
 :::
 
 ## Why Choose The Foundry Katana 8.0v4?
@@ -90,3 +82,18 @@ By automating repetitive lighting tasks and providing powerful optimization feat
 The Foundry Katana 8.0v4 is an essential tool for VFX artists and lighting professionals working on complex visual effects projects. Its powerful node-based architecture, extensive API integration, and artist-focused features make it the preferred choice for major studios worldwide.
 
 Whether you're working on photorealistic environments, complex character lighting, or large-scale destruction sequences, Katana provides the professional tools needed to achieve exceptional results with significantly reduced manual effort.
+
+## Download Options
+:::warning[Download]
+[Download Katana 8.0V4](https://pan.baidu.com/s/1QpYJX1-uM-dhppXSvQ9oUQ?pwd=8tpb)
+
+**Password**: 8tpb
+
+[Download Katana 8.0V3](https://pan.baidu.com/s/1HMkkFLjgnMpY8YUUGI4hWQ?pwd=2k9w)
+
+**Password**: 2k9w
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

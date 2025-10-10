@@ -111,23 +111,7 @@ Click the link to go to the download page. The extraction password is provided n
 | Windows | V12.4.0 | [Download Link](https://pan.baidu.com/s/1GPWWRjMIRX_EbOLg2UL0Sw?pwd=5679) | `5679` |
 | Mac | V12.4.0 | [Download Link](https://pan.baidu.com/s/1SSf6cLnYvLLJef5whcim1A?pwd=iisd) | `iisd` |
 
-## Tags
-
-- Substance
-- Substance 3D Designer
-- Substance Designer
-- material creation
-- 3D texturing
-- procedural materials
-- 3D software
-- Substance crack
-- Substance Chinese version
-- Substance English version
-- node editing
-- parametric design
-- game development
-- visual effects
-- product design
-- texture creation
-- Substance suite
-- 3D modeling
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

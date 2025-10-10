@@ -14,16 +14,7 @@ slug: /shape-animation-tweaks
 <!--Second Part-This is First Banner -->
 ![Aescripts Tweaks for After Effects](/img/aescripts-tweaks.jpg)
 
-<!-- The Download Part-->
-## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
 
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Tweaks v1.2.8**          | [Download](https://pan.baidu.com/s/1PKeyjKnT3lwBif60lg33Tw?pwd=rw2b)        | `rw2b`   |
-| **Tweaks v1.0.83**         | [Download](https://pan.baidu.com/s/197m0ZBJeiYeaoPW5sEARLw?pwd=jz1g)        | `jz1g`   |
 
 ## A New Way to Animate Shape Layers and Paths
 
@@ -50,26 +41,19 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-<!-- Generate new SEO-optimized tags based on content for this part,Ensure tags align with Google's E-E-A-T principles  -->
-## Tags
 
-- After Effects
-- Shape Animation
-- Path Animation
-- Tweaks
-- Motion Graphics
-- Animation Script
-- After Effects Plugin
-- Creative Animation
-- Layer Animation
-- Expression Animation
-- Design Tools
-- Animation Workflow
-- Visual Effects
-- Graphic Design
-- Animation Software
-- Adobe After Effects
-- ScriptUI Panels
-- Animation Techniques
-- Digital Animation
-- Creative Workflow
+<!-- The Download Part-->
+## Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Tweaks v1.2.8**          | [Download](https://pan.baidu.com/s/1PKeyjKnT3lwBif60lg33Tw?pwd=rw2b)        | `rw2b`   |
+| **Tweaks v1.0.83**         | [Download](https://pan.baidu.com/s/197m0ZBJeiYeaoPW5sEARLw?pwd=jz1g)        | `jz1g`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

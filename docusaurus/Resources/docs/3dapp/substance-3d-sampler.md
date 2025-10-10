@@ -99,22 +99,8 @@ Click the link to go to the download page. The extraction password is provided n
 | Windows | V3.4.1 | [Download Link](https://pan.baidu.com/s/1Kc58TfL-lNJcJgC1Kau5lQ?pwd=g81i) | `g81i` |
 | Mac | V3.3.1 | [Download Link](https://pan.baidu.com/s/1YM13xHptLV8B_VyRh3aaUA?pwd=sj4l) | `sj4l` |
 
-## Tags
 
-- Substance
-- Substance 3D Sampler
-- Substance Sampler
-- Substance Sampler Chinese version
-- Substance Sampler crack
-- Substance Sampler English version
-- material textures
-- 3D software
-- Substance tools
-- texture creation
-- 3D materials
-- Substance suite
-- digital textures
-- photo to material
-- Substance workflow
-- 3D texturing
-- Substance tutorials
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

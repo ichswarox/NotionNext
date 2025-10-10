@@ -30,3 +30,8 @@ This addon could be a great help when creating low-poly assets.
 You can download the Pixel Dot Drawer addon from Kushiro's Gumroad page:
 
 [**Pixel Dot Drawer (blender addon) on Gumroad**](https://kushiro.gumroad.com/l/pixel_dot_drawer?a=351642995)
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

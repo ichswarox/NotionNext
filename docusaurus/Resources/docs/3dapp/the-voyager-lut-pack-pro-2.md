@@ -72,6 +72,7 @@ The Voyager LUTs create beautiful studio-quality creative looks to help you grad
 | Multiple | Universal | N/A | [Baidu Netdisk Download](https://pan.baidu.com/s/1prMCrU1lnesIEA0tSsMU5Q?pwd=hvki) |
 | Multiple | Universal | N/A | Password: hvki |
 
-## Tags
-
-#color-grading #luts #davinci-resolve #video-editing #color-correction #cinematic-luts #post-production #video-color-presets #ae-color-grading #fcpx-color-grading #pr-color-grading #the-voyager-lut #video-color-grading #color-preset
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

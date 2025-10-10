@@ -30,17 +30,6 @@ Super 3D is a powerful extension for After Effects (version 24.1 and newer) that
 
 - After Effects 2025, 2024
 
-## Downloads
-
-:::warning[Download]
-Click on the links to go to the download pages. The extraction passwords are provided next to each link.
-:::
-
-| File | Download Link | Password |
-| ---- | ------------- | -------- |
-| **Super 3D V1.4.4** | [Download](https://pan.baidu.com/s/1u2_iXDnvZi7GrOUDRMqisg?pwd=vfix) | `vfix` |
-| **Super 3D V1.4.3** | [Download](https://pan.baidu.com/s/1mZGE0kNUjAP6NOqLJjOqkw?pwd=j9tx) | `j9tx` |
-| **Super 3D V1.3.2** | [Download](https://pan.baidu.com/s/1GRIvVOMXxauAJ-MT_b1zLQ?pwd=ynka) | `ynka` |
 
 ## Installation Instructions
 
@@ -52,25 +41,15 @@ Click on the links to go to the download pages. The extraction passwords are pro
   </TabItem>
 </Tabs>
 
-## Tags
+## Downloads
 
-- aescripts
-- After Effects
-- 3D Script
-- Super 3D
-- 3D Modeling
-- AE Plugin
-- GLB
-- GLTF
-- Animation
-- 3D Objects
-- Texture Control
-- Parametric Primitives
-- Layer Conversion
-- Visual Effects
-- Motion Graphics
-- AE Extension
-- 3D Workflow
-- After Effects Scripts
-- Creative Tools
-- Design Software
+| File | Download Link | Password |
+| ---- | ------------- | -------- |
+| **Super 3D V1.4.4** | [Download](https://pan.baidu.com/s/1u2_iXDnvZi7GrOUDRMqisg?pwd=vfix) | `vfix` |
+| **Super 3D V1.4.3** | [Download](https://pan.baidu.com/s/1mZGE0kNUjAP6NOqLJjOqkw?pwd=j9tx) | `j9tx` |
+| **Super 3D V1.3.2** | [Download](https://pan.baidu.com/s/1GRIvVOMXxauAJ-MT_b1zLQ?pwd=ynka) | `ynka` |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

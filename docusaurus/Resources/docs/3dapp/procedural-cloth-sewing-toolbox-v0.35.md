@@ -107,16 +107,6 @@ When sharing your work, include relevant keywords such as:
 - Document problem-solving techniques
 - Include technical specifications and workflow tips
 
-<!-- The Last Part-Download -->
-## Download Procedural Cloth Sewing Toolbox V0.35
-
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Procedural Cloth Sewing Toolbox V0.35** | [Download](https://pan.baidu.com/s/1TXYXYtg7RWCESOlL1LHJIA?pwd=heci) | `heci`   |
 
 ### Installation Requirements
 - Blender 4.2 or 4.3
@@ -130,3 +120,19 @@ For installation issues or usage questions, refer to the included documentation 
 ---
 
 *Note: This addon is a third-party tool and is not affiliated with the Blender Foundation. "Blender" is a registered trademark of the Blender Foundation.*
+
+<!-- The Last Part-Download -->
+## Download Procedural Cloth Sewing Toolbox V0.35
+
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File                       | Download Link                                                              | Password |
+| -------------------------- | -------------------------------------------------------------------------- | -------- |
+| **Procedural Cloth Sewing Toolbox V0.35** | [Download](https://pan.baidu.com/s/1TXYXYtg7RWCESOlL1LHJIA?pwd=heci) | `heci`   |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

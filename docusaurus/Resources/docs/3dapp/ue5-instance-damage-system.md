@@ -46,8 +46,7 @@ The Instance Damage System is the perfect solution for interacting with instance
     *   **Destruction Minigame**: Destroy randomly selected meshes.
     *   **Wanted Level Example**: Increase a "wanted" level based on the amount of destruction.
 
-:::tip[Pricing]
-The **Instance Damage System** is available on Fab for **$54.99** (Personal) and **$74.99** (Pro).
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
-**[➡️ Get the Instance Damage System on Fab](https://www.fab.com/ja/listings/c41d17ed-67a2-4642-ad9d-0d084662a026)**

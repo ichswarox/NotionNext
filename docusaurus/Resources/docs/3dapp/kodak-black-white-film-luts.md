@@ -69,8 +69,8 @@ Films which yield beautiful, classic images and have their origins at the very h
 | Platform | Link |
 |----------|------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1VafgKIXkfKqlPWbCbCCrhg?pwd=ye69) |
-| Direct Download | [Direct Download Link](https://wa.me/8613237610083) |
 
-## Tags
-
-`Kodak`, `LUTs`, `Color Grading`, `Video`, `Film Emulation`, `Black and White`, `DaVinci Resolve`, `Premiere`, `After Effects`, `FCPX`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -47,12 +47,7 @@ These sound effects are ideal for enhancing various gaming experiences:
 - Horror games requiring atmospheric audio
 - Zombie-themed games and survival horror
 
-## Download Japanese Epic Orchestral Game Sound Effects
-:::warning[Download]
-[Download Japanese Epic Orchestral Game Sound Effects - Baidu Netdisk](http://pan.baidu.com/s/1bokQTLd)·
-:::
 
-For the full version or if you encounter any download issues, please contact us via WhatsApp at +86 13237610083
 
 ## System Requirements
 
@@ -68,3 +63,12 @@ Our professionally curated sound effect collections provide game developers and 
 Whether you're developing an indie game or working on a major studio production, these high-quality sound effects will elevate your project's audio experience and help create a more compelling gaming environment.
 
 For technical support or additional licensing questions, please contact our support team.
+
+## Download Japanese Epic Orchestral Game Sound Effects
+:::warning[Download]
+[Download Japanese Epic Orchestral Game Sound Effects - Baidu Netdisk](http://pan.baidu.com/s/1bokQTLd)·
+:::
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

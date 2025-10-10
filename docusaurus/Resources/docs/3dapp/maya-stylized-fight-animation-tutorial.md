@@ -64,13 +64,7 @@ This comprehensive tutorial teaches you how to plan, animate, and polish high-im
 </TabItem>
 </Tabs>
 
-## Download Links
-
-| Version | Size | Direct Download |
-|---------|------|-----------------|
-| Complete Tutorial | 18.9GB | [Direct Download Link](https://wa.me/8613237610083) |
-| Project Files | - | [Direct Download Link](https://wa.me/8613237610083) |
-
-## Tags
-
-`#Maya` `#Animation` `#FightAnimation` `#Tutorial` `#ChineseSubtitles` `#3DAnimation` `#StylizedAnimation`
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

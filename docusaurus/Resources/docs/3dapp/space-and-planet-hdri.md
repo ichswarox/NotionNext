@@ -67,34 +67,12 @@ The Space and Planet HDRI collection works with all major 3D software packages:
 - **License**: Commercial use permitted
 
 ## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Space and Planet HDRI**  | [Download from Baidu Netdisk](https://pan.baidu.com/s/1WSBq9q_E0jSqvVTbcWp9jA?pwd=m79x) | `m79x`   |
 
-<!-- Generate new SEO-optimized tags based on content for this part,Ensure tags align with Google's E-E-A-T principles  -->
-## Tags
-
-- Space HDRI
-- Planet Environment Textures
-- 3D Space Backgrounds
-- Cosmic HDRI Materials
-- 16K Resolution Textures
-- EXR Environment Maps
-- Professional HDRI Collection
-- VFX Space Assets
-- 3D Rendering Materials
-- Realistic Space Lighting
-- Blender HDRI Textures
-- Maya Environment Maps
-- 3ds Max HDRI
-- Cinema 4D Space Assets
-- Game Development Textures
-- 3D Textures
-- Environment Mapping
-- VFX Resources
-- Digital Assets
-- Creative Tools
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

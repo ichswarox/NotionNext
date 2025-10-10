@@ -37,25 +37,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **v1.0.2** | [Download](https://pan.baidu.com/s/1Njk3GgFnUhIscQgnej7DAw?pwd=wz54) | `wz54` |
 | **v1.0.0** | [Download](https://pan.baidu.com/s/1egBffqnhXNop4xjBwV9vCw?pwd=6a9u) | `6a9u` |
 
-## Tags
-
-- JangaFX
-- Illugen
-- VFX
-- Real-time Effects
-- 3D Software
-- Visual Effects
-- Game Development
-- Asset Generation
-- Tech Art
-- Special Effects
-- Windows Software
-- VFX Tools
-- 3D Animation
-- Digital Art
-- Visual Effects Software
-- Game Assets
-- Real-time Rendering
-- Particle Effects
-- Shader Development
-- Procedural Generation
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

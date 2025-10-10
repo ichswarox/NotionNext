@@ -46,5 +46,7 @@ This product contains a GeoNode Setup with 15+ modular assets and 10+ GeoNode Mo
 |--------|---------------|----------|
 | Organic Generator V1.0 | [Baidu Netdisk](https://pan.baidu.com/s/1Ci5ZZr5UDxaDv7OFP4SDsA?pwd=k9pw) | k9pw |
 
-
-_Last updated: Sep 23 2025_
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

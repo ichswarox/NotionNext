@@ -56,18 +56,7 @@ import TabItem from '@theme/TabItem';
 
 <iframe loading="lazy" src="https://player.youku.com/embed/XNTg3NDk5MzM4OA==" width="100%" height="360" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 
-### Download Options
 
-<Tabs>
-<TabItem value="baidu" label="Baidu Cloud">
-
-| Resource | Link | Password |
-|----------|------|----------|
-| Rantools V3.3.10 | [Download](https://pan.baidu.com/s/1UHc01a-m21t4WTIAOuessA?pwd=5jem) | 5jem |
-| Rantools V3.3.5 | [Download](https://pan.baidu.com/s/11uhc6OFr1udyvZTQU6Eahg?pwd=vkg7) | vkg7 |
-
-</TabItem>
-</Tabs>
 
 ### Technical Specifications
 
@@ -82,3 +71,20 @@ import TabItem from '@theme/TabItem';
 ### SEO Tags
 
 #Blender #hard-surface #modeling-addon #rendering-tools #boolean-operations #texture-baking #3D-art #Blender-addon
+### Download Options
+
+<Tabs>
+<TabItem value="baidu" label="Baidu Cloud">
+
+| Resource | Link | Password |
+|----------|------|----------|
+| Rantools V3.3.10 | [Download](https://pan.baidu.com/s/1UHc01a-m21t4WTIAOuessA?pwd=5jem) | 5jem |
+| Rantools V3.3.5 | [Download](https://pan.baidu.com/s/11uhc6OFr1udyvZTQU6Eahg?pwd=vkg7) | vkg7 |
+
+</TabItem>
+</Tabs>
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

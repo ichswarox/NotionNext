@@ -32,10 +32,7 @@ This is an intermediate-to-advanced level course that dives deep into a professi
 -   **File Size:** 40.7 GB
 
 ## Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Course Files**  | [Paid Resource Download Link](https://wa.me/8613237610083)        | `N/A`   |

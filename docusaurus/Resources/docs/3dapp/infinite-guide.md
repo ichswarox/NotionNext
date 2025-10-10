@@ -34,25 +34,7 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Infinite Guide V1.0.5** | [Download](https://pan.baidu.com/s/1hng_VamQrFccrq6-AFRYCQ?pwd=7fnt) | `7fnt` |
 
-## Tags
-
-- Infinite Guide
-- Photoshop
-- PS Plugin
-- Retouching Plugin
-- Photo Editing
-- Photoshop Tutorial
-- Photoshop Tools
-- Digital Art
-- Image Editing
-- Creative Software
-- Graphic Design
-- Photo Retouching
-- Photoshop Workflow
-- Editing Tools
-- Creative Workflow
-- Digital Imaging
-- Photo Enhancement
-- Image Processing
-- Visual Effects
-- Design Software
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

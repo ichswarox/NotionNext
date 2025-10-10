@@ -49,22 +49,7 @@ A LUT preset simulating Kodak 2383 model film texture in CUBE format, compatible
 - Apply the Lumetri Color effect to your clip
 - Select the LUT from the Creative tab
 
-## Download Links
-
-| Platform | Link |
-|----------|------|
-| Baidu Netdisk | Available in original content |
-
-## Tags
-
-- Kodak
-- 2383
-- Colorist Factory
-- LUTs
-- AE Color Grading
-- FCPX Color Grading
-- Pr Color Grading
-- CapCut
-- Film Color Grading
-- Video Color Grading
-- DaVinci Resolve Color Grading
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -33,16 +33,6 @@ Sort your project media in Premiere Pro and After Effects! This script allows yo
 ### Premiere Pro
 - 2025, 2024, 2023, 2022, 2021
 
-## Download
-
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
-| File | Download Link | Password |
-| ---- | ------------- | -------- |
-| **Project Sorter V1.7.3** | [Download](https://pan.baidu.com/s/1Wfklm8E7Hd4hPHG9GhWkQg?pwd=w9xj) | `w9xj` |
-
 ## Installation Instructions
 
 <Tabs>
@@ -60,25 +50,17 @@ Click on the link to go to the download page. The extraction password is provide
   </TabItem>
 </Tabs>
 
-## Tags
+## Download
 
-- aescripts
-- After Effects
-- Premiere
-- Project Sorter
-- Media Organization
-- Asset Management
-- Video Editing
-- AE Script
-- PR Script
-- Project Management
-- Workflow Enhancement
-- Media Sorting
-- Creative Tools
-- Post Production
-- File Organization
-- Digital Asset Management
-- Video Post-Processing
-- Content Creation
-- Media Processing
-- Production Efficiency
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
+:::
+
+| File | Download Link | Password |
+| ---- | ------------- | -------- |
+| **Project Sorter V1.7.3** | [Download](https://pan.baidu.com/s/1Wfklm8E7Hd4hPHG9GhWkQg?pwd=w9xj) | `w9xj` |
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

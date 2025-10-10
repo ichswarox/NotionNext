@@ -80,6 +80,9 @@ This is the official full version with no watermarks or black spots. It includes
 - Music: Does not include background music
 
 ## Download
-[Chat For Details](https://wa.me/8613237610083)
+[Download Link](https://pan.hefamily.net/s/YOOoCy)
 
-[Direct Download Link](https://pan.hefamily.net/s/YOOoCy)
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

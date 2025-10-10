@@ -39,26 +39,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V2.0**   | [Download](https://pan.baidu.com/s/1qeHY6j4e3JFIQwvksZE5Tw?pwd=vzit)        | `vzit`   |
 | **V1.9.1** | [Download](https://pan.baidu.com/s/1DO6OLnXtePE97wSKizYLpA?pwd=8e94)        | `8e94`   |
 | **V1.8.0** | [Download](https://pan.baidu.com/s/1oD-SQbkpebWyLT7LubjQ1w?pwd=bes1)        | `bes1`   |
-
-## Tags
-
-- Blender Sci-fi Modeling
-- Random Flow
-- 3D Hard Surface Modeling
-- Blender Plugin
-- Concept Art
-- Mesh Generation
-- Blender Addon
-- 3D Modeling Workflow
-- Sci-fi 3D Assets
-- Blender Character Design
-- Procedural Modeling
-- Blender Animation
-- 3D Design Tools
-- Digital Art
-- Blender Tutorial
-- VFX
-- 3D Software
-- Creative Tools
-- Blender Extensions
-- 3D Asset Creation
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

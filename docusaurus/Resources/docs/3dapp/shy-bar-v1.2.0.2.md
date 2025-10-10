@@ -142,26 +142,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Shy Bar v1.2.0.2**       | [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1TeRskGRirGWMuJ1N51pflw?pwd=2tts) | `2tts`   |
 
-<!-- Generate new SEO-optimized tags based on content for this part,Ensure tags align with Google's E-E-A-T principles  -->
-## Tags
-
-- After Effects
-- Shy Bar
-- AE Script
-- Layer Management
-- Timeline Control
-- Composition Tools
-- Workflow Enhancement
-- Motion Graphics
-- Video Editing
-- Visual Effects
-- ScriptUI Panel
-- Animation Workflow
-- Layer Selection
-- Timeline Organization
-- AE Plugin
-- After Effects Tools
-- Creative Workflow
-- Design Tools
-- Animation Software
-- Graphic Design
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

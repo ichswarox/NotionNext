@@ -39,3 +39,8 @@ This material is included in:
 :::
 
 PDF Preview: [https://pan.baidu.com/s/1bbNEE4FyWe2E3VhEYFYp8w?pwd=k6i5](https://pan.baidu.com/s/1bbNEE4FyWe2E3VhEYFYp8w?pwd=k6i5) Extraction Code: k6i5
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

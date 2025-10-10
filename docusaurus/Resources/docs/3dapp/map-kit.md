@@ -56,12 +56,7 @@ With support for custom textures and materials, you can create maps that match y
 - **Resolution**: 1920×1080 recommended
 - **Storage**: Minimum 50MB available space
 
-## Download Options
 
-:::warning[Download]
-[Download AE Script Preset - Simple 3D Map Location Marker Arrow Position Indicator Animation Preset](http://pan.baidu.com/s/1pLhC1WR)
-
-**Password: u3c9**
 :::
 
 For direct purchase or if you encounter any download issues, please contact us via WeChat at +86 13237610083
@@ -69,3 +64,15 @@ For direct purchase or if you encounter any download issues, please contact us v
 ## Conclusion
 
 The **AE Script Preset - Simple 3D Map Location Marker Arrow Position Indicator Animation Preset** is an essential tool for any video editor or motion graphics designer working with geographic data. With its comprehensive feature set and easy-to-use interface, this preset streamlines the map creation process while delivering professional-quality results.
+
+## Download Options
+
+:::warning[Download]
+[Download AE Script Preset - Simple 3D Map Location Marker Arrow Position Indicator Animation Preset](http://pan.baidu.com/s/1pLhC1WR)
+
+**Password: u3c9**
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

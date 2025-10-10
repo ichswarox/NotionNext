@@ -61,14 +61,6 @@ Follow these simple steps to install the KtoA plugin:
 2. Copy ai.dll to the bin folder in the installation directory, replacing the existing file
 3. Example default path: C:\Users\YourUsername\ktoa\ktoa-4.4.3.1-kat8.0-windows\bin
 
-## Download Options
-:::warning[Download]
-[Download V4.4.3.1 Version](https://pan.baidu.com/s/1m3ktz-CYmLfogFO2tqecbw?pwd=ntvr)
-**Extraction Password: ntvr**
-
-[Download V4.3.4.0 Version](https://pan.baidu.com/s/1LwmNByDPwUxUk0rOC_1DJA?pwd=p6k2)
-**Extraction Password: p6k2**
-:::
 
 ## Why Choose KtoA SolidAngle Arnold V4.4.3.1?
 
@@ -91,3 +83,17 @@ With support for Katana versions from 4.5 through 8.0, this plugin accommodates 
 The **KtoA SolidAngle Arnold V4.4.3.1** plugin is an essential tool for any VFX artist working with The Foundry Katana who wants to leverage the power of the Arnold renderer. Its comprehensive feature set, professional quality results, and seamless integration make it a valuable addition to your 3D rendering toolkit.
 
 Whether you're creating visual effects for film, television, or game cinematics, this plugin provides the professional tools needed to achieve stunning rendering results with significantly reduced production time.
+
+## Download Options
+:::warning[Download]
+[Download V4.4.3.1 Version](https://pan.baidu.com/s/1m3ktz-CYmLfogFO2tqecbw?pwd=ntvr)
+**Extraction Password: ntvr**
+
+[Download V4.3.4.0 Version](https://pan.baidu.com/s/1LwmNByDPwUxUk0rOC_1DJA?pwd=p6k2)
+**Extraction Password: p6k2**
+:::
+
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

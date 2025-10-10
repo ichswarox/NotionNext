@@ -95,25 +95,7 @@ Note: This is the official multilingual version that automatically detects your 
 
 **Extraction Password: vq3a**
 
-## Tags
-
-- Red Giant
-- Trapcode
-- Magic Bullet
-- VFX Suit
-- After Effects
-- Premiere Pro
-- Visual Effects
-- Color Grading
-- Particle Effects
-- Video Plugins
-- Motion Graphics
-- Post Production
-- Special Effects
-- Plugin Suite
-- Video Editing
-- 3D Effects
-- Compositing
-- Image Processing
-- Creative Tools
-- Professional Software
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
