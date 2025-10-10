@@ -1,55 +1,41 @@
 ---
-title: "LensNode Plugin for DaVinci Resolve"
-description: "Realistic lens distortion, bloom, chromatic aberration, and vignette effects simulator plugin for DaVinci Resolve on Mac"
-tags: [LensNode, DaVinci Resolve, plugin, lens distortion, bloom, chromatic aberration, vignette]
+title: "LensNode V1.0.2 Plugin for DaVinci Resolve"
+description: "Mac DaVinci Resolve plugin for simulating realistic lens distortions, bloom, chromatic aberration, and other lens effects with Chinese tutorial videos."
+tags: [lensnode, davinci-resolve, plugin, lens-simulation, mac]
 slug: /lensnode-plugin
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# LensNode Plugin for DaVinci Resolve - Realistic Lens Effects Simulator
+Last updated: Oct 10 2025
 
-Last updated: Oct 9 2025
+![LensNode DaVinci](https://www.gfxcamp.com/wp-content/uploads/2025/10/LensNode-Davinci.jpg)
 
-![LensNode Plugin](https://www.gfxcamp.com/wp-content/uploads/2025/10/LensNode-Davinci.jpg)
+## LensNode V1.0.2 Plugin for DaVinci Resolve
 
-## Overview
+LensNode is a plugin that allows you to precisely simulate various lens characteristics in DaVinci Resolve, such as lens distortion, Bloom soft light, chromatic aberration, edge blur, color shift, vignetting, and other effects. You can also combine different lens characteristics to create impossible lenses.
 
-LensNode is a plugin that allows you to accurately simulate various lens characteristics in DaVinci Resolve, such as lens distortion, Bloom柔光, chromatic aberration, edge blur, color shift, vignette, and other effects. You can also combine different lens characteristics to create impossible lenses.
+### Features
 
-## Features
+- Simulate various lens characteristics in DaVinci Resolve
+- Lens distortion, Bloom soft light, chromatic aberration, edge blur
+- Color shift, vignetting, and other lens effects
+- Combine different lens characteristics to create unique lenses
 
-- **Precise Lens Simulation**: Simulate various lens characteristics in DaVinci Resolve
-- **Multiple Effects**: Lens distortion, Bloom柔光, chromatic aberration, edge blur, color shift, vignette
-- **Creative Combinations**: Combine different lens characteristics to create impossible lenses
-- **Mac Support**: Supports both M-chip and Intel-chip Mac computers
-
-## System Requirements
+### Supported Versions
 
 <Tabs>
 <TabItem value="mac" label="Mac">
-- **Version**: V1.0.2
-- **Platform**: Mac only (M-chip and Intel-chip)
-- **DaVinci Resolve**: Version 18.6 or higher
-- **macOS**: Version 14 or higher
-- **Windows**: Not supported
+- Version 1.0.2, only supports Mac system, supports M chip and Intel chip computers
+- Windows system not supported
+- DaVinci 18.6 or higher version
+- MacOS 14 or higher system version
+- Tutorial: Installation steps + 2 official video tutorials (Chinese subtitles)
 </TabItem>
 </Tabs>
 
-## Installation
-
-1. Install the plugin using the provided installer
-2. Follow the included installation steps
-3. Complete the installation process
-
-## Tutorial
-
-The package includes installation steps and 2 official video tutorials with Chinese subtitles.
-
-## Download Links
-
-| Version | Download Link | Type |
-|---------|---------------|------|
-| Main Link | [Visit Official Taobao Store](https://item.taobao.com/item.htm?ft=t&id=984117797615) | Paid |
-| Direct Purchase | [Direct Purchase: 20 CNY](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Flensnode%2F) | Paid |
+## Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
