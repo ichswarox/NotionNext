@@ -52,20 +52,16 @@ This addon dramatically improves hair grooming and styling adjustment efficiency
 - **License Type**: GPL (Open Source)
 - **Operating Systems**: Windows, macOS, Linux
 
-## Download Options
-
-- **Free Viewer Version**: Try the basic features before purchasing
-- **Full Version**: $85 - Complete toolset with all professional features
-
-[Download 3D Hair Brush 4.7.1 Free Viewer](https://superhivemarket.com/products/blender-addon--3d-hair-brush-v3)
-
-For the full version or if you encounter any download issues, please contact us via WhatsApp at +86 13237610083
-
 ## Conclusion on 3D Hair Brush 4.7.1
 
 The **3D Hair Brush 4.7.1** addon is an essential tool for any Blender artist working with hair and fur. Its comprehensive feature set, professional quality results, and user-friendly interface make it a valuable addition to your 3D creation toolkit.
 
 Whether you're creating character animations, visual effects, or game assets, this addon provides the professional tools needed to achieve stunning hair and fur effects with significantly reduced production time. The **3d hair brush 4.7.1** sets a new standard for hair grooming in Blender.
+
+## Download Options
+v4.6 
+https://iiicg.lanzouw.com/i4iTN274u9ib
+
 
 ## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

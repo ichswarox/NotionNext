@@ -37,4 +37,4 @@ and Post structure:
 11. /slug and the markdow name should be the same
 12. finished file go to /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/finished
 
-    
+        
