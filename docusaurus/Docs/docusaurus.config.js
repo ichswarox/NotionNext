@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docsddd',
+  title: '跨境全链路-永久会员',
   tagline: 'Download Software, 3D Models, Video Templates, Music and More',
   favicon: 'img/favicon.ico',
 

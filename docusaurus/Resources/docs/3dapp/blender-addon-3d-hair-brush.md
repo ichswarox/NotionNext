@@ -59,9 +59,9 @@ The **3D Hair Brush 4.7.1** addon is an essential tool for any Blender artist wo
 Whether you're creating character animations, visual effects, or game assets, this addon provides the professional tools needed to achieve stunning hair and fur effects with significantly reduced production time. The **3d hair brush 4.7.1** sets a new standard for hair grooming in Blender.
 
 ## Download Options
-v4.6 
-https://iiicg.lanzouw.com/i4iTN274u9ib
 
+### Version 4.7.1
+[Download 3D Hair Brush v4.7.1](https://iiicg.lanzouw.com/i4iTN274u9ib) (Direct Link)
 
 ## Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

@@ -35,3 +35,17 @@ All-in-One WP Migration是一个WordPress插件，允许您将网站的内容、
 ## 更多信息
 
 有关All-in-One WP Migration的更多信息，请访问[https://wordpress.org/plugins/all-in-one-wp-migration/](https://wordpress.org/plugins/all-in-one-wp-migration/)
+
+## 相关文章
+
+-   [在托管WordPress上配置Jetpack备份](/docs/configuring-jetpack-backups-on-managed-wordpress)
+
+更新于4个月前
+
+---
+
+此页面对您有帮助吗？
+
+是
+
+否
