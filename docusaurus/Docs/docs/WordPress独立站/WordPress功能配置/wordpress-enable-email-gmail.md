@@ -1,5 +1,5 @@
 ---
-title: WordPress启用邮箱（Gmail）
+title: 启用Gmail邮箱
 description: "学习如何使用WP Mail SMTP插件配置WordPress邮箱功能，通过Gmail或Google Workspace设置邮件发送器，解决网站邮件投递问题。"
 tags: ["WordPress", "Gmail", "邮件发送", "WP Mail SMTP", "Google Workspace", "邮件配置", "网站邮件"]
 slug: /wordpress-enable-email-gmail

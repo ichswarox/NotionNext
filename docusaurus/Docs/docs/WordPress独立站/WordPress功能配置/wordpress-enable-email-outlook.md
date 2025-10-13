@@ -1,5 +1,5 @@
 ---
-title: WordPress启用邮箱（Microsoft 365 / Outlook）
+title: 启用Outlook邮箱
 description: "学习如何使用WP Mail SMTP插件配置WordPress邮箱功能，通过Microsoft 365或Outlook设置邮件发送器，解决网站邮件投递问题。"
 tags: ["WordPress", "Microsoft 365", "Outlook", "邮件发送", "WP Mail SMTP", "邮件配置", "网站邮件"]
 slug: /wordpress-enable-email-outlook
