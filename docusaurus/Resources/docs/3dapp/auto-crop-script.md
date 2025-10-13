@@ -39,7 +39,7 @@ This script is compatible with a wide range of Adobe After Effects versions on b
 - The current version for Windows is **3.2.1.1**.
 - The current version for macOS is **3.1.3**.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

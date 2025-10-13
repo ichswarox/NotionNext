@@ -26,14 +26,12 @@ Cinema 4D is a professional 3D animation, modeling, simulation, and rendering so
 
 ## Download
 
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+
 
 [Download Cinema 4D 2026.0.0](https://pan.baidu.com/s/1Mp_yDbFdyMIHw8Yc5aoMyA?pwd=4m2p) 
 Password: `4m2p`
 
- ## Direct Download Link
+ ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

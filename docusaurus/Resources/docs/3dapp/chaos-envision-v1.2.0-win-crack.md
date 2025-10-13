@@ -38,17 +38,15 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+
 
 | File Version | Download Link | Password |
 |--------------|---------------|----------|
 | Chaos Envision V1.2.0 Win Crack | [Download Link](https://pan.baidu.com/s/1fVRdvSvpRE2aKsSon9vK4A?pwd=i546) | `i546` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -59,7 +59,7 @@ Access specific resources in the collection:
 - Digital Juice Drops Classic PSD Layered Graphic Assets Compilation 123
 - Latest Juicer 3.90 Build 114 Crack Version
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

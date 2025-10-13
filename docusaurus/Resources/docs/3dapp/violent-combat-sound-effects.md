@@ -40,13 +40,13 @@ This sound library is specifically designed for combat scenes requiring impact. 
 The library contains two collections:
 - Construction Kit: 524 WAV files with 3986 sound effects
 - Designed: 100 WAV files with 600 sound effects
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Description | Download Link | Password |
 | ---------------- | ------------- | -------- |
 | **Violent Combat Sound Effects** | [Baidu Netdisk Download](https://pan.baidu.com/s/1fTHvYrNZVlPmyNVr4jMOrQ?pwd=r94n) | `r94n` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

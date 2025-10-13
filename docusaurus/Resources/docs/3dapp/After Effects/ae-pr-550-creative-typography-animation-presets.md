@@ -52,7 +52,7 @@ This script dramatically improves text animation workflow efficiency in After Ef
 - **Professional Efficiency**: Advanced controls and workflow efficiency significantly reduce production time
 - **Comprehensive Toolkit**: All-in-one solution for professional text creation workflows
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

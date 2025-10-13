@@ -32,7 +32,7 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Blender 3D Sculpting: Model A Dragon From Scratch** | [Download](https://pan.baidu.com/s/1RcpWXZpGILTCsk6agBvgkQ?pwd=ti8b) | `ti8b` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -20,9 +20,7 @@ ZBrush is a digital sculpting, modeling, and painting software used to create hi
 
 ## Download
 
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+
 
 [Download ZBrush 2026.0.0](https://pan.baidu.com/s/1uVG5qAVele_fsCVcyTizCQ?pwd=avcc)
 Password: `avcc`

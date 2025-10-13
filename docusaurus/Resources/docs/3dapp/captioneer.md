@@ -17,7 +17,7 @@ slug: /captioneer
 Aescripts Captioneer is the fastest way to create animated subtitles in Premiere Pro. This powerful script streamlines your video editing workflow, making it easier than ever to add professional-quality subtitles to your videos.
 :::
 
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -28,7 +28,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V1.4.1** | [Download](https://pan.baidu.com/s/1IJF-a0GiN08kDfNuxC78TA?pwd=bvyd) | `bvyd` |
 | **V1.3.0** | [Download](https://pan.baidu.com/s/18ABjdLUmtT0tMJnQF6gx2g?pwd=34sv) | `34sv` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

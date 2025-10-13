@@ -29,7 +29,7 @@ We want you to master the element of water and LiquiGen is the easiest real-time
 1. Install liquigen_1_0_2_installer.exe
 2. Copy and replace the LiquiGen.exe and TurboFloat.dll files from the replacement folder to the installation directory
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -41,7 +41,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **v1.0.0 (Cracked Version)** | [Download](https://pan.baidu.com/s/1LiHBgls6ggaI8ZvQDGKlmQ?pwd=fpqe) | `fpqe` |
 | **v1.0.0 (Direct Use)** | [Download](https://pan.baidu.com/s/1OOxP6Ot6TlaC8YMHfaksMw?pwd=wu4q) | `wu4q` |
 | **v0.3.0** | [Download](https://pan.baidu.com/s/1QuHzGz0-RZj77Ddpusl03Q?pwd=b7hg) | `b7hg` |
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

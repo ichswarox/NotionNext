@@ -76,7 +76,7 @@ Like Colorama, but fuzzier! Create pairs of colors to turn one color into anothe
 - Windows operating system
 - Sufficient disk space for installation
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Software | Platform | File Size | Download Link |
 |----------|----------|-----------|---------------|

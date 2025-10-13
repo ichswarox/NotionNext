@@ -45,7 +45,7 @@ Zen UV is not just a set of tools, it is a ready-to-use pipeline for fast creati
 | V3.1.1 | [Download](https://pan.baidu.com/s/12zKzoWJTu8PJ0S19mr81dw?pwd=hshm) | hshm |
 
 :::info
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

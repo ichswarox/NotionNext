@@ -65,7 +65,7 @@ The Voyager LUTs create beautiful studio-quality creative looks to help you grad
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Platform | Link |
 |----------|------|

@@ -45,7 +45,7 @@ Ray Dynamic Texture solves the common problem of repetitive texturing tasks in A
 Whether you're a motion graphics designer, VFX artist, or animator, Ray Dynamic Texture can significantly enhance your productivity in After Effects.
 
 <!-- The Last Part-Download -->
-## Download Options
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -57,7 +57,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Ray Dynamic Texture v1.5.6** | [Download](https://pan.baidu.com/s/1W8WpIwHESciKRuEhRwwS2g) | `tqx3`   |
 | **Ray Dynamic Texture Tutorial** | [Download](http://pan.baidu.com/s/1gff2oev) |  |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

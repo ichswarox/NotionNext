@@ -45,11 +45,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
-
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+## 🐌Free Slow Download Links
 
 | Software Name | Download Link | Password |
 |---------------|---------------|----------|
@@ -57,3 +53,7 @@ Click the link to go to the download page. The extraction password is provided n
 | Samplitude | [Download Link](https://pan.baidu.com/s/1A5_GjBOWl8P85Y6jk7pACw?pwd=whvn) | `whvn` |
 | Music Studio | [Download Link](https://pan.baidu.com/s/1CXz5q3vKPBnSLE0IbePKag?pwd=hvxu) | `hvxu` |
 
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

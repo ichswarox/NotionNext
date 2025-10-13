@@ -71,7 +71,7 @@ import TabItem from '@theme/TabItem';
 ### SEO Tags
 
 #Blender #hard-surface #modeling-addon #rendering-tools #boolean-operations #texture-baking #3D-art #Blender-addon
-### Download Options
+### 🐌Free Slow Download Links
 
 <Tabs>
 <TabItem value="baidu" label="Baidu Cloud">
@@ -84,7 +84,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

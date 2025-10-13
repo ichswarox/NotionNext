@@ -22,13 +22,13 @@ R3DS Wrap is at the forefront of 3D scan processing tools. Wrap changes the way 
 2.  Launch Wrap, then exit.
 3.  Copy `trial.ini` to `C:\Users\YourUsername\AppData\Local\Faceform\Wrap\trial.ini`.
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | Link                                                              | Password |
 | ----------------------------------------------------------------- | -------- |
 | [Baidu Pan](https://pan.baidu.com/s/1EPrZXslJz2QFjZYtjcXV_A?pwd=uv6h) | `uv6h`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

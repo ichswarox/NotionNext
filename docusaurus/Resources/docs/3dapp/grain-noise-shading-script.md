@@ -38,7 +38,7 @@ Shade It is a powerful After Effects script for motion graphics artists who want
 ![Shade It Demo 3](/img/shade-it-demo-3.gif)
 ![Shade It Demo 4](/img/shade-it-demo-4.gif)
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

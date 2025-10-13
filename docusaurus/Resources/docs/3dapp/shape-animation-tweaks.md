@@ -43,7 +43,7 @@ import TabItem from '@theme/TabItem';
 
 
 <!-- The Download Part-->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -53,7 +53,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Tweaks v1.2.8**          | [Download](https://pan.baidu.com/s/1PKeyjKnT3lwBif60lg33Tw?pwd=rw2b)        | `rw2b`   |
 | **Tweaks v1.0.83**         | [Download](https://pan.baidu.com/s/197m0ZBJeiYeaoPW5sEARLw?pwd=jz1g)        | `jz1g`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

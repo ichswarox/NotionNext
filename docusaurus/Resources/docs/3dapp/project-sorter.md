@@ -60,7 +60,7 @@ Click on the link to go to the download page. The extraction password is provide
 | ---- | ------------- | -------- |
 | **Project Sorter V1.7.3** | [Download](https://pan.baidu.com/s/1Wfklm8E7Hd4hPHG9GhWkQg?pwd=w9xj) | `w9xj` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

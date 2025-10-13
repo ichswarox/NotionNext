@@ -37,7 +37,7 @@ This kit is free for a limited time only, so grab it while you can!
 - **High Quality**: 4K textures and materials included
 - **Multiple Formats**: Both Blender and Unreal Engine compatible
 
-## Download Links
+## 🐌Free Slow Download Links
 
 <Tabs>
 <TabItem value="blender" label="Blender Format" default>
@@ -55,7 +55,7 @@ This kit is free for a limited time only, so grab it while you can!
 | Blender | [Download](https://pan.baidu.com/s/1TtywLoO41rl35tX0fdgEeQ?pwd=utv3) | utv3 |
 | Unreal Engine | [Download](https://pan.baidu.com/s/1lVLmcr2ouulhQsKHauxQ1w) | rhtw |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

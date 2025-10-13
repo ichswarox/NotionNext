@@ -73,13 +73,13 @@ Universal Blender Material is designed to quickly texture your 3D models for ren
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Universal Blender Material V1 | [Baidu Netdisk](https://pan.baidu.com/s/16Y1QOzLy2aFXEhvfr5oP5A?pwd=kc7w) | kc7w |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

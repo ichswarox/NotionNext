@@ -35,7 +35,7 @@ Paper slide transitions for DaVinci Resolve with page flip effects. Create engag
 - **Music**: Background music not included (recommended: AudioJungle music collection)
 - **Installation**: Double-click to install
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -45,7 +45,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Paper Slide Transitions**  | [Download](https://pan.baidu.com/s/1Oa1vTwA2QvpDiEs4lh1JYg?pwd=5hbh)        | `5hbh`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -107,7 +107,7 @@ Command Box V2025.08.19 is an essential addon for any Blender user looking to op
 Whether you're a beginner looking to accelerate your learning process or a professional seeking maximum efficiency, Command Box delivers the tools you need to work faster and smarter in Blender. The time saved through quick command access quickly justifies the investment in this powerful addon.
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -118,7 +118,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V2025.03.03 Version**  | [Download](https://pan.baidu.com/s/1yyVWTBcMr7d-RukPy6yPig?pwd=g7nm)        | `g7nm`   |
 | **V1 Version**  | [Download](https://pan.baidu.com/s/10DdKb8B2YDaAxXvY0wNdww?pwd=guts)        | `guts`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

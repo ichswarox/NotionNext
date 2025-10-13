@@ -56,7 +56,7 @@ Animation Layers is an addon that simplifies the work with the NLA Editor into a
 | V2.1.3.0 | [Download](https://pan.baidu.com/s/1Tn_2eQ1cxEUiTG5KUWWong?pwd=h97m) | h97m |
 
 :::info
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -57,7 +57,7 @@ With 17 different video effects, 7 camera motion presets, and 17 color grading L
 
 The **mMusic Video** plugin is an essential toolkit for any video editor working with DaVinci Resolve or Final Cut Pro X. With its comprehensive collection of effects, transitions, and animations, this plugin streamlines the creative process while delivering professional-quality results for music videos, short films, and promotional content.
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

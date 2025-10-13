@@ -35,7 +35,7 @@ Today, following the path towards an ideal tool set capable of segmenting, flatt
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
@@ -44,7 +44,7 @@ Today, following the path towards an ideal tool set capable of segmenting, flatt
 | V2025.0.63 | [Pan Download](https://pan.baidu.com/s/1B0E0a--ABdZ96X9g3RVY8Q?pwd=2q8r) | 2q8r |
 | V2025.0.41 | [Pan Download](https://pan.baidu.com/s/1ljEKbQPscBl2rZ7t9H-6mw?pwd=8qsp) | 8qsp |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -52,11 +52,9 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+
 
 | Download Link | Password |
 |---------------|----------|

@@ -56,9 +56,9 @@ Contains 66 video color grading presets in CUBE format, supporting major camera 
 - Place LUT files in the LUTs folder in FCPX resources
 - Access through the Color Board or Color Finale plugin
 
-## Download Links
+## 🐌Free Slow Download Links
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

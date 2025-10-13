@@ -34,13 +34,13 @@ This collection includes 3D models of Washington Monument, Capitol Building, Whi
 ## About the Collection
 
 This 3D model collection features the iconic landmarks of Washington DC, including the Washington Monument, Capitol Building, and White House. Each model is individually created with high attention to detail and includes 4K resolution textures and materials in Blender format.
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Description | Download Link | Password |
 | ---------------- | ------------- | -------- |
 | **Washington DC Models** | [Baidu Netdisk Download](https://pan.baidu.com/s/1O6Xb9Zay0-wCFLYIWYMHEw?pwd=j8tg) | `j8tg` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

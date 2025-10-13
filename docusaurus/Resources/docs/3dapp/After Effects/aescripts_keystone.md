@@ -41,7 +41,7 @@ If the script isn't working:
 - In Preferences, under Edit—Preferences—General panel, check "Allow Scripts to Write Files and Access Network"
 - Verify that the script supports your AE version (rare issue)
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

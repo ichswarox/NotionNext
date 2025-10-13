@@ -68,7 +68,7 @@ For technical support or additional licensing questions, please contact our supp
 :::warning[Download]
 [Download Japanese Epic Orchestral Game Sound Effects - Baidu Netdisk](http://pan.baidu.com/s/1bokQTLd)·
 :::
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

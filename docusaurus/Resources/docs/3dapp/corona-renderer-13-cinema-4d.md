@@ -98,7 +98,7 @@ The **Corona Renderer 13 Hotfix 1** represents a significant advancement in real
 Whether you're creating architectural visualizations, product renders, or visual effects, this renderer provides the professional tools needed to achieve stunning results with significantly reduced production time. The **Corona Renderer 13 Hotfix 1** sets a new standard for rendering in Cinema 4D.
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -108,7 +108,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **13 Hotfix 1 Version**  | [Download](https://pan.baidu.com/s/1_FTcZYHVvusy4ubacNEXYA?pwd=b7e8)        | `b7e8`   |
 | **13 Version**  | [Download](https://pan.baidu.com/s/1PCslpmkaJR_Vljkx3CNR1w?pwd=jcav)        | `jcav`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -34,7 +34,7 @@ The plugin also allows you to organize and use your own HDRI files.
 - Compatible with both Windows and Mac
 - Total size: 59.8GB
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

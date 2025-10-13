@@ -49,7 +49,7 @@ Enscape is a real-time rendering and Virtual Reality plugin for Revit, SketchUp,
 4. Copy the crack file `Enscape-3.5.6+202715-zmco.exe` to `C:\Users\YourUsername\AppData\Local\Programs\Enscape` and run it.
 5. When prompted for a password, enter `cgpersia-zmco` and click Patch.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -77,7 +77,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Enscape 3D V3 Presets**    | [Download](https://pan.baidu.com/s/1IHhYJBEqi4e4ODhlJVOY4w)                 | `y57w`   |
 
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

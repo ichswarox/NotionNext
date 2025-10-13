@@ -64,13 +64,13 @@ Films which yield beautiful, classic images and have their origins at the very h
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Platform | Link |
 |----------|------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1VafgKIXkfKqlPWbCbCCrhg?pwd=ye69) |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

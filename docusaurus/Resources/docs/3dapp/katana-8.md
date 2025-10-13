@@ -83,7 +83,7 @@ The Foundry Katana 8.0v4 is an essential tool for VFX artists and lighting profe
 
 Whether you're working on photorealistic environments, complex character lighting, or large-scale destruction sequences, Katana provides the professional tools needed to achieve exceptional results with significantly reduced manual effort.
 
-## Download Options
+## 🐌Free Slow Download Links
 :::warning[Download]
 [Download Katana 8.0V4](https://pan.baidu.com/s/1QpYJX1-uM-dhppXSvQ9oUQ?pwd=8tpb)
 
@@ -93,7 +93,7 @@ Whether you're working on photorealistic environments, complex character lightin
 
 **Password**: 2k9w
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

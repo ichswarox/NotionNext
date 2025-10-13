@@ -76,7 +76,7 @@ For installation issues or compatibility questions, please ensure:
 For additional support, please contact our technical team.
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::

@@ -58,7 +58,7 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 <!-- The Download Part-->
-## Download Links
+## 🐌Free Slow Download Links
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
@@ -69,7 +69,7 @@ import TabItem from '@theme/TabItem';
 | **Quick Rig**              | [Download](https://pan.baidu.com/s/1hjNSdSH6xagswOHGD-GoXA?pwd=vgbf)        | `vgbf`   |
 | **Rig Library Presets**    | [Download](https://pan.baidu.com/s/1EMK31gZZYx7PpDMq-B1xTg?pwd=ugkq)        | `ugkq`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

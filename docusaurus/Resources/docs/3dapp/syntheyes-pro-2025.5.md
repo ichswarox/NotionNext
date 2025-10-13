@@ -61,13 +61,13 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Version | Download Link | Password |
 |---------------|----------|
 | SynthEyes Pro 2025.5-b3399 | [Download Link](https://pan.baidu.com/s/1oZ06zWHsXNRkXOM7f-gGPA?pwd=cx6c) | `cx6c` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

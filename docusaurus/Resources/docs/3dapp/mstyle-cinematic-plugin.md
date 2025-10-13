@@ -50,13 +50,13 @@ import TabItem from '@theme/TabItem';
 
 mStyle Cinematic includes 32 sets of video effects, overlay effects, text titles and other presets that allow you to set whether entrance and exit animations are needed. Basic parameters such as text, font, color, size, position, rotation, etc. can all be modified. This is a fixed version that will not show red exclamation marks.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Description | Download Link | Size |
 | ---------------- | ------------- | ---- |
 | **mStyle Cinematic Plugin** | [Baidu Netdisk Download](https://pan.baidu.com/s/1O6Xb9Zay0-wCFLYIWYMHEw?pwd=j8tg) | Plugin+Video Tutorial (120MB+78MB) |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

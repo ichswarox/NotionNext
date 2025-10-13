@@ -66,13 +66,13 @@ The Space and Planet HDRI collection works with all major 3D software packages:
 - **File Size**: Optimized for performance
 - **License**: Commercial use permitted
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Space and Planet HDRI**  | [Download from Baidu Netdisk](https://pan.baidu.com/s/1WSBq9q_E0jSqvVTbcWp9jA?pwd=m79x) | `m79x`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

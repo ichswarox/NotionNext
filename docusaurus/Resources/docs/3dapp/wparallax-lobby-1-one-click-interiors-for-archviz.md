@@ -56,13 +56,13 @@ The installation process is straightforward as this package contains pre-formatt
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Format | Download Link | Password |
 |--------|---------------|----------|
 | 3DS MAX/C4D/FBX | [Baidu Netdisk Download](https://pan.baidu.com/s/1T7TnNCNMMsrcyYB8Y-vTjw?pwd=hdec) | hdec |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

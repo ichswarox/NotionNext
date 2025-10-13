@@ -34,7 +34,7 @@ Professional video transitions with Earth zoom effects for After Effects and DaV
 - **Tutorial**: Video tutorial included
 - **Music**: Background music not included (recommended: AudioJungle music collection)
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -44,7 +44,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Earth Zoom Transitions**  | [Download](https://pan.baidu.com/s/1t_CNcilERXn-fWU1bsI4-g?pwd=sps6)        | `sps6`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

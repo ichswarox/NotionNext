@@ -49,7 +49,7 @@ A LUT preset simulating Kodak 2383 model film texture in CUBE format, compatible
 - Apply the Lumetri Color effect to your clip
 - Select the LUT from the Creative tab
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

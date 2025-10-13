@@ -40,7 +40,7 @@ For over twenty years, Nuke has enabled teams to rapidly collaborate and deliver
 9. Select `1.Install License` then `2.Use Server`.
    - Enter the address: `port@ip` (default port is 5053, so `5053@127.0.0.1`).
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File | Download Link | Password |
 |---|---|---|
@@ -52,7 +52,7 @@ For over twenty years, Nuke has enabled teams to rapidly collaborate and deliver
 
 - https://thefoundry.s3.us-east-1.amazonaws.com/products/nuke/releases/16.0v5/Nuke16.0v5-win-x86_64.zip
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

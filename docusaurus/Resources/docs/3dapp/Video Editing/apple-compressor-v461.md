@@ -50,7 +50,7 @@ If you encounter issues with "damaged" or "unidentified developer" messages:
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Download Source | Link | Password |
 |-----------------|------|----------|

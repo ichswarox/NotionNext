@@ -55,7 +55,7 @@ Kekit Pro is a General Tool-Kit Blender Add-on that contains a collection of sma
 </TabItem>
 </Tabs>
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |---------|---------------|----------|
@@ -63,7 +63,7 @@ Kekit Pro is a General Tool-Kit Blender Add-on that contains a collection of sma
 | V3.45 | [Baidu Netdisk Download](https://pan.baidu.com/s/1VnLFsZCPXdyR4ItNAZ0FrQ?pwd=g9av) | g9av |
 | V3.33 | [Baidu Netdisk Download](https://pan.baidu.com/s/1b2Roo3Kb2w1RcDRGjw820w?pwd=ubv5) | ubv5 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

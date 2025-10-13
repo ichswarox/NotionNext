@@ -39,13 +39,13 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Curtain Maker Pro v1.1.6**  | [Download](https://pan.baidu.com/s/1wC-7EN3LwcI4gClxUa2rWQ?pwd=3jhx)        | `3jhx`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

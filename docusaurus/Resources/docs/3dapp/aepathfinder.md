@@ -48,7 +48,7 @@ If the script isn't working:
 - Verify that the script supports your AE version (rare issue)
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::

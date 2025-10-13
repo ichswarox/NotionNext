@@ -53,7 +53,7 @@ Spring Eases is a target-based animation script with inertia and bounce for Afte
 | ---- | ------------- | -------- |
 | **Aescripts Spring Eases V1.0** | [Download](https://pan.baidu.com/s/17xKagevOT0wzhTfCl2WNwg?pwd=jizc) | `jizc` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -38,7 +38,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -50,7 +50,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **BQR Boolean Quad Ready V1.5** | [Download](https://pan.baidu.com/s/1e2pG7-xrijsHZgiomlTUyw?pwd=uv9m)        | `uv9m`   |
 | **BQR Boolean Quad Ready V1.4** | [Download](https://pan.baidu.com/s/1ByFoB3ULDaAPZKhW4u6zmg?pwd=8879)        | `8879`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

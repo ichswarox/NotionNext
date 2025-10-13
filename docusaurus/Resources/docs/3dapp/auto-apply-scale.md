@@ -46,7 +46,7 @@ Auto Apply Scale is a simple yet effective utility that will help you work bette
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

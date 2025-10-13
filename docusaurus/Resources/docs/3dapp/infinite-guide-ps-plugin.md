@@ -36,7 +36,7 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Infinite Guide V1.0.5** | [Download](https://pan.baidu.com/s/1hng_VamQrFccrq6-AFRYCQ?pwd=7fnt) | `7fnt` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

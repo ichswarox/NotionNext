@@ -33,7 +33,7 @@ In this class, you'll learn to create an animation in Blender inspired by classi
 - **Subtitles**: English, no subtitles
 - **Format**: MP4, 1920×1080
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

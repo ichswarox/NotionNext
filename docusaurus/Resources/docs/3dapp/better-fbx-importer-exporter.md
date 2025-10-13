@@ -48,7 +48,7 @@ Blender's native FBX support is limited, often failing when importing older or n
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

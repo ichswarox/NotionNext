@@ -53,13 +53,13 @@ Marvelous Designer is one of the most powerful tools for fashion design, 3D mode
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Type | Download Link | Password |
 |------|---------------|----------|
 | Course | [Direct Download Link](https://wa.me/8613237610083) | 2ha5 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

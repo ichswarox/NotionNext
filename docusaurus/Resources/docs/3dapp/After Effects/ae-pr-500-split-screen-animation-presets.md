@@ -53,7 +53,7 @@ This script dramatically improves split screen animation workflow efficiency in 
 - **Easy Implementation**: One-click application with customizable parameters
 - **Versatile Applications**: Perfect for tutorials, comparisons, interviews, and multi-angle footage
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

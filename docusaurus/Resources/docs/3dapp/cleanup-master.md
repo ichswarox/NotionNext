@@ -68,7 +68,7 @@ By reducing the time spent on shape layer cleanup and organization, this script 
 Cleanup Master v1.1.0 is an essential tool for After Effects artists who regularly work with complex shape layer compositions. Its intelligent automation and workflow optimization features make it a valuable addition to any motion designer's toolkit.
 
 Whether you're creating UI animations, infographics, or complex motion graphics projects, this script provides the professional tools needed to achieve optimal results with significantly reduced manual effort.<!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -77,7 +77,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Cleanup Master v1.1.0**  | [Download](https://pan.baidu.com/s/17Fz1Tr9nuy8z9WHbxy2KrQ?pwd=wfj9)        | `wfj9`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

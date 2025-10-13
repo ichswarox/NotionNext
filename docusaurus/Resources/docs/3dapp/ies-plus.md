@@ -47,17 +47,15 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+
 
 | File Version | Download Link | Password |
 |--------------|---------------|----------|
 | IES Plus V1.3 | [Download Link](https://pan.baidu.com/s/1BBGUNKX3U-9qBNnLkenPbw?pwd=u2j8) | `u2j8` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

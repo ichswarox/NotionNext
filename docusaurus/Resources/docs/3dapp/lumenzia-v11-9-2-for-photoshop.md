@@ -62,7 +62,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Description | Download Link | Password |
 | ---------------- | ------------- | -------- |
@@ -72,7 +72,7 @@ import TabItem from '@theme/TabItem';
 | **V11.0.0 Version** | [Baidu Netdisk Download](https://pan.baidu.com/s/1Mw-zTU7AET7w9xYnUrbo3Q?pwd=z3q8) | `z3q8` |
 | **V10.9.7 Version** | [Baidu Netdisk Download](https://pan.baidu.com/s/10Fl5hsLap4HNDZeMZbeKZg?pwd=rinf) | `rinf` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -59,7 +59,7 @@ This plugin is ideal for:
 **Quick ToneMapper V1.1** is an invaluable tool for After Effects users who work with 3D renders and need flexible tone mapping options in post-production. By eliminating the need to bake tone mapping during rendering, this script saves valuable time and provides unparalleled creative flexibility. With support for multiple AE versions and both Windows and Mac platforms, it's a versatile addition to any VFX artist's toolkit.
 
 <!-- The Last Part-Download -->
-## Download Options
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -71,7 +71,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Quick ToneMapper V1.0 Win** | [Download](https://pan.baidu.com/s/16LHwbvfxye6r5_uQlQB8UQ?pwd=ncqo) | `ncqo`   |
 | **Quick ToneMapper V1.0 Mac** | [Download](https://pan.baidu.com/s/1-BNOYq9m1OSCyqnSqqTKQA?pwd=ucfh) | `ucfh`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

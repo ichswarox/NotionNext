@@ -52,10 +52,9 @@ Free Version with only MacOS Support.
 Mac Os version:
 [Slow Speed Download Link](https://list.neoxu.store/d/app/comp%20video/davinci/%E8%BE%BE%E8%8A%AC%E5%A5%87%E6%8F%92%E4%BB%B6%20LensNode%20v1.0.2%20Mac.dmg)
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
 Original Link：
 https://www.nodemill.co/

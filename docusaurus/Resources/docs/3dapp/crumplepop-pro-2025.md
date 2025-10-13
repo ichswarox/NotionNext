@@ -42,14 +42,14 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
-
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+## 🐌Free Slow Download Links
 
 | Version Type | Download Link | Password |
 |--------------|---------------|----------|
 | VST3 Version | [Download Link](https://pan.baidu.com/s/1MNeqo8Yq6E-4UtHagFWvMw?pwd=yqxf) | `yqxf` |
 | AAX Version | [Download Link](https://pan.baidu.com/s/1tsCs5aRERKmtn5yRqoa9NQ?pwd=2h5r) | `2h5r` |
 
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

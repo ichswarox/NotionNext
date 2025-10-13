@@ -62,13 +62,13 @@ Precision Film Emulation in an ACES Pipeline. Grade Once – Render any Delivery
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Platform | Link | Password |
 |----------|------|----------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1_j0LoJtacTgBxlG0tRaiTg?pwd=w7rh) | w7rh |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

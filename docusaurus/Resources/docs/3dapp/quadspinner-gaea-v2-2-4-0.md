@@ -52,7 +52,7 @@ If installation fails with .NET errors:
 </TabItem>
 </Tabs>
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |---------|---------------|----------|
@@ -64,7 +64,7 @@ If installation fails with .NET errors:
 | V2.2.0 | [Baidu Netdisk Download](https://pan.baidu.com/s/1sbnsyzK-p1MD6rKEjeEmpg?pwd=suyt) | suyt |
 | V2.1.2 | [Baidu Netdisk Download](https://pan.baidu.com/s/18lYy9DMThyDDzsMSgCy0ww?pwd=y4jf) | y4jf |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

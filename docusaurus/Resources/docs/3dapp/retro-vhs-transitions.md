@@ -32,7 +32,7 @@ This package contains 225 video transition effects, including film strips, burn 
 <!-- The Last Part-Download -->
 ## Download
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

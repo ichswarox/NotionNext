@@ -27,7 +27,7 @@ Beyond just the circuit lines and circles, circuitFX also generates components l
 - **Permissions**: For the script to function correctly, you must enable the "Allow Scripts to Write Files and Access Network" option in your After Effects preferences (`Edit > Preferences > General` on Windows or `After Effects > Settings > General` on macOS).
 - **Language**: It is highly recommended to use the English version of After Effects to avoid potential expression errors.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

@@ -88,7 +88,7 @@ Perfect for:
 - Sufficient disk space for project files
 - Graphics card with adequate VRAM for rendering
 
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -97,7 +97,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Blender Mountain Scene** | [Download from Baidu Netdisk](https://pan.baidu.com/s/1jIDR1DXC3dUlHeMMsImbQg?pwd=26h1) | `26h1`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

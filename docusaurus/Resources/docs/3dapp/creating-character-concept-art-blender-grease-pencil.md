@@ -76,7 +76,7 @@ This tutorial covers the complete process of creating character concept art usin
 - Sketching fundamentals in a digital environment
 - Final artwork optimization and presentation
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Platform | File Size | Download Link |
 |---------|----------|-----------|---------------|

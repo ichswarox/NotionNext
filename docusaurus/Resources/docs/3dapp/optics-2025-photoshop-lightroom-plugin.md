@@ -57,13 +57,13 @@ Easily add blockbuster-worthy effects and looks to your photos with Optics. The 
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Platform | Link | Password |
 |----------|------|----------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1ozwTTwz5pfWG7KbF7-Q-wA?pwd=deg3) | deg3 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -11,7 +11,7 @@ Last updated: Sep 29 2025
 
 This collection includes 21 LUTs presets: 9 for overexposed and 12 for normally exposed SLOG 3 footage. Apply them directly to your SONY SLOG 3 flat footage to quickly restore and achieve a cinematic look for skin tones. The LUTs are in .CUBE format and are compatible with any software that supports LUTs, such as DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying.
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

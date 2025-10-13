@@ -35,7 +35,7 @@ Professional Instagram UI elements pack for After Effects. Create engaging socia
 - **Music**: Background music not included (recommended: AudioJungle music collection)
 - **Customization**: Simple to modify
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -44,7 +44,7 @@ Click on the link to go to the download page. The extraction password is provide
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Instagram UI Elements Pack**  | [Download](https://pan.baidu.com/s/1NGxatWaeEXe7ugW9-xiMqg?pwd=qa4f)        | `qa4f`   |
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

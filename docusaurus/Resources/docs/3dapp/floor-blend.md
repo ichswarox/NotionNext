@@ -79,7 +79,7 @@ This plugin is ideal for:
 **Floor Blend v1.0.0** is a valuable addition to any Blender artist's toolkit, especially those working with floor textures in architectural visualization projects. With its one-click blending capability and intuitive interface, this plugin can significantly speed up your workflow while maintaining professional quality results.
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -88,7 +88,7 @@ Click on the link to go to the download page. The extraction password is provide
 
 **Extraction Password: hvne**
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

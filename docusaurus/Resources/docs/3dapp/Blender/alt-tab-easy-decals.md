@@ -34,11 +34,10 @@ Alt Tab, known for numerous high-quality add-ons, has released "Alt Tab Easy Dec
 > - Organized node groups
 > - Simple and organized UI
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
 ## Links
 
 [Alt Tab Easy Decals – Add Images & Decals to Anything – Superhive (formerly Blender Market)](https://superhivemarket.com/products/alt-tab-easy-decals?ref=185)

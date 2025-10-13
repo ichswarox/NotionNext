@@ -37,14 +37,14 @@ More than just rendering, immersive architectural experience with real-time 3D r
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | V1.2.1 | [Baidu Netdisk Download](https://pan.baidu.com/s/1_uvDl9XKxwjd7bHksxUJMg?pwd=27bg) | 27bg |
 | V1.2.0 | [Baidu Netdisk Download](https://pan.baidu.com/s/1fVRdvSvpRE2aKsSon9vK4A?pwd=i546) | i546 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

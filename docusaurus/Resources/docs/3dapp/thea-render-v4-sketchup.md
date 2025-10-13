@@ -44,9 +44,9 @@ Thea Render is a physically-based global illumination renderer of high quality. 
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -41,7 +41,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | File Type | Version | Download Link | Password |
 |---|---|---|---|

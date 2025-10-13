@@ -76,7 +76,7 @@ With support for multiple Blender versions and integration with the Render App, 
 The **PSOFT Pencil+ 4 Line for Blender** plugin is an indispensable tool for any artist working with stylized 3D content in Blender. With its professional-quality line rendering capabilities and seamless integration with the Render App, this addon provides everything needed to create authentic anime-style visuals that match the standards of commercial productions.
 
 <!-- The Last Part-Download -->
-## Download Options
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -87,7 +87,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **PSOFT Pencil+ 4 Line for Blender v4.1.5** | [Download](https://pan.baidu.com/s/11i5V9sdCtAQ1flLfrviNqA?pwd=4hft) | `4hft`   |
 | **PSOFT Pencil+ 4 Line for Blender v4.1.0** | [Download](https://pan.baidu.com/s/1QMtvKicUNG9V4XsMlx4hsA?pwd=jcng) | `jcng`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

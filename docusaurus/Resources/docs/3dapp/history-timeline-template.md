@@ -26,7 +26,7 @@ Showcase your company's history, product evolution, or any chronological story w
 - **Ease of Use:** No tutorial necessary; simply drop in your photos and edit the text.
 - **Music:** Please note that the background music is not included.
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

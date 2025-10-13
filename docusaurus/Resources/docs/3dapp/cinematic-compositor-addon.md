@@ -29,7 +29,7 @@ Cinematic Compositor Addon is a powerful post-processing plugin for Blender that
 2. Click the dropdown in the top right and select `Install from Disk`
 3. Select the corresponding ZIP file
 
-## Download Links
+## 🐌Free Slow Download Links
 
 Download Cinematic Compositor Addon V2.0:
 [Download Cinematic Compositor Addon V2.0](https://pan.baidu.com/s/1upj56mJ5M3LrI7PMfq4sWA?pwd=3rxg) (Password: 3rxg)
@@ -37,7 +37,7 @@ Download Cinematic Compositor Addon V2.0:
 Download Cinematic Compositor Addon V1.4:
 [Download Cinematic Compositor Addon V1.4](https://pan.baidu.com/s/1N2O_Tw8Ugyl0DG2wIq6siw?pwd=yk7m) (Password: yk7m)
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

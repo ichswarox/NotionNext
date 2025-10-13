@@ -40,7 +40,7 @@ Zen BBQ is an add-on for creating, adjusting, and visualizing Bevels in a couple
 4. Choose the corresponding ZIP file in the dialog window
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::

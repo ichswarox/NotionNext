@@ -138,8 +138,8 @@ When sharing your work, include relevant keywords such as:
 *Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
 
 <!-- The Last Part-Download -->
-## Download Information
-:::warning[Download]
+## 🐌Free Slow Download Links
+
 **Download V1.1.7: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1MBqwHgxnPKKCS8qqvsfb3A?pwd=j4qi)**
 
 Extraction code: j4qi
@@ -148,7 +148,7 @@ Extraction code: j4qi
 
 Extraction code: 5ahc
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

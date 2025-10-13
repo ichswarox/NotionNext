@@ -53,13 +53,13 @@ This is the retouching panel that fits to your workflow and is easy to customize
 </TabItem>
 </Tabs>
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |---------|---------------|----------|
 | V1.0.3 | [Baidu Netdisk Download](https://pan.baidu.com/s/1JuQ1chRtviuB6UatrNvdGg?pwd=tu7b) | tu7b |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

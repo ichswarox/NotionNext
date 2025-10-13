@@ -66,7 +66,7 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |

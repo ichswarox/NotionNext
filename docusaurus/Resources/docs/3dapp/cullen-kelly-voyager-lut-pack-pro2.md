@@ -32,7 +32,7 @@ The Voyager LUT Pack Pro 2 creates beautiful studio-quality creative looks to he
 - Final Cut Pro X 10.4+
 - Photoshop CC 2019+
 
-### Download Options
+### 🐌Free Slow Download Links
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

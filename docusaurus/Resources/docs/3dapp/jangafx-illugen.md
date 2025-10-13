@@ -26,7 +26,7 @@ IlluGen is the world's first tool built specifically for generating assets for r
 1. Install illugen_1_0_2_installer.exe
 2. Copy and replace the IlluGen.exe and TurboFloat.dll files from the replacement folder to the installation directory
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -37,7 +37,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **v1.0.2** | [Download](https://pan.baidu.com/s/1Njk3GgFnUhIscQgnej7DAw?pwd=wz54) | `wz54` |
 | **v1.0.0** | [Download](https://pan.baidu.com/s/1egBffqnhXNop4xjBwV9vCw?pwd=6a9u) | `6a9u` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

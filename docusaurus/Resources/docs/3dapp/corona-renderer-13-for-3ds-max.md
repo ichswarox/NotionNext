@@ -44,7 +44,7 @@ Corona is a completely new photo-realistic rendering engine integrated into MAX 
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 <Tabs>
 <TabItem value="hotfix2" label="Hotfix 2 Version" default>
@@ -67,7 +67,7 @@ Corona is a completely new photo-realistic rendering engine integrated into MAX 
 | Hotfix 1 | [Download](https://pan.baidu.com/s/1Lzw10wW53-l7B--oaZqljQ?pwd=uas2) | uas2 |
 | Standard | [Download](https://pan.baidu.com/s/1OyoQrrlBhakij6Vw8zqq1g?pwd=6p6x) | 6p6x |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

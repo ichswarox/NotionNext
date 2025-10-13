@@ -42,7 +42,7 @@ This is a rare opportunity to learn specialized knowledge about UI materials. If
 
 **[➡️ Register for the Course on CGWORLD ONLINE ACADEMY](https://academy.cgworld.jp/contents/1888)**
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

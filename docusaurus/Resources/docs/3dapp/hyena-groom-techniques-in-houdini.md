@@ -41,13 +41,13 @@ In this course, you'll learn how to create realistic fur for creatures in VFX, d
 - **Operating System**: Windows, macOS, or Linux
 - **Hardware**: Any system capable of running Houdini
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Hyena Groom Techniques in Houdini | [Baidu Netdisk](https://pan.baidu.com/s/1kce0Iy-bIr6LNXS4DhefjQ?pwd=r78e) | r78e |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

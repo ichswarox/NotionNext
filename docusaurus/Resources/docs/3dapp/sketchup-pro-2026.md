@@ -38,14 +38,14 @@ The launch of SketchUp 2025 is just around the corner, and we can't wait to shar
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Windows Version | [Pan Download](https://pan.baidu.com/s/1A4peBRdjsteV6jmcld67qg?pwd=6mdu) | 6mdu |
 | Windows Version | [Pan Download](https://pan.baidu.com/s/1A5AWhD_59m28TNPEtMwl1A?pwd=u5am) | u5am |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -43,7 +43,7 @@ You can adjust every detail—from palette to pixel density—and see your work 
 
 Note: This is the official multilingual version that automatically detects your software language.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 [Windows Version (2026.0.0) Download](https://pan.baidu.com/s/165ImXxXu-LYg2ncpLSchHQ?pwd=4qmb)
@@ -51,7 +51,7 @@ Note: This is the official multilingual version that automatically detects your 
 
 **Extraction Password: 4qmb**
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

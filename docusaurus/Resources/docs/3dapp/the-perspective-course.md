@@ -50,7 +50,7 @@ This tutorial is perfect for:
 - Anyone interested in improving their spatial visualization abilities
 - Concept artists working in entertainment industries
 
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -59,7 +59,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Proko Perspective Course** | [Download from Baidu Netdisk](https://pan.baidu.com/s/15XKH1yZr8taznWaniIXgcQ?pwd=rnen) | `rnen`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

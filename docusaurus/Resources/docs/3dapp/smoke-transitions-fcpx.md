@@ -36,8 +36,8 @@ Simply drag and drop the transition between two video clips to apply the effect.
 -   **File Size:** 3.44 GB.
 
 <!-- The Download Part-->
-## Download Links
-## Direct Download Link
+## 🐌Free Slow Download Links
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

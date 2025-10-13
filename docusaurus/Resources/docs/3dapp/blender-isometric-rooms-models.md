@@ -70,11 +70,10 @@ This Isometric Interior Bundle includes a beautifully stylized collection of roo
 | Application | Games, animation, interior visualization |
 | Category | 3D Models, Interior Models |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
 ## Tags
 
 3D model, Blender, Blender model, CGTrader, bedroom model, living room model, interior model, miniature model, kitchen model

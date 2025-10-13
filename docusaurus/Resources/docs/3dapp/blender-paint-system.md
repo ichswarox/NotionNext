@@ -52,7 +52,7 @@ A simple but powerful painting system that lets you apply materials directly to 
 
 #Blender #painting-plugin #NPR #non-photorealistic #material-painting #digital-art #3D-illustration #artist-tools
 
-### Download Options
+### 🐌Free Slow Download Links
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
@@ -69,7 +69,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

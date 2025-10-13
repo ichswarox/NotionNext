@@ -29,13 +29,13 @@ In this course, you will learn how to utilize different Houdini contexts to crea
 
 This tutorial is designed for users of Houdini who want to learn advanced creature animation techniques using Vellum and FEM solvers.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Description | Download Link | Password |
 | ---------------- | ------------- | -------- |
 | **Tutorial Download** | [Baidu Netdisk Download](https://pan.baidu.com/s/1O6Xb9Zay0-wCFLYIWYMHEw?pwd=j8tg) | `j8tg` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

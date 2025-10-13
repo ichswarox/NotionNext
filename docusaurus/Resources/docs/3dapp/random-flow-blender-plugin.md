@@ -24,7 +24,7 @@ Random Flow is a random mesh generator designed for fast and easy hard surface p
 Supports multiple Blender versions: 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6
 
   
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -39,7 +39,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V2.0**   | [Download](https://pan.baidu.com/s/1qeHY6j4e3JFIQwvksZE5Tw?pwd=vzit)        | `vzit`   |
 | **V1.9.1** | [Download](https://pan.baidu.com/s/1DO6OLnXtePE97wSKizYLpA?pwd=8e94)        | `8e94`   |
 | **V1.8.0** | [Download](https://pan.baidu.com/s/1oD-SQbkpebWyLT7LubjQ1w?pwd=bes1)        | `bes1`   |
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

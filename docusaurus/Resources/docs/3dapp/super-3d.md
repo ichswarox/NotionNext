@@ -49,7 +49,7 @@ Super 3D is a powerful extension for After Effects (version 24.1 and newer) that
 | **Super 3D V1.4.3** | [Download](https://pan.baidu.com/s/1mZGE0kNUjAP6NOqLJjOqkw?pwd=j9tx) | `j9tx` |
 | **Super 3D V1.3.2** | [Download](https://pan.baidu.com/s/1GRIvVOMXxauAJ-MT_b1zLQ?pwd=ynka) | `ynka` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

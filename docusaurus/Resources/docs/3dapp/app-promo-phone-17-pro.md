@@ -35,7 +35,7 @@ Professional iPhone 17 app presentation template for After Effects. Showcase you
 - **Music**: Background music not included (recommended: AudioJungle music collection)
 - **Photos**: Up to 26 photos can be replaced
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

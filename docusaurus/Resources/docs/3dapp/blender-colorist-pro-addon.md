@@ -52,8 +52,8 @@ Colorist Pro brings the power of professional color grading directly to your Ble
 </TabItem>
 </Tabs>
 
-## Download Links
-## Direct Download Link
+## 🐌Free Slow Download Links
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

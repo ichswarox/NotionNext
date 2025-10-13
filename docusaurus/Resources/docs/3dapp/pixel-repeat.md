@@ -68,7 +68,7 @@ Aescripts Pixel Repeat V1.2 is an essential plugin for After Effects artists loo
 
 Whether you're creating glitch art for music videos, stylized streaks for title sequences, or experimental visual treatments, this plugin provides the professional tools needed to achieve exceptional results with minimal effort.
 <!-- The Last Part-Download -->
-## Download Options
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -78,7 +78,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Aescripts Pixel Repeat V1.2** | [Download](https://pan.baidu.com/s/1m05U5xOzuDvlH6Hp2qwb4g?pwd=fufp) | `fufp`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

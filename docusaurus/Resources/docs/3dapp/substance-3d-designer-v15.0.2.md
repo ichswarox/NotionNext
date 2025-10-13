@@ -77,11 +77,9 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
-:::warning[Download]
-Click the link to go to the download page. The extraction password is provided next to the link.
-:::
+
 
 ### V15.0.2 Version
 
@@ -111,7 +109,7 @@ Click the link to go to the download page. The extraction password is provided n
 | Windows | V12.4.0 | [Download Link](https://pan.baidu.com/s/1GPWWRjMIRX_EbOLg2UL0Sw?pwd=5679) | `5679` |
 | Mac | V12.4.0 | [Download Link](https://pan.baidu.com/s/1SSf6cLnYvLLJef5whcim1A?pwd=iisd) | `iisd` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

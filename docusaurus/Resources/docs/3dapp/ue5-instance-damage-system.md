@@ -46,7 +46,7 @@ The Instance Damage System is the perfect solution for interacting with instance
     *   **Destruction Minigame**: Destroy randomly selected meshes.
     *   **Wanted Level Example**: Increase a "wanted" level based on the amount of destruction.
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

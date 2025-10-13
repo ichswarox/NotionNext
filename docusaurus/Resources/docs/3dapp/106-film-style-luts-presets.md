@@ -61,7 +61,7 @@ Last updated: Sep 25 2025
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Platform | Size | Download Link |
 | :--- | :--- | :--- | :--- |

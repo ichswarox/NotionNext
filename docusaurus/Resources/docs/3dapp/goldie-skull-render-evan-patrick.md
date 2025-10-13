@@ -118,7 +118,7 @@ Beyond personal art projects, these techniques apply to:
 - **Editorial**: Magazine and book illustrations
 - **Collectibles**: Digital art for NFT markets
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

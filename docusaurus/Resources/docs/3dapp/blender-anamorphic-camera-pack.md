@@ -45,7 +45,7 @@ import TabItem from '@theme/TabItem';
 | ------------------------------------------------------------------- | -------- |
 | [Baidu Netdisk](https://pan.baidu.com/s/1Fv-9kQ7XjaF9OyHl0J_jEg?pwd=vr8v) | `vr8v`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

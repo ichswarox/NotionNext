@@ -62,13 +62,13 @@ In this training, Octane expert David Ariew gives you a super informative and ef
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |---------|---------------|----------|
 | Full Course | [Download from Baidu Pan](https://pan.baidu.com/s/1lfY0i56RS75-hB2SCfIc6A?pwd=rjzr) | rjzr |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

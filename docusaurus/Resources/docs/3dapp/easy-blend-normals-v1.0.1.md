@@ -129,7 +129,7 @@ When sharing your work, include relevant keywords such as:
 *Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
 
 <!-- The Last Part-Download -->
-## Download Information
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -139,7 +139,7 @@ Click on the link to go to the download page. The extraction password is provide
 | ------------------------ | ----------------------------------------------------------------------- | -------- |
 | **Easy Blend Normals**   | [Download](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)    | `w3es`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

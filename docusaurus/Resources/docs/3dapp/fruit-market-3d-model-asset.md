@@ -48,12 +48,12 @@ Dive into the world of fruits with "Fruit Market" asset! It includes a wide vari
 </TabItem>
 </Tabs>
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | Platform | Link | Password |
 |----------|------|----------|
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/1ykV8FNn_NY-5iQg8AHJt0w?pwd=uuky) | uuky |
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

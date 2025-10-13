@@ -93,7 +93,7 @@ The **Light Painter V1.5.5** plugin is an essential tool for any Blender artist 
 
 Whether you're creating architectural visualizations, product renders, character scenes, or VFX shots, this plugin provides the professional tools needed to achieve stunning lighting effects with significantly reduced setup time. Light Painter V1.5.5 represents a new approach to 3D lighting that prioritizes creativity over technical complexity.
 
-## Download Options
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Choose from multiple versions of the Light Painter plugin:
@@ -104,7 +104,7 @@ Choose from multiple versions of the Light Painter plugin:
 | **V1.5.5 Version**       | [Download](https://pan.baidu.com/s/1P_-YW_bFSpX96YM70pbdlw?pwd=j3vn) | `j3vn`   |
 | **V1.4.1 Version**       | [Download](https://pan.baidu.com/s/1u6kFiWjXM-lsEiz_Qcv5YQ?pwd=nsaa) | `nsaa`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

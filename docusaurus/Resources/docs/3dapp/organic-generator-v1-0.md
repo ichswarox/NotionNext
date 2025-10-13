@@ -40,13 +40,13 @@ This product contains a GeoNode Setup with 15+ modular assets and 10+ GeoNode Mo
 - **Operating System**: Windows, macOS, or Linux
 - **Hardware**: Any system capable of running Blender 4.5
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Organic Generator V1.0 | [Baidu Netdisk](https://pan.baidu.com/s/1Ci5ZZr5UDxaDv7OFP4SDsA?pwd=k9pw) | k9pw |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

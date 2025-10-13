@@ -41,7 +41,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -54,7 +54,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Render Raw V1.1.3**    | [Download](https://pan.baidu.com/s/1WSiihOPmopGyy6lTTuoxZA?pwd=8rrq)        | `8rrq`   |
 | **Render Raw V1.1.1**    | [Download](https://pan.baidu.com/s/1zWibIRST7nLQLrINI7N9hw?pwd=am6p)        | `am6p`   |
 | **Render Raw V1.02**     | [Download](https://pan.baidu.com/s/1I9BtZ9qpfLbTUUZhR5TcUg?pwd=33m8)        | `33m8`   |
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

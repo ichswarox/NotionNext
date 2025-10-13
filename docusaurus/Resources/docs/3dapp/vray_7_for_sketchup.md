@@ -41,7 +41,7 @@ V-Ray and SketchUp make the ideal team. SketchUp is the world's most widely used
 3. Copy vray_BRDFScanned.dll to C:\Program Files\Chaos\V-Ray\V-Ray for SketchUp\extension\vray\bin\plugins
 
 <!-- The Download Part-->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -51,7 +51,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Download V7.10.02 Version** | [Download V7.10.02](https://pan.baidu.com/s/11SEuTE5297vC0v7DDsR9Gg?pwd=6ize) | `6ize`   |
 | **Download V7.10.01 Version** | [Download V7.10.01](https://pan.baidu.com/s/1V-528lop6-uJTyw9jrpFLA?pwd=firb) | `firb`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -37,7 +37,7 @@ Professional photo and video slideshow transitions for After Effects and Premier
 - **Music**: Background music not included (recommended: AudioJungle music collection)
 - **Photos**: Up to 12 photos can be replaced
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

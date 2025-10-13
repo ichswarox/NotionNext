@@ -65,14 +65,14 @@ The Voyager LUTs create beautiful studio-quality creative looks to help you grad
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Software | Platform | File Size | Download Link |
 |----------|----------|-----------|---------------|
 | Multiple | Universal | N/A | [Baidu Netdisk Download](https://pan.baidu.com/s/1prMCrU1lnesIEA0tSsMU5Q?pwd=hvki) |
 | Multiple | Universal | N/A | Password: hvki |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

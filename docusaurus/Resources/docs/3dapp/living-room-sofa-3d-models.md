@@ -41,7 +41,7 @@ PDF Preview: [https://pan.baidu.com/s/1uH6sSHLhrjVq2Y5Nf-zJbA](https://pan.baidu
 
 **Extraction Code: 54vk**
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

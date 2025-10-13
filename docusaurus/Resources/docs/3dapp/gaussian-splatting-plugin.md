@@ -40,7 +40,7 @@ This plugin is compatible with the following versions of After Effects on **Wind
 - **Compatibility**: This plugin may not work if your version of After Effects is not listed above.
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -51,7 +51,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **v1.5.0** | [Download](https://pan.baidu.com/s/1In_vm7hcH13ViNdNC72vlg?pwd=n8ri) | `n8ri` |
 | **v1.3.5** | [Download](https://pan.baidu.com/s/1rhhxzlrFX914CIgZ5Hkkdw?pwd=hryp) | `hryp` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

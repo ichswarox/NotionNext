@@ -71,7 +71,7 @@ The **Procedural Signs** plugin is an essential tool for Blender artists working
 
 
 <!-- The Last Part-Download -->
-## Download Options
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -82,7 +82,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **Procedural Signs V2.0.0** | [Download](https://pan.baidu.com/s/1lIDKIB11zMHAw1Ww8-NNDG?pwd=sxh5) | `sxh5`   |
 | **Procedural Signs V1.1.0** | [Download](https://pan.baidu.com/s/1GccjR3X6pa_sGbc2EXTKWQ?pwd=junf) | `junf`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

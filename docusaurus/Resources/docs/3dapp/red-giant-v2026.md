@@ -87,7 +87,7 @@ We've also reorganized plugin categories across all platforms to help you find t
 
 Note: This is the official multilingual version that automatically detects your software language.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 [Windows Version (2026.0.0) Download](https://pan.baidu.com/s/1I96ZqVJW6xvA1bb7_1raTQ?pwd=vq3a)
@@ -95,7 +95,7 @@ Note: This is the official multilingual version that automatically detects your 
 
 **Extraction Password: vq3a**
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

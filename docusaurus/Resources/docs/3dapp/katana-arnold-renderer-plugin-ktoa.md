@@ -84,7 +84,7 @@ The **KtoA SolidAngle Arnold V4.4.3.1** plugin is an essential tool for any VFX 
 
 Whether you're creating visual effects for film, television, or game cinematics, this plugin provides the professional tools needed to achieve stunning rendering results with significantly reduced production time.
 
-## Download Options
+## 🐌Free Slow Download Links
 :::warning[Download]
 [Download V4.4.3.1 Version](https://pan.baidu.com/s/1m3ktz-CYmLfogFO2tqecbw?pwd=ntvr)
 **Extraction Password: ntvr**
@@ -93,7 +93,7 @@ Whether you're creating visual effects for film, television, or game cinematics,
 **Extraction Password: p6k2**
 :::
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

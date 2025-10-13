@@ -52,7 +52,7 @@ Efficient lighting and illumination enhancement software The Foundry Katana 8.0v
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
@@ -60,7 +60,7 @@ Efficient lighting and illumination enhancement software The Foundry Katana 8.0v
 | 8.0V4 | [Baidu Netdisk Download](https://pan.baidu.com/s/1QpYJX1-uM-dhppXSvQ9oUQ?pwd=8tpb) | 8tpb |
 | 8.0V3 | [Baidu Netdisk Download](https://pan.baidu.com/s/1HMkkFLjgnMpY8YUUGI4hWQ?pwd=2k9w) | 2k9w |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

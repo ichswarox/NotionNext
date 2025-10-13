@@ -61,14 +61,14 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Description | Download Link | Password |
 | ---------------- | ------------- | -------- |
 | **V2.25.3 Version** | [Baidu Netdisk Download](https://pan.baidu.com/s/1Z1VUl-r_3Alg5RrunOuEdA?pwd=r2d9) | `r2d9` |
 | **V2.24 Version** | [Baidu Netdisk Download](https://pan.baidu.com/s/1nmi9qKtT_ysFCztYC0YjlQ?pwd=5u2h) | `5u2h` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -50,13 +50,13 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | File Description | Download Link | Size |
 | ---------------- | ------------- | ---- |
 | **mChannel Clean Plugin** | [Baidu Netdisk Download](https://pan.baidu.com/s/1O6Xb9Zay0-wCFLYIWYMHEw?pwd=j8tg) | Plugin+Video Tutorial (114MB+90MB) |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

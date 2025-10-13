@@ -25,13 +25,13 @@ The VizEasy Procedural Outlets & Switches script for 3ds Max is your ultimate so
 
 -   Copy `VizEasy_Switches_v1.1.2_Pro.mse` to the `scripts\Startup` folder in your 3DS MAX installation directory.
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | Link                                                              | Password |
 | ----------------------------------------------------------------- | -------- |
 | [Baidu Pan](https://pan.baidu.com/s/1ztoiXG1vrVW4ClXWuq8DJA?pwd=cs47) | `cs47`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

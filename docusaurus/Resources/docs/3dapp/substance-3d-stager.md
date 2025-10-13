@@ -65,7 +65,7 @@ To change the installation location:
 | v1.0.1 | Mac | [Download](https://pan.baidu.com/s/1jebLkHaGzQxyDU6FVldnOQ) | stfa |
 
 :::info
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

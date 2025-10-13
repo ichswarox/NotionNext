@@ -45,13 +45,13 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Platform | Size | Download Link |
 | :--- | :--- | :--- | :--- |
 | Coloso Maya Stylized Fight Animation Tutorial | Maya/Animbot | 18.9GB | [Premium Download](#) |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

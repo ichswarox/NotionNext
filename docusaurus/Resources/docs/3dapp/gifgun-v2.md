@@ -31,7 +31,7 @@ Supports After Effects versions: 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC
 
 1. Refer to the documentation inside the compressed package for installation steps.
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -46,7 +46,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V2.0.17**     | [Download](https://pan.baidu.com/s/1bzQZZjydh6Rj4jWNoZcfDA?pwd=tqm6)        | `tqm6`   |
 | **V2.0.9**      | [Download](https://pan.baidu.com/s/1X7TtszJ-m4qpc5nfOLm-OQ?pwd=0zcx)        | `0zcx`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

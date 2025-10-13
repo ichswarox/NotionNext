@@ -31,7 +31,7 @@ KeenTools FaceBuilder is a node plugin for Nuke that can create 3D models of hum
 - V2025.2.0 version supports Nuke 16.0
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -41,7 +41,7 @@ Click on the link to go to the download page. The extraction password is provide
 | ----------------------------- | ------------------------------------------------------------------------ | -------- |
 | **KeenTools V2025.2.0**       | [Download](https://pan.baidu.com/s/18ouY0kYZeXhdAuSJEnbYZA?pwd=ikhh)     | `ikhh`   |
 | **KeenTools V2024.3.0**       | [Download](https://pan.baidu.com/s/18_aoYoH7Zp8wCjaz1IT07Q?pwd=sddg)     | `sddg`   |
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

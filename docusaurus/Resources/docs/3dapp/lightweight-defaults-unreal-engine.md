@@ -39,7 +39,7 @@ Be sure to check it out!
 
 -   [Lightweight Defaults | Fab](https://www.fab.com/ja/listings/73947669-93da-417f-bbf4-e8f1cab933fb)
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

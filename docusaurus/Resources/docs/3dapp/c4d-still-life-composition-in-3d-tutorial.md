@@ -24,13 +24,13 @@ C4D still-life 3D scene rendering tutorial Domestika – Still-Life Composition 
 - Subtitles: Spanish with English subtitles
 - Format: MKV, 3840×2160
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Main Course | [Baidu Netdisk Download](https://pan.baidu.com/s/1XAYtyMvfpSumC3K6BxfauA?pwd=4r6a) | 4r6a |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

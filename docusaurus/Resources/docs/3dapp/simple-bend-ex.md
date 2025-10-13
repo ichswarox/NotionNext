@@ -76,7 +76,7 @@ From creating curved walls and organic shapes to bending character limbs and env
 
 The **Simple Bend Ex** plugin is an invaluable tool for any Blender artist working with mesh deformation. With its enhanced capabilities and user-friendly interface, this addon streamlines the process of creating bent and curved geometries while maintaining the flexibility needed for professional 3D workflows.
 
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -85,7 +85,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Simple Bend Ex V1.1.0**  | [Download from Baidu Netdisk](https://pan.baidu.com/s/1g5d0BBUsMWzczu6uqbb0hA?pwd=u22w) | `u22w`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

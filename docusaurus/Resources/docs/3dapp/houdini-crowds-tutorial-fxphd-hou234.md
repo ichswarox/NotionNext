@@ -64,13 +64,13 @@ This course, taught by VFX supervisor Charles Chorein, provides a comprehensive 
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |---------|---------------|----------|
 | Full Course | [Download from Baidu Pan](https://pan.baidu.com/s/1A3lbDRN4dUDstq81QyCuBQ?pwd=utn6) | utn6 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

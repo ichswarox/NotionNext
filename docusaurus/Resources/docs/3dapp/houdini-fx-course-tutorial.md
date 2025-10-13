@@ -66,13 +66,13 @@ This comprehensive course thoroughly covers Houdini knowledge points, helping yo
 | Language | English audio with AI-accurate Chinese/English subtitles |
 | Size | 164GB |
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Platform | Link | Price |
 |----------|------|-------|
 | Official Website | [https://www.gfxcamp.com/houdini-fx-course/](https://www.gfxcamp.com/houdini-fx-course/) | $35 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

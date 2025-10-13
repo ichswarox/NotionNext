@@ -132,7 +132,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Procedural Cloth Sewing Toolbox V0.35** | [Download](https://pan.baidu.com/s/1TXYXYtg7RWCESOlL1LHJIA?pwd=heci) | `heci`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

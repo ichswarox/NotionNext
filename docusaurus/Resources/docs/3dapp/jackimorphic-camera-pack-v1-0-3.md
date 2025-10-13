@@ -61,15 +61,14 @@ Jackimorphic Camera Pack is a camera setup designed for people who have used a r
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Jackimorphic Camera Pack V1.0.3 | [Baidu Netdisk](https://pan.baidu.com/s/1Fv-9kQ7XjaF9OyHl0J_jEg?pwd=vr8v) | vr8v |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-
 _Last updated: Sep 23 2025_

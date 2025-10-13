@@ -44,7 +44,7 @@ Motion Tools Pro is an AE script developed by Motion Design School that can adju
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
@@ -53,7 +53,7 @@ Motion Tools Pro is an AE script developed by Motion Design School that can adju
 | Motion Tools Pro V2.0.8 | [Pan Download](https://pan.baidu.com/s/15BTglRMTETskIxHK2GToGQ?pwd=qfvx) | qfvx |
 | Motion Tools | [Pan Download](https://pan.baidu.com/s/1-e5oaNNSsTgC_u09JUME5Q) | 5kku |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

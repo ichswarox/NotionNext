@@ -139,7 +139,7 @@ When sharing your work, include relevant keywords such as:
 ---
 
 *Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
-## Download Information
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 **Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/18GtQsW787yXFqbsFjPxMYQ?pwd=aqtr)**
@@ -147,7 +147,7 @@ When sharing your work, include relevant keywords such as:
 Extraction code: aqtr
 :::
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -26,13 +26,13 @@ Blender kids and children 3D character models Humano – Vol.10 Kids. Contains 2
 - Different file formats included
 - Shown accessories included
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Main Package | [Baidu Netdisk Download](https://pan.baidu.com/s/1XnrYZanixyiaOT2oKq2lDA?pwd=uv22) | uv22 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -83,7 +83,7 @@ The **AE Script - 1850+ MG Animation Text Title Graphic Background Transition Mo
 
 Whether you're a freelancer, content creator, or part of a production studio, this script will significantly enhance your animation capabilities while reducing production time and effort.
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

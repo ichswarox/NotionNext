@@ -133,7 +133,7 @@ When sharing your work, incorporate relevant keywords such as:
 - Include technical specifications and usage tips
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -142,7 +142,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Shy Bar v1.2.0.2**       | [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1TeRskGRirGWMuJ1N51pflw?pwd=2tts) | `2tts`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

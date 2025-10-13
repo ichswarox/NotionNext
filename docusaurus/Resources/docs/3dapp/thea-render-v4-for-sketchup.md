@@ -20,13 +20,13 @@ Thea Render is a physically-based global illumination renderer of high quality. 
 1.  Install `TheaForSketchUp.exe`.
 2.  Copy `Thea4SU_core.so` from the replacement folder to `C:\ProgramData\SketchUp\SketchUp 20xx\SketchUp\Plugins\Thea4SU_files`.
 
-### Download Links
+### 🐌Free Slow Download Links
 
 | Link                                                              | Password |
 | ----------------------------------------------------------------- | -------- |
 | [Baidu Pan](https://pan.baidu.com/s/1vu2dBIHyjVh54nj--zukJA?pwd=8thb) | `8thb`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

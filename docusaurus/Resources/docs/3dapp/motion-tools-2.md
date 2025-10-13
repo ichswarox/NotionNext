@@ -39,7 +39,7 @@ Motion Tools Pro is an After Effects script developed by Motion Design School. I
   - In Preferences, under Edit—Preferences—General, check "Allow Scripts to Write Files and Access Network".
   - The script might not support your AE version (less likely).
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 | File                       | Download Link                                                              | Password |
@@ -49,7 +49,7 @@ Motion Tools Pro is an After Effects script developed by Motion Design School. I
 | **Motion Tools**             | [Download](https://pan.baidu.com/s/1-e5oaNNSsTgC_u09JUME5Q)                 | `5kku`   |
 :::
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

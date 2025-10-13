@@ -27,7 +27,7 @@ This collection is a compilation of 99 materials created as part of personal stu
 - Created with Substance Designer for professional quality
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::

@@ -51,14 +51,14 @@ The procedural particle system nodes and XPBD Physics nodes provide unmatched co
 </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |---------|---------------|----------|
 | V3.5 | [Download from Baidu Pan](https://pan.baidu.com/s/1AUPW_ZUA_fwikVyblJAL2A?pwd=c429) | c429 |
 | V3.0 | [Download from Baidu Pan](https://pan.baidu.com/s/1P2UbQocepk6ftJiWgNu3GQ?pwd=sjtq) | sjtq |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

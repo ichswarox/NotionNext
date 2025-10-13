@@ -26,13 +26,13 @@ Coloso CSP Master Figure Drawing: Capturing Natural Anatomy from Every Angle tut
 - Language subtitles: Japanese audio with AI-accurate Chinese/English/Japanese subtitles
 - Size: 8.7GB
 
-## Download Links
+## 🐌Free Slow Download Links
 
 | Version | Download Link | Password |
 |--------|---------------|----------|
 | Main Course | [Baidu Netdisk Download](https://pan.baidu.com/s/1XnrYZanixyiaOT2oKq2lDA?pwd=uv22) | uv22 |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

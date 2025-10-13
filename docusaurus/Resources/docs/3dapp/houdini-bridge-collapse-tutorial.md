@@ -44,7 +44,7 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Bridge Collapse in Houdini** | [Download](https://pan.baidu.com/s/1f6kw9nTYpDEnARwynLx9BA?pwd=ufsr) | `ufsr` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

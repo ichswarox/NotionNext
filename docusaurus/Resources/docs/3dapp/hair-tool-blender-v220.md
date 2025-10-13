@@ -65,7 +65,7 @@ The tool is especially useful for:
 Hair Tool supports various customization options, allowing users to adjust the thickness, segmentation, and overall structure of the generated hair. The resulting mesh can be further sculpted, textured, and rendered using standard Blender tools, making it a versatile solution for character artists across different skill levels.
 
 <!-- The Last Part-Download -->
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -79,7 +79,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **V2.46** | [Download](https://pan.baidu.com/s/1RSF8PyY3ook67Q8IurMa9g?pwd=pbea) | `pbea` |
 | **V2.30** | [Download](https://pan.baidu.com/s/1U97pZd50_WUewWZ5BuHS0A) | `wnkt` |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

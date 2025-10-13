@@ -43,7 +43,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
-## Download Links
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -53,7 +53,7 @@ Click on the link to go to the download page. The extraction password is provide
 | ---------------------------- | -------------------------------------------------------------------------- | -------- |
 | **One-Click PBR Pro V0.8.1** | [Download](https://pan.baidu.com/s/1qwLLCvj4BoMHrKONv_wtsA?pwd=pi91)        | `pi91`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

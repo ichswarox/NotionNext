@@ -57,7 +57,7 @@ Blur effect along the mask path with full control in After Effects.
 |------|----------|
 | Aescripts PathBlurFX V1.0 | [Baidu Netdisk Download](https://pan.baidu.com/s/1rBlvC5D_SEsWBO5F0ZVJ5A?pwd=f2jk) | f2jk |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -30,7 +30,7 @@ A fully rigged dragon 3D model with textures and materials in Maya format. This 
 
 The Tyrant Dragon Maya Rig includes a complete model with professional sculpting, textures, rigging, shaders, and lighting setup by Truong. This comprehensive asset provides everything needed to animate a powerful dragon character in your 3D projects.
 
-## Download Links
+## 🐌Free Slow Download Links
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
@@ -39,7 +39,7 @@ Click on the link to go to the download page. The extraction password is provide
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **The Tyrant Dragon Maya Rig** | [Download from Baidu Netdisk](https://pan.baidu.com/s/1pNSqz5H6kHG8GMpZq5ajPg?pwd=n89x) | `n89x`   |
 
-## Direct Download Link
+## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
