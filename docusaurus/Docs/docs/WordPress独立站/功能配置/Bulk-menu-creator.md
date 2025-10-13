@@ -1,1 +1,0 @@
-https://meowapps.com/wp-retina-2x/tutorial/

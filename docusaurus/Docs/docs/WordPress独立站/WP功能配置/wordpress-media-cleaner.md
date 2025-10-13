@@ -1,3 +1,10 @@
+---
+title: 清理未引用图
+description: "学习如何使用 Media Cleaner 插件安全有效地清理 WordPress 网站中未使用的图片，优化服务器存储空间和网站维护效率。"
+tags: ["WordPress", "图片清理", "Media Cleaner", "网站优化", "性能优化", "插件"]
+slug: /wordpress-media-cleaner
+---
+
 # WordPress 清理未引用图片
 使用 Media Cleaner 插件
 ## 概述
@@ -89,4 +96,3 @@
 - **Clean Media**: 专注于媒体库管理，提供批量操作
 - **WP Media Folder**: 不仅可以清理，还提供高级媒体库管理功能
 - **File Cleaner**: 可以清理各种类型的未使用文件，不仅限于媒体
-

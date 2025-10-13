@@ -1,3 +1,0 @@
-Variation Swatche
-变体sku显示为图片
-插件Variation Swatches for WooCommerce

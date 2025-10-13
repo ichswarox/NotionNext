@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '跨境全链路-永久会员',
-  tagline: 'Download Software, 3D Models, Video Templates, Music and More',
+  tagline: '分享跨境电商全链路知识，涵盖AI工具、网站运营、落地页优化、独立站搭建等。',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://www.ucards.store',
+  url: 'https://docs.ucards.store',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
