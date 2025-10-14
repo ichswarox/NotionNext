@@ -3,6 +3,7 @@ title: "UVPackmaster PRO v3.4.4 - UV Map Packing Plugin for Blender 2.8+"
 description: "An efficient and fully-featured UV packing engine that provides CPU and CUDA computing methods for smarter packing"
 tags: [blender, blender-plugin, uvpackmaster, uv-plugin]
 slug: /uvpackmaster-pro
+---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
