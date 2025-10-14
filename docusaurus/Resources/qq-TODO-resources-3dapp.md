@@ -34,7 +34,5 @@ and Post structure:
     Don't add <div class just use docusaurus markdown format.
 9.  don't use js script to process the work or precess markdown file, do it one by one.
 10. check of download link is in the last part.
-11. /slug and the markdow name should be the same
+11. /slug and the markdow name should be the same, and don't include version number
 12. finished file go to /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/finished
-
-        

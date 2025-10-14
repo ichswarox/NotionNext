@@ -63,3 +63,8 @@ Click on the link to go to the download page. The extraction password is provide
 | **Creative Flow V1.7.7**  | [Download](https://pan.baidu.com/s/1DpwKxn3NRA9a_TA6NXh1dw?pwd=gqxb)        | `gqxb`   |
 | **Creative Flow V1.7.4**  | [Download](https://pan.baidu.com/s/1hrLy6WwZDj3iNBOQC1M8JA?pwd=eqkg)        | `eqkg`   |
 | **Creative Flow V1.6.5**  | [Download](https://pan.baidu.com/s/1plFiiWu6PpzYA1OOZjgRfg?pwd=7ymu)        | `7ymu`   |
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

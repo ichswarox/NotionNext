@@ -1,4 +1,3 @@
----
 title: "Phone Link v1.1.0 - Real-time Mobile Data Connection Plugin for Blender"
 description: "Phone Link v1.1.0 is a powerful Blender plugin that enables real-time motion data from your mobile device directly into Blender. Control objects and drive properties in real time with iOS or Android devices."
 tags: ["Blender", "Phone Link", "Blender plugin", "real-time motion data", "mobile device control", "3D animation", "motion capture"]
@@ -140,12 +139,8 @@ When sharing your work, include relevant keywords such as:
 
 *Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
 ## 🐌Free Slow Download Links
-
-:::warning[Download]
 **Download: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/18GtQsW787yXFqbsFjPxMYQ?pwd=aqtr)**
 
-Extraction code: aqtr
-:::
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

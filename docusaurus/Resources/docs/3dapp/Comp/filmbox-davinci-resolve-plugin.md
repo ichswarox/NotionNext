@@ -10,13 +10,14 @@ import TabItem from '@theme/TabItem';
 
 <div class="updated-date">Last updated: Oct 14 2025</div>
 
-![Filmbox Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/filmbox-emulation.jpg)
 
 # Filmbox - Professional Film Emulation Plugin for DaVinci Resolve
+![filmbox-ol.webp](https://list.ucards.store/d/img/filmbox-ol.webp)
 
 ## Overview
 
 Filmbox is a professional film emulation plugin for DaVinci Resolve that provides authentic motion picture film emulation with advanced processing and detailed controls. Built from empirical data to be an organic and comprehensive embodiment of photochemical imaging.
+![filmbox-ku.webp](https://list.ucards.store/d/img/filmbox-ku.webp)
 
 ## Key Features
 
@@ -39,15 +40,18 @@ Filmbox reproduces the tonal distribution of grain across the density of each ch
 ## Film Stock Library
 
 Filmbox offers an extensive collection of film stocks across multiple photochemical systems:
+![filmbox-oq.webp](https://list.ucards.store/d/img/filmbox-oq.webp)
 
 ### Vision3 ECN-2
 Kodak's modern motion picture negatives, ubiquitous in contemporary film cinema. Refined grain, amber halation, with color and tonal rendition that have defined cinema. Shown here as a contact print, but also available as a telecine-style transfer, log scan, or anything in between.
 
+
 ### Bleach Bypass ECN-2
 Motion picture negative processed without the bleach step to trap metallic silver in the emulsion. This boosts contrast, mutes colors, and enhances grain for a steel-toned look. Famously associated with films like Saving Private Ryan and Minority Report. Presented in 10 strengths. Looks especially good when paired with Scatter diffusion.
-
+![filmbox-sh.webp](https://list.ucards.store/d/img/filmbox-sh.webp)
 ### Ektachrome ECN-2
 Ektachrome is known as a photo reversal stock, but the motion picture version is often cross-processed in motion picture chemistry to produce a wild negative with crisp micro-contrast, enhanced grain and expressive tones. Famously associated with Euphoria. Presented here in multiple tailor-made preparations.
+![filmbox-ed.webp](https://list.ucards.store/d/img/filmbox-ed.webp)
 
 ### Color Photo C-41
 Still‑photo negatives spanning consumer and pro films that define the photo‑print look: from controlled tones of portra to the grit of street photography stocks to the amber aura of cinestill. Presented as a chromagenic print, or a lab scan or anything in between.
@@ -76,47 +80,6 @@ Filmbox provides simple creative controls that tune the image like analog physic
 - **Printer Lights**: Adjust the color balance of the image with controls that behave like analog printer lights.
 - **True Exposure**: Exposure and color balance controls that behave like their on-set counterparts.
 
-## Professional Features
-
-:::note
-**Bring your own color**: Bypass Filmbox color and use grain, halation, acutance and more with your own color processing.
-:::
-
-:::note
-**ACES & RCM**: Fully compatible with ACES 1.3/2.0 and Resolve Color Management without compromising accuracy.
-:::
-
-:::note
-**Multi-node grading**: Split into 'negative-only' and 'print-only' nodes and grade between them, like a film scan DI.
-:::
-
-:::note
-**HDR**: Consistent across SDR/HDR; simple control unrolls highlight latitude up to 1000 nits with filmic character.
-:::
-
-:::note
-**Performance Optimized**: Real-time 4K grading on a MacBook Pro. Multi-GPU support for blazing render speeds.
-:::
-
-:::note
-**Input spaces**: Supports every major camera and intermediate space; accepts generic Rec.709 or P3 for approximate emulation.
-:::
-
-:::note
-**Display spaces**: Supports all major mastering standards and color-managed outputs, including white-point simulation.
-:::
-
-:::note
-**LUT export with metadata**: Exports 33×/65× LUTs of the active setup, embedding all Filmbox settings as metadata.
-:::
-
-:::note
-**Platforms**: Runs on DaVinci Resolve, Adobe Premiere Pro, and Baselight across all operating systems.
-:::
-
-:::note
-**Live on-set preview**: Supports Resolve Live to processes log camera feeds for realtime on-set preview.
-:::
 
 ## System Requirements
 
@@ -143,12 +106,12 @@ Filmbox provides simple creative controls that tune the image like analog physic
 
 ## 🐌Free Slow Download Links
 
-| Platform | Download Link |
-|----------|---------------|
-| DaVinci Resolve | [Download Filmbox Plugin](/filmbox/buy.html) |
-| User Guide | [Filmbox Pro User Guide](/images/filmbox/features/Filmbox%20User%20Guide.pdf) |
+This is a Premium Resources.
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+
+Ref Link: https://videovillage.com/filmbox/

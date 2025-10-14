@@ -49,10 +49,11 @@ If the script isn't working:
 
 <!-- The Last Part-Download -->
 ## 🐌Free Slow Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **AE Pathfinder V1.0.06**  | [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci) | `gcci`   |
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
