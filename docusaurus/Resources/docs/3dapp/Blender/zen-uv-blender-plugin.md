@@ -33,7 +33,7 @@ Zen UV is not just a set of tools, it is a ready-to-use pipeline for fast creati
 3. In the plugin settings, click `Install Zen UV Core Library`
 4. Navigate to the `Zen UV – Core Library` folder and install the core library file corresponding to your version
 
-### Download
+## 🐌Free Slow Download Links
 
 | Version | Link | Password |
 | :--- | :--- | :--- |
@@ -44,7 +44,6 @@ Zen UV is not just a set of tools, it is a ready-to-use pipeline for fast creati
 | V4.5.1.0 | [Download](https://pan.baidu.com/s/1QJ7LVpRYTD9gP4mX4O2VUg?pwd=6x35) | 6x35 |
 | V3.1.1 | [Download](https://pan.baidu.com/s/12zKzoWJTu8PJ0S19mr81dw?pwd=hshm) | hshm |
 
-:::info
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

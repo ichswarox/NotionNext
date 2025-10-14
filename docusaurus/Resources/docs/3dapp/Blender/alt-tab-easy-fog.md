@@ -60,7 +60,6 @@ This plugin allows you to simulate realistic 3D fog, explosions, smoke, magic, a
 | V2.3.0 | [Pan Download](https://pan.baidu.com/s/1OQNM8Te5N9xjgzXHMWnimQ?pwd=95mt) | 95mt |
 | V1 | [Pan Download](https://pan.baidu.com/s/16SNIe3liEA_4xRb717g1hg?pwd=px3y) | px3y |
 
-:::info
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

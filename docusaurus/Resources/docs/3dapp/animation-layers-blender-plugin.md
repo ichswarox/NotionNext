@@ -5,6 +5,9 @@ tags: [Blender, Blender Plugin, Animation Plugin]
 slug: /animation-layers-blender-plugin
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Last updated: Oct 10 2025
 
 ![Animation Layers for Blender](https://www.gfxcamp.com/wp-content/uploads/2022/09/Animation-Layers.jpg)
@@ -45,7 +48,7 @@ Animation Layers is an addon that simplifies the work with the NLA Editor into a
 </TabItem>
 </Tabs>
 
-### Download
+## 🐌Free Slow Download Links
 
 | Version | Link | Password |
 | :--- | :--- | :--- |
@@ -55,7 +58,6 @@ Animation Layers is an addon that simplifies the work with the NLA Editor into a
 | V2.1.8.6 | [Download](https://pan.baidu.com/s/1DqAMLGQcRtjbhLAOVu2YhQ?pwd=66hq) | 66hq |
 | V2.1.3.0 | [Download](https://pan.baidu.com/s/1Tn_2eQ1cxEUiTG5KUWWong?pwd=h97m) | h97m |
 
-:::info
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

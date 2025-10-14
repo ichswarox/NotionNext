@@ -28,13 +28,12 @@ C4D2HOU seamlessly bridges Cinema 4D and Houdini. Export/Import Geometry, spline
 
 1. Copy the `c4d2hou` folder into your Cinema 4D installation directory's `plugins` folder.
 
-### Download
+## 🐌Free Slow Download Links
 
 | Description | Link | Password |
 | :--- | :--- | :--- |
 | C4D2HOU V1.04 | [Download](https://pan.baidu.com/s/1Lm7LvOHWhJkafsSSDDFAXg?pwd=apun) | apun |
 
-:::info
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

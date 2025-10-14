@@ -5,6 +5,9 @@ tags: [Blender, Blender Plugin, Animation Plugin]
 slug: /blender-animation-layers
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Last updated: Oct 10 2025
 
 ![Blender Animation Layers Plugin](https://www.gfxcamp.com/wp-content/uploads/2022/09/Animation-Layers.jpg)
@@ -29,7 +32,7 @@ Go to Edit > Preferences > Add-ons, click the dropdown in the top right, select 
 </TabItem>
 </Tabs>
 
-### Download
+## 🐌Free Slow Download Links
 
 | Version | Link | Password |
 | :--- | :--- | :--- |
@@ -37,3 +40,8 @@ Go to Edit > Preferences > Add-ons, click the dropdown in the top right, select 
 | V2.2.6 | [Download](https://pan.baidu.com/s/1YrN5pqvNWWSfWhXQZDLpIA?pwd=gxqw) | gxqw |
 | V2.1.9.7 | [Download](https://pan.baidu.com/s/1j5J1UMfHVMwHgGD8VvnbcA?pwd=fi9e) | fi9e |
 | V2.1.8.6 | [Download](https://pan.baidu.com/s/1DqAMLGQcRtjbhLAOVu2YhQ?pwd=66hq) | 66hq |
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

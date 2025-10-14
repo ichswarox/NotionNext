@@ -5,6 +5,9 @@ tags: [3D Stager, Stager Chinese Version, Stager English Version, Substance, Sub
 slug: /substance-3d-stager
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Last updated: Oct 10 2025
 
 ![Substance 3D Stager](https://www.gfxcamp.com/wp-content/uploads/2021/06/Substance-3D-Stager-v1.jpg)
@@ -52,7 +55,7 @@ To change the installation location:
 1. Open the `driver.xml` file inside the `products` folder with a text editor.
 2. Replace `C:\Program Files\Adobe` with your desired installation directory.
 
-### Download
+## 🐌Free Slow Download Links
 
 | Version | Platform | Link | Password |
 | :--- | :--- | :--- | :--- |
@@ -64,7 +67,6 @@ To change the installation location:
 | v1.3.2 | Win | [Download](https://pan.baidu.com/s/1_ZPGj1IBKHbmWDLbz8_2zA?pwd=b5yt) | b5yt |
 | v1.0.1 | Mac | [Download](https://pan.baidu.com/s/1jebLkHaGzQxyDU6FVldnOQ) | stfa |
 
-:::info
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

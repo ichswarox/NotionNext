@@ -4,7 +4,9 @@ description: "Explore SDFusion, a Blender addon that simplifies non-destructive 
 tags: ['Blender', 'addon', 'SDFusion', 'SDF', 'boolean', 'remesh', 'hard-surface modeling', 'non-destructive']
 slug: /blender-sdfusion-addon
 ---
-![SDFusion: An Intuitive SDF-like Modeling Toolkit for Blender](../../static/img/SDFusion.jpg)
+![sdfusion-or.webp](https://list.ucards.store/d/img/sdfusion-or.webp)
+
+Ref Link: https://superhivemarket.com/products/sdfusion
 
 **SDFusion**, a new toolkit addon by developer Hinata Fugu, brings an intuitive, SDF (Signed Distance Field)-like workflow for non-destructive boolean and remeshing operations to Blender.
 

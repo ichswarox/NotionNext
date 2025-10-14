@@ -19,13 +19,12 @@ In this course, you'll learn to leverage the art of video editing to increase yo
 - **Subtitles:** English (no subtitles)
 - **Format:** MP4, 1920×1080
 
-### Download
+## 🐌Free Slow Download Links
 
 | Description | Link | Password |
 | :--- | :--- | :--- |
 | Baidu Netdisk | [Download](https://pan.baidu.com/s/102O7MvQMbTllk5RJRI_pZQ?pwd=w1nh) | w1nh |
 
-:::info
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
