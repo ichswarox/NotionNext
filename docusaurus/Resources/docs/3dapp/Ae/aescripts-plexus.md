@@ -71,7 +71,7 @@ Plexus is a next-generation particle engine for After Effects that allows you to
 
 CS6, CC, CC 2014, CC 2015, CC 2015.3, CC 2017, CC 2018, CC 2019, 2020, 2021, 2022, 2023, 2024, 2025
 
-## Download Versions
+## 🐌Free Slow Download Links Versions
 
 :::warning[Download Notice]
 Click on the links to go to the download pages. The extraction passwords are provided next to each link.

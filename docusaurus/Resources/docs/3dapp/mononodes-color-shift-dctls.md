@@ -79,7 +79,7 @@ This is the official full version with no watermarks or black spots. It includes
 - Tutorials: Installation steps + official video tutorial (Chinese subtitles)
 - Music: Does not include background music
 
-## Download
+## 🐌Free Slow Download Links
 [Download Link](https://pan.hefamily.net/s/YOOoCy)
 
 ## 🚀Direct Download Link

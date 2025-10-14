@@ -3,7 +3,7 @@ title: Streamline Your Workflow with Aescripts Auto Crop 3 for After Effects
 sidebar_label: Aescripts Auto Crop 3
 description: Auto Crop is an essential tool for After Effects that allows you to instantly crop your composition to the perfect size based on its contents.
 tags: [After Effects, Auto Crop, crop, composition, AE script, motion graphics, aescripts]
-slug: /aescripts-auto-crop-3
+slug: /auto-crop-script
 ---
 
 # Streamline Your Workflow with Aescripts Auto Crop 3 for After Effects
@@ -41,11 +41,12 @@ This script is compatible with a wide range of Adobe After Effects versions on b
 
 ## 🐌Free Slow Download Links
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | Platform | Version | Download Link | Password |
 |---|---|---|---|
 | **Windows** | v3.2.1.1 | [Download](https://pan.baidu.com/s/1AHkxSb5g3w-2oH2qfTOK8w?pwd=qcsj) | `qcsj` |
 | **Mac** | v3.1.3 | [Download](https://pan.baidu.com/s/1kjSkHWe6LOQtx_HFsgjkCQ?pwd=7m5l) | `7m5l` |
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

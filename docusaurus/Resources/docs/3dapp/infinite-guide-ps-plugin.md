@@ -26,7 +26,7 @@ Infinite Guide is a Photoshop plugin that walks you through the entire retouchin
 
 - Photoshop 2022 or later versions
 
-## Download
+## 🐌Free Slow Download Links
 
 :::warning[Download Notice]
 Click on the link to go to the download page. The extraction password is provided next to the link.

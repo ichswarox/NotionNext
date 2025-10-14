@@ -34,7 +34,7 @@ In this advanced Houdini destruction course, you'll learn to shake the earth and
 - Debris generation and particle systems
 - Dust and volume rendering techniques
 
-## Download
+## 🐌Free Slow Download Links
 
 :::warning[Download Notice]
 Click on the link to go to the download page. The extraction password is provided next to the link.

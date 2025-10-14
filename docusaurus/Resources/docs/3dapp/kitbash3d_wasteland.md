@@ -12,7 +12,7 @@ slug: /kitbash3d_wasteland
 <!--Second Part-This is First Banner -->
 ![Wasteland Industrial Ruins 3D Models for C4D/MAX/FBX/OBJ/Maya/Blender](https://www.gfxcamp.com/wp-content/uploads/2020/01/Kitbash3D-Wasteland.jpg)
 
-## Download
+## 🐌Free Slow Download Links
 [Chat For Details](https://wa.me/8613237610083)
 
 ## Description

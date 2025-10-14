@@ -33,7 +33,7 @@ Unlike other environment creation courses, this course doesn't just teach you "h
 This tutorial is in **English**.
 :::
 
-## Download Link
+## 🐌Free Slow Download Links Link
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

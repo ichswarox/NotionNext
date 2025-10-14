@@ -28,7 +28,7 @@ Super 3D is a powerful extension for After Effects (version 24.1 and newer) that
 
 - After Effects 2025, 2024
 
-## Download Versions
+## 🐌Free Slow Download Links Versions
 
 :::warning[Download Notice]
 Click on the links to go to the download pages. The extraction passwords are provided next to each link.

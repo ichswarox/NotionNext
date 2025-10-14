@@ -34,7 +34,7 @@ This material is included in:
 
 PDF Preview: [https://pan.baidu.com/s/1uH6sSHLhrjVq2Y5Nf-zJbA](https://pan.baidu.com/s/1uH6sSHLhrjVq2Y5Nf-zJbA) Extraction Code: 54vk
 
-## Download Link
+## 🐌Free Slow Download Links Link
 
 :::warning[Download]
 [Download Living Room Sofa 3D Models - Evermotion Archmodels Vol.197 (3DS MAX Format)](https://pan.baidu.com/s/1uH6sSHLhrjVq2Y5Nf-zJbA)

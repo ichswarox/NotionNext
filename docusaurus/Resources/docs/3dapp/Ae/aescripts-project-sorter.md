@@ -42,7 +42,7 @@ Project Sorter is a powerful script that helps you organize your project media i
   - In Preferences, under Edit—Preferences—General panel, check "Allow Scripts to Write Files and Access Network"
   - Script may not support your AE version (less likely)
 
-## Download
+## 🐌Free Slow Download Links
 
 :::warning[Download Notice]
 Click on the link to go to the download page. The extraction password is provided next to the link.

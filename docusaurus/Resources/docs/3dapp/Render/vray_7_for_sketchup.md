@@ -42,10 +42,6 @@ V-Ray and SketchUp make the ideal team. SketchUp is the world's most widely used
 
 <!-- The Download Part-->
 ## 🐌Free Slow Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **Download V7.10.02 Version** | [Download V7.10.02](https://pan.baidu.com/s/11SEuTE5297vC0v7DDsR9Gg?pwd=6ize) | `6ize`   |

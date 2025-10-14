@@ -47,7 +47,7 @@ xCloner is an After Effects plugin that clones any type of layer exceptionally f
   </TabItem>
 </Tabs>
 
-## Downloads
+## 🐌Free Slow Download Linkss
 
 | File | Download Link | Password |
 | ---- | ------------- | -------- |

@@ -54,7 +54,7 @@ This comprehensive course covers everything you need to know about creating prof
 - **Hardware**: Modern computer with at least 8GB RAM recommended
 
 <!-- The Last Part-Download -->
-## Download Course Materials
+## 🐌Free Slow Download Links Course Materials
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
 :::

@@ -59,7 +59,7 @@ Blender Physical Volume Generator v1.1 allows you to create, customize, and cont
 </TabItem>
 </Tabs>
 
-## Download
+## 🐌Free Slow Download Links
 
 | File | Link | Password |
 |------|----------|

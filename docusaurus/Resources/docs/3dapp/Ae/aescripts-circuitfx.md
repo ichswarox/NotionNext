@@ -29,12 +29,13 @@ Beyond just the circuit lines and circles, circuitFX also generates components l
 
 ## 🐌Free Slow Download Links
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | Version | Download Link | Password |
 |---|---|---|
 | **v1.91** | [Download](https://pan.baidu.com/s/1wBwDo7qPKu3X2UKquUoUxg?pwd=4u11) | `4u11` |
 | **v1.90** | [Download](https://pan.baidu.com/s/1F1Mb6_u1bSTVQ9kc1-0c8w?pwd=ix8g) | `ix8g` |
 
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

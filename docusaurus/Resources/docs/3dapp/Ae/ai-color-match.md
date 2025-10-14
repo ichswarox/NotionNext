@@ -33,11 +33,7 @@ Professional color correction and grading is now accessible for all. Easily colo
 ### Premiere Pro
 - 2024, 2023, 2022
 
-## Downloads
-
-:::warning[Download]
-Click on the links to go to the download pages. The extraction passwords are provided next to each link.
-:::
+## 🐌Free Slow Download Linkss
 
 | File | Download Link | Password |
 | ---- | ------------- | -------- |
@@ -45,29 +41,7 @@ Click on the links to go to the download pages. The extraction passwords are pro
 | **AI Color Match V1.3.2 Win** | [Download](https://pan.baidu.com/s/12Io6uDUErZFlJgjQe-2CQA?pwd=wbfq) | `wbfq` |
 | **AI Color Match V1.3.0 Win** | [Download](https://pan.baidu.com/s/1_RMs1kAeXz2ModH7VXmPEQ?pwd=tyg6) | `tyg6` |
 
-## Installation Instructions
-
-<Tabs>
-  <TabItem value="windows" label="Windows Installation" default>
-    <ol>
-      <li>Double-click to install "BSKL AI Color Match Installer.exe" (do not modify the default path)</li>
-      <li>Installation process requires online file download, which may take some time</li>
-      <li>Copy "bskl_aicolormatch.aex" to "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\BSKL" to replace existing files</li>
-    </ol>
- </TabItem>
-  <TabItem value="mac" label="Mac Installation">
-    <ol>
-      <li>Download and install the Mac version directly</li>
-    </ol>
-  </TabItem>
-  <TabItem value="troubleshooting" label="Troubleshooting">
-    <ul>
-      <li>Do not use Chinese version of AE as expressions may cause errors</li>
-      <li>In Preferences → General panel, check "Allow Scripts to Write Files and Access Network"</li>
-      <li>Ensure the plugin supports your software version (rarely an issue)</li>
-      <li>If encountering installation errors (12007), try using a VPN</li>
-    </ul>
-  </TabItem>
-</Tabs>
-
-
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

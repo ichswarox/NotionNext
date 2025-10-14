@@ -21,7 +21,7 @@ This course teaches the entire workflow of creating a modern interior scene in B
 - **Subtitles**: English subtitles
 - **Format**: MP4, 1920×1080
 
-## Download
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.
@@ -31,3 +31,8 @@ Click on the link to go to the download page. The extraction password is provide
 |------|---------------|----------|
 | **Creating a Modern House in Blender Course** | [Download](https://pan.baidu.com/s/1KIvwJgZjzhA-rzUXAbstWA?pwd=ga3z) | `ga3z` |
 
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -18,7 +18,7 @@ ZBrush is a digital sculpting, modeling, and painting software used to create hi
 1. Double-click to install `ZBrush_2026.0.0_Installer.exe`. Do not install to a path with Chinese characters
 2. Copy `xzblib0.dll` and `freetype.dll` to the installation directory, replacing existing files
 
-## Download
+## 🐌Free Slow Download Links
 
 
 

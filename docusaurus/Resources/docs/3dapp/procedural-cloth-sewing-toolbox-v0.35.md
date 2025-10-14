@@ -122,7 +122,7 @@ For installation issues or usage questions, refer to the included documentation 
 *Note: This addon is a third-party tool and is not affiliated with the Blender Foundation. "Blender" is a registered trademark of the Blender Foundation.*
 
 <!-- The Last Part-Download -->
-## Download Procedural Cloth Sewing Toolbox V0.35
+## 🐌Free Slow Download Links Procedural Cloth Sewing Toolbox V0.35
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

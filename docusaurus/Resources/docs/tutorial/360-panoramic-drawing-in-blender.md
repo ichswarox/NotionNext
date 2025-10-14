@@ -21,12 +21,12 @@ This tutorial shows different approaches to create a 360 panoramic drawing in Bl
 - **Subtitles**: English, no subtitles
 - **Format**: MP4, 1920×1080
 
-## Download Link
-
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
+## 🐌Free Slow Download Links Link
 | File                                | Download Link                                                              | Password |
 | ----------------------------------- | -------------------------------------------------------------------------- | -------- |
 | **360 Panoramic Drawing Tutorial**  | [Download](https://pan.baidu.com/s/14s5_vH_6HEGlZ5uCdSAyEw?pwd=sc24)        | `sc24`   |
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

@@ -48,10 +48,6 @@ Auto Apply Scale is a simple yet effective utility that will help you work bette
 
 ## 🐌Free Slow Download Links
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
-
 | Version | Download Link | Password |
 |---|---|---|
 | **V2.0** | [Download](https://pan.baidu.com/s/1hbnEEtdPYwBH-hMW6h1NUA?pwd=6uew) | `6uew` |
@@ -59,3 +55,8 @@ Click on the link to go to the download page. The extraction password is provide
 | **V1.3** | [Download](https://pan.baidu.com/s/1URVuHhQK--tlocNrZpKYbg?pwd=vnhv) | `vnhv` |
 | **V1.0** | [Download](https://pan.baidu.com/s/18bU6CmeRrjR1tRrpvs7Nfg?pwd=g3mr) | `g3mr` |
 
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

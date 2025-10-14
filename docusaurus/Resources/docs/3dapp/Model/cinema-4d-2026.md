@@ -24,10 +24,7 @@ Cinema 4D is a professional 3D animation, modeling, simulation, and rendering so
 5. If you have a legitimate Redshift subscription, copy `tbb.dll` and `xzlib0.dll` from Crack Files 2 instead. This won't affect your legitimate RS
 6. You can delete the Redshift folder in the C4D installation directory. The included RS is not cracked and won't work
 
-## Download
-
-
-
+## 🐌Free Slow Download Links
 [Download Cinema 4D 2026.0.0](https://pan.baidu.com/s/1Mp_yDbFdyMIHw8Yc5aoMyA?pwd=4m2p) 
 Password: `4m2p`
 

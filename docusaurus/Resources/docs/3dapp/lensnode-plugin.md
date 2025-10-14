@@ -12,7 +12,6 @@ Last updated: Oct 10 2025
 
 ![LensNode DaVinci](https://list.ucards.store/d/img/node-ur.webp)
 
-
 ## LensNode V1.0.2 Plugin for DaVinci Resolve
 
 LensNode is a plugin that allows you to precisely simulate various lens characteristics in DaVinci Resolve, such as lens distortion, Bloom soft light, chromatic aberration, edge blur, color shift, vignetting, and other effects. You can also combine different lens characteristics to create impossible lenses.
@@ -47,10 +46,10 @@ Intel Iris Pro Graphics, Intel UHD Graphics 630
 </TabItem>
 </Tabs>
 
-### Slow Speed Download Link
+## 🐌Free Slow Download Links
 Free Version with only MacOS Support.
 Mac Os version:
-[Slow Speed Download Link](https://list.neoxu.store/d/app/comp%20video/davinci/%E8%BE%BE%E8%8A%AC%E5%A5%87%E6%8F%92%E4%BB%B6%20LensNode%20v1.0.2%20Mac.dmg)
+[Download Links](https://list.neoxu.store/d/app/comp%20video/davinci/%E8%BE%BE%E8%8A%AC%E5%A5%87%E6%8F%92%E4%BB%B6%20LensNode%20v1.0.2%20Mac.dmg)
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

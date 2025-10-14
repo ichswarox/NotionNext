@@ -30,7 +30,7 @@ Archinteriors vol. 48 for Blender is a collection of 10 scenes in Scandinavian s
 This material is included in:
 - [Evermotion Archmodels/Archinteriors/Archexteriors 3D Models Collection (Updated)](https://www.gfxcamp.com/evermotion/)
 
-## Download Link
+## 🐌Free Slow Download Links Link
 
 :::warning[Download]
 [Download 10 Nordic Design Interior Scenes 3D Models - Evermotion Archinteriors Vol. 48 (3DS MAX/Blender Formats)](https://pan.baidu.com/s/1bbNEE4FyWe2E3VhEYFYp8w?pwd=k6i5)

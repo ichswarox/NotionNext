@@ -34,7 +34,7 @@ Revolutionary media browser for After Effects and Premiere Pro. Preview, apply, 
 ### Premiere Pro
 - 2024, 2023, 2022, 2021
 
-## Downloads
+## 🐌Free Slow Download Linkss
 
 :::warning[Download]
 Click on the links to go to the download pages. The extraction passwords are provided next to each link.

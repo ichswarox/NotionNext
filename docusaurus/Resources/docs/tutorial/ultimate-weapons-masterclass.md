@@ -33,7 +33,7 @@ This tutorial teaches the workflow for creating high-end AAA game weapon assets,
 - **Language/Subtitles**: English audio with AI-translated Chinese/English subtitles
 - **Size**: 24GB
 
-## Download
+## 🐌Free Slow Download Links
 [Chat For Details](https://wa.me/8613237610083)
 
 ## Tags

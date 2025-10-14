@@ -25,7 +25,7 @@ This addon could be a great help when creating low-poly assets.
 "Pixel Dot Drawer" is available for free on Gumroad. Be sure to check it out!
 :::
 
-## Download
+## 🐌Free Slow Download Links
 
 You can download the Pixel Dot Drawer addon from Kushiro's Gumroad page:
 

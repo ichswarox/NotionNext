@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 10 2025
 
-![Blender Animation Layers Plugin](https://www.gfxcamp.com/wp-content/uploads/2022/09/Animation-Layers.jpg)
+![AnimationLayer.webp](https://list.ucards.store/d/img/AnimationLayer.webp)
 
 Animation Layers is a Blender addon that simplifies your animation workflow. It allows you to quickly create, select, and edit animation layers, seeing the final result in real-time. You can easily add or remove layers and control their influence.
 

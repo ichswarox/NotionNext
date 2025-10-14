@@ -30,7 +30,7 @@ This package contains 225 video transition effects, including film strips, burn 
 - **Music**: Background music not included
 
 <!-- The Last Part-Download -->
-## Download
+## 🐌Free Slow Download Links
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

@@ -32,7 +32,7 @@ This advanced Houdini course is designed to give you the knowledge to be an effe
 - Problem-solving approaches for production challenges
 - Procedural workflow optimization
 
-## Download
+## 🐌Free Slow Download Links
 
 :::warning[Download Notice]
 Click on the link to go to the download page. The extraction password is provided next to the link.

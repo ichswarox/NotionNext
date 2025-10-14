@@ -69,9 +69,6 @@ Cleanup Master v1.1.0 is an essential tool for After Effects artists who regular
 
 Whether you're creating UI animations, infographics, or complex motion graphics projects, this script provides the professional tools needed to achieve optimal results with significantly reduced manual effort.<!-- The Last Part-Download -->
 ## 🐌Free Slow Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |

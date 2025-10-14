@@ -31,7 +31,7 @@ Creative Lighting represents a philosophy of image making that sees light as the
 - **Video Format**: MP4, 1920×1080 resolution
 
 <!-- The Last Part-Download -->
-## Download
+## 🐌Free Slow Download Links
 :::warning[Download]
 [Download Baidu Netdisk](https://pan.baidu.com/s/1VuavKlNgg_ODpee4sd9MvA?pwd=269x)
 

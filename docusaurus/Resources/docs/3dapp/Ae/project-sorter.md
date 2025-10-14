@@ -50,7 +50,7 @@ Sort your project media in Premiere Pro and After Effects! This script allows yo
   </TabItem>
 </Tabs>
 
-## Download
+## 🐌Free Slow Download Links
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

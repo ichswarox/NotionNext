@@ -7,7 +7,7 @@ slug: /c4d2hou-bridge-plugin
 
 Last updated: Oct 10 2025
 
-![C4D2HOU](https://www.gfxcamp.com/wp-content/uploads/2025/10/C4D2HOU.jpg)
+![c4d-ym.webp](https://list.ucards.store/d/img/c4d-ym.webp)
 
 C4D2HOU seamlessly bridges Cinema 4D and Houdini. Export/Import Geometry, splines, cameras, volumes. Async Operations, no UI blocks!
 

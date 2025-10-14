@@ -31,7 +31,7 @@ A lightweight notepad panel inside After Effects — write freeform notes, manag
 
 - After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018, CC 2017, CC 2015.3, CC 2015, CC 2014, CC
 
-## Downloads
+## 🐌Free Slow Download Linkss
 
 :::warning[Download]
 Click on the links to go to the download pages. The extraction passwords are provided next to each link.

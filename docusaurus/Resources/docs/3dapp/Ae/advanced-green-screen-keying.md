@@ -32,12 +32,14 @@ This tool is designed to enhance your workflow with powerful features like the "
 
 <!-- The Last Part-Download -->
 ## 🐌Free Slow Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
-:::
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
 | **After Keying v1.0.5**    | [Download v1.0.5](https://pan.baidu.com/s/1ZGFwcDUlEYc9qxAbNUH-8w?pwd=ykn9) | `ykn9`   |
 | **After Keying v1.0.4**    | [Download v1.0.4](https://pan.baidu.com/s/1qcdMNsNWMovo5HRu7FxUsQ)          | `ecdi`   |
 | **Tutorial**               | [Download Tutorial](https://pan.baidu.com/s/1zL1zgwyjLaZR7MYuBBcjfA)        |          |
+
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

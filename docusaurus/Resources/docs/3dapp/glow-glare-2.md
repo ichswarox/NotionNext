@@ -32,7 +32,7 @@ Supports Photoshop 2025, 2024.
 2. Restart Photoshop.
 3. You can find the plugin under the "Filter" (or "Extensions") menu at the top.
 
-## Download Link
+## 🐌Free Slow Download Links Link
 
 :::warning[Download]
 Click on the link to go to the download page. The extraction password is provided next to the link.

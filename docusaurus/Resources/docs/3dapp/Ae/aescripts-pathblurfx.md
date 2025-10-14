@@ -51,7 +51,7 @@ Blur effect along the mask path with full control in After Effects.
 </TabItem>
 </Tabs>
 
-## Download
+## 🐌Free Slow Download Links
 
 | File | Link | Password |
 |------|----------|

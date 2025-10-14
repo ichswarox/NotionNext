@@ -38,5 +38,5 @@ This course provides comprehensive instruction on creating high-quality visual s
 - Post-production compositing in After Effects
 - Complete workflow from modeling to final render
 
-## Download
+## 🐌Free Slow Download Links
 [Chat For Details](https://wa.me/8613237610083)

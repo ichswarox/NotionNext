@@ -31,7 +31,7 @@ This comprehensive Udemy course teaches you how to design and model a stunning m
 - Lighting setup for realistic renders
 - Rendering and output processes
 
-## Download
+## 🐌Free Slow Download Links
 
 :::warning[Download Notice]
 Click on the link to go to the download page. The extraction password is provided next to the link.
