@@ -7,7 +7,7 @@ slug: /wordpress-rss-feed-tutorial
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import {Admonition} from '@docusaurus/theme-common';
+import { Admonition } from '@docusaurus/mdx-components';
 
 <Admonition type="tip">
   <p>RSS Feed是WordPress的内置功能，可以帮助用户订阅网站更新，但也可能带来内容盗用风险</p>
