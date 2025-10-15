@@ -5,13 +5,13 @@ tags: [Blender tutorial, Coloso 3D character, cartoon modeling Blender, Blender 
 slug: /coloso-blender-cartoon-character
 ---
 
-# Coloso: From 2D Illustration to 3D Cartoon Character in Blender (English & Chinese Subtitles)
+# Coloso: From 2D Illustration to 3D Cartoon Character in Blender
+![banner-cs.webp](https://list.ucards.store/d/img/banner-cs.webp)
 
 This comprehensive course, curated by **GFXCamp**, guides you through the complete pipeline of transforming a 2D concept illustration into a fully realized, stylized 3D cartoon character in Blender — including modeling, UV unwrapping, texturing, rigging, and basic rendering.
 
 > Ideal for: Illustrators transitioning to 3D, animation enthusiasts, indie game developers, and Blender beginners.
 
-![Course Thumbnail](https://www.gfxcamp.com/wp-content/uploads/2025/09/Character-Illustration-to-3D-in-Blender-A-Step-by-Step-Guide.jpg)
 
 ## 🎬 Key Features
 

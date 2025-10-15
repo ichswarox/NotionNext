@@ -1,0 +1,9 @@
+- [x] Analyze requirements and file structure
+- [ ] Read all markdown files in todo folder
+- [ ] Process each markdown file to optimize for Docusaurus
+- [ ] Translate content to Chinese
+- [ ] Add proper frontmatter
+- [ ] Apply Docusaurus features (admonitions, tabs, etc.)
+- [ ] Remove related content and taobao/weibo links
+- [ ] Add download links table at the end
+- [ ] Save processed files to finished folder

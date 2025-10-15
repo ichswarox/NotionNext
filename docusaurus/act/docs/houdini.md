@@ -113,6 +113,11 @@ h.neoxu.store:填我给你的数字
   chmod -R +x /Applications/Houdini/Houdini21.0.440/Houdini\ FX\ 21.0.440.app/Contents/MacOS/houdinifx 
   或者打开终端，输入sudo和一个空格，然后到上图的路径，把houdinifx文件拖入回车修复。
 
+#### Houdini Engine 无法连接 Unreal 或是Unity
+首先你需要启动Unreal，然后在installation info 查看支持的Houdini版本，安装Houdini的时候记得选择Unreal或者Unity，安装好以后需要关闭Unreal和Houdini，然后重试，如果还是unable to connect Houdini Engine,联系卖家。
+![img1016-aTOp.webp](https://list.ucards.store/d/img/img1016-aTOp.webp)
+![img1016-wOvv.webp](https://list.ucards.store/d/img/img1016-wOvv.webp)
+
 ##### 报错结果1: RG 错误提示
 如果遇到以 `RG` 开头的错误（通常与红巨星插件相关）
 ![HoudiniLauncher-pc.webp](https://list.ucards.store/d/img/HoudiniLauncher-pc.webp)

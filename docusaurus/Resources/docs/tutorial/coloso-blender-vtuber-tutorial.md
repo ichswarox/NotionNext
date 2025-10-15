@@ -23,13 +23,12 @@ slug: /coloso-blender-vtuber-tutorial
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Coloso: Create a VTuber Avatar in Blender from Start to Stream (Bilingual Subtitles)
+# Coloso: Create a VTuber Avatar in Blender from Start to Stream
+![banner-zl.webp](https://list.ucards.store/d/img/banner-zl.webp)
 
 Curated and distributed by **GFXCamp**, this course is the most systematic, industry-level guide available for creating virtual streamer avatars. Starting with modeling in Blender, it seamlessly covers texturing, rigging, facial expression control, and culminates in deploying your avatar to Unity and Warudo for real-time live streaming — achieving a true “model-to-stream” pipeline.
 
 > Ideal for: VTuber creators, indie game developers, intermediate Blender users, virtual idol studios, and animation students.
-
-![Course Thumbnail: VTuber character model in Blender](https://www.gfxcamp.com/wp-content/uploads/2025/09/3D-VTuber-Creation-and-Learning-Techniques-from-Science-to-Art.jpg)
 
 :::tip Key Course Benefits
 - ✅ **End-to-End Pipeline**: Covers modeling → texturing → rigging → facial expressions → live deployment. No knowledge gaps.
@@ -68,3 +67,7 @@ Curated and distributed by **GFXCamp**, this course is the most systematic, indu
    - Camera and scene configuration
    - Integration and debugging with face capture devices
 
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

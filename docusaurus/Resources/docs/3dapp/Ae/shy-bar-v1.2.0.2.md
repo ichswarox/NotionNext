@@ -113,18 +113,6 @@ Create organized templates for clients or team members with clearly managed laye
 - **Installation Type**: ScriptUI Panel
 - **File Format**: jsxbin
 
-## SEO Optimization Tips
-
-To maximize visibility for your projects using Shy Bar:
-
-### Keyword-rich Descriptions
-When sharing your work, incorporate relevant keywords such as:
-- "After Effects layer management"
-- "Timeline organization script"
-- "AE workflow enhancement"
-- "Layer selection tool"
-- "Composition cleanup"
-
 ### Content Creation
 - Showcase before/after timeline comparisons
 - Create tutorial videos demonstrating key features

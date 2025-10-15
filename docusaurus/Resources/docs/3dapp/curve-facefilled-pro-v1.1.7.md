@@ -11,8 +11,7 @@ slug: /curve-facefilled-pro-v1-1-7
 # Curve Facefilled Pro V1.1.7 - Real-time Complex Graphics Curve Plugin for Blender
 
 <!--Second Part-This is First Banner -->
-![Curve Facefilled Pro V1.1.7](https://www.gfxcamp.com/wp-content/uploads/2025/02/Curve-Facefilled.jpg)
-
+![CurveFacefilled-rc.webp](https://list.ucards.store/d/img/CurveFacefilled-rc.webp)
 :::tip[info]
 **Download V1.1.7: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1MBqwHgxnPKKCS8qqvsfb3A?pwd=j4qi)**
 
@@ -104,10 +103,6 @@ Suitable for a wide range of creative applications from simple 2D patterns to co
 - **Compatible Software**: Blender 3.6 – 4.5
 - **Installation Type**: ZIP File Installation
 - **Workflow**: Real-time Editing
-
-## SEO Optimization Tips
-
-To get the most visibility for your projects using Curve Facefilled Pro:
 
 ### Keyword-rich Descriptions
 When sharing your work, include relevant keywords such as:

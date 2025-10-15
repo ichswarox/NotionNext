@@ -88,10 +88,6 @@ Perfect for:
 - **Workflow**: Non-destructive, Procedural
 - **Interface**: Blender Sidebar Panel (N-panel)
 
-## SEO Optimization for Better Visibility
-
-To get the most out of your search engine optimization when using this addon:
-
 ### Keyword-Rich Descriptions
 When sharing your work, include relevant keywords such as:
 - "Blender sewing addon"

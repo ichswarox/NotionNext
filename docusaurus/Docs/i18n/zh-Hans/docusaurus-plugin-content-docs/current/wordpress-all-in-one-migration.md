@@ -2,7 +2,7 @@
 title: 使用All in One WP Migration插件备份WordPress
 description: "学习如何使用All in One WP Migration插件备份WordPress网站，确保数据安全，防止安全攻击、硬件故障或勒索软件攻击造成的损失。"
 tags: ["WordPress", "备份", "All in One WP Migration", "数据安全", "网站迁移", "WordPress插件"]
-slug: /wordpress-all-in-one-migration
+slug: /all-in-one-migration
 ---
 
 <!--原始链接，不能删除这句话 https://hosting.com/hosting/platforms/wordpress-hosting/managed-wordpress-hosting/-->

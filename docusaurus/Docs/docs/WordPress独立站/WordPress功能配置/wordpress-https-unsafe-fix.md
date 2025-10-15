@@ -1,5 +1,5 @@
 ---
-title: "WordPress配置了全站HTTPS依然显示不安全"
+title: "配置了SSL仍显示不安全"
 description: "本篇教程将带你解决WordPress配置了全站HTTPS后，网站依然显示“不安全”的问题，通过使用Easy HTTPS (SSL) Redirection插件，轻松实现全站HTTPS。"
 keywords: ["WordPress", "HTTPS", "SSL", "不安全", "Easy HTTPS Redirection"]
 slug: /wordpress-https-unsafe-fix

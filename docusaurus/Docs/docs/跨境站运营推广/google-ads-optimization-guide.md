@@ -3,6 +3,7 @@ title: "Google Ads 高效优化指南：从数据到爆款"
 description: "本篇指南将带你深入了解 Google Ads 数据优化的核心策略，包括如何解读和修正关键指标（CTR、CPC）、制定数据驱动的优化流程，以及如何通过A/B测试打造高转化率的广告素材，最终实现ROI最大化。"
 keywords: ["Google Ads", "数据优化", "点击率", "CTR", "单次点击费用", "CPC", "广告投放", "A/B测试", "ROAS", "广告素材优化"]
 slug: /google-ads-optimization-guide
+draft: true
 ---
 
 # Google Ads 高效优化指南：从数据到爆款

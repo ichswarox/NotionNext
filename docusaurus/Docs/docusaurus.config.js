@@ -94,18 +94,18 @@ const config = {
             position: 'left',
             label: '跨境落地页',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'wordpressSidebar',
-            position: 'left',
-            label: 'WordPress独立站',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'shopifySidebar',
-            position: 'left',
-            label: 'Shopify独立站',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'wordpressSidebar',
+          //   position: 'left',
+          //   label: 'WordPress独立站',
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'shopifySidebar',
+          //   position: 'left',
+          //   label: 'Shopify独立站',
+          // },
          {
             type: 'docSidebar',
             sidebarId: 'experienceSidebar',

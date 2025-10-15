@@ -36,3 +36,8 @@ and Post structure:
 10. check of download link is in the last part.
 11. /slug and the markdow name should be the same, and don't include version number
 12. finished file go to /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/finished
+13. in the end add:
+    ## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
