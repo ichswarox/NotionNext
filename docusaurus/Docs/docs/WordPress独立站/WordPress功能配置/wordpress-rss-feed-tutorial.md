@@ -7,11 +7,10 @@ slug: /wordpress-rss-feed-tutorial
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import { Admonition } from '@docusaurus/mdx-components';
 
-<Admonition type="tip">
+
   <p>RSS Feed是WordPress的内置功能，可以帮助用户订阅网站更新，但也可能带来内容盗用风险</p>
-</Admonition>
+
 
 ## Last updated: Oct 15 2025
 
@@ -24,8 +23,6 @@ import { Admonition } from '@docusaurus/mdx-components';
 ![RSS是什么](https://website-custom.com/wp-content/uploads/2025/01/3-1-300x300.webp "- Well建站 | 唯二建站")
 
 <img decoding="async" class="alignnone wp-image-4752 size-medium" src="https://website-custom.com/wp-content/uploads/2025/01/3-1-300x300.webp" alt="RSS是什么" width="300" height="300" title="- Well建站 | 唯二建站" srcset="https://website-custom.com/wp-content/uploads/2025/01/3-1-300x300.webp 300w, https://website-custom.com/wp-content/uploads/2025/01/3-1-150x150.webp 150w, https://website-custom.com/wp-content/uploads/2025/01/3-1.webp 512w" sizes="(max-width: 300px) 10vw, 300px" />
-
-<RssFeedInfo />
 
 [RSS](https://zh.wikipedia.org/wiki/RSS)（Really Simple Syndication）是一种允许网站内容以结构化的、可订阅的格式进行传播和分发的技术，一般用在博客网站、新闻网站、社媒平台。
 
@@ -72,18 +69,18 @@ import { Admonition } from '@docusaurus/mdx-components';
 
 你可以根据自己网站的特性决定时候保留Feed功能。
 
-<Admonition type="info">
+
   <p>需要 Feed 的外贸网站</p>
-</Admonition>
+
 
 -   网站内容频繁更新，且有新闻、博客、产品更新等动态内容。
 -   网站有定期的促销活动或营销信息，想让客户及时获取更新。
 -   网站希望通过电子邮件或社交媒体等渠道分发内容，增加流量和品牌曝光。
 -   网站需要通过内容吸引长期客户，提升客户粘性。
 
-<Admonition type="caution">
+
   <p>不需要 Feed 的外贸网站</p>
-</Admonition>
+
 
 -   主要是静态页面，内容更新频率较低，产品信息或品牌展示为主。
 -   主要依赖广告和其他手段进行流量获取，不太依赖定期更新和内容营销。

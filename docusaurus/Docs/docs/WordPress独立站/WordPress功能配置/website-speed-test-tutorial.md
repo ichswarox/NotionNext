@@ -7,11 +7,10 @@ slug: /website-speed-test-tutorial
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import { Admonition } from '@docusaurus/mdx-components';
 
-<Admonition type="tip">
+
   <p>通过模拟真实用户访问网站，可以更准确地测试网站实际加载速度</p>
-</Admonition>
+
 
 ## Last updated: Oct 15 2025
 

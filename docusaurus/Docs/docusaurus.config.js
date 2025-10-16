@@ -36,10 +36,10 @@ const config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['en', 'zh-Hans'],
-  },
+  // i18n: {
+  //   defaultLocale: 'zh-Hans',
+  //   locales: ['en', 'zh-Hans'],
+  // },
 
   presets: [
     [
@@ -112,32 +112,15 @@ const config = {
             position: 'left',
             label: '关于本站',
           },
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          }, 
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // }, 
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: '文档',
-            items: [
-              {
-                label: '跨境Ai链路',
-                to: '/跨境Ai链路/gemini-ai-image-generation-ecommerce',
-              },
-              {
-                label: '跨境站运营推广',
-                to: '/跨境站运营推广/seo-guide',
-              },
-              {
-                label: '跨境落地页',
-                to: '/跨境落地页/landing-page-template',
-              },
-            ],
-          },
           {
             title: '网站政策',
             items: [

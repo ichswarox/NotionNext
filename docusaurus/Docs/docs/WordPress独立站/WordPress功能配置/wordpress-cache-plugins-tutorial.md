@@ -7,11 +7,9 @@ slug: /wordpress-cache-plugins-tutorial
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import { Admonition } from '@docusaurus/mdx-components';
 
-<Admonition type="tip">
   <p>本文提供了7款热门WordPress缓存插件的详细对比，帮助您选择最适合网站的缓存解决方案</p>
-</Admonition>
+
 
 ## Last updated: Oct 15 2025
 

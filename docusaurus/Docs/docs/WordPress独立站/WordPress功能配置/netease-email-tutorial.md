@@ -7,11 +7,8 @@ slug: /netease-email-tutorial
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import Admonition from '@theme/Admonition';
 
-<Admonition type="tip">
   <p>网易企业邮箱是免费的域名邮箱解决方案，配置SMTP后可以提高WordPress网站邮件发送成功率</p>
-</Admonition>
 
 ## Last updated: Oct 15 2025
 

@@ -5,7 +5,7 @@ translate all markdown files in folder :
 You I need to analyze the provided Markdown file and optimize it according to Docusaurus best practices, following the template provided. Let me break down the requirements:
 
 
-0. Optimize the Markdown for Docusaurus using features like Admonitions, Tabs, Create appropriate frontmatter etc.
+1. Optimize the Markdown for Docusaurus using features like, Tabs, Create appropriate frontmatter etc.
 (frontmatter with:
     ---
     title: ""

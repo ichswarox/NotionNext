@@ -9,9 +9,8 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Admonition from '@theme/Admonition';
 
-<Admonition type="tip">
   <p>通过子主题，可以在不修改父主题文件的情况下进行定制，这样即使父主题更新，也不会影响你的自定义修改</p>
-</Admonition>
+
 
 ## Last updated: Oct 15 2025
 
