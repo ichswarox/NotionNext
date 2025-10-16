@@ -1,5 +1,5 @@
 ---
-title: "Krita-局部控图"
+title: "开源Krita局部控图，跨境电商大卖都在用！"
 description: "全方位跨境指南-Ai赋能, 利用Krita和ComfyUI，通过本地部署或云服务，实现精准控制的AI图像生成与编辑，优化电商视觉内容。"
 keywords: ["AI作图", "Krita", "ComfyUI", "跨境电商", "视觉优化"]
 slug: /krita-ai-image-editing
@@ -9,7 +9,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Krita-局部控图(仍适用大部分场景)
-
+![img1016-gEHM.webp](https://list.ucards.store/d/img/img1016-gEHM.webp)
 :::tip[核心优势]
 学完本篇教程，你将能够有效解决 AI 在图像生成中最大的痛点——**图像可控性**，实现对画面的精准控制。
 :::

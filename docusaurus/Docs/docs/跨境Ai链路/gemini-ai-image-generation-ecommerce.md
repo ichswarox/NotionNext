@@ -1,5 +1,5 @@
 ---
-title: "Nano-Banana局部控图"
+title: "Nano-Banana局部控图，最新的跨境生图秘籍！"
 description: "了解如何使用Gemini 2.5 Flash进行电商产品AI生成，创建一致性视觉内容。从主产品图到生活方式场景，10个步骤全面覆盖电商视觉内容制作。"
 keywords: ["AI生成", "Gemini 2.5 Flash", "电商视觉", "产品摄影", "图像生成", "视觉一致性"]
 slug: /gemini-ai-image-generation-ecommerce
@@ -8,8 +8,8 @@ slug: /gemini-ai-image-generation-ecommerce
 
 <!-- Title Line-->
 # Nano-Banana局部控图
+![img1016-rGwF.webp](https://list.ucards.store/d/img/img1016-rGwF.webp)
 
-![Gemini AI图像生成示例](/img/master.jpg)
 `图示：使用Gemini 2.5 Flash生成的主产品图`
 
 <!-- First Quote use as a part to Guide and attract readers -->
@@ -22,6 +22,7 @@ slug: /gemini-ai-image-generation-ecommerce
 :::
 
 <!--This Part is use for how to effectively find, screen and determine suitable customers -->
+![Gemini AI图像生成示例](/img/master.jpg)
 **这篇学完，你就能：**
 掌握使用Gemini 2.5 Flash进行电商产品AI生成的核心技能
 了解如何创建视觉一致的产品图像内容
