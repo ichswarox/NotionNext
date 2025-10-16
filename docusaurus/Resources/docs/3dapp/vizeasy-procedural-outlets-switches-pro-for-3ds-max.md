@@ -1,12 +1,7 @@
 ---
 title: "VizEasy – Procedural Outlets & Switches Pro for 3ds Max"
 description: "The VizEasy Procedural Outlets & Switches script for 3ds Max is your ultimate solution for instantly adding fully customizable, realistic electrical fixtures to any scene."
-tags:
-  - 3ds MAX
-  - 3DS MAX plugin
-  - Switches
-  - VizEasy
-  - switch plugin
+tags: ["3ds Max script", "Procedural modeling", "Electrical fixtures", "Architectural visualization", "3D modeling", "Scene detailing"]
 slug: /vizeasy-procedural-outlets-switches-pro-for-3ds-max
 ---
 

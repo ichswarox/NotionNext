@@ -1,13 +1,7 @@
 ---
 title: "50 Sci-Fi VJ Tunnel Loop Animations + Blender Files"
 description: "Download a pack of 50 seamless, sci-fi tunnel loop animations, perfect for VJ backgrounds, live events, and motion graphics. Includes 43 Blender project files."
-keywords:
-  - VJ loops
-  - video assets
-  - sci-fi animation
-  - tunnel loops
-  - Blender projects
-  - motion graphics
+tags: ["VJ animations", "Sci-fi tunnel loops", "Motion graphics", "Blender files", "Video loops", "Live event visuals"]
 slug: /sci-fi-vj-tunnel-loops
 ---
 
@@ -34,11 +28,6 @@ These assets are perfect for creating immersive backgrounds for:
 -   Sci-fi themed videos
 :::
 
-### Important Information
-
-:::caution Disclaimer
-This content is provided for informational and educational purposes. Please ensure you have the rights to use any assets in your projects. The download links and purchasing information have been removed.
-:::
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

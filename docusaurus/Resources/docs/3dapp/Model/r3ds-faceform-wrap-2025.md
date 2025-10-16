@@ -1,12 +1,7 @@
 ---
 title: "R3DS Faceform Wrap 2025.9.19 Win"
 description: "R3DS Wrap is at the forefront of 3D scan processing tools, changing the way you work with 3D scan data."
-tags:
-  - Faceform Wrap
-  - Faceform Wrap 2025
-  - WRAP
-  - Wrap 2025
-  - Topology Software
+tags: ["3D scan processing", "Faceform Wrap", "3D modeling", "Basemesh fitting", "Non-rigid fitting", "3D scan data"]
 slug: /r3ds-faceform-wrap-2025
 ---
 

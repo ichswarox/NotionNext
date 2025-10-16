@@ -1,14 +1,7 @@
 ---
 title: "80 Sci-Fi Cyberpunk City Building Kitbash Pack"
 description: "Download a versatile kitbash pack from Artstation containing 80 sci-fi and cyberpunk style 3D building models for creating futuristic cityscapes."
-keywords:
-  - 3D models
-  - kitbash
-  - sci-fi
-  - cyberpunk
-  - city models
-  - architectural models
-  - Artstation
+tags: ["Kitbash pack", "Sci-fi buildings", "Cyberpunk architecture", "3D cityscapes", "Environment design", "Futuristic modeling"]
 slug: /sci-fi-cyberpunk-city-kitbash
 ---
 
@@ -36,12 +29,6 @@ This kitbash pack is ideal for:
 -   Rapidly prototyping city layouts for games and films.
 -   Adding visual complexity to architectural visualizations.
 -   Concept art and illustration.
-:::
-
-### Important Information
-
-:::caution Disclaimer
-This content is provided for informational and educational purposes. Please support the original creator on Artstation and ensure you have the rights to use these assets in your projects. The download links have been removed.
 :::
 
 ## 🚀Direct Download Link

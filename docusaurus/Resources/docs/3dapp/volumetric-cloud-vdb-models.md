@@ -1,12 +1,7 @@
 ---
 title: "Download 60 Volumetric 3D Cloud VDB Models"
 description: "Explore a collection of 60 high-quality, static 3D volumetric cloud VDB models, perfect for any software that supports VDB files. Available in high and low resolution."
-keywords:
-  - VDB models
-  - 3D clouds
-  - volumetric clouds
-  - CG assets
-  - visual effects
+tags: ["Volumetric clouds", "VDB models", "3D assets", "Visual effects", "Architectural visualization", "Game development"]
 slug: /volumetric-cloud-vdb-models
 ---
 

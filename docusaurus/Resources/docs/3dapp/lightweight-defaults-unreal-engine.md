@@ -1,13 +1,7 @@
 ---
 title: "Lightweight Defaults: A Free Unreal Engine 5 Plugin for Performance"
 description: "Discover Lightweight Defaults, a free Unreal Engine 5 plugin by Leon Gameworks that lightens the editor's load, making development on low-spec machines more comfortable."
-keywords:
-  - Unreal Engine
-  - UE5
-  - Lightweight Defaults
-  - Game Development
-  - Plugin
-  - Free Asset
+tags: ["Unreal Engine 5", "Performance optimization", "Editor plugin", "Low-spec machines", "Rendering optimization", "Game development"]
 slug: /lightweight-defaults-unreal-engine-plugin
 ---
 

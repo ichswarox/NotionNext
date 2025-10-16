@@ -86,7 +86,7 @@ For best results, use these presets with footage shot in flat color profiles or 
 
 | Format | File Type | Size | Download Link |
 |--------|-----------|------|---------------|
-| LUTs + PowerGrade | .cube, .drx | 50.8MB | [Download from GFXCamp](https://www.gfxcamp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.gfxcamp.com%2Fclassicprint-35mm-film-emulation-powergrade%2F) |
+| LUTs + PowerGrade | .cube, .drx | 50.8MB | [Not Free](#) |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

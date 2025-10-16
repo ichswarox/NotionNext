@@ -1,13 +1,7 @@
 ---
 title: "C++ Generator: A Development Tool Plugin for Unreal Engine"
 description: "Discover C++ Generator, a powerful Unreal Engine plugin by Ciji Games that automates the creation of C++ snippets, macros, actors, and classes to streamline your development workflow."
-keywords:
-  - Unreal Engine
-  - C++
-  - C++ Generator
-  - UE5
-  - Game Development
-  - Plugin
+tags: ["Unreal Engine", "C++", "C++ Generator", "UE5", "Game Development", "Plugin"]
 slug: /cpp-generator-unreal-engine-plugin
 ---
 

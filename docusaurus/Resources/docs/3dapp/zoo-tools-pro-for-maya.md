@@ -1,12 +1,7 @@
 ---
 title: "Zoo Tools Pro 2.11.1b for Maya 2017-2026"
 description: "A comprehensive toolkit for Maya with over 40 tools to accelerate modeling, lighting, shading, and rendering workflows."
-tags:
-  - Maya
-  - Maya Plugin
-  - Zoo Tools
-  - Modeling
-  - Rendering
+tags: ["Maya", "Maya Plugin", "Zoo Tools", "3D Modeling", "Rendering", "Animation", "Lighting", "Shading", "Maya Toolkit"]
 slug: /zoo-tools-pro-for-maya
 ---
 

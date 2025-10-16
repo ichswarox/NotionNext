@@ -1,13 +1,7 @@
 ---
 title: "RizomUV RS + VS 2025.0.92 for Windows"
 description: "Download RizomUV Real Space (RS) and Virtual Spaces (VS) 2025.0.92 for Windows. An advanced toolset for efficiently creating clean and packed UV maps for 3D models."
-keywords:
-  - RizomUV
-  - UV unwrapping
-  - 3D modeling
-  - UV mapping
-  - texturing
-  - RizomUV 2025
+tags: ["UV mapping", "3D texturing", "RizomUV", "Virtual Spaces", "Real Space", "3D modeling"]
 slug: /rizomuv-2025-uv-unwrapper
 ---
 

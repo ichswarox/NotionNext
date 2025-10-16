@@ -1,22 +1,7 @@
 ---
 title: "Coloso Blender VTuber Avatar Creation: Modeling, Texturing, Rigging & Animation Tutorial (Chinese/English Subtitles)"
 description: "Create a fully animatable VTuber avatar from scratch: Learn character modeling, texturing, Rigify rigging, ARKit facial blendshapes, and deployment to Unity/Warudo for live streaming. 17-hour comprehensive course with project files and AI-translated bilingual subtitles."
-keywords:
-  - blender vtuber tutorial
-  - virtual streamer creation
-  - 3d character rigging
-  - rigify facial rig
-  - arkit blendshapes
-  - warudo streaming setup
-  - unity 3d avatar
-  - cartoon character modeling
-  - blender animation tutorial
-  - coloso 3d course
-  - chinese subtitles blender
-  - weight painting techniques
-  - procedural materials
-  - real-time motion capture
-  - gfxcamp selection
+tags: ["Blender tutorial", "VTuber creation", "Character modeling", "Rigging", "Facial animation", "Live streaming"]
 slug: /coloso-blender-vtuber-tutorial
 ---
 
@@ -26,7 +11,7 @@ import TabItem from '@theme/TabItem';
 # Coloso: Create a VTuber Avatar in Blender from Start to Stream
 ![banner-zl.webp](https://list.ucards.store/d/img/banner-zl.webp)
 
-Curated and distributed by **GFXCamp**, this course is the most systematic, industry-level guide available for creating virtual streamer avatars. Starting with modeling in Blender, it seamlessly covers texturing, rigging, facial expression control, and culminates in deploying your avatar to Unity and Warudo for real-time live streaming — achieving a true “model-to-stream” pipeline.
+This course is the most systematic, industry-level guide available for creating virtual streamer avatars. Starting with modeling in Blender, it seamlessly covers texturing, rigging, facial expression control, and culminates in deploying your avatar to Unity and Warudo for real-time live streaming — achieving a true “model-to-stream” pipeline.
 
 > Ideal for: VTuber creators, indie game developers, intermediate Blender users, virtual idol studios, and animation students.
 

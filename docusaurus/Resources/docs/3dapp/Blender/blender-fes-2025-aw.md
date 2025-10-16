@@ -1,12 +1,7 @@
 ---
 title: "Blender Fes 2025 AW: A 2-Day Online Tech Exchange Event"
 description: "Join the 5th Blender Fes 2025 AW, a major Blender-focused study event hosted by CGWORLD (Born Digital) on September 27-28, 2025, featuring 16 amazing sessions."
-keywords:
-  - Blender
-  - Blender Fes
-  - CGWORLD
-  - 3D Event
-  - Online Event
+tags: ["Blender conference", "Blender Fes", "3D CG event", "Online tech exchange", "Blender community", "CGWORLD"]
 slug: /blender-fes-2025-aw
 ---
 

@@ -1,22 +1,7 @@
 ---
 title: "Coloso TVPaint Hand-Drawn Keyframe & Inbetweening Animation Tutorial (Chinese/English/Korean Subtitles)"
 description: "Master the core techniques of keyframe posing and inbetweening in TVPaint. This 10-hour Korean course, featuring AI-translated trilingual subtitles and project files, is perfect for beginners and intermediate 2D animators."
-keywords:
-  - tvpaint tutorial
-  - 2d animation
-  - keyframe animation
-  - inbetweening techniques
-  - hand-drawn animation
-  - coloso animation course
-  - animation workflow
-  - character animation basics
-  - korean tutorial with chinese subtitles
-  - GFXCamp selection
-  - animation principles
-  - breakdown drawing
-  - traditional animation
-  - digital hand-drawn
-  - animator beginner guide
+tags: ["tvpaint tutorial", "2d animation", "keyframe animation", "inbetweening techniques", "hand-drawn animation", "coloso animation course", "animation workflow", "character animation basics", "korean tutorial with chinese subtitles", "animation principles", "breakdown drawing", "traditional animation", "digital hand-drawn", "animator beginner guide"]
 slug: /coloso-tvpaint-inbetweening-animation
 ---
 

@@ -1,22 +1,7 @@
 ---
 title: Coloso Pixaki + Procreate Pixel Art Character & Scene Animation Tutorial (Chinese/Japanese/English Subtitles)
 description: Master pixel art from scratch - create vibrant characters, dynamic scenes, and animations like blinking eyes or flowing hair using Pixaki and Procreate. 15-hour hands-on course with project files and AI-translated trilingual subtitles.
-keywords:
-  - pixaki tutorial
-  - procreate pixel art
-  - pixel art tutorial
-  - pixel animation
-  - 2d hand-drawn animation
-  - coloso illustration course
-  - pixel character design
-  - anime pixel style
-  - digital painting tutorial
-  - indie game art
-  - pixel scene composition
-  - lineart coloring techniques
-  - japanese tutorial with chinese subtitles
-  - GFXCamp selection
-  - pixel art workflow
+tags: ["pixaki tutorial", "procreate pixel art", "pixel art tutorial", "pixel animation", "2d hand-drawn animation", "coloso illustration course", "pixel character design", "anime pixel style", "digital painting tutorial", "indie game art", "pixel scene composition", "lineart coloring techniques", "japanese tutorial with chinese subtitles", "pixel art workflow"]
 slug: /coloso-pixaki-procreate-pixel-art
 ---
 import Tabs from '@theme/Tabs';
@@ -24,7 +9,7 @@ import TabItem from '@theme/TabItem';
 
 # Coloso: Create Vibrant Pixel Art & Animation with Pixaki + Procreate (Trilingual Subtitles)
 
-Curated and distributed by **GFXCamp**, this course is designed for pixel art enthusiasts, indie game developers, and 2D animators. It systematically teaches you the complete workflow of creating high-impact, colorful pixel art — from basic tool operations to exporting finished character animations.
+This course is designed for pixel art enthusiasts, indie game developers, and 2D animators. It systematically teaches you the complete workflow of creating high-impact, colorful pixel art — from basic tool operations to exporting finished character animations.
 
 > Ideal for: Absolute beginners, Procreate users transitioning to pixel art, game artists, and anime-style creators.
 
