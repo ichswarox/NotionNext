@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 14 2025
 
-![The Easiest Motion Graphics Class You Will Ever Take](https://img-c.udemycdn.com/course/240x135/6825911_fbb6_2.jpg)
+![img1017-ZpQw.webp](https://list.ucards.store/d/img/img1017-ZpQw.webp)
 
 ## Overview
 

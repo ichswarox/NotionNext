@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 <sub>Last updated: Sep 30 2025</sub>
 
-![Udemy Marvelous Designer Mastery Full Course](https://www.gfxcamp.com/wp-content/uploads/2025/09/Udemy-Marvelous-Designer-Mastery-Full-Course-from-Zero-to-Advance.jpg)
+![img1017-JSJh.webp](https://list.ucards.store/d/img/img1017-JSJh.webp)
 
 ## Features
 

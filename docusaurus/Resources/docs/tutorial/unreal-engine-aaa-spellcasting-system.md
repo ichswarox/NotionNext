@@ -4,22 +4,16 @@ description: "Build AAA Spells and Abilities with a complete Cooldown System. 10
 tags: [unreal-engine, blueprints, spells, abilities, game-development, rpg, vfx]
 slug: /unreal-engine-aaa-spellcasting-system
 ---
+Last updated: Oct 14 2025
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-<details>
-<summary>Last updated: Oct 14 2025</summary>
-
-This tutorial was last updated on Oct 14 2025. For the most current information, please check the original source.
-
-</details>
-
-![Unreal Engine AAA Spellcasting System](https://img-c.udemycdn.com/course/750x42/6571001_a993_6.jpg)
+![img1017-WJuG.webp](https://list.ucards.store/d/img/img1017-WJuG.webp)
 
 ## Overview
 
-Build AAA Spells and Abilities with a complete Cooldown System. 100% Blueprints, game-ready for RPG/Action/Fantasy Games. This course is fully compatible with Unreal Engine 4.27 through UE5.6 and up, so you can follow along in either versions without issues. The course is taught in UE5.4, where retargeting Skeletal Meshes is easier and more straightforward.
+Build AAA Spells and Abilities with a complete Cooldown System. 100% Blueprints, game-ready for RPG Action Fantasy Games. This course is fully compatible with Unreal Engine 4.27 through UE5.6 and up, so you can follow along in either versions without issues. The course is taught in UE5.4, where retargeting Skeletal Meshes is easier and more straightforward.
 
 :::info What You'll Learn
 
@@ -173,3 +167,5 @@ I want to make YOUR Game Development journey as smooth as possible and to pass o
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+link:https://www.udemy.com/course/unreal-engine-aaa-spellcasting-system/

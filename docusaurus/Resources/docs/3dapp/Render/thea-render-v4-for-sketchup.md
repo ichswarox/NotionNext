@@ -1,5 +1,5 @@
 ---
-title: "Thea Render V4.0.1400.0158 for SketchUp 2020-2025 Win"
+title: "Thea Render for SketchUp 2020-2025 Win(V4.0.1400.0158 )"
 description: "Thea Render is a physically-based global illumination renderer of high quality, perfect for interior and architectural rendering."
 tags:
   - Sketchup
@@ -11,7 +11,7 @@ slug: /thea-render-v4-for-sketchup
 
 Last updated: Sep 29, 2025
 
-![Thea Render v2 SketchUp](https://www.gfxcamp.com/wp-content/uploads/2018/11/Thea-Render-v2-SketchUp.jpg)
+![img1017-hbKu.webp](https://list.ucards.store/d/img/img1017-hbKu.webp)
 
 Thea Render is a physically-based global illumination renderer of high quality. It is a unique renderer that is able to render using state-of-the-art techniques in Biased photorealistic, Unbiased and GPU modes. In Thea Render, we have created a compact number of highly realistic materials using the most accurate physically based models. These models are designed to produce highly energy conservative material combinations.
 

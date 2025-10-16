@@ -10,7 +10,7 @@ slug: /blender-3d-character-animation-masterclass-zero-to-hero
 # Blender Character Animation Tutorial Udemy – Blender 3D Character Animation Masterclass Zero to Hero
 *Last updated: Oct 9 2025*
 
-![Blender 3D Character Animation Masterclass Zero to Hero](https://www.gfxcamp.com/wp-content/uploads/2025/10/Udemy-Blender-3D-Character-Animation-Masterclass-Zero-to-Hero.jpg)
+![img1017-VqoZ.webp](https://list.ucards.store/d/img/img1017-VqoZ.webp)
 
 :::info
 This comprehensive course will guide you step-by-step to create stunning 3D animation short films with realistic lipsync, acting, and cinematic camera setups. Perfect for both beginners and intermediate users looking to unlock the full potential of character animation in Blender 3D.

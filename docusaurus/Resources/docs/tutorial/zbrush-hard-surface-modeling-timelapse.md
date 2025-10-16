@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 <time>Updated: Oct 14, 2025</time>
 
-![ZBrush Hard Surface Modeling Timelapse Banner](https://gfxcamp.com/wp-content/uploads/2025/09/image.jpg)
+![img1016-nFFG.webp](https://list.ucards.store/d/img/img1016-nFFG.webp)
 
 ## Overview
 

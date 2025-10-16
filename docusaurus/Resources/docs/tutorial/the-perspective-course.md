@@ -1,5 +1,5 @@
 ---
-title: "Scene Perspective Drawing Tutorial - Proko The Perspective Course with Chinese/English Subtitles"
+title: "Scene Perspective Drawing Tutorial - Proko The Perspective Course"
 description: "Master perspective drawing with this comprehensive course from Proko. Learn to see, imagine, and draw in perspective like a professional artist. Includes Chinese/English multilingual subtitles."
 tags: ["proko", "perspective drawing", "scene drawing", "2d tutorial", "drawing course", "perspective tutorial", "art education", "visual arts", "hand drawing", "composition"]
 slug: /the-perspective-course
@@ -10,8 +10,7 @@ slug: /the-perspective-course
 <!--First Part-This is Title -->
 # Scene Perspective Drawing Tutorial - Proko The Perspective Course with Chinese/English Subtitles
 
-<!--Second Part-This is First Banner -->
-![Scene Perspective Drawing Tutorial](https://www.gfxcamp.com/wp-content/uploads/2025/09/Proko-The-Perspective-Course.jpg)
+![img1017-nkWw.webp](https://list.ucards.store/d/img/img1017-nkWw.webp)
 
 :::tip[info]
 **Proko's The Perspective Course** is a comprehensive drawing tutorial designed to teach you how to see, imagine, and draw in perspective like a professional artist. This course goes beyond basic perspective rules to help you develop an intuitive understanding of spatial relationships and depth in your artwork.

@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 <time>Updated: Oct 14, 2025</time>
 
-![Online Course - Layered Illustration with Felt](https://gfxcamp.com/wp-content/uploads/2025/09/image.jpg)
+![img1016-jtgt.webp](https://list.ucards.store/d/img/img1016-jtgt.webp)
 
 ## Overview
 

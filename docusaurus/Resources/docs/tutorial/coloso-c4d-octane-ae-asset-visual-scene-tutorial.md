@@ -10,7 +10,7 @@ slug: /coloso-c4d-octane-ae-asset-visual-scene-tutorial
 # Coloso C4D+Octane+AE High-Quality Asset Visual Dynamic Scene Rendering Compositing Tutorial
 
 <!--Second Part-This is First Banner -->
-![High-quality motion graphics lookdev using assets](https://www.gfxcamp.com/wp-content/uploads/2025/09/High-quality-motion-graphics-lookdev-using-assets.jpg)
+![img1016-GkPM.webp](https://list.ucards.store/d/img/img1016-GkPM.webp)
 
 :::tip[info]
 This comprehensive tutorial teaches how to use high-quality assets to build realistic scene effects in C4D through 5 case studies, including scene composition, Octane realistic material representation, 3D asset usage, and post-compositing in AE.

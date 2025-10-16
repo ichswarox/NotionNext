@@ -8,7 +8,7 @@ slug: /optics-2025-photoshop-lightroom-plugin
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-<div class="time-update">Last updated: Sep 24 2025</div>
+<div class="time-update">Last updated: Oct 16 2025</div>
 
 ![Boris FX Optics 2025](https://www.gfxcamp.com/wp-content/uploads/2025/09/Boris-FX-Optics-2025.jpg)
 

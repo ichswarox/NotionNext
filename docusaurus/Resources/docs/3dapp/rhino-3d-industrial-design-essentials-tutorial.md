@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 14 2025
 
-![Rhino 3D Industrial Design Essentials](https://www.gfxcamp.com/wp-content/uploads/2025/10/Lemanoosh-The-Essentials-of-Rhino-3D-for-Industrial-Designers.jpg)
+![img1017-fhju.webp](https://list.ucards.store/d/img/img1017-fhju.webp)
 
 ## Rhino 3D Industrial Design Essentials Tutorial - Chinese/English Subtitles
 
@@ -59,3 +59,5 @@ This tutorial is perfect for beginners looking to enter industrial design with R
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+link:https://www.youtube.com/watch?v=9BnKzfLKQi8

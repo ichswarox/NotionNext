@@ -80,9 +80,7 @@ There are no available purchase options at the moment. Check back soon for updat
 
 The course discusses how 3D-based concept art has evolved over the past 10 years, with tools becoming more affordable and powerful. This has opened up new possibilities for artists to create their own projects without needing expensive resources.
 
-## Download Links
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| Master Classes Access | Access all IAMAG Master Classes | [Access All](https://www.iamag.co/) |
-| Official Website | IAMAG Master Classes | [Visit Site](https://www.iamag.co/) |
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::

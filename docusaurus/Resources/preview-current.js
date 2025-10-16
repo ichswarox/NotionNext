@@ -1,6 +1,9 @@
 const chokidar = require('chokidar');
 const { exec } = require('child_process');
 
+// Track opened URLs to avoid duplicates
+const openedUrls = new Set();
+
 // Map file path to URL path — 只取文件名作为 slug
 const filePathToUrl = (filePath) => {
   if (filePath.startsWith('docs/')) {
@@ -18,10 +21,19 @@ chokidar.watch('docs/**/*.md*').on('change', (path) => {
     console.log(`📄 Editing: ${path}`);
     console.log(`🌐 Preview: ${url}`);
     
-    // Open in browser (macOS)
-    exec(`open "${url}"`);
-    // Windows: exec(`start ${url}`)
-    // Linux: exec(`xdg-open ${url}`)
+    // Check if URL is already opened
+    if (!openedUrls.has(url)) {
+      // Add to set before opening to prevent duplicates during async operation
+      openedUrls.add(url);
+      console.log(`🆕 New preview tab for: ${url}`);
+      
+      // Open in browser (macOS)
+      exec(`open "${url}"`);
+      // Windows: exec(`start ${url}`)
+      // Linux: exec(`xdg-open ${url}`)
+    } else {
+      console.log(`🔄 Preview tab already exists for: ${url}`);
+    }
   }
 });
 

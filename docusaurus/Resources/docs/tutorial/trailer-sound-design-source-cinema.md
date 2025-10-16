@@ -7,7 +7,7 @@ slug: /trailer-sound-design-source-cinema
 
 Last updated: Oct 14 2025
 
-![Trailer Sound Design](https://www.gfxcamp.com/wp-content/uploads/2025/09/image.jpg)
+![img1017-ABtW.webp](https://list.ucards.store/d/img/img1017-ABtW.webp)
 
 ## Trailer Sound Design - From Source To Cinema
 
@@ -53,9 +53,6 @@ Whether it's through licensing them to trailer houses, or if it's creating your 
 
 For the final part of the course, we will look at how to create a sound design trailer cue with our self-created Trailer FX – something that could be heard in the big cinemas.
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
-:::
 
 ## 🚀Direct Download Link
 

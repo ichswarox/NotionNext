@@ -8,7 +8,7 @@ slug: /character-creation-animation-shapes-color-expression
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-![banner-qo.webp](https://list.ucards.store/d/img/banner-qo.webp)
+![img1016-WBjs.webp](https://list.ucards.store/d/img/img1016-WBjs.webp)
 
 ## Character Creation for Animation: Shapes, Color, and Expression
 
