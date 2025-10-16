@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ichswarox', // Usually your GitHub org/user name.
+  projectName: 'NotionNext', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -68,7 +68,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/跨境全链路模板-na.png',
       navbar: {
         title: '跨境全链路-永久会员',
         logo: {
@@ -124,6 +124,18 @@ const config = {
           {
             title: '文档',
             items: [
+              {
+                label: '跨境Ai链路',
+                to: '/跨境Ai链路/gemini-ai-image-generation-ecommerce',
+              },
+              {
+                label: '跨境站运营推广',
+                to: '/跨境站运营推广/seo-guide',
+              },
+              {
+                label: '跨境落地页',
+                to: '/跨境落地页/landing-page-template',
+              },
             ],
           },
           {

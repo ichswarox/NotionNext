@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '跨境干货',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        跨境电商、独立站、技术和AI工具的实战经验和教程。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '注重实战',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        我们提供可操作的指南和案例研究，帮助您解决实际问题，而不是空谈理论。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '技术驱动',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        网站基于 Docusaurus 构建，利用 React 的强大功能提供流畅的阅读体验。
       </>
     ),
   },
