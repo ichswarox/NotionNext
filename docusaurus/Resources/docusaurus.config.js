@@ -98,17 +98,20 @@ const config = {
         },
         items: [
           {
-            to: '/category/3dapp',
+            type: 'docSidebar',
+            sidebarId: '3dappSidebar',
             label: '3DApp 🎨',
             position: 'left',
           },
           {
-            to: '/category/tutorial',
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
             label: 'Tutorial 📚',
             position: 'left',
           },
           {
-            to: '/category/gallery',
+            type: 'docSidebar',
+            sidebarId: 'gallerySidebar',
             label: 'Gallery 🖼️',
             position: 'left',
           },

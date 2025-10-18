@@ -2,7 +2,7 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  defaultSidebar: [
+  '3dappSidebar': [
     {
       type: 'category',
       label: '3DApp',
@@ -14,6 +14,8 @@ const sidebars = {
         slug: '/category/3dapp'
       }
     },
+  ],
+  'tutorialSidebar': [
     {
       type: 'category',
       label: 'Tutorial',
@@ -25,6 +27,8 @@ const sidebars = {
         slug: '/category/tutorial'
       }
     },
+  ],
+  'gallerySidebar': [
     {
       type: 'category',
       label: 'Gallery',
