@@ -1,9 +1,9 @@
 ---
-title: "Blender Procedural Fungus Generator Assets Presets - Procedural Fungus Growth V1.0"
+title: "Blender Procedural Fungus Generator Assets Presets - Procedural Fungus Growth"
 description: "A powerful procedural tool for quickly generating and animating fungus growth in Blender 3.5 and onward. Draw curves to designate a growth path and watch it engulf any object you put in its way."
 tags: [Blender, Blender Assets, Blender Presets, Procedural Fungus Growth, Fungus Animation]
 slug: /procedural-fungus-growth
----
+---s
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
   <p class="text-sm text-gray-500">Last updated: Oct 14 2025</p>
 </div>
 
-![Procedural Fungus Growth](https://www.gfxcamp.com/wp-content/uploads/2025/10/Procedural-Fungus-Growth.jpg)
+![img1018-oRHv.webp](https://list.ucards.store/d/img/img1018-oRHv.webp)
 
 ## Overview
 

@@ -1,5 +1,5 @@
 ---
-title: "Colorframe Renders Pro V4.1.4 - Blender Wireframe Rendering Plugin"
+title: "Colorframe Renders Pro - Blender Wireframe Rendering Plugin"
 description: "Create beautiful and colorful wireframe renders for your projects with ColorFrame Renders Pro plugin for Blender"
 tags: [blender, blender-plugin, colorframe-renders-pro, wireframe-rendering]
 slug: /colorframe-renders-pro
@@ -10,8 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 14 2025
 
-![Colorframe Renders Pro V4.0](https://www.gfxcamp.com/wp-content/uploads/2022/03/Colorframe-Renders-Pro-V4.0.jpg)
-
+![img1017-WfOc.webp](https://list.ucards.store/d/img/img1017-WfOc.webp)
 ## Colorframe Renders Pro V4.1.4 - Blender Wireframe Rendering Plugin
 
 Colorframe Renders Pro is a powerful Blender plugin that allows you to render wireframe effects on models while adding multiple color effects to polygons. Create beautiful and colorful wireframe renders for your projects and take your presentation to the next level with ColorFrame Renders Pro.
@@ -60,3 +59,5 @@ Supports Blender 2.93, 3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+link:https://superhivemarket.com/products/colorframe-renders-pro

@@ -24,7 +24,7 @@ and Post structure:
    - Installation instructions with Tabs for different scenarios in a clear cable
    - Download links in a table format and should in last part of content
 1. Translate the content to English
-2. Ensure the content follows Google EEAT SEO principles, Create a short filename that matches the slug(Google-SEO-friendly and keep it simple)
+2. Ensure the content follows Google EEAT SEO principles, Create a short filename that matches the slug(Google-SEO-friendly and keep it simple),and match the first banner links name(for example: (https://www.gfxcamp.com/wp-content/uploads/2025/09/name.jpg),)
 3. Keep the content simple, my website is a resources download site.
 4. Generate frontmatter with title, description, keywords, and slug
 5. Use Tabs for different installation methods if applicable
@@ -36,7 +36,11 @@ and Post structure:
 10. check of download link is in the last part.
 11. /slug and the markdow name should be the same, and don't include version number
 12. finished file go to /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/finished
-13. in the end add:
+13. in the end content should be like:
+    ## 🐌Free Slow Download Links
+    | Version | Download Link | Password |
+    |--------|---------------|----------|
+    | | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
     ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

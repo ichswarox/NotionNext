@@ -22,7 +22,7 @@
   填写以下信息：
 
   ```text
-  Hostname: h.neoxu.store
+  Hostname: nuke.neoxu.store
   Port: <替换为你提供的数字，如4101或233>
   ```
 

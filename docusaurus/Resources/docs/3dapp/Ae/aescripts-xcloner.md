@@ -1,5 +1,5 @@
 ---
-title: Aescripts xCloner v1.2 - After Effects Layer Cloning Plugin
+title: Aescripts xCloner v1.3 - After Effects Layer Cloning Plugin
 description: Powerful After Effects plugin that clones any type of layer exceptionally fast with real-time preview. Supports materials, vector, shape layers, text and more.
 tags: [aescripts, after effects, cloning plugin, xcloner, layer duplication, ae plugin, motion graphics, visual effects]
 slug: /aescripts-xcloner
@@ -7,9 +7,9 @@ slug: /aescripts-xcloner
 
 <!-- Above is frontmatter Part - generated based on content to meet Google SEO requirements, balancing automation efficiency with Google's E-E-A-T principles -->
 
-# Aescripts xCloner v1.2 - Fast Layer Cloning Plugin for After Effects
+# Aescripts xCloner v1.3 - Fast Layer Cloning Plugin for After Effects
 
-![Aescripts xCloner](https://www.gfxcamp.com/wp-content/uploads/2025/06/xCloner.jpg)
+![img1017-GAZm.webp](https://list.ucards.store/d/img/img1017-GAZm.webp)
 
 :::tip[Plugin Overview]
 xCloner is a powerful After Effects plugin that clones any type of layer exceptionally fast. It supports materials, vector layers, shape layers, text, and more while providing real-time preview as you adjust its numerous options.
@@ -46,5 +46,12 @@ Click on the links to go to the download pages. The extraction passwords are pro
 
 | Version | Download Link | Password |
 |---------|---------------|----------|
+| **xCloner v1.3** | [Download](https://pan.baidu.com/s/1UMs1mGA_Y7XOirwtUlkSRw?pwd=n6jv) | `n6jv` |
 | **xCloner v1.2** | [Download](https://pan.baidu.com/s/1N6fi0_2q37q7AcjlC-H5_w?pwd=afdm) | `afdm` |
 | **xCloner v1.0** | [Download](https://pan.baidu.com/s/1Zn2kbsM_TAs32Cj3YSwy4A?pwd=vqew) | `vqew` |
+
+## 🚀Direct Download Link
+
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::
