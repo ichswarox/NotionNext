@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 18 2025
 
-![Dimensional Drawing Workout](https://cdn4.schoolism.com/media/outputs/3658/Thumbnails/2025080501104368915a13011f8.0000001.jpg)
+![img1019-AupF.webp](https://list.ucards.store/d/img/img1019-AupF.webp)
 
 ## Overview
 
@@ -70,13 +70,9 @@ The course covers essential concepts of dimensionality including perspective, ob
 </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| Course | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+Link:https://www.youtube.com/watch?v=mTj8rG2SotM

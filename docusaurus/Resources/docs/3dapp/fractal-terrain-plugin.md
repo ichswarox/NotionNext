@@ -5,6 +5,9 @@ tags: [aescripts, AE plugin, 3D terrain, fractal noise, After Effects]
 slug: /fractal-terrain-plugin
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Last updated: Oct 17 2025
 
 ![img1018-ERMp.webp](https://list.ucards.store/d/img/img1018-ERMp.webp)

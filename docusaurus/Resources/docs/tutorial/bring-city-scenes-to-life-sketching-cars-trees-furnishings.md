@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 18 2025
 
-![Bring City Scenes to Life: Sketching Cars, Trees and Furnishings](https://www.gfxcamp.com/wp-content/uploads/2025/09/bring-city-scenes-to-life-sketching-cars-trees-furnishings.jpg)
+![img1019-CUal.webp](https://list.ucards.store/d/img/img1019-CUal.webp)
 
 ## Overview
 
@@ -43,13 +43,9 @@ The course covers sketching techniques for various urban elements including cars
 </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| Course | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+Link: https://www.skillshare.com/en/classes/bring-city-scenes-to-life-sketching-cars-trees-and-furnishings/2103496100

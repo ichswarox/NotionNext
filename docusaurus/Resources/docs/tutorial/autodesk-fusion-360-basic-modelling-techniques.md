@@ -263,11 +263,6 @@ Whether you are designing mechanical parts, **electronic devices, or industrial-
 - Technical employees working in the maintenance and repair field
 - Designers creating technical documentation
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

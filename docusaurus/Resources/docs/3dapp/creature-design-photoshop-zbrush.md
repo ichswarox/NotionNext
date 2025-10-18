@@ -36,12 +36,6 @@ There are many approaches for designing characters for the screen. Industry vete
 - **Format**: HD 1920x1080
 - **Software**: Photoshop, ZBrush, KeyShot
 
-## Software Used
-
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/000/009/icon/keyshot.png?1624643209)KeyShot](/tutorials?tags[]=keyshot)
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/000/042/icon/ZBrush23.png?1661989443)ZBrush](/tutorials?tags[]=zbrush)
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/000/060/icon/photoshop.png?1661988188)Photoshop](/tutorials?tags[]=photoshop)
-
 ## Lessons
 
 <Tabs>

@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 18 2025
 
-![Unity Mobile GTA Style Shooter Game](https://www.gfxcamp.com/wp-content/uploads/2025/09/unity-mobile-gta-style-shooter-game.jpg)
+![img1019-YSYB.webp](https://list.ucards.store/d/img/img1019-YSYB.webp)
 
 ## Overview
 
@@ -98,12 +98,9 @@ This comprehensive course covers all aspects of Unity game development from basi
 9. Mission System (4 lectures • 42min)
 10. Main Menu and Save System (5 lectures • 40min)
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|---------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+Link: https://www.udemy.com/course/unity-mobile-create-a-gta-style-third-person-shooter-game/

@@ -2,7 +2,7 @@
 title: "Master Text Animation in After Effects - Beginner to Pro"
 description: "The Complete Guide to Text Animation for Beginners & Creators in Adobe After Effects"
 tags: [after effects, text animation, motion graphics, kinetic typography, animation]
-slug: /master-text-animation-in-after-effects-beginner-to-pro
+slug: /master-text-animation-in-after-effects-beginner-to-pro-2
 ---
 
 Last updated: Oct 2025
@@ -93,12 +93,6 @@ Text animation is one of the most powerful ways to bring your designs, videos, a
 - Beginners who want to learn text animation in After Effects from scratch
 - Motion graphics beginners who want to move toward professional-level text animation
 - Anyone interested in kinetic typography and dynamic text animation for personal or client projects
-
-## 🐌 Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀 Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

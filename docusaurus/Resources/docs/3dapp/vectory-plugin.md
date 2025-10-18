@@ -5,9 +5,12 @@ tags: [aescripts, AE plugin, motion graphics, vector lines, After Effects]
 slug: /vectory-plugin
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Last updated: Oct 17 2025
 
-![Vectory](https://www.gfxcamp.com/wp-content/uploads/2025/10/Vectory.jpg)
+![img1019-JRkB.webp](https://list.ucards.store/d/img/img1019-JRkB.webp)
 
 # Vectory Plugin - Dynamic Line Network for AE
 
@@ -46,8 +49,14 @@ Transform any image into a living network of moving lines. Thousands of particle
 - Verify that the plugin supports your version of AE
 :::
 
+https://pan.baidu.com/s/1Dvcb79IdeXhE5CFN2X5LKA?pwd=e5x3
+
 ## 🚀Direct Download Link
 
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+## 🐌Free Slow Download Links
+
+[Download from Baidu Netdisk](https://pan.baidu.com/s/1Dvcb79IdeXhE5CFN2X5LKA?pwd=e5x3)

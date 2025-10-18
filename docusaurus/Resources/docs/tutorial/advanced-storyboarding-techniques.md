@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 18 2025
 
-![Advanced Storyboarding Techniques](https://www.gfxcamp.com/wp-content/uploads/2025/09/advanced-storyboarding-techniques.jpg)
+![img1019-RAht.webp](https://list.ucards.store/d/img/img1019-RAht.webp)
 
 ## Overview
 
@@ -40,3 +40,5 @@ This course covers essential techniques for advanced storyboarding, including ho
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+Link:https://www.skillshare.com/en/classes/advanced-storyboarding-techniques/1278012737

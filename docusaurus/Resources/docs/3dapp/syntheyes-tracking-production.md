@@ -12,8 +12,7 @@ import TabItem from '@theme/TabItem';
 
 *Last updated: Oct 17 2025*
 
-![SynthEyes Tracking for Production](https://d2tmthzm7jp200.cloudfront.net/images/attachments/000/007/435/original/kbo01-2.jpg?1553104167)
-
+![img1016-NNiI.webp](https://list.ucards.store/d/img/img1016-NNiI.webp)
 ## Essential Tips, Tricks, and Theories
 
 :::tip
@@ -35,11 +34,6 @@ In this workshop, Tracker / Matchmove Artist Kevin Bolivar takes you through Syn
 - **Duration**: 3h 53m
 - **Format**: HD 1920x1080
 - **Software**: SynthEyes, Maya
-
-## Software Used
-
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/000/032/icon/syntheyes.png?1624643211)SynthEyes](/tutorials?tags[]=syntheyes)
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/00/040/icon/maya2023.png?166198163)Maya](/tutorials?tags[]=maya)
 
 ## Lessons
 

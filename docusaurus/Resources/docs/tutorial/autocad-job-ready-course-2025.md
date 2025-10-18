@@ -126,11 +126,6 @@ By the end of this journey, you won't just be proficient—you'll be **job-ready
 - Design managers wanting to implement AutoCAD solutions to streamline their team's design processes
 - Design students and recent graduates aiming to acquire practical AutoCAD skills that employers are seeking
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

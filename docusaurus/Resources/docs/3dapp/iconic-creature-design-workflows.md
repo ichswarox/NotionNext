@@ -41,12 +41,6 @@ The second part of the workshop dives into ZBrush to develop a fully realized an
 - **Format**: HD 1920x1080
 - **Software**: Photoshop, ZBrush, KeyShot
 
-## Software Used
-
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/000/009/icon/keyshot.png?1624643209)KeyShot](/tutorials?tags[]=keyshot)
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/000/042/icon/ZBrush23.png?1661989443)ZBrush](/tutorials?tags[]=zbrush)
-- [![](https://d2tmthzm7jp200.cloudfront.net/software_icons/icons/000/000/060/icon/photoshop.png?1661988188)Photoshop](/tutorials?tags[]=photoshop)
-
 ## Lessons
 
 <Tabs>
@@ -91,7 +85,7 @@ Aaron Sims, the mind behind some of this generation's most unforgettable cinema 
 
 > "Aaron Sims is the consummate industry professional in that he consistently marries his considerable artistic talent with the powerful technological tools of today, producing work that not only meets the demands of time-sensitive production schedules, but also never fails to impress."
 > 
-> \- Stan Winston, Stan Winston Studio
+> Stan Winston, Stan Winston Studio
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

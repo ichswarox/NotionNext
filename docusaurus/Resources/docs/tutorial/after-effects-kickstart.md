@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 18 2025
 
-![After Effects Kickstart](https://cdn.prod.website-files.com/67fe670fea6c0651a1f95413/67fe670fea6c0651a1f969b2_AEK_16x9.jpg)
+![img1019-wmhU.webp](https://list.ucards.store/d/img/img1019-wmhU.webp)
 
 ## Overview
 
@@ -109,13 +109,9 @@ Watch and learn as Nol shows you exactly what it takes to animate a professional
 </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| Course | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+Link: https://www.schoolofmotion.com/courses/after-effects-kickstart

@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 14 2025
 
-![Rive Academy Volume 1 2](https://www.gfxcamp.com/wp-content/uploads/2025/10/Rive-Academy-Volume-1-2.jpg)
+![img1019-KVRS.webp](https://list.ucards.store/d/img/img1019-KVRS.webp)
 
 ## Rive UI Interactive Animation Tutorials - Chinese/English Subtitles
 
@@ -60,3 +60,5 @@ These tutorials are perfect for UI/UX designers looking to create interactive an
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+Link: https://schoolofmotion.com/blog/rive2?_gl=1*1a8hhsr*_gcl_au*MjQ4NTk5NTMyLjE3NjA4MDY0NDg.*_ga*NjMxMzU3ODMxLjE3NjA4MDY0NTA.*_ga_V0S45B73ZQ*czE3NjA4MDY0NTAkbzEkZzAkdDE3NjA4MDY0NTAkajYwJGwwJGgw
