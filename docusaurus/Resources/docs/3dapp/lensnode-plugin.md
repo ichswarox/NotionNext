@@ -51,6 +51,7 @@ Intel Iris Pro Graphics, Intel UHD Graphics 630
 <Tabs>
 <TabItem value="mac" label="Mac OS Version">
 Free Version with MacOS Support.
+![img1020-zGxd.webp](https://list.ucards.store/d/img/img1020-zGxd.webp)
 Mac Os version 1.0.2:
 [Download Links](https://list.neoxu.store/d/app/comp%20video/davinci/%E8%BE%BE%E8%8A%AC%E5%A5%87%E6%8F%92%E4%BB%B6%20LensNode%20v1.0.2%20Mac.dmg)
 </TabItem>
