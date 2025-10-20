@@ -175,11 +175,7 @@ Master Lighting and Texture: You will learn basics of using Light, highlights, s
 - Texture Painting exercises
 :::
 
-## 🐌 Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
+ 
 
 ## 🚀 Direct Download Link
 

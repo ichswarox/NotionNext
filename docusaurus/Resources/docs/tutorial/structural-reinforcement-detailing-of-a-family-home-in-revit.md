@@ -115,11 +115,7 @@ Join today and take the next step toward becoming a professional in **structural
 - Creating stairs rebar schedule
 :::
 
-## 🐌 Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
+ 
 
 ## 🚀 Direct Download Link
 

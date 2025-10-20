@@ -78,12 +78,6 @@ By the end of this class, you'll have created professional-quality brushes & ill
 - Floral Pattern
 :::
 
-## 🐌 Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀 Direct Download Link
 
 :::tip[Get Premium Download Speed Without any Limitations!]

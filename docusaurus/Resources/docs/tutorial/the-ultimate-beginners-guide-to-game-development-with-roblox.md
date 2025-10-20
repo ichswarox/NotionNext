@@ -215,11 +215,7 @@ The instructor has been busy for the past 3 years to rewrite the entire course t
 - Parameters and Events 1: Traps (R15 support)
 :::
 
-## 🐌 Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
+ 
 
 ## 🚀 Direct Download Link
 
