@@ -7,7 +7,7 @@ slug: /the-photography-masterclass-complete-course-on-photography
 
 Last updated: May 2025
 
-![THE Photography Masterclass: Complete Course on Photography](https://img-c.udemycdn.com/course/240x135/1938954_3547_13.jpg)
+![img1020-Zfdt.webp](https://list.ucards.store/d/img/img1020-Zfdt.webp)
 
 ## Overview
 
@@ -190,3 +190,5 @@ Helping photographers achieve their creative vision since 2010.
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
+
+Link: https://www.udemy.com/course/photography-learn-photography-from-pro-take-better-photos/?couponCode=MT251020G2

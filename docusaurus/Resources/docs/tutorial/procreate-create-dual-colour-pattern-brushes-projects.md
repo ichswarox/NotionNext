@@ -7,7 +7,7 @@ slug: /procreate-create-dual-colour-pattern-brushes-projects
 
 Last updated: Aug 2023
 
-![Procreate Create Dual Colour Pattern Brushes](https://img-c.udemycdn.com/course/240x135/5313720_7a79.jpg)
+![img1020-SljP.webp](https://list.ucards.store/d/img/img1020-SljP.webp)
 
 ## 📚 What You'll Learn
 
@@ -83,3 +83,5 @@ By the end of this class, you'll have created professional-quality brushes & ill
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.
 :::
+
+Link: https://www.skillshare.com/en/classes/learn-to-create-dual-colour-pattern-brushes-in-procreate/72735591
