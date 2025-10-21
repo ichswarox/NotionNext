@@ -7,7 +7,9 @@ slug: /autodesk-fusion-360-basic-modelling
 
 Last updated: Aug 2021
 
-![Autodesk Fusion 360 Basic Modelling Techniques](https://img-c.udemycdn.com/course/240x135/4162456_bcf2_3.jpg)
+![img1021-NCwP.webp](https://list.ucards.store/d/img/img1021-NCwP.webp)
+
+https://www.udemy.com/course/autodesk-fusion-360-basic-modelling-techniques/?couponCode=KEEPLEARNING
 
 Fusion 360 is a **cloud-powered 3D modeling, CAD, CAM, CAE, and PCB design platform** that brings together the entire product development process into a single, integrated environment. Designed for **engineers, designers, and manufacturers**, Fusion 360 provides the tools needed to **conceptualize, design, engineer, simulate, and fabricate** products more efficiently than ever.
 

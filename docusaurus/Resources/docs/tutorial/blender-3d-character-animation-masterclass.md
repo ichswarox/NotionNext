@@ -7,7 +7,9 @@ slug: /blender-3d-character-animation-masterclass
 
 Last updated: Oct 2025
 
-![Blender 3D Character Animation Masterclass](https://img-c.udemycdn.com/course/750x422/6845835_64a5.jpg)
+![img1021-WLPW.webp](https://list.ucards.store/d/img/img1021-WLPW.webp)
+
+https://www.udemy.com/course/blender-3d-character-animation-masterclass-zero-to-hero/?couponCode=KEEPLEARNING
 
 This course will guide you step-by-step to create stunning 3D animation short films with realistic lipsync, acting, and cinematic camera setups in Blender 3D.
 

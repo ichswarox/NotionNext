@@ -7,7 +7,9 @@ slug: /character-design-and-illustration-the-licker-in-the-womb_copy
 
 Last updated: Nov 2017
 
-![Character Design and Illustration: The Licker in the Womb](https://www.gfxcamp.com/wp-content/uploads/2025/09/character-design-and-illustration-the-licker-in-the-womb.jpg)
+![img1021-WXtn.webp](https://list.ucards.store/d/img/img1021-WXtn.webp)
+
+https://www.udemy.com/course/character-design-and-illustration-the-licker-in-the-womb/?couponCode=KEEPLEARNING
 
 Are you looking to start your career in character design? Are you looking for a way to hone your digital art skills? In this course, you will learn how to digital paint in Adobe Illustrator. I'll walk you through the entire process from start to finish.
 

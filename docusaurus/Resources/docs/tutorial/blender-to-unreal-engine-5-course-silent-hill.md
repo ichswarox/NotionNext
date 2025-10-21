@@ -7,7 +7,9 @@ slug: /blender-to-unreal-engine-5-course-silent-hill
 
 Last updated: Sep 2025
 
-![Complete Blender to Unreal Engine 5 Course (Silent Hill F)](https://img-c.udemycdn.com/course/750x422/6845043_52e3.jpg)
+![img1021-ohqg.webp](https://list.ucards.store/d/img/img1021-ohqg.webp)
+
+https://www.udemy.com/course/complete-blender-to-unreal-engine-5-course-silent-hill-f/?couponCode=KEEPLEARNING
 
 This course offers you a full production pipeline from modeling, texturing and animating a cinematic game environment.
 

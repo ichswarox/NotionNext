@@ -7,7 +7,9 @@ slug: /blender-3d-animation-cinematic-reels
 
 Last updated: Sep 2025
 
-![Blender 3D Animation: Make Stunning Shorts & Cinematic Reels](https://img-c.udemycdn.com/course/750x422/6841089_d232_4.jpg)
+![img1021-lwzG.webp](https://list.ucards.store/d/img/img1021-lwzG.webp)
+
+https://www.udemy.com/course/blender-animation-make-stunning-shorts-cinematic-reels/?couponCode=KEEPLEARNING
 
 This course will take you from beginner to advanced in 3D animation, character animation, and VFX — step by step.
 
