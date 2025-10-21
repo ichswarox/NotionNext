@@ -7,7 +7,10 @@ slug: /create-a-space-shoot-em-up-with-unity
 
 Last updated: Oct 20 2025
 
-![Create a Space Shoot 'Em Up With Unity](https://img-c.udemycdn.com/course/240x135/2087550_3f08_5.jpg)
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+![img1021-ZTph.webp](https://list.ucards.store/d/img/img1021-ZTph.webp)
 
 ## Overview
 
@@ -156,8 +159,6 @@ At the end of this course you will have developed the ability to create such gam
 
 ## Instructor
 
-[James Doyle](/user/james-doyle-4/) - Teaching The Basics of Making Games
-
 - 4.7 Instructor Rating
 - 19,265 Reviews
 - 95,397 Students
@@ -217,11 +218,6 @@ No, this course is designed for beginners and will teach you C# programming from
 Yes, you will get full lifetime access to the course, including all lessons and downloadable materials.
 </details>
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

@@ -141,12 +141,7 @@ AI Art Generation has become one of the most exciting and rapidly evolving field
 - Large Language Models (LLM)
 - Content Creation
 - Leonardo.Ai
-
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
+- 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.

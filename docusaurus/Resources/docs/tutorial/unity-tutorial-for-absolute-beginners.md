@@ -5,10 +5,14 @@ tags: [unity, game-development, c-sharp, programming, beginner, game-design, uni
 slug: /unity-tutorial-for-absolute-beginners
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 Last updated: Oct 20 2025
 
-![Unity Tutorial for Absolute Beginners](https://img-c.udemycdn.com/course/240x135/6823953_1463_3.jpg)
+![img1021-RaVO.webp](https://list.ucards.store/d/img/img1021-RaVO.webp)
 
+https://www.udemy.com/course/unity-tutorial-for-absolute-beginners/?couponCode=KEEPLEARNING
 ## Overview
 
 A step-by-step Unity course covering the fundamentals of game development through 65 hands-on lessons.
@@ -162,8 +166,6 @@ Since Standard Assets is no longer maintained or supported, video #36 "How to Us
 
 ## Instructor
 
-[侑樹 古林](/user/gu-lin-you-shu/) - Unity etc. guidance for elementary and junior high school students
-
 - 4.7 Instructor Rating
 - 67 Reviews
 - 459 Students
@@ -204,11 +206,6 @@ Yes, you will learn how to package and publish your Unity games to the Google Pl
 Yes, this video course is a converted version from Japanese to English as it's part of the official curriculum of the online IT school ITeens Lab from Japan.
 </details>
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

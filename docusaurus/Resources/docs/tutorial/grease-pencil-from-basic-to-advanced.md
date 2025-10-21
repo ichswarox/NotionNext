@@ -39,11 +39,6 @@ Master the art of Grease Pencil animation in Blender with this comprehensive cou
 - Beginners interested in learning Grease Pencil from scratch
 - Intermediate users wanting to advance their skills
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

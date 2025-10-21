@@ -37,10 +37,6 @@ and Post structure:
 11. /slug and the markdow name should be the same, and don't include version number
 12. finished file go to /Users/Apple/Documents/GitHub/NotionNext/docusaurus/Resources/new/finished
 13. in the end content should be like:
-    ## 🐌Free Slow Download Links
-    | Version | Download Link | Password |
-    |--------|---------------|----------|
-    | | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
     ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

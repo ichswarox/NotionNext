@@ -31,10 +31,6 @@ Storyboarding is a crucial skill for animators, filmmakers, and designers to vis
 
 This course covers essential techniques for advanced storyboarding, including how to create compelling visual narratives and improve your storytelling skills through effective planning and visualization.
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|---------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

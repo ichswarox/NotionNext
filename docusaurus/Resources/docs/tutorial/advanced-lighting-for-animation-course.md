@@ -138,11 +138,6 @@ If you're ready to learn how to take this shot from cache to final render, enrol
 
 [Enroll Now $250](https://www.lupinhouse.com/challenge-page/6233e72f-d771-4a92-8708-c20015725065)
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

@@ -117,10 +117,6 @@ My goal is to provide you with the clarity, structure, and practical skills you 
 
 My courses focus on hands-on application, ensuring you not only understand the concepts but can immediately put them to use in your career.
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

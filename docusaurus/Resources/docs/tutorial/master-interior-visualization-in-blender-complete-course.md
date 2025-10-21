@@ -169,11 +169,6 @@ The software's active development ensures continuous improvements and new featur
 - Students and freelancers building impressive interior design portfolios
 - Anyone passionate about interior design and photorealistic 3D rendering techniques
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 

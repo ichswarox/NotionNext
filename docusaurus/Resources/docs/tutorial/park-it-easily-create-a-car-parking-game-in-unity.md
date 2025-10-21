@@ -4,6 +4,8 @@ description: "Learn to create a complete car driving and parking game in Unity w
 tags: [unity, game-development, 3d-game, car-game, parking-game, physics, game-design]
 slug: /park-it-easily-create-a-car-parking-game-in-unity
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 Last updated: Oct 20 2025
 
@@ -139,8 +141,6 @@ In this project-based course, you will create a functional and addictive car par
 
 ## Instructor
 
-[Lucas Rybzinski Pinto](/user/lucas-r-pinto/) - Game Engineer
-
 - 5.0 Instructor Rating
 - 7 Reviews
 - 34 Students
@@ -188,11 +188,6 @@ Yes, you will learn about Unity physics including Rigidbody, Colliders, Wheel Co
 Yes, the course covers techniques like Adaptive Probe Volumes for lighting and post-processing effects to make your game look professional.
 </details>
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

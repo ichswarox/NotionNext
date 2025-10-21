@@ -142,11 +142,6 @@ Each stage of the course is designed to help you grow:
 - We designed this course for anyone that wants to learn 3D modelling, and the tools used by professional artists in the industry
 - We designed this course for beginner Autodesk Maya users who want to take their skills to a more advanced next level
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 

@@ -66,10 +66,6 @@ This course will be very helpful and easy to follow for beginners. Advanced Blen
 - References and textures for the project
 - Complete project files and resources
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

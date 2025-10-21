@@ -247,11 +247,6 @@ By course completion, you'll have the confidence and skills to tackle your own 3
 - Anyone interested in learning industry-standard 3D software without expensive licenses
 - Creative individuals wanting to explore 3D modeling as a hobby or career path
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

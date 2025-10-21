@@ -150,11 +150,6 @@ By the end of this course, you'll have a robust system for procedural level desi
 - Access on mobile and TV
 - Certificate of completion
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

@@ -203,11 +203,6 @@ To follow along with the course, you will need access to Unreal Engine 5.6. Acce
 
 To follow along with this course, a computer with a dedicated graphics card is essential. Unreal Engine 5 is a powerful real-time engine, and a decent GPU is required for a smooth experience, especially when using features like the Path Tracer.
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

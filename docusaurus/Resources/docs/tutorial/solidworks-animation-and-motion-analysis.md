@@ -142,11 +142,6 @@ This course is for those who are enthusiastic about learning Solidworks motion a
 
 - Intermediate solidworks user
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 

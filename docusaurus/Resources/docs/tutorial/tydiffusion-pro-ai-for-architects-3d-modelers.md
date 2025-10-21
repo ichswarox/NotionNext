@@ -168,11 +168,6 @@ I, Mohammad Rahbar, bring over 7 years of experience in urban architecture, grap
 4. **Exclusive Resources**: Gain access to a library of project files and design assets from my professional work, giving you insight into real-world applications and practical tools to use in your own projects.
 5. **Knowledge Checks**: Test your progress with quizzes at the end of each section, ensuring you fully grasp the concepts before moving forward.
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

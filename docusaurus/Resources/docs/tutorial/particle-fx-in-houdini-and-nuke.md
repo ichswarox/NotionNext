@@ -7,6 +7,9 @@ slug: /particle-fx-in-houdini-and-nuke
 
 Last updated: Oct 20 2025
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 ![Particle FX in Houdini & Nuke](https://i0.wp.com/voxyde.com/wp-content/uploads/2025/04/Thumb_blast.jpeg?fit=1024%2C576&ssl=1)
 
 ## Overview
@@ -190,11 +193,6 @@ You are eligible for a refund 28 days after enrollment. Message us at rez@voxyde
 You will receive a discord invite link with the invoice email. Here you can ask questions, get feedback and learn with other students!
 </details>
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

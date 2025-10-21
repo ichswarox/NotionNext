@@ -98,11 +98,6 @@ This is a **practical, focused course**—no endless Blender basics, no wasted h
 
 Hey there! I am Rajat, a freelance 3D Generalist and a YouTuber with over 200K subscribers and 300+ Million views on my animation videos. This platform helps me share my knowledge with all of you in the form of videos. When I am not creating videos for my YouTube channel, I am writing articles, reading books or browsing videos on 3D content creation.
 
-## 🐌Free Slow Download Links
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.

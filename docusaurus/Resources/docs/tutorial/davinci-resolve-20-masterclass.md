@@ -170,11 +170,6 @@ Unlock the full potential of **DaVinci Resolve 20**, the industry-leading free e
 - Filmmakers
 - Videographers
 
-## 🐌Free Slow Download Links
-
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| | [Download from Baidu Netdisk](https://pan.baidu.com/s/link) | pass |
 
 ## 🚀Direct Download Link
 
