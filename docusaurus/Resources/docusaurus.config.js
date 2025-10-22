@@ -116,13 +116,9 @@ const config = {
             position: 'left',
           },
           {
-            to: '/tags',
-            label: 'Tags 🏷️',
-            position: 'left',
-          },
-          {
-            to: '/about-us',
-            label: 'About Us ℹ️',
+            type: 'docSidebar',
+            sidebarId: 'gallerySidebar',
+            label: 'Gallery 🖼️',
             position: 'left',
           },
           {
@@ -156,11 +152,21 @@ const config = {
           },
           {
             title: 'Community',
-            items: [],
+            items: [ 
+              {
+                label: 'Tags',
+                href: '/tags',
+              },
+            ],
           },
           {
             title: 'More',
-            items: [],
+            items: [
+              {
+                label: 'About Us',
+                to: '/about-us',
+              },
+            ],
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Resource App.`,
