@@ -117,8 +117,38 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'comp',
-            label: 'comp 🖼️',
+            sidebarId: 'compSidebar',
+            label: 'Comp 🎨',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'blenderSidebar',
+            label: 'Blender 🔥',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'textureSidebar',
+            label: 'Texture 🎨',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'aeSidebar',
+            label: 'Ae 🎬',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'modelSidebar',
+            label: 'Model 🏗️',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'simSidebar',
+            label: 'Sim ⚙️',
             position: 'left',
           },
           {

@@ -12,15 +12,6 @@ slug: /curve-facefilled-pro-v1-1-7
 
 <!--Second Part-This is First Banner -->
 ![CurveFacefilled-rc.webp](https://list.ucards.store/d/img/CurveFacefilled-rc.webp)
-:::tip[info]
-**Download V1.1.7: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1MBqwHgxnPKKCS8qqvsfb3A?pwd=j4qi)**
-
-Extraction code: j4qi
-
-**Download V1.1.6: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1p3ZFWk2AdrxnWfFm29lMLQ?pwd=5ahc)**
-
-Extraction code: 5ahc
-:::
 
 ## Overview
 
@@ -134,7 +125,7 @@ When sharing your work, include relevant keywords such as:
 
 <!-- The Last Part-Download -->
 ## 🐌Free Slow Download Links
-
+:::tip[info]
 **Download V1.1.7: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1MBqwHgxnPKKCS8qqvsfb3A?pwd=j4qi)**
 
 Extraction code: j4qi
@@ -142,6 +133,7 @@ Extraction code: j4qi
 **Download V1.1.6: [Click to download from Baidu Netdisk](https://pan.baidu.com/s/1p3ZFWk2AdrxnWfFm29lMLQ?pwd=5ahc)**
 
 Extraction code: 5ahc
+:::
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
