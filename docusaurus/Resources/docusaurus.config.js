@@ -117,8 +117,8 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'gallerySidebar',
-            label: 'Gallery 🖼️',
+            sidebarId: 'comp',
+            label: 'comp 🖼️',
             position: 'left',
           },
           {
