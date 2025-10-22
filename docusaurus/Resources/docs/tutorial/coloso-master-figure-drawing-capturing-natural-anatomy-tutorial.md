@@ -10,9 +10,12 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 10 2025
 
-![Coloso Master Figure Drawing: Capturing Natural Anatomy from Every Angle Tutorial](https://www.gfxcamp.com/wp-content/uploads/2025/10/Master-Figure-Drawing-Capturing-Natural-Anatomy-from-Every-Angle.jpg)
+![img1022-JsXr.webp](https://list.ucards.store/d/img/img1022-JsXr.webp)
+
+https://coloso.global/en/products/illustrator-hide-us
 
 ## Overview
+Master Figure Drawing: Capturing Natural Anatomy from Every Angle
 
 Coloso CSP Master Figure Drawing: Capturing Natural Anatomy from Every Angle tutorial with Chinese/English/Japanese subtitles. This tutorial explains how to draw human sketches, including explanations of the basic knowledge of drawing human figures, from how to draw basic lines to human proportions and characteristics of male and female figures. Using perspective, body structure, and simplified human anatomy models to draw three-dimensional forms.
 
