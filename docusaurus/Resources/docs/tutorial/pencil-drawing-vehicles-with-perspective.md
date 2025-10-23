@@ -31,22 +31,6 @@ Last updated: Oct 22 2025
 - How to keep proportions correct and control angles
 - How to make drawings look solid and consistent
 
-## 📦 Download Options
-
-| Description | Download Link |
-|-------------|---------------|
-| Course Access | [Udemy Course](https://www.udemy.com/course/perspective-made-easy-pencil-drawing-vehicles-step-by-step/) |
-
-:::note
-Current price: S$19.98
-:::
-
-## 🔗 Related Resources
-
-- [Essentials Of Human Anatomy: Complete Figure Drawing Course](https://www.udemy.com/course/human-body-anatomy-drawing-figure-drawing-course/)
-- [Ultimate Pen Drawing Course: Beginner to Intermediate](https://www.udemy.com/course/ultimate-pen-drawing-course-beginner-to-intermediate/)
-- [The Complete Character Drawing From Beginner to Advanced](https://www.udemy.com/course/the-complete-character-drawing-with-pencil-for-beginners/)
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

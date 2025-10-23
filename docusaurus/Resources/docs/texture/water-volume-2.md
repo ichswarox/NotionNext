@@ -33,14 +33,6 @@ Last updated: Oct 22 2025
 |-------------|---------------|----------|
 | WATER VOLUME 2 | [Baidu Netdisk](https://pan.baidu.com/s/15MuLXrlYsnFyRfg3feEmuQ?pwd=rbqx) | rbqx |
 
-## 🔗 Related Resources
-
-- [2D Cloud Textures Pack](https://www.gfxcamp.com/2d-cloud-textures-pack/)
-- [99 PBR Materials Vol.01](https://www.gfxcamp.com/9-pbr-materials-vol-01/)
-- [ULTIMATE PACK – 255 Tileable Displacement/Alpha Patterns](https://www.gfxcamp.com/ultimate-pack-255-tileable-displacement-alpha-patterns/)
-- [200+ Stencils Dirt and Damage](https://www.gfxcamp.com/200-stencils-dirt-and-damage/)
-- [110 Mech Alphas](https://www.gfxcamp.com/110-mech-alphas/)
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

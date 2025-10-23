@@ -42,3 +42,4 @@ and Post structure:
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
 14. don't forget to double check add resouce download link like baiduyunpan from markdown file.
+15. don't forget link all images from content,like this:![Alt-Name](https://www.link.com/wp-content/uploads/2025/09/image.jpg)

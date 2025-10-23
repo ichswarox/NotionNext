@@ -8,11 +8,12 @@ slug: /fantastic-3d-illustration-blender
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Last updated: Oct 14 2025
+
+# Fantastic 3D Illustration with Blender
+Last updated: Oct 14 2025
 
 ![Fantastic 3D Illustration with Blender](https://imgproxy.domestika.org/unsafe/rt:fill/f:webp/s:480:270/plain/src://course-covers/000/001/702/1702-original.jpg?1611759401)
 
-## Fantastic 3D Illustration with Blender
 
 :::tip[Overview]
 Make your fantasies a reality by creating a piece of conceptual sci-fi art
