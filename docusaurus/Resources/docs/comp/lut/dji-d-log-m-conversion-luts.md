@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![DJI D-Log M Conversion LUTs 2.0](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 DJI D-Log M Conversion LUTs is a professional set of conversion LUTs produced by GAMUT for DJI drone D-Log and D-Log M footage. These LUTs not only preserve natural skin tones and saturated colors but also accurately match colors between different camera brands and sensors. Essential conversion LUTs that are highly recommended for learning and reference!

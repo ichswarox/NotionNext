@@ -12,8 +12,6 @@ import TabItem from '@theme/TabItem';
 
 <time datetime="2025-10-24">Last updated: Oct 24, 2025</time>
 
-![SpectrumGrades ARCUS Contemporary](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 SpectrumGrades ARCUS Contemporary is a professional drone photography cinematic color looks LUTs color grading preset package produced by SpectrumGrades. It includes 10 selected presets that provide cutting-edge preset parameters, including analog/archetype, polychrome and new modern light looks. This package is very worth learning and referencing for your projects!
 
 ## Features

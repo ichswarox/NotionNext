@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 # Last updated: Oct 24 2025
 
-![Filtergrade Celluloid Skintone LUTs Pack](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Filtergrade Celluloid Skintone LUTs Pack - Professional Skin Tone Adjustment Tools
 
 Filtergrade Celluloid Skintone LUTs Pack is a professional cinematic LUT collection for filmmakers that offers amazing skin tone and skin texture adjustments. Developed by Remy De Vlieger, French colorist, alongside his post production team, this package includes 10 LUTs and 4 DaVinci Resolve presets designed to achieve stunning skin tones and textures in your color grades.

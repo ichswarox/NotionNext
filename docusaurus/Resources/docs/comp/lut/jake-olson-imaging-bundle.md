@@ -9,9 +9,6 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
-
-![Jake Olson's Imaging Bundle](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Jake Olson's Imaging Bundle is a premium collection of editing tools that includes Actions, Desktop Presets, Overlays and Video Tutorials at an affordable price. With over 200 premium editing tools at your fingertips, this bundle will transform your photography and unlock a world of creative possibilities. This massive collection is your all-in-one solution for creating stunning, magical photos, providing over 200 premium editing tools at your fingertips. Whether you're a seasoned professional or just starting your creative journey, this bundle is meticulously crafted to save you time and elevate your work.

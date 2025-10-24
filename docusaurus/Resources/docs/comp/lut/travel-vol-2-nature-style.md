@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 # Last updated: Oct 24 2025
 
-![Travel vol 2 Nature Style](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Travel vol 2 Nature Style is a nature travel photography themed stylized color grading LUTs collection suitable for LOG and Rec.709 footage. This pack is perfect for learning and reference, providing professional color grading solutions for nature and travel content.

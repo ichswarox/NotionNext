@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 # Last updated: Oct 24 2025
 
-![Moodypresets Wedding LUTs](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Moodypresets Wedding LUTs is a professional cinema-grade moody wedding video color grading collection featuring elegant tones, enhanced natural skin tones, and diverse atmospheres and styles to satisfy any wedding theme. This pack is perfect for learning and reference, providing film-quality color grading for wedding videos.

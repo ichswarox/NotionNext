@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Rocket Rooster URSA 4.6k Base LUT](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 # Rocket Rooster URSA 4.6k Base LUT - Alternative Blackmagic Rec709 Correction LUT
 
 This is an alternative solution for Blackmagic Rec709 correction LUTs produced by Rocket Rooster, designed to provide better dynamic range preservation, color separation and tonality. Very worth learning and referencing, save for later use!

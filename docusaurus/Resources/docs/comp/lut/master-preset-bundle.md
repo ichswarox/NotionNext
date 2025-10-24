@@ -11,8 +11,6 @@ import TabItem from '@theme/TabItem';
 
 <time datetime="2025-10-24">Last updated: Oct 24, 2025</time>
 
-![The Master Preset Bundle](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 The Master Preset Bundle is a collection of 56 sets of 721 selected popular LUTs presets produced by presets.io. Compatible with mobile devices (DNG format), desktop (XMP format) and video color grading (CUBE format), including various film simulation color grading, various stylized color grading, wedding color grading, etc. This package is very comprehensive and worth learning and referencing for your projects!
 
 ## Features

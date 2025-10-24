@@ -7,7 +7,6 @@ slug: /classicprint-35mm-film-emulation
 
 # Last updated: Oct 24 2025
 
-![ClassicPrint 35mm Film Emulation PowerGrade](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
 
 ## Overview
 

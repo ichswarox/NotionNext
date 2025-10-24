@@ -7,8 +7,6 @@ slug: /filmmakers-academy-lut-essentials-pack
 
 # Last updated: Oct 24 2025
 
-![Filmmakers Academy LUT Essentials Pack](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 This is an essential LUT color grading pack created by Filmmakers Academy that is crucial for creating exclusive visual effects such as skin tone correction, day and night scene correction. Perfect for learning and reference.

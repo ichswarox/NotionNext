@@ -9,8 +9,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![GNProduction Cinematic Fashion LUTs - Professional Film Color Grading for Slog2 and Slog3](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 GNProduction Cinematic Fashion LUTs - Professional film color grading presets compatible with Slog2 and Slog3. This set contains 16 fashionable style filters with perfect skin tones and excellent environmental color processing. These presets are very valuable for learning and reference, perfect for collection and use!

@@ -7,8 +7,6 @@ slug: /gamut-cascade
 
 # Last updated: Oct 24 2025
 
-![Gamut Cascade LUTs](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Inspired by Portra and Fuji film stocks, these nostalgic creamy tone wedding film color grading LUTs are created by Gamut. Each LUT includes both a standard and a softer minus (-) version, with warm, textured colors rooted in the outdoors. They offer versatility and tailored looks for any camera or lighting scenario. Perfect for learning and reference.

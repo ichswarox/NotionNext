@@ -7,8 +7,6 @@ slug: /thecarvideo-academy-powergrade-lut
 
 # Last updated: Oct 24 2025
 
-![TheCarVideo Academy PowerGrade+LUT](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Professional automotive video and car show color grading PowerGrade and LUT presets with premium, stylish look. This set provides high-end, stylish automotive video and car show advertising color grading presets through PowerGrade nodes and LUTs. The quality is premium and stylish, perfect for learning and reference.

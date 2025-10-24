@@ -12,8 +12,6 @@ import TabItem from '@theme/TabItem';
 
 <time datetime="2025-05-01">Last updated: May 1, 2025</time>
 
-![YCImaging Tribe LUT](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 YCImaging Tribe LUT is a set of LUTs produced by YCImaging that can enhance warm tones while adjusting other colors to complement skin tone losses, giving footage a cinematic look while improving skin tones. Very worth learning and referencing for your projects!
 
 ## Features

@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 23 2025
 
-![Golden Fall LUT - 30 Autumn Warm Tone Color Grading Presets](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Golden Fall LUT is a collection of 30 autumn-themed warm tone color grading presets that can add beauty to fall season video content. These presets help create warm, golden, vibrant, soft and beautiful autumn tones that are worth learning and referencing. The collection is perfect for creating that cozy autumn atmosphere in your videos.

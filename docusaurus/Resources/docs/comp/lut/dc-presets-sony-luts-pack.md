@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 # Last updated: Oct 24 2025
 
-![DC Presets Sony LUTs Pack](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## DC Presets Sony LUTs Pack - Professional Film Color Grading Tools
 
 DC Presets Sony LUTs Pack is a professional collection of color grading presets designed for filmmakers. This package includes 20 film emulation presets that simulate analog film effects, perfect for any film project, narrative movies, documentaries, and wedding videos. These presets are valuable for learning and reference purposes.

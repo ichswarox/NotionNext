@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Archipelago Light & Legacy LUTs](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Archipelago Light & Legacy LUTs is a clean film emulation LUT collection designed specifically for creators who love the look of analog film and hybrid film/digital workflows. These LUTs bring film chemistry into the digital world, delivering vibrant pastel hues, clean bright whites, and accurate skin tones. Inspired by classic film stocks and the scanning characteristics photographers have trusted for decades, this collection is perfect for those seeking a clean, classic film look.

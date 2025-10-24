@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Wedding 07 Beauty Box](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Wedding 07 Beauty Box is a set of 12 wedding film color grading LUTS presets and DaVinci grading nodes package produced by ColorWheel Store. It is suitable for video shot in any LOG format, such as (S-Log, Slog2, D-Log, F-log, etc.). It is very worthy of learning and reference, and perfect for collection!

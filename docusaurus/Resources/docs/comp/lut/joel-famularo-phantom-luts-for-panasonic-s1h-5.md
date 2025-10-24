@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 _Last updated: Oct 24 2025_
 
-![JOEL FAMULARO Phantom LUTs for Panasonic S1h/5](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Phantom LUTs for Panasonic S1h/5 is a collection by JOEL FAMULARO that includes 5 ARRI709 simulation and 6 Film look LUTs for Panasonic S1h/5. These presets offer significant learning and practical value for professional color grading.

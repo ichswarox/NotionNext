@@ -12,8 +12,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Thiago VibespFilm Sony SLog 3 LUTs](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## 📋 Product Information
 
 :::tip[Key Features]

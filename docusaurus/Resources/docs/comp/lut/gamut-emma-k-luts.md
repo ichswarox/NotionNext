@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 # Last updated: Oct 24 2025
 
-![Gamut Emma K LUTs](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Professional film-grade wedding video color grading LUTs with soft skin tones, warm highlights, and natural colors. This set, created by Gamut, is specifically designed for wedding producers to enhance depth and consistency in all lighting conditions, creating a sophisticated and realistic visual effect.

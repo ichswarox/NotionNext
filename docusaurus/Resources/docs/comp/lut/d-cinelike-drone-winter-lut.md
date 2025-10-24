@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![D-Cinelike Drone Winter LUT](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 D-Cinelike Drone Winter LUT is a professional color grading preset collection specifically designed for winter drone aerial footage of snow scenes. Optimized for the D-Cinelike profile, this preset provides significant assistance for filmmakers who struggle with snow scene color grading. Perfect for achieving stunning winter aerial footage with proper color balance and contrast.

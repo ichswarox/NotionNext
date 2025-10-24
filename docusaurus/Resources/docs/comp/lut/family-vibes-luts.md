@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Family Vibes LUTs - Warm, Bright and Soft Home Atmosphere Color Grading Filters](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Family Vibes LUTs - Warm, bright and soft home atmosphere color grading filters. This is a set of warm, bright, and soft home atmosphere color grading filters produced by PHLEARN that easily brighten ordinary photos, making videos look more warm and delicate. These presets are very valuable for learning and reference, perfect for collection and use!

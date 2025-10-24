@@ -7,8 +7,6 @@ slug: /serr-filmvision-pro
 
 # Last updated: Oct 24 2025
 
-![Serr FilmVision Pro 1.1](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Serr FilmVision Pro is the latest evolution of the film emulation pipeline, designed to accurately replicate the look of digitized negative-to-print film. This comprehensive solution includes cinema-grade looks that work seamlessly alongside the emulation process, creating a flexible and dynamic toolset for color grading. It's considered one of the most versatile color grading solutions available.

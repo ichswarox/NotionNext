@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Jacques Crafford GamutFlow Collection](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 # Jacques Crafford GamutFlow Collection - Complete Professional Color Grading Course for Film Advertising
 
 This is a professional color grading course for commercial film advertising, including 12 in-depth learning courses (with Chinese and English subtitles), DaVinci Resolve color grading nodes, LUTs and practice materials. It is a must-watch improvement course for beginners, intermediate and even professionals. Worth learning!

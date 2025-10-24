@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![PHLEARN Cool Tone LUTs](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 # PHLEARN Cool Tone LUTs - Refreshing Blue Cold Tone Portrait Color Grading Filters
 
 This is a set of refreshing, soothing blue cold tone portrait color grading filters produced by PHLEARN, all currently popular mainstream tones. Compatible with multiple formats for PS, LR, PR, FCP and other software. Very worth learning and referencing, save for later use!

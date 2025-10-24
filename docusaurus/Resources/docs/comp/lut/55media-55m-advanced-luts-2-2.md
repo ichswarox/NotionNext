@@ -12,8 +12,6 @@ import TabItem from '@theme/TabItem';
 
 <time datetime="2025-05-01">Last updated: May 1, 2025</time>
 
-![55MEDIA 55m Advanced Luts 2.2](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 Practical Panasonic Advanced Color Grading LUT is a Panasonic camera advanced color grading LUT package produced by 55MEDIA. Not only are the colors accurate and pleasing, but the contrast is also just right, very worth learning and referencing for your projects!
 
 The new 2.2 version offers both accurate and pleasant colors with a perfect dosage of contrast for your already existing footage, and projects yet-to-be-shot on most Panasonic cameras shooting V-Log, V-Log L and HLG. With this new version re-engineered from scratch, you no longer have to deal with magenta looking skin tones, lush greens, or overall lifeless looking images. With the new 55M Advanced Luts, your masterpieces will turn out better than ever before.

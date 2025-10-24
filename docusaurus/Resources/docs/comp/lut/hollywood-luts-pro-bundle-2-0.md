@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 # Last updated: Oct 24 2025
 
-![HOLLYWOOD LUTS PRO BUNDLE 2.0](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 HOLLYWOOD LUTS PRO BUNDLE 2.0 is a comprehensive collection that includes 1500+ color grading variations based on award-winning Hollywood movies. This extensive pack provides professional film simulation that transforms your video with the best LUT pack available on the web. Each movie includes multiple presets, making it perfect for learning and reference.

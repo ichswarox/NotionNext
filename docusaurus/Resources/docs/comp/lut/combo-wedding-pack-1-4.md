@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Combo Wedding Pack 1-4](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Combo Wedding Pack 1-4 is a professional wedding film color grading LUTS presets package produced by Colorwheel store, specifically designed for wedding film color grading. It can be directly applied to REC.709 video material and includes conversion LUTs. This package is very worthy of learning and reference, perfect for collection!

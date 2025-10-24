@@ -10,9 +10,7 @@ import TabItem from '@theme/TabItem';
 
 # Henbu V2 LUTs
 
-<time datetime="2025-10-24">Last updated: Oct 24, 2025</time>
-
-![Henbu V2 LUTs](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
+Last updated: Oct 24, 2025
 
 Henbu V2 LUTs is a set of 7 popular premium color grading LUTs created by Henbu in 2020. Although it has been 5 years since its release, it remains one of the favorite choices for travel and VLOG creators. This package is very practical and worth learning and referencing for your projects!
 

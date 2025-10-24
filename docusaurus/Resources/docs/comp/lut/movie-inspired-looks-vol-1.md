@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![Movie Inspired Looks VOL.1 - 40 Legendary Hollywood Film Color Grading Filters](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Movie Inspired Looks VOL.1 - 40 legendary Hollywood film color grading filters. This set of LUTS presets is inspired by legendary movies and Hollywood color grading styles, specifically designed for filmmakers, editors and content creators. These presets are very valuable for learning and reference, perfect for collection and use!

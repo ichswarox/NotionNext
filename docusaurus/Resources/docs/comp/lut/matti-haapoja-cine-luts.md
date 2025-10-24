@@ -12,8 +12,6 @@ import TabItem from '@theme/TabItem';
 
 <time datetime="2025-10-24">Last updated: Oct 24, 2025</time>
 
-![Matti Haapoja CINE LUTS FOR SONY](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 Matti Haapoja CINE LUTS FOR SONY is a set of conversion LUTs and stylized LUTs for Sony SLOG2 and SLOG3, produced by Matti Haapoja. It includes 10 conversions and 5 stylized looks (such as popular teal and orange, warm and cool tones, neutral, orange, etc.), in .cube format, compatible with major video editing software. This package is very worth learning and referencing for your projects!
 
 ## Features

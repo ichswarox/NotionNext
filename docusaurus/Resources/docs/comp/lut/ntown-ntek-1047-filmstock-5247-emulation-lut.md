@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 _Last updated: Oct 24 2025_
 
-![NTown NTEK-1047 Filmstock 5247 Emulation LUT](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Overview
 
 Simulate the iconic look of 80s 5247 movie film stock with these LUTs presets. This pack by NTown emulates 5247 film to achieve the signature cinematic look of late 70s and early 80s movies, perfect for learning and reference.

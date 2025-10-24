@@ -10,8 +10,6 @@ import TabItem from '@theme/TabItem';
 
 # Last updated: Oct 24 2025
 
-![Analogica Lab KODAK CHROME 35MM](https://www.vfx123.com/wp-content/uploads/2025/10/1760609488-48293b12c86d24d.webp)
-
 ## Analogica Lab KODAK CHROME 35MM Film Simulation LUT - Authentic Kodak Film Color
 
 Analogica Lab KODAK CHROME 35MM Film Simulation LUT is a professional color grading preset collection that realistically simulates Kodak 35mm film. This package includes formats **.cube+.xmp+.lrtemplate** for easy and quick access to authentic Kodak film color appearance. These presets are valuable for learning and reference purposes.
