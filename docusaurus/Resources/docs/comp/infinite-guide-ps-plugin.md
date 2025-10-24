@@ -9,7 +9,15 @@ slug: /infinite-guide-ps-plugin
 
 # Infinite Guide: Photoshop Retouching Assistant Plugin
 
-![Infinite Guide for Photoshop](https://www.gfxcamp.com/wp-content/uploads/2025/09/Infinite-Guide.jpg)
+![img1025-naiD.webp](https://list.ucards.store/d/img/img1025-naiD.webp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EWW9YXE40Bc?si=NP_DqHglpM_ONmq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+link:
+
+https://infinite-tools.com/infinite-retouch/
+
+https://www.youtube.com/watch?v=EWW9YXE40Bc
 
 :::tip[About Infinite Guide]
 Infinite Guide is a Photoshop plugin that walks you through the entire retouching process, allowing you to focus on retouching without needing to remember every detail. It's the perfect learning tool and a Photoshop user's best companion.
