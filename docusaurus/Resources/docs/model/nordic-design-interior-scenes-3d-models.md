@@ -27,10 +27,7 @@ Archinteriors vol. 48 for Blender is a collection of 10 scenes in Scandinavian s
 - Vray For 3DS MAX 3.4 or higher version
 - Blender requires 2.79 or higher version
 
-This material is included in:
-- [Evermotion Archmodels/Archinteriors/Archexteriors 3D Models Collection (Updated)](https://www.gfxcamp.com/evermotion/)
-
-## 🐌Free Slow Download Links Link
+## 🐌Free Preview Slow Download Links Link
 
 :::warning[Download]
 [Download 10 Nordic Design Interior Scenes 3D Models - Evermotion Archinteriors Vol. 48 (3DS MAX/Blender Formats)](https://pan.baidu.com/s/1bbNEE4FyWe2E3VhEYFYp8w?pwd=k6i5)
