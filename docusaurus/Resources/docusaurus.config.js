@@ -166,7 +166,7 @@ const config = {
         from: '/docs/', // or as RegExp: /\/docs\//
         to: '/',
       },
-      contextualSearch: true,
+      contextualSearch: false,
     },
       footer: {
         style: 'dark',
