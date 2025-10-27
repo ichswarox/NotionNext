@@ -10,8 +10,9 @@ slug: /quick-tonemapper
 # AE 3D Render Post-Mapping Color Grading Plugin - Aescript Quick ToneMapper V1.1 Win/Mac Crack
 
 <!--Second Part-This is First Banner -->
-![AE 3D Render Post-Mapping Color Grading Plugin](https://www.gfxcamp.com/wp-content/uploads/2022/07/Aescript-Quick-ToneMapper.jpg)
+![img](/img/img1026-Gdgg.webp)
 
+https://aescripts.com/quick-tonemapper/
 :::tip[info]
 **Download Quick ToneMapper V1.1** - Post-Production Tone Mapping Plugin for After Effects
 :::

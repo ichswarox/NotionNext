@@ -8,7 +8,8 @@ slug: /apple-compressor-v411
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-![FinalCutPro-pd.webp](https://list.ucards.store/d/img/FinalCutPro-pd.webp)
+![img](/img/img1026-OiFw.webp)
+https://www.apple.com/final-cut-pro/compressor/
 
 # Apple Compressor v4.11.0 Crack for macOS
 

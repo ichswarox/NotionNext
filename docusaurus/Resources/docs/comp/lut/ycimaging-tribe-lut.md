@@ -34,15 +34,10 @@ YCImaging Tribe LUT is a set of LUTs produced by YCImaging that can enhance warm
 
 ## Product Images
 
-![YCImaging Tribe LUT](https://www.vfx123.com/wp-content/uploads/2025/05/1746343525-c4ca4238a0b9238.jpg)
+![img](/img/img1026-Ogud.webp)
+![img](/img/img1026-EvEx.webp)
 
-![YCImaging Tribe LUT](https://www.vfx123.com/wp-content/uploads/2025/05/1746343533-c81e728d9d4c2f6.jpg)
 
-![YCImaging Tribe LUT](https://www.vfx123.com/wp-content/uploads/2025/05/1746343539-eccbc87e4b5ce2f.jpg)
-
-![YCImaging Tribe LUT](https://www.vfx123.com/wp-content/uploads/2025/05/1746343553-a87ff679a2f3e71.jpg)
-
-![YCImaging Tribe LUT](https://www.vfx123.com/wp-content/uploads/2025/05/1746343563-e4da3b7fbbce234.jpg)
 
 ## Installation Instructions
 

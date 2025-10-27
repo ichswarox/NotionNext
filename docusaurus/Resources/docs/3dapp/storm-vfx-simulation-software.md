@@ -10,7 +10,9 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 14 2025
 
-![Gumroad EffectiveTDS Storm](https://www.gfxcamp.com/wp-content/uploads/2023/09/Gumroad-–-EffectiveTDS-Storm-v0.6.0.jpg)
+![img](/img/img1028-wEmG.webp)
+
+https://storm-vfx.com/
 
 ## Storm VFX Simulation Software - The Simulation Tool v0.6.863
 

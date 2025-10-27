@@ -7,7 +7,9 @@ slug: /red-giant-v2026
 
 # Red Giant V2026.0.0 - Complete Particle, Color & VFX Plugin Suite
 
-![Red Giant V2026.0.0](https://www.gfxcamp.com/wp-content/uploads/2024/09/Trapcode-Suite-v2025.jpg)
+![img](/img/img1026-IwqT.webp)
+
+https://www.maxon.net/en/red-giant?srsltid=AfmBOopUg6_PjOrbSZwaQlQqsp9gBIQYvH0yGCDx60_OTlRM8poNd17Ws
 
 ## Plugin Suite Overview
 

@@ -8,11 +8,14 @@ slug: /apple-compressor-v463
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-![Apple Compressor Banner](https://www.gfxcamp.com/wp-content/uploads/2020/11/Compressor-4.5.jpg)
 
 *Last updated: Sep 23 2025*
 
 # Apple Compressor v4.6.3 - Video Encoding Software
+
+![img](/img/img1026-OiFw.webp)
+https://www.apple.com/final-cut-pro/compressor/
+
 
 Apple Compressor is a powerful video encoding tool that integrates seamlessly with Final Cut Pro and Motion, adding functionality and flexibility to video conversion workflows. It allows you to quickly customize output settings, enhance images, and package your videos for sale on the iTunes Store. You can also easily set up distributed encoding across other Mac computers for faster conversion.
 

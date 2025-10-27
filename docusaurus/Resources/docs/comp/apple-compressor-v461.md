@@ -8,7 +8,8 @@ slug: /apple-compressor-v461
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-![Apple Compressor Banner](https://www.gfxcamp.com/wp-content/uploads/2020/11/Compressor-4.5.jpg)
+![img](/img/img1026-OiFw.webp)
+https://www.apple.com/final-cut-pro/compressor/
 
 *Last updated: Sep 23 2025*
 

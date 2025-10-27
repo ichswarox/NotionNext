@@ -2,12 +2,14 @@
 title: Cullen Kelly - The Voyager LUT Pack Pro 2
 description: Professional narrative documentary color grading presets with DaVinci nodes for cinematic film emulation
 tags: ["color grading", "LUTs", "DaVinci Resolve", "video presets", "film emulation", "creative looks"]
-slug: /cullen-kelly-voyager-lut-pack-pro
+slug: /the-voyager-lut-pack-pro-2
 ---
 
 Last updated: Sep 24 2025
 
-![Cullen Kelly - The Voyager LUT Pack Pro 2](https://www.gfxcamp.com/wp-content/uploads/2025/09/Cullen-Kelly-The-Voyager-LUT-Pack-Pro-2.jpg)
+![img](/img/img1028-zjYI.webp)
+
+https://procolor.ist/voyager-lut-pack/
 
 ## Narrative Documentary Video Color Grading Presets + DaVinci Nodes
 
