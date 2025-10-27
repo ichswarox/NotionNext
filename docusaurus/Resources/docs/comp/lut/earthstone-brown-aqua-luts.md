@@ -10,8 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-![OverlayFX Earthstone Brown Aqua LUTs - Rich Brown and Aqua Artistic Color Grading](https://www.vfx123.com/wp-content/uploads/2025/10/176060948-48293b12c86d24d.webp)
-
+![img](/img/img1028-FGwm.webp)
 ## Overview
 
 OverlayFX Earthstone Brown Aqua LUTs - This collection of LUTS presets unleashes natural beauty by enhancing footage with rich brown and aqua tones. Inspired by the natural elegance of Earth, these LUTS are ideal for outdoor scenes, documentaries and artistic projects. These presets are very valuable for learning and reference, perfect for collection and use!
@@ -36,7 +35,7 @@ The Earthstone – Brown Aqua LUTs 2024 collection offers a unique color grading
 - Compatible with all leading editing software
 
 ## Installation Instructions
-
+![img](/img/img1028-nBSy.webp)
 <Tabs>
 <TabItem value="fcpx" label="Final Cut Pro X">
   1. Open FCPX software
@@ -60,7 +59,7 @@ The Earthstone – Brown Aqua LUTs 2024 collection offers a unique color grading
 
 ## 🚀Direct Download Link
 
-[![](https://img.shields.io/badge/Download-Baidu%20Netdisk-orange?style=for-the-badge&logo=baidu)](https://pan.baidu.com/s/123456789)
+https://list.neoxu.store/d/app/luts/OverlayFX_-_Earthstone_-_Brown_Aqua_LUTs.rar
 
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.
