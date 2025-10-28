@@ -55,10 +55,6 @@ This is a set of 4 drone aerial Dlog video enhancement color grading LUTs preset
 
 ## 🚀Direct Download Link
 
-| File Name | Download Link |
-|-----------|----------------|
-| Expert Dlog LUTs for DJI Drones | [Baidu Netdisk](https://www.vfx123.com/expert-dlog-luts-for-dji-drones.html) |
-
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.
 :::

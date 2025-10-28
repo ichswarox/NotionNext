@@ -10,6 +10,10 @@ import TabItem from '@theme/TabItem';
 
 # Cineplus Perfekta LUT
 
+![img](/img/img1028-ImVz.webp)
+
+https://filtergrade.com/product/cineplus-perfekta-lut/
+
 <time datetime="2025-05-01">Last updated: May 1, 2025</time>
 
 Cineplus Perfekta LUT is a set of color grading presets suitable for TV series, movies, ads, and weddings produced by cineplus. The effects are popular and outstanding, very worth learning and referencing for your projects!

@@ -64,11 +64,6 @@ DC Presets Sony LUTs Pack is a professional collection of color grading presets 
 ![Sony LUTs Example 2](https://www.vfx123.com/wp-content/uploads/2025/06/1750735245-f2b26e3af887553.jpeg)
 ![Sony LUTs Example 3](https://www.vfx123.com/wp-content/uploads/2025/06/1750735252-b4618ccc32ccc05.jpeg)
 
-### Related Tools and Resources
-
-:::caution[Important Note]
-All resources are for learning and reference purposes only. Please do not use commercially as this may cause copyright issues. The responsibility lies with the user if any copyright disputes arise.
-:::
 
 ## 🚀Direct Download Link
 

@@ -11,10 +11,15 @@ import TabItem from '@theme/TabItem';
 Last updated: Oct 24 2025
 
 # Artlist Professional Film-style LUT Collection - Premium Video Enhancement
+![img](/img/img1028-SzkQ.webp)
+
+https://artlist.io/luts
 
 A comprehensive collection of 323 professional film-style LUTs created by expert colorists at Artlist. These premium-quality LUTs are optimized for Rec.709 color space and can be directly used for enhanced color grading, making them perfect for video creators looking to achieve professional results.
 
 ## 🌟 Why Artlist's LUTs Are Perfect for Video Creators
+
+![img](/img/img1028-Xldw.webp)
 
 Artlist's new LUTs collection is the result of careful work led by expert in-house colorists, who are passionate about making these LUTs as user-friendly and high-quality as possible. "We made sure they are optimized to work across a wide range of shots," says Dor Zammir, a Colorist at Artlist. "They're designed to enhance the footage, helping you achieve beautiful, professional results while minimizing the risk of harsh colors or contrasts."
 

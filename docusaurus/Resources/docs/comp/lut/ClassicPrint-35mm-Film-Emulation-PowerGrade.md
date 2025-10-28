@@ -18,6 +18,8 @@ This preset pack is a professional PowerGrade and LUTs color grading package tha
 
 ### Features
 
+![img](/img/img1028-oonR.webp)
+
 - Professional 35mm film emulation PowerGrade and LUTs color grading package
 - Built on DaVinci Wide Gamut/Intermediate color space with native Kodak 2383 print film LUT
 - Achieves unparalleled convenience while easily adjusting color, contrast, and exposure without sacrificing quality

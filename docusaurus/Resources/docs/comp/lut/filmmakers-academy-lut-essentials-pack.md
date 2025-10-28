@@ -5,7 +5,7 @@ tags: [LUTS, color grading, skin tone correction, film, video editing]
 slug: /filmmakers-academy-lut-essentials-pack
 ---
 
-# Last updated: Oct 24 2025
+Last updated: Oct 24 2025
 
 ## Overview
 
@@ -34,11 +34,9 @@ Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access a
 
 ## Product Images
 
-![Product Image 1](https://www.vfx123.com/wp-content/uploads/2025/07/1751610253-07ca7b3eac790f1.jpg)
-
-![Product Image 2](https://www.vfx123.com/wp-content/uploads/2025/07/1751610261-7a481e3cf0e450a.jpg)
-
-![Product Image 3](https://www.vfx123.com/wp-content/uploads/2025/07/1751610269-5691902847e0e87.jpg)
+![img](/img/img1028-wRIb.webp)
+![img](/img/img1028-dBUW.webp)
+![img](/img/img1028-TKpy.webp)
 
 ## Installation Guide
 

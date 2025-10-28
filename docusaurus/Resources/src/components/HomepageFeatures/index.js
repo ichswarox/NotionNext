@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Creative Resources',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Discover a vast collection of 3D assets, LUTs, camera profiles, and creative tools
+        for video production, motion graphics, and digital art.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Comprehensive Tutorials',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Learn from detailed guides covering Blender, After Effects, DaVinci Resolve,
+        and other creative software to enhance your skills.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Free & Updated Content',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Access free resources with regular updates. Contact us for the latest
+        software information and content additions.
       </>
     ),
   },

@@ -62,13 +62,6 @@ This presentation is part of the Career Management and Concept Art series, provi
 - Professionals considering a career at ILM
 - Artists seeking industry insights
 
-## Related Content
-
-- Concepting a cityscape with Cinema 4D, Octane render and Photoshop
-- Advanced Environment Design with Raphael Lacoste
-- From Sketch To Concept Art With Lorenzo Lanfranconi
-- Bringing Life to Creature Design with Magdalena Katanska
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

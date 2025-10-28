@@ -5,9 +5,11 @@ tags: [LUTS, film emulation, powergrade, color grading, video editing, 35mm film
 slug: /cinevista-film-emulation
 ---
 
-# Last updated: Oct 24 2025
+# CINEVISTA Film Emulation - Professional Dark & Gritty 35MM Film Look
 
-![CINEVISTA Film Emulation](https://www.vfx123.com/wp-content/uploads/2025/10/176060948-48293b12c86d24d.webp)
+Last updated: Oct 24 2025
+
+![img](/img/img1028-ftOk.webp)
 
 ## Overview
 
@@ -47,29 +49,58 @@ PowerGrades are plug-and-play tools for DaVinci Resolve. They're prebuilt color 
 
 ## Product Images
 
-![Product Image 1](https://www.vfx123.com/wp-content/uploads/2025/07/1752118669-5927a78d81274bc.jpg)
+![img](/img/img1028-Xmbh.webp)
 
-![Product Image 2](https://www.vfx123.com/wp-content/uploads/2025/07/1752118676-cce6ebcfe8c8c84.jpg)
+![img](/img/img1028-rRpE.webp)
 
-![Product Image 3](https://www.vfx123.com/wp-content/uploads/2025/07/1752118686-2fa7988f3eab9c7.jpg)
+![img](/img/img1028-QTyQ.webp)
 
-![Product Image 4](https://www.vfx123.com/wp-content/uploads/2025/07/1752118695-cfde5de7b6e9d6a.jpg)
+![img](/img/img1028-QTyQ.webp)
 
-![Product Image 5](https://www.vfx123.com/wp-content/uploads/2025/07/1752118707-3d450a9514a3e4b.jpg)
+![img](/img/img1028-nPYA.webp)
 
-![Product Image 6](https://www.vfx123.com/wp-content/uploads/2025/07/1752118718-ef3229d2009aa83.jpg)
+![img](/img/img1028-lOxw.webp)
+
 
 ## Installation Guide
 
-### Installing DCTL Plugins in DaVinci Resolve
+### How to Install DCTL Plugins in DaVinci Resolve
 
-![DCTL Installation 1](https://www.vfx123.com/wp-content/uploads/2024/10/1728551324-7aefbc5418abb48.jpg)
+Step 1: Open the Project Settings Windows
+Open or create a new project. Click on the settings icon at the bottom right corner of the screen to see the project settings window. You can also access this window by going to File > Project Settings or using the keyboard shortcut Shift + 9.
+![img](/img/img1028-zuYU.webp)
 
-![DCTL Installation 2](https://www.vfx123.com/wp-content/uploads/2024/10/1728551350-2b8615ebc6a1939.jpg)
+Step 2: Color Management Tab
+Search the Color Management Tab on the left in the Project Settings window. Click on it to see the new color spaces, transforms, and Lookup Tables options.
 
-### Installing PowerGrade Color Grading Nodes in DaVinci Resolve
+![img](/img/img1028-jBqU.webp)
 
-![PowerGrade Installation](https://www.vfx123.com/wp-content/uploads/2023/06/1685755721-a48bdd634a1b536.jpg)
+Step 3: LUT Folder
+Scroll under the Lookup Table options and click the “Open LUT Folder” button. When the LUT folder opens in a new window, drag or copy the cube files to import LUTs.
+
+You can organize your LUTs in folders to keep all LUT types on specific folders.
+
+![img](/img/img1028-GViB.webp)
+
+![img](/img/img1028-ZWRP.webp)
+
+Step 4: Refresh LUTs
+Return to DaVinci Resolve. Now, you need to refresh the LUT list with the ones you just added.
+
+In the Color Management Tab, click the “Update Lists” button above “Open LUT Folder” in the Lookup Tables settings and then click Save in the project settings window to close it.
+![img](/img/img1028-QWPn.webp)
+![img](/img/img1028-owLo.webp)
+
+BONUS: LUTs Manual Installation
+Another way to install your LUTs is by manually searching your system's DaVinci Resolve LUT folder and copying the new LUTs there. These are the DaVinci Resolve LUT folder locations for each system:
+
+LUT folder in Mac: /Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/
+
+LUT folder in Windows: C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT
+
+LUT folder in Linux: /opt/resolve/LUT
+
+If you install it manually, I recommend copying the LUT file before you open DaVinci Resolve. Otherwise, you must go to the Color Management Tab and update the LUT list. After installing LUTs, they will be available to select inside DaVinci Resolve.
 
 ## 🚀Direct Download Link
 

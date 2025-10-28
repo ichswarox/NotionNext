@@ -10,7 +10,9 @@ import TabItem from '@theme/TabItem';
 
 _Last updated: Oct 24 2025_
 
-![Animafx Thermal LUTs](https://www.vfx123.com/wp-content/uploads/2025/04/1744535620-11f31bb0ca2254c.jpg)
+![img](/img/img1028-bZCX.webp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UDHMiBHBm5M?si=K7N8XwdoUBYcLxDr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Overview
 
@@ -22,6 +24,12 @@ Animafx Thermal LUTs is a collection of 22 LUTs presets for creating abstract th
 - Perfect for music videos and visual effects
 - Adds trendy, fashionable appearance to footage
 - Professional quality for creative projects
+
+## Preview
+![img](/img/img1028-aXPq.webp)
+![img](/img/img1028-Osib.webp)
+![img](/img/img1028-lsst.webp)
+![img](/img/img1028-GhKg.webp)
 
 ## Technical Information
 

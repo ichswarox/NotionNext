@@ -8,6 +8,7 @@ slug: /colorwheel-store-wedding-05-orange
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+![img](/img/img1028-YfXy.webp)
 Last updated: Oct 24 2025
 
 ## Overview
@@ -62,9 +63,6 @@ ColorWheel Store Wedding 05 Orange is a set of 12 wedding film color grading LUT
 
 ## Image Previews
 
-![Product Preview 1](https://www.vfx123.com/wp-content/uploads/2025/09/175792799-ed79d03a37c59ce.jpg)
-![Product Preview 2](https://www.vfx123.com/wp-content/uploads/2025/09/1757922821-451e3c12d57ba85.jpg)
-![Product Preview 3](https://www.vfx123.com/wp-content/uploads/2025/09/1757922837-89774f36121cf7f.jpg)
 
 ## 🚀Direct Download Link
 

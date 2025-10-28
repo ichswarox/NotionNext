@@ -8,7 +8,10 @@ slug: /cyberpunk-luts
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+
+
 # Cyberpunk LUTs and DaVinci Resolve Color Grading Nodes - City Night Scenes
+![img](/img/img1028-Kvir.webp)
 
 *Last updated: Oct 24, 2025*
 
@@ -28,14 +31,13 @@ This LUT works best with videos shot in any LOG format like (S-Log, Slog2, D-Log
 
 ## 🖼️ Visual Examples
 
-![Cyberpunk Example 1](https://www.vfx123.com/wp-content/uploads/2025/09/1757580697-645e2c5eea3c628.jpg)
+![img](/img/img1028-pBrN.webp)
 
-![Cyberpunk Example 2](https://www.vfx123.com/wp-content/uploads/2025/09/17580714-305380d99df38b.jpg)
+![img](/img/img1028-JtYn.webp)
 
-![Cyberpunk Example 3](https://www.vfx123.com/wp-content/uploads/2025/09/1757580728-6520f44f2b450f3.jpg)
+![img](/img/img1028-RVGj.webp)
 
-![Cyberpunk Example 4](https://www.vfx123.com/wp-content/uploads/2025/09/1757580742-c634ea433ae7f63.jpg)
-
+![img](/img/img1028-aFXy.webp)
 ## 🔧 Installation Guide
 
 <Tabs>

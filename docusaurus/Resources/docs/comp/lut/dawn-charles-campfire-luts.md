@@ -8,7 +8,7 @@ slug: /dawn-charles-campfire-luts
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Last updated: Oct 24 2025
+Last updated: Oct 24 2025
 
 ## Dawn Charles CAMPFIRE LUTs - Fiery Orange and Yellow Tones for Campfire Atmosphere
 
@@ -31,11 +31,10 @@ Dawn Charles CAMPFIRE LUTs is a distinctive collection of LUT presets featuring 
 
 ### Visual Examples
 
-![Campfire LUT Example 1](https://www.vfx123.com/wp-content/uploads/2025/06/1750144542-8206e121f84d06b.jpg)
-![Campfire LUT Example 2](https://www.vfx123.com/wp-content/uploads/2025/06/1750144575-455a4b46b30081a.jpg)
-![Campfire LUT Example 3](https://www.vfx123.com/wp-content/uploads/2025/06/1750144567-84dda8f8bbb0f99.jpg)
-![Campfire LUT Example 4](https://www.vfx123.com/wp-content/uploads/2025/06/1750144584-31a3db95bf3cd8c.jpg)
-![Campfire LUT Example 5](https://www.vfx123.com/wp-content/uploads/2025/06/1750144590-852684016ac74ce.jpg)
+![img](/img/img1028-yBpm.webp)
+![img](/img/img1028-wAJU.webp)
+![img](/img/img1028-GJOD.webp)
+![img](/img/img1028-WJSl.webp)
 
 ### Installation Instructions
 

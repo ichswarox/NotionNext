@@ -10,7 +10,9 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
+![img](/img/img1028-pfMA.webp)
 
+https://ko-fi.com/s/af458878e5
 ## Overview
 
 Daniel Chiang Cinematic LUTs Collection is a set of professional color grading LUTs presets created by renowned artist Daniel Chiang. These LUTs can be directly applied to rec.709 color space, easily adding emotional and cinematic atmosphere to your videos. Highly recommended for learning and reference!
@@ -63,29 +65,16 @@ Daniel Chiang Cinematic LUTs Collection is a set of professional color grading L
 </Tabs>
 
 ## Product Images
-
-![Daniel Chiang Cinematic LUTs Collection Image 1](https://www.vfx123.com/wp-content/uploads/2025/08/1754367600-5bf7ea4c684208b.jpg)
-
-![Daniel Chiang Cinematic LUTs Collection Image 2](https://www.vfx123.com/wp-content/uploads/2025/08/1754367605-2f89018e0b6aa48.jpg)
-
-![Daniel Chiang Cinematic LUTs Collection Image 3](https://www.vfx123.com/wp-content/uploads/2025/08/1754367644-70595ba97576401.jpg)
-
-![Daniel Chiang Cinematic LUTs Collection Image 4](https://www.vfx123.com/wp-content/uploads/2025/08/1754367676-eaa572ac6cee880.jpg)
-
-![Daniel Chiang Cinematic LUTs Collection Image 5](https://www.vfx123.com/wp-content/uploads/2025/08/1754367681-b41b6098cb457f6.jpg)
-
-![Daniel Chiang Cinematic LUTs Collection Image 6](https://www.vfx123.com/wp-content/uploads/2025/08/1754367685-be894a62dbfe10a.jpg)
-
-![Daniel Chiang Cinematic LUTs Collection Image 7](https://www.vfx123.com/wp-content/uploads/2025/08/1754367689-ffeb8277eee57e0.jpg)
-
-![Daniel Chiang Cinematic LUTs Collection Image 8](https://www.vfx123.com/wp-content/uploads/2025/08/1754367694-358af0551942e6c.jpg)
+![img](/img/img1028-KlIT.webp)
+![img](/img/img1028-ejVj.webp)
+![img](/img/img1028-XfKR.webp)
+![img](/img/img1028-GEto.webp)
+![img](/img/img1028-zBxZ.webp)
+![img](/img/img1028-klzS.webp)
+![img](/img/img1028-TgLu.webp)
+![img](/img/img1028-Kwbn.webp)
 
 ## 🚀Direct Download Link
-
-| Format | Download Link |
-|--------|---------------|
-| Baidu Netdisk | [Baidu Netdisk Download](https://pan.baidu.com/) |
-| NiuCow Transmission | [NiuCow Transmission Download](https://www.niucow.com/) (VIP members exclusive high-speed direct access) |
 
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.

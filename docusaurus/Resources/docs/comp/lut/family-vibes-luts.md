@@ -10,7 +10,9 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
+![img](/img/img1028-RbtJ.webp)
 ## Overview
+
 
 Family Vibes LUTs - Warm, bright and soft home atmosphere color grading filters. This is a set of warm, bright, and soft home atmosphere color grading filters produced by PHLEARN that easily brighten ordinary photos, making videos look more warm and delicate. These presets are very valuable for learning and reference, perfect for collection and use!
 
@@ -38,6 +40,10 @@ Family Vibes LUTs - Warm, bright and soft home atmosphere color grading filters.
 - Perfect for family videos and photos
 - Compatible with major video editing software
 
+![img](/img/img1028-aQBd.webp)
+![img](/img/img1028-zvYM.webp)
+![img](/img/img1028-DJNS.webp)
+
 ## Installation Instructions
 
 <Tabs>
@@ -62,8 +68,6 @@ Family Vibes LUTs - Warm, bright and soft home atmosphere color grading filters.
 </Tabs>
 
 ## 🚀Direct Download Link
-
-[![](https://img.shields.io/badge/Download-Baidu%20Netdisk-orange?style=for-the-badge&logo=baidu)](https://pan.baidu.com/s/123456789)
 
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.

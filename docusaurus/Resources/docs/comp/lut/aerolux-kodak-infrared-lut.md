@@ -11,6 +11,10 @@ Last updated: Oct 24 2025
 
 # AeroLux Kodak Infrared LUT - Blue Tones & Red Leaves Creative Color Grading
 
+![img](/img/img1028-IVzh.webp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQATV4Xrj20?si=kKFGrBwpf3i0bSft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 A professional LUT that perfectly mimics the famous but discontinued Kodak Aerochrome infrared film. This LUT features rich, deep blue tones and vibrant red foliage that creates a stunning and almost surreal visual effect. The AeroLux LUT is ideal for shooting lush green leaves and cloudy blue skies, creating a look that is truly breathtaking.
 
 ## 🌟 Key Features
@@ -40,6 +44,7 @@ A professional LUT that perfectly mimics the famous but discontinued Kodak Aeroc
 | DaVinci Resolve | ✅ Compatible |
 
 :::tip[Installation Guide]
+
 ### How to Install in Different Software
 
 <Tabs>

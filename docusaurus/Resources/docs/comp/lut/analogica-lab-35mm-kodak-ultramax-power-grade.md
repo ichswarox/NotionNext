@@ -12,6 +12,9 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
+![img](/img/img1028-eezK.webp)
+
+https://www.analogicalab.store/listing/1726396273/35mm-kodak-ultramax-power-grade-for
 
 ## 📋 Product Information
 
@@ -31,13 +34,13 @@ Last updated: Oct 24 2025
 
 ## 🖼️ Product Preview
 
-![Product Preview](https://www.vfx123.com/wp-content/uploads/2025/07/1753667008-a70fb05f3d356c3.jpg)
+![img](/img/img1028-JYcK.webp)
 
-![Product Preview](https://www.vfx123.com/wp-content/uploads/2025/07/1753667028-b01ac0a13ec5a1d.jpg)
+![img](/img/img1028-uHbh.webp)
 
-![Product Preview](https://www.vfx123.com/wp-content/uploads/2025/07/1753667035-cebb3b0c0d3fb23.jpg)
+![img](/img/img1028-eDEt.webp)
 
-![Product Preview](https://www.vfx123.com/wp-content/uploads/2025/07/1753667041-a89abb175c33251.jpg)
+![img](/img/img1028-yhiX.webp)
 
 ## ⚙️ Installation Instructions
 
@@ -57,12 +60,6 @@ Last updated: Oct 24 2025
   6. The PowerGrade node will be added to your node graph
 </TabItem>
 </Tabs>
-
-## 📚 Related Resources
-
-- **Red Giant Magic Bullet Suite 2023.2.1** - Red Giant noise reduction and skin smoothing color grading plugin suite for Mac
-- **MotionVfx Mlut 3.0** - LUTS management tool for preview, loading and adjustment
-- **FCPX color grading video tutorial** - How to use FCPX's built-in LUT loading tool to load LUTS with 16 sets of movie color grading
 
 ## 🚀Direct Download Link
 

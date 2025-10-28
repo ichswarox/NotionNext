@@ -8,9 +8,10 @@ slug: /drone-luts
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 24 2025
 
 # 15 Sets of Drone Aerial Video Color Grading Filters
+Last updated: Oct 24 2025
+![img1024-kEWt.webp](https://list.ucards.store/d/img/img1024-kEWt.webp)
 
 This is a set of 15 drone aerial video color grading filters suitable for travel, landscape, and cinematic color grading. These presets are excellent for learning and reference, perfect for collection and future use!
 
@@ -26,7 +27,7 @@ This is a set of 15 drone aerial video color grading filters suitable for travel
 
 ## Image Introduction
 
-![img1024-kEWt.webp](https://list.ucards.store/d/img/img1024-kEWt.webp)
+
 ![img1024-qeZZ.webp](https://list.ucards.store/d/img/img1024-qeZZ.webp)
 ![img1024-fWLi.webp](https://list.ucards.store/d/img/img1024-fWLi.webp)
 ![img1024-Vgwe.webp](https://list.ucards.store/d/img/img1024-Vgwe.webp)

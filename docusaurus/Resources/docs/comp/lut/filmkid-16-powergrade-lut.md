@@ -9,7 +9,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
-
+![img](/img/img1028-lliC.webp)
 ## Overview
 
 Filmkid 16 Powergrade & LUT is a set of simulated movie film color grading DaVinci Resolve color grading nodes and LUT presets produced by Filmkid. It includes practice materials and usage references, making it easy to add 16mm movie film effects to videos. Achieve vintage aesthetics in modern digital formats that are highly recommended for learning and reference!
@@ -64,13 +64,8 @@ Filmkid 16 Powergrade & LUT is a set of simulated movie film color grading DaVin
 
 ## Product Images
 
-![Filmkid 16 Powergrade & LUT Image 1](https://www.vfx123.com/wp-content/uploads/2025/08/1754699586-2f347175041293a.jpg)
-
-![Filmkid 16 Powergrade & LUT Image 2](https://www.vfx123.com/wp-content/uploads/2025/08/1754699607-8398b09d672342c.jpg)
-
-![Filmkid 16 Powergrade & LUT Image 3](https://www.vfx123.com/wp-content/uploads/2025/08/1754699618-2f0614e70ac1c3d.jpg)
-
-![Filmkid 16 Powergrade & LUT Image 4](https://www.vfx123.com/wp-content/uploads/2025/08/1754699628-ed1a1c96d6037a3.jpg)
+![img](/img/img1028-ZKsn.webp)
+![img](/img/img1028-bDKH.webp)
 
 ## 🚀Direct Download Link
 

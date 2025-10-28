@@ -1,5 +1,5 @@
 ---
-title: "Arnie Watkins Video LUTs - 5精选风景调色LUT"
+title: "Arnie Watkins Video LUTs - 5 Scene LUT"
 description: "A set of 5 landscape color grading LUTs selected by YouTube and Instagram influencer Arnie Watkins, a photographer, videographer, and professional waterskier."
 tags: [luts, color-grading, landscape, video-editing, arnie-watkins]
 slug: /arnie-watkins-video-luts
@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
-# Arnie Watkins Video LUTs - 5 Scene LUT
+# Arnie Watkins Video LUTs
 
 This is a set of 5 landscape color grading LUTs selected by YouTube and Instagram influencer Arnie Watkins, a photographer, videographer, and professional waterskier. These are colorful cinematic LUTs that are excellent for learning and reference, perfect for collection and future use!
 
@@ -58,19 +58,7 @@ This is a set of 5 landscape color grading LUTs selected by YouTube and Instagra
 </TabItem>
 </Tabs>
 
-## Related Resources
-
-[**Red Giant Magic Bullet Suite 2023.2.1 Red Giant Noise Reduction Skin Smoothing Color Grading Plugin Suite Mac Version**](https://www.vfx123.com/red-giant-magic-bullet-suite-v13-0-11.html)
-
-[**MotionVfx Mlut 3.0 LUT Management Tool Preview Loading Adjustment**](https://www.vfx123.com/motionvfx-mlut.html) 
-
-[**FCPX Color Grading Video Tutorial How to Use FCPX's Built-in LUT Loading Tool to Load LUTs Plus 16 Cinematic Color Grading**](https://www.vfx123.com/custom-lut.html)
-
 ## 🚀Direct Download Link
-
-| File Name | Download Link |
-|-----------|----------------|
-| Arnie Watkins Video LUTs | [Baidu Netdisk](https://www.vfx123.com/arnie-watkins-video-luts.html) |
 
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.

@@ -11,7 +11,12 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
+
+
 # 50 Wedding Photography Color Grading Presets Pack - Multi-format Compatible for Mobile and Desktop
+
+![img1024-Nbdh.webp](https://list.ucards.store/d/img/img1024-Nbdh.webp)
+
 
 This is a wedding photography color grading preset pack that made it to the list of top wedding photographers worldwide. Multi-format (3dl, cube, look, mga, OBS) compatible for mobile and desktop, including beach, creative stylized, morning park, cinematic lighting and black and white styles. Very worth learning and referencing, save for later use!
 
@@ -73,8 +78,6 @@ This is a wedding photography color grading preset pack that made it to the list
 :::
 
 ## 📸 Product Showcase
-
-![img1024-Nbdh.webp](https://list.ucards.store/d/img/img1024-Nbdh.webp)
 
 ![img1024-xKbJ.webp](https://list.ucards.store/d/img/img1024-xKbJ.webp)
 

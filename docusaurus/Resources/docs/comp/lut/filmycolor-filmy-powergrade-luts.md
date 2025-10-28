@@ -10,6 +10,8 @@ import TabItem from '@theme/TabItem';
 
 # Filmycolor Filmy PowerGrade + LUTs
 
+![img](/img/img1028-Cayi.webp)
+
 <time datetime="2025-05-01">Last updated: May 1, 2025</time>
 
 Professional film-like texture one-click color grading DaVinci nodes + LUT is a professional film-like texture one-click color grading set produced by Filmycolor and created by Danny Gevirtz. It includes DaVinci nodes and LUT with monitor LUT, truly achieving one-click color grading. Compatible with Sony, Canon, Arri, RED, Blackmagic and Rec.709 materials, highly recommended and worth saving for reference!
@@ -50,7 +52,7 @@ Professional film-like texture one-click color grading DaVinci nodes + LUT is a 
 ![img1024-nYuh.webp](https://list.ucards.store/d/img/img1024-nYuh.webp)
 ![img1024-BoZI.webp](https://list.ucards.store/d/img/img1024-BoZI.webp)
 ![img1024-YBmQ.webp](https://list.ucards.store/d/img/img1024-YBmQ.webp)
-![img1024-Fzcs.webp](https://list.ucards.store/d/img/img1024-Fzcs.webp)
+
 ## Installation Instructions
 
 <Tabs>

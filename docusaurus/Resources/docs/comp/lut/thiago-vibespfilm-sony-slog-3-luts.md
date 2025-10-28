@@ -55,12 +55,6 @@ Last updated: Oct 24 2025
 </TabItem>
 </Tabs>
 
-## 📚 Related Resources
-
-- **Red Giant Magic Bullet Suite 2023.2.1** - Red Giant noise reduction and skin smoothing color grading plugin suite for Mac
-- **MotionVfx Mlut 3.0** - LUTS management tool for preview, loading and adjustment
-- **FCPX color grading video tutorial** - How to use FCPX's built-in LUT loading tool to load LUTS with 16 sets of movie color grading
-
 ## 🚀Direct Download Link
 
 :::tip[Get Premium Download Speed Without any Limitations!]

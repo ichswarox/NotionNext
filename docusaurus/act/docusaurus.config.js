@@ -89,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'Houdini正版激活教程',
-                to: '/docs/houdini',
+                to: '/houdini-activation-guide',
               },
               {
                 label: 'Eagle激活教程',

@@ -30,6 +30,18 @@ Popular movie color grading LUTS presets - This is a set of popular movie color 
 - Compatible with major video editing software
 - Easy to use with one-click installation
 
+![img](/img/img1028-ZPyo.webp)
+![img](/img/img1028-dUOy.webp)
+![img](/img/img1028-Lkqa.webp)
+![img](/img/img1028-Khke.webp)
+![img](/img/img1028-vMAm.webp)
+![img](/img/img1028-PDCC.webp)
+![img](/img/img1028-GqxM.webp)
+![img](/img/img1028-gvDp.webp)
+![img](/img/img1028-LNkA.webp)
+![img](/img/img1028-pkUp.webp)
+
+
 ## Installation Instructions
 
 <Tabs>
@@ -54,8 +66,6 @@ Popular movie color grading LUTS presets - This is a set of popular movie color 
 </Tabs>
 
 ## 🚀Direct Download Link
-
-[![](https://img.shields.io/badge/Download-Baidu%20Netdisk-orange?style=for-the-badge&logo=baidu)](https://pan.baidu.com/s/123456789)
 
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.

@@ -35,13 +35,6 @@ The Canon R3 is a powerhouse, but even the most advanced cameras benefit from fi
 Download password: q3kw
 :::
 
-## 🔗 Related Presets
-
-- [DVLOP LR/PS Color Correction Presets Complete Collection](https://www.gfxcamp.com/dvlop-presets-actions/)
-- [LR/PS European Warm Tone Style Color Correction Presets Luiz Clas Various Presets](https://www.gfxcamp.com/luiz-clas-various-presets/)
-- [LR/PS Golden Morning Evening Color Correction Presets Lady Tori Photography – Golden Evenings Presets](https://www.gfxcamp.com/lady-tori-photography-golden-evenings-presets/)
-- [LR/PS Travel Photo Color Correction Presets Life With Elliot – The Master Collection](https://www.gfxcamp.com/life-with-elliot-the-master-collection/)
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

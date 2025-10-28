@@ -54,14 +54,6 @@ This is a toolkit that allows you to generate OpenAI Sora videos with accompanyi
 </TabItem>
 </Tabs>
 
-## Related Resources
-
-[**Red Giant Magic Bullet Suite 2023.2.1 Red Giant Noise Reduction Skin Smoothing Color Grading Plugin Suite Mac Version**](https://www.vfx123.com/red-giant-magic-bullet-suite-v13-0-11.html)
-
-[**MotionVfx Mlut 3.0 LUT Management Tool Preview Loading Adjustment**](https://www.vfx123.com/motionvfx-mlut.html) 
-
-[**FCPX Color Grading Video Tutorial How to Use FCPX's Built-in LUT Loading Tool to Load LUTs Plus 16 Cinematic Color Grading**](https://www.vfx123.com/custom-lut.html)
-
 ## 🚀Direct Download Link
 
 | File Name | Download Link |

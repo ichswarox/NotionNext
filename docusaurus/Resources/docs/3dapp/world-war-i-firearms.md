@@ -41,12 +41,6 @@ Simply extract the downloaded archive and import the WAV files into your preferr
 | Complete Library | 4.38GB | 571 WAV files, 4,594 sounds | [Baidu Netdisk](https://pan.baidu.com/s/13E9sktkGHE0WAkidxVf41w?pwd=qcyk) |
 | Trial Version | - | Preview sounds | [Baidu Netdisk](https://pan.baidu.com/s/13E9sktkGHE0WAkidxVf41w?pwd=qcyk) |
 
-## 🔗 Related Collections
-
-This asset is included in the following collections:
-
-- [Action & War: Punches, Kicks, Weapons, Nature, Animals 600GB+ Sound Effects Collection](https://www.gfxcamp.com/boom-library/)
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

@@ -209,11 +209,6 @@ Thousands of students have successfully completed this course and created stunni
 
 *After the 30-day trial period, $37.42 SGD/month (one payment of $449 SGD). Cancel any time.*
 
-## Related Courses
-
-- Photoshop Wildlife Painting Series
-- Animation "Scene Approach" Course
-- 4 Leg Animation Bundle
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

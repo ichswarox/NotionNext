@@ -10,6 +10,12 @@ import TabItem from '@theme/TabItem';
 
 Last updated: Oct 24 2025
 
+# Archipelago Light & Legacy LUTs - Clean Classic Film Look Color Grading Filters
+
+![img](/img/img1028-DXJb.webp)
+
+https://archipelagopresets.com/light-legacy-luts
+
 ## Overview
 
 Archipelago Light & Legacy LUTs is a clean film emulation LUT collection designed specifically for creators who love the look of analog film and hybrid film/digital workflows. These LUTs bring film chemistry into the digital world, delivering vibrant pastel hues, clean bright whites, and accurate skin tones. Inspired by classic film stocks and the scanning characteristics photographers have trusted for decades, this collection is perfect for those seeking a clean, classic film look.
@@ -71,12 +77,10 @@ Archipelago Light & Legacy LUTs is a clean film emulation LUT collection designe
 
 ## Image Previews
 
-![Product Preview 1](https://www.vfx123.com/wp-content/uploads/2025/09/1758093743-d89997053bc9fe5.jpg)
-
-![Product Preview 2](https://www.vfx123.com/wp-content/uploads/2025/09/1758093750-19e0fa465f0b916.jpg)
-![Product Preview 3](https://www.vfx123.com/wp-content/uploads/2025/09/1758093758-bc0783108739fe6.jpg)
-![Product Preview 4](https://www.vfx123.com/wp-content/uploads/2025/09/1758092603-0cbec9deb836a2f.webp)
-
+![img](/img/img1028-ZysA.webp)
+![img](/img/img1028-Jpww.webp)
+![img](/img/img1028-CxeP.webp)
+![img](/img/img1028-uYia.webp)
 ## 🚀Direct Download Link
 
 :::tip[Get Premium Download Speed Without any Limitations!]

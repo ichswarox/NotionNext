@@ -7,7 +7,10 @@ slug: /mononodes-color-shift-dctls
 
 # Mononodes Color Shift DCTLS v4 - DaVinci Resolve Film Color Grading Plugin Presets Collection
 
-![mononodes-vg.webp](https://list.ucards.store/d/img/mononodes-vg.webp)
+![img](/img/img1028-aUni.webp)
+
+https://mononodes.com/color-shift-dctl/
+
 ## Asset Overview
 
 This professional collection includes 13 sets with 62 total DCTL presets for precise video color grading in DaVinci Resolve. These presets allow detailed color adjustments through red, green, blue, cyan, magenta, and yellow controls.
@@ -15,7 +18,7 @@ This professional collection includes 13 sets with 62 total DCTL presets for pre
 This is the official full version with no watermarks or black spots. It includes an official video tutorial with Chinese subtitles and written installation instructions.
 
 ## Included Preset Collections
-
+![mononodes-vg.webp](https://list.ucards.store/d/img/mononodes-vg.webp)
 ### MONO Color Shift v4 (with NE version + Chinese subtitle tutorial)
 - MONO-1-DEN-v4.0.dctle
 - MONO-1-HUE-v4.0.dctle
@@ -31,6 +34,7 @@ This is the official full version with no watermarks or black spots. It includes
 - MONO-T3-SAT-DEN-HUE-v4.0.dctle
 
 ### MONO Color Shift v3 (with NE version + Chinese subtitle tutorial)
+![img](/img/img1028-fIgX.webp)
 - MONO-SAT-DENSITY-T-v3.0.dctle
 - MONO-SAT-DENSITY-v3.0.dctle
 - MONO-SAT-HUE-v3.0.dctle

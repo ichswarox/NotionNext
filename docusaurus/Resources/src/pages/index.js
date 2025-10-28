@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/category/3dapp">
-            Explore 3D App Plugins
+            Explore Resources
           </Link>
         </div>
       </div>

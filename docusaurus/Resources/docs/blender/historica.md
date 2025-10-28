@@ -46,13 +46,6 @@ Historica transforms how you manage Blender projects by bringing powerful versio
 Download password: ef3z
 :::
 
-## 🔗 Related Plugins
-
-- [Blender Non-Destructive Sci-Fi Hard Surface Modeling Plugin ND – Non-Destructive Modelling V2.1.0 + V1.48.0 + Tutorials](https://www.gfxcamp.com/non-destructive-modelling/)
-- [Blender High-to-Low Poly Plugin GamiFlow V1.9.0](https://www.gfxcamp.com/gamiflow/)
-- [Blender Car Rigging Plugin Rigicar v2.3.6](https://www.gfxcamp.com/rigicar/)
-- [Blender HDRI Environment Creation Plugin HDRi Maker V3.0.123 For Blender + Preset Library](https://www.gfxcamp.com/hdri-maker-2/)
-
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.

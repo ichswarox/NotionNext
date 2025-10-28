@@ -10,6 +10,10 @@ import TabItem from '@theme/TabItem';
 
 # 55MEDIA 55m Advanced Luts 2.2
 
+![img](/img/img1028-eXMF.webp)
+
+https://55media.net/product/55m-advanced-luts-for-panasonic-2-2-deluxe-edition/
+
 <time datetime="2025-05-01">Last updated: May 1, 2025</time>
 
 Practical Panasonic Advanced Color Grading LUT is a Panasonic camera advanced color grading LUT package produced by 55MEDIA. Not only are the colors accurate and pleasing, but the contrast is also just right, very worth learning and referencing for your projects!

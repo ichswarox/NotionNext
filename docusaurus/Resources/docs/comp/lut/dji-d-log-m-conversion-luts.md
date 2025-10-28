@@ -66,11 +66,6 @@ DJI D-Log M Conversion LUTs is a professional set of conversion LUTs produced by
 
 ## 🚀Direct Download Link
 
-| Format | Download Link |
-|--------|---------------|
-| Baidu Netdisk | [Baidu Netdisk Download](https://pan.baidu.com/) |
-| NiuCow Transmission | [NiuCow Transmission Download](https://www.niucow.com/) (VIP members exclusive high-speed direct access) |
-
 :::tip[Get Premium Download Speed Without any Limitations!]
 Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.
 :::

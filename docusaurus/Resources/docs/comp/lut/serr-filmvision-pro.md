@@ -5,8 +5,13 @@ tags: [film-emulation, color-grading, davinci-resolve, powergrade, lut]
 slug: /serr-filmvision-pro
 ---
 
-# Last updated: Oct 24 2025
+# Serr FilmVision Pro 1.1 - Cinema-Grade Film Emulation PowerGrade
 
+Last updated: Oct 24 2025
+
+![img](/img/img1028-svxE.webp)
+
+https://www.shopmoment.com/products/filmvision-pro
 ## Overview
 
 Serr FilmVision Pro is the latest evolution of the film emulation pipeline, designed to accurately replicate the look of digitized negative-to-print film. This comprehensive solution includes cinema-grade looks that work seamlessly alongside the emulation process, creating a flexible and dynamic toolset for color grading. It's considered one of the most versatile color grading solutions available.
@@ -38,26 +43,51 @@ The workflow follows a structured and film-accurate pipeline. It begins by conve
 
 ### How to Install DCTL Plugins in DaVinci Resolve
 
-![Install DCTL Plugin 1](https://www.vfx123.com/wp-content/uploads/2024/10/1728551324-7aefbc5418abb48.jpg)
-![Install DCTL Plugin 2](https://www.vfx123.com/wp-content/uploads/2024/10/1728551350-2b8615ebc6a1939.jpg)
+Step 1: Open the Project Settings Windows
+Open or create a new project. Click on the settings icon at the bottom right corner of the screen to see the project settings window. You can also access this window by going to File > Project Settings or using the keyboard shortcut Shift + 9.
+![img](/img/img1028-zuYU.webp)
+
+Step 2: Color Management Tab
+Search the Color Management Tab on the left in the Project Settings window. Click on it to see the new color spaces, transforms, and Lookup Tables options.
+
+![img](/img/img1028-jBqU.webp)
+
+Step 3: LUT Folder
+Scroll under the Lookup Table options and click the “Open LUT Folder” button. When the LUT folder opens in a new window, drag or copy the cube files to import LUTs.
+
+You can organize your LUTs in folders to keep all LUT types on specific folders.
+
+![img](/img/img1028-GViB.webp)
+
+![img](/img/img1028-ZWRP.webp)
+
+Step 4: Refresh LUTs
+Return to DaVinci Resolve. Now, you need to refresh the LUT list with the ones you just added.
+
+In the Color Management Tab, click the “Update Lists” button above “Open LUT Folder” in the Lookup Tables settings and then click Save in the project settings window to close it.
+![img](/img/img1028-QWPn.webp)
+![img](/img/img1028-owLo.webp)
+
+BONUS: LUTs Manual Installation
+Another way to install your LUTs is by manually searching your system's DaVinci Resolve LUT folder and copying the new LUTs there. These are the DaVinci Resolve LUT folder locations for each system:
+
+LUT folder in Mac: /Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/
+
+LUT folder in Windows: C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT
+
+LUT folder in Linux: /opt/resolve/LUT
+
+If you install it manually, I recommend copying the LUT file before you open DaVinci Resolve. Otherwise, you must go to the Color Management Tab and update the LUT list. After installing LUTs, they will be available to select inside DaVinci Resolve.
 
 ### How to Install POWERGRADE Color Correction Nodes in DaVinci Resolve
 
-![Install PowerGrade](https://www.vfx123.com/wp-content/uploads/2023/06/1685755721-a48bdd634a1b536.jpg)
-
 ## Preview Images
-
-![Preview 1](https://www.vfx123.com/wp-content/uploads/2025/07/1750993039-a4aaea38c1c5603.webp)
-![Preview 2](https://www.vfx123.com/wp-content/uploads/2025/07/175099304-d3308fe6304d141.webp)
-![Preview 3](https://www.vfx123.com/wp-content/uploads/2025/07/1750993049-c2757795737e2cd.webp)
-![Preview 4](https://www.vfx123.com/wp-content/uploads/2025/07/1750993055-16aacdcaf2005a2.webp)
-![Preview 5](https://www.vfx123.com/wp-content/uploads/2025/07/1750993059-0a7586a7617f603.webp)
-![Preview 6](https://www.vfx123.com/wp-content/uploads/2025/07/1750993065-6ad19a97c5fb37a.webp)
-![Preview 7](https://www.vfx123.com/wp-content/uploads/2025/07/1750993069-01e076dee4b14a4.webp)
-![Preview 8](https://www.vfx123.com/wp-content/uploads/2025/07/1750995259-85a0cac31b2d986.jpg)
-![Preview 9](https://www.vfx123.com/wp-content/uploads/2025/07/1750995266-95e375b184c9bd.jpg)
-![Preview 10](https://www.vfx123.com/wp-content/uploads/2025/07/1750995273-aa430697a346dea.jpg)
-![Preview 11](https://www.vfx123.com/wp-content/uploads/2025/07/1750995280-cc2b2a0010f5772.jpg)
+![img](/img/img1028-fUPx.webp)
+![img](/img/img1028-ZvfL.webp)
+![img](/img/img1028-wHyv.webp)
+![img](/img/img1028-mzBT.webp)
+![img](/img/img1028-KvOV.webp)
+![img](/img/img1028-TQOd.webp)
 
 ## 🚀Direct Download Link
 
