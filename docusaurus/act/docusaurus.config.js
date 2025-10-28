@@ -88,10 +88,6 @@ const config = {
             title: '激活',
             items: [
               {
-                label: 'Houdini正版激活教程',
-                to: '/houdini-activation-guide',
-              },
-              {
                 label: 'Eagle激活教程',
                 to: '/docs/eagle',
               },

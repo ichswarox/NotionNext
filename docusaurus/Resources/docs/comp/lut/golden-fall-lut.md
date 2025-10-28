@@ -8,6 +8,8 @@ slug: /golden-fall-lut
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+![img](/img/img1028-UsZX.webp)
+
 Last updated: Oct 23 2025
 
 ## Overview
@@ -29,24 +31,13 @@ Golden Fall LUT is a collection of 30 autumn-themed warm tone color grading pres
 <iframe src="//player.bilibili.com/player.html?bvid=BV1nHWszUEv1&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## Visual Examples
-
-![Golden Fall LUT Example 1](https://www.vfx123.com/wp-content/uploads/2025/10/1760770671-cbbd38e3de5c893.webp)
-
-![Golden Fall LUT Example 2](https://www.vfx123.com/wp-content/uploads/2025/10/1760770679-129fbade5a7387d.webp)
-
-![Golden Fall LUT Example 3](https://www.vfx123.com/wp-content/uploads/2025/10/1760770694-a75c60259b14306.webp)
-
-![Golden Fall LUT Example 4](https://www.vfx123.com/wp-content/uploads/2025/10/1760770699-94d03047a9670a1.webp)
-
-![Golden Fall LUT Example 5](https://www.vfx123.com/wp-content/uploads/2025/10/1760770705-925184a8c99080f.webp)
-
-![Golden Fall LUT Example 6](https://www.vfx123.com/wp-content/uploads/2025/10/1760770711-d49bb4d30544dba.webp)
-
-![Golden Fall LUT Example 7](https://www.vfx123.com/wp-content/uploads/2025/10/1760770716-9bb5dc4072b8a8f.webp)
-
-![Golden Fall LUT Example 8](https://www.vfx123.com/wp-content/uploads/2025/10/1760770722-c03d599b5dece77.webp)
-
-![Golden Fall LUT Example 9](https://www.vfx123.com/wp-content/uploads/2025/10/1760770728-7905d1acb9a95b5.webp)
+![img](/img/img1028-Upwt.webp)
+![img](/img/img1028-TETy.webp)
+![img](/img/img1028-gkUY.webp)
+![img](/img/img1028-BiIK.webp)
+![img](/img/img1028-xbhE.webp)
+![img](/img/img1028-NbxO.webp)
+![img](/img/img1028-xrfm.webp)
 
 ## Installation Instructions
 

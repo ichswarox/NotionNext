@@ -7,7 +7,9 @@ slug: /gr-powergrade-pro
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+![img](/img/img1028-fdST.webp)
 # Gustavo Rossi GR PowerGrade Pro - Retro Film Look Color Grading
+
 
 *Last updated: Oct 24, 2025*
 
@@ -31,22 +33,13 @@ Gustavo Rossi GR PowerGrade Pro is a color grading PowerGrade and LUT pack with 
 - **Exclusive to DaVinci Resolve** – Built to run natively in both the Free and Studio versions
 
 ## 🖼️ Visual Examples
-
-![GR PowerGrade Example 1](https://www.vfx123.com/wp-content/uploads/2025/09/1757132692-93ab8f116a4243a.webp)
-
-![GR PowerGrade Example 2](https://www.vfx123.com/wp-content/uploads/2025/09/1757132700-89ef04f4091d852.webp)
-
-![GR PowerGrade Example 3](https://www.vfx123.com/wp-content/uploads/2025/09/1757132708-7247eacfdfa5cca.webp)
-
-![GR PowerGrade Example 4](https://www.vfx123.com/wp-content/uploads/2025/09/1757132715-fad72592eb419f7.webp)
-
-![GR PowerGrade Example 5](https://www.vfx123.com/wp-content/uploads/2025/09/1757132722-f901c5c5d45e855.webp)
-
-![GR PowerGrade Example 6](https://www.vfx123.com/wp-content/uploads/2025/09/1757132729-ec87644a6f5f80f.webp)
-
-![GR PowerGrade Example 7](https://www.vfx123.com/wp-content/uploads/2025/09/1757132737-8b90dd9d34c2313.webp)
-
-![GR PowerGrade Example 8](https://www.vfx123.com/wp-content/uploads/2025/09/1757132745-8bc05db4fe156b8.webp)
+![img](/img/img1028-xeGT.webp)
+![img](/img/img1028-pWDu.webp)
+![img](/img/img1028-fRdP.webp)
+![img](/img/img1028-Irce.webp)
+![img](/img/img1028-TXyz.webp)
+![img](/img/img1028-eWEI.webp)
+![img](/img/img1028-WNxH.webp)
 
 ## 🔧 Installation Guide
 

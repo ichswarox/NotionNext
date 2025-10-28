@@ -35,19 +35,13 @@ Gamut Immersion 2.0 is a top-tier travel cinematography color grading LUT pack b
 
 ## 🖼️ Visual Examples
 
-![Immersion 2.0 Example 1](https://www.vfx123.com/wp-content/uploads/2025/08/1755941943-bd07aaea7c9e78d.jpg)
-
-![Immersion 2.0 Example 2](https://www.vfx123.com/wp-content/uploads/2025/08/1755941950-361e80c6f2642c.jpg)
-
-![Immersion 2.0 Example 3](https://www.vfx123.com/wp-content/uploads/2025/08/1755941958-1232adf4fa7bbd3.jpg)
-
-![Immersion 2.0 Example 4](https://www.vfx123.com/wp-content/uploads/2025/08/1755941966-62b04213949c605.jpg)
-
-![Immersion 2.0 Example 5](https://www.vfx123.com/wp-content/uploads/2025/08/1755941976-583ab5fa180939d.jpg)
-
-![Immersion 2.0 Example 6](https://www.vfx123.com/wp-content/uploads/2025/08/1755941986-22f14fedb13323d.jpg)
-
-![Immersion 2.0 Example 7](https://www.vfx123.com/wp-content/uploads/2025/08/1755941993-38bd4e74b9f0d29.jpg)
+![img](/img/img1028-JUKN.webp)
+![img](/img/img1028-BKuG.webp)
+![img](/img/img1028-kHxc.webp)
+![img](/img/img1028-HMRq.webp)
+![img](/img/img1028-pilN.webp)
+![img](/img/img1028-iVZF.webp)
+![img](/img/img1028-syNz.webp)
 
 ## 🔧 Installation Guide
 

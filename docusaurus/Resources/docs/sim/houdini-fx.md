@@ -11,7 +11,7 @@ slug: /houdini-fx
 # SideFX Houdini FX 21.0.44 - Professional 3D Animation and Visual Effects Software
 
 <!--Second Part-This is First Banner -->
-![SideFX Houdini FX 21](/img/sidefx-houdini-fx-21.jpg)
+![img](/img/img1028-mIBE.webp)
 
 :::tip[info]
 Houdini 21 introduces major updates across the pipeline, including enhancements to KineFX with a new motion mixer, animation catalog, Autorig Builder, and improved muscle system. Copernicus gains a sparse GPU Pyro FX solver, reaction diffusion effects, texture baking, while Solaris adds Shot Builder, Live Rendering, and Karma support for Hydra 2 and Gaussian Splats.
@@ -53,20 +53,6 @@ Houdini 21 introduces major updates across the pipeline, including enhancements 
 7. Open the scripts folder and right-click to run `EnterKeys.bat` as Administrator. Follow the prompts to copy the corresponding registration codes
 8. Under Services, click Start for Sesinetd, then close License Administrator. Reopen License Administrator, close all windows, and then reopen Houdini to complete the process!
 
-
-Extraction Password: fw6k
-:::
-
-## Troubleshooting
-
-- If you encounter issues after installation:
-  - Try copying `xf_foundry.lic` to these three directories:
-    1. `C:\\ProgramData\\The Foundry\\RLM\\`
-    2. `C:\\Program Files\\The Foundry\\FLEXlm\\`
-    3. `C:\\Program Files\\The Foundry\\LicensingTools7.1\\bin\\RLM\\`
-  - If you get a connection error in the final step, double-check your license server settings
-  - If the crack fails completely, ensure all files are properly copied and the license server is running
-
 ## User Comments Summary
 
 Based on user feedback, here are some common experiences:
@@ -91,8 +77,7 @@ Issues Reported:
 4. Test export functionality early in your workflow to identify limitations
 
 ## We Also Provide Licence which can activate all version of Houdini
-Contact us for details.
-
+Contact us for Free Trail.
 Tested version:
 - Houdini FX 21.0.44
 - Houdini FX 20.5

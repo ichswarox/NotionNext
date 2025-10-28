@@ -5,7 +5,9 @@ tags: [LUTS, wedding, color grading, film emulation, fuji film, portra]
 slug: /gamut-cascade
 ---
 
-# Last updated: Oct 24 2025
+Last updated: Oct 24 2025
+
+![img](/img/img1028-BDeZ.webp)
 
 ## Overview
 
@@ -55,17 +57,7 @@ Cascade delivers nostalgic yet authentic tones inspired by Portra and Fuji film 
 
 ## Product Images
 
-![Product Image 1](https://www.vfx123.com/wp-content/uploads/2025/07/1751704296-feb6dd3e3ab9329.jpg)
-
-![Product Image 2](https://www.vfx123.com/wp-content/uploads/2025/07/1751704304-922278b64c03555.jpg)
-
-![Product Image 3](https://www.vfx123.com/wp-content/uploads/2025/07/1751704311-e2363defc8520f7.jpg)
-
-![Product Image 4](https://www.vfx123.com/wp-content/uploads/2025/07/1751704319-c09fa99eb729eb7.jpg)
-
-![Product Image 5](https://www.vfx123.com/wp-content/uploads/2025/07/1751704327-5facba8df0208bd.jpg)
-
-![Product Image 6](https://www.vfx123.com/wp-content/uploads/2025/07/1751704335-c034968f9393dc2.jpg)
+![img](/img/img1028-GfXf.webp)
 
 ## Installation Guide
 
@@ -75,7 +67,11 @@ Cascade delivers nostalgic yet authentic tones inspired by Portra and Fuji film 
 2. In the [LUT] parameter - [Select Custom LUT...] select the LUTS folder or .cube file you want to load
 3. Note: If you select the LUTS folder, you can load the entire folder and keep it in the [LUT] parameter for easy classification management, but try not to use Chinese characters and special characters
 
-![FCPX LUT Installation](https://www.vfx123.com/wp-content/uploads/2022/01/1641350910-bcccd886de165eb.jpg)
+![img](/img/img1028-qFwu.webp)
+![img](/img/img1028-kUCl.webp)
+![img](/img/img1028-Bswe.webp)
+![img](/img/img1028-aPEn.webp)
+![img](/img/img1028-QFJw.webp)
 
 ### Installing LUTs in Premiere Pro
 

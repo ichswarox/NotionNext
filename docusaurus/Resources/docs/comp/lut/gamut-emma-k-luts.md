@@ -8,7 +8,7 @@ slug: /gamut-emma-k-luts
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Last updated: Oct 24 2025
+Last updated: Oct 24 2025
 
 ## Overview
 
@@ -77,26 +77,23 @@ Copy for example "Log to Rec709" LUTs to the folder above.
 ### Emma K Signature Monochrome LUT
 
 Transforms your wedding films into timeless black-and-white masterpieces. This LUT captures rich contrast and subtle grayscale tones, delivering a refined, elegant aesthetic. Designed to emphasize emotion and depth, it enhances every detail, from the shadows to the highlights, creating a cinematic, classic feel that evokes a sense of nostalgia and artistry.
-
-![Emma K Signature Monochrome](https://www.vfx123.com/wp-content/uploads/2025/07/1752405494-c4ca4238a0b9238.jpg)
+![img](/img/img1028-nQXZ.webp)
 
 ### Emma K Warm LUT
 
 Infuses your footage with rich, golden tones, enhancing warmth while maintaining natural colors. Ideal for intimate, romantic settings, it brings out soft, glowing skin tones and adds a cozy, inviting atmosphere to your wedding films, creating a timeless and heartfelt aesthetic.
-
-![Emma K Warm](https://www.vfx123.com/wp-content/uploads/2025/07/1752405549-a87ff679a2f3e71.jpg)
+![img](/img/img1028-UBqY.webp)
 
 ### Emma K Bright LUT
 
 Adds radiant, vibrant tones to your footage while keeping colors natural and true to life. Perfect for bright, outdoor settings, it enhances the overall warmth and clarity, making your wedding films feel fresh and full of light without overwhelming the natural beauty of the day.
 
-![Emma K Bright](https://www.vfx123.com/wp-content/uploads/2025/07/1752405566-e4da3b7fbbce234.jpg)
+![img](/img/img1028-KjnG.webp)
 
 ### Emma K Bold LUT
 
 Enhances your footage with vibrant, cinematic tones while preserving natural colors and skin tones. Designed for a consistent look across various lighting conditions, it adds depth and richness to wedding films, creating a dramatic yet authentic feel.
 
-![Emma K Bold](https://www.vfx123.com/wp-content/uploads/2025/07/1752405517-c81e728d9d4c2f6.jpg)
 
 ## 🚀Direct Download Link
 

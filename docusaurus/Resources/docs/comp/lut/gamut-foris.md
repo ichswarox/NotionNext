@@ -9,6 +9,8 @@ import TabItem from '@theme/TabItem';
 
 # Gamut FORIS LUTs - Wild Landscapes Adventure Color Grading
 
+![img](/img/img1028-pDTn.webp)
+
 *Last updated: Oct 24, 2025*
 
 ## 📁 Resource Information
@@ -28,32 +30,29 @@ Gamut FORIS LUTs is a cinematic color grading pack inspired by wild, remote land
 ### Foris 01
 Our most styled look, Foris 01 has deeply desaturated greens that adds warm to your mid-tones, while allowing your highlights to still feel cool and balanced. You'll find earthy, brown shadows and more neutral skin tones.
 
-![Foris 01](https://www.vfx123.com/wp-content/uploads/2025/08/1756285853-0b4810f4da32250.jpg)
+![img](/img/img1028-KflI.webp)
 
 ### Foris 02
 If you want a more saturated look, then Foris 02 will give you richer greens and more saturated skin-tones. This LUT brings together a warm highlight palette, making your films shine at sunset and during Alpenglow. This look adds warmth to skin tones while gently tugging at the highlights.
 
-![Foris 02](https://www.vfx123.com/wp-content/uploads/2025/08/1756285863-cbec9fd280d3788.jpg)
+![img](/img/img1028-Cext.webp)
 
 ### Foris 03
 Foris 03 has a subtle green split toning going on in the highlights that contrasts very nicely with the muted warm skin-tones. A crowd favorite, this LUT has a palette that equally pulls at cool and warm tones, and it offers a uniqueness to your films that still feels balanced and eye-catching.
 
-![Foris 03](https://www.vfx123.com/wp-content/uploads/2025/08/1756285872-93c9743d6277078.jpg)
-
+![img](/img/img1028-cksI.webp)
 ### Foris 04
 This LUT eases up on highlights and contrast, giving you a more dynamic starting place to continue building your own look. Using this base, you can get all the power of the Foris color system, while adding on to it at your own discretion. This look will work in more environments that don't require a strong contrast curve.
 
-![Foris 04](https://www.vfx123.com/wp-content/uploads/2025/08/1756285879-96fd6900742896a.jpg)
+![img](/img/img1028-gOJH.webp)
 
 ### Foris 05
 Similar to a more saturated version of Foris 04, this LUT contains warm cues that lean more towards pink and blush—while still managing consistent contrast and true black. By gently pushing the greens, this LUT will allow imagery with greenery and landscapes to still feel powerful and dynamic, while keeping your subject as the hero.
 
-![Foris 05](https://www.vfx123.com/wp-content/uploads/2025/08/1756285890-ecf95fe6ed03615.jpg)
+![img](/img/img1028-udCy.webp)
 
 ### Foris 06
 This final look pulls most desaturation down—but powers up your mid-tones and white highlights. You'll find stronger contrast, with higher levels of saturation added into skin-tones. By bringing depth to your mid-tones, it allows your whites to stand out amidst other desaturation, making a complex color palette look easy and organic. We recommend sampling this LUT with various levels of intensity.
-
-![Foris 06](https://www.vfx123.com/wp-content/uploads/2025/08/1756286090-3d57493411bf6ba.jpg)
 
 ## 🔧 Installation Guide
 

@@ -7,7 +7,9 @@ slug: /vizeasy-procedural-outlets-switches-pro-for-3ds-max
 
 Last updated: Sep 29, 2025
 
-![Procedural Outlets & Switches for 3ds Max](https://www.gfxcamp.com/wp-content/uploads/2025/09/Procedural-Outlets-Switches-for-3ds-Max.jpg)
+![img](/img/img1028-fEcT.webp)
+
+https://vizeasy.pro/b/windowspro
 
 The VizEasy Procedural Outlets & Switches script for 3ds Max is your ultimate solution for instantly adding fully customizable, realistic electrical fixtures to any scene. With just a click on a wall, you can place a socket or switch, then effortlessly modify it to achieve the perfect look, bringing your architectural visualizations to a new level of detail and believability.
 
