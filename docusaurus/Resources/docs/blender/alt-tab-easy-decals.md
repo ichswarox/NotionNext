@@ -6,11 +6,6 @@ slug: /alt-tab-easy-decals
 ---
 
 # Alt Tab Easy Decals: Effortless Decal Application in Blender
-<img
-  src="https://3dnchu.com/wp-content/uploads/alt-tab-easy-decals-v1-0.webp)"
-  alt="Alt Tab Easy Decals"
-  style={{ width: '100%', height: 'auto', margin: '1em 0' }}
-/>
 
 ![Alt Tab Easy Decals Banner](https://i.ytimg.com/vi/yiwtyFqN21g/maxresdefault.jpg)
 

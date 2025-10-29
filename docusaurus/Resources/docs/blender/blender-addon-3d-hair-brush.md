@@ -7,7 +7,7 @@ slug: /blender-addon-3d-hair-brush
 
 # Blender Addon: 3D Hair Brush 4.7.1 - Professional Hair Grooming Tool
 
-![3D Hair Brush 4.7.1 - Professional Hair Grooming Tool](/img/3d-hair-brush-v3-main.jpg)
+![img](/img/img1028-XuZd.webp)
 
 **Download 3D Hair Brush 4.7.1** - Professional hair grooming tool for Blender supporting new hair system
 
