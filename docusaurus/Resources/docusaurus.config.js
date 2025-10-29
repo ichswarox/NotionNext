@@ -43,7 +43,11 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','zh-CN'],
+    localeConfigs: {
+      'zh-CN': { label: '简体中文', direction: 'ltr' },
+      en: { label: 'English', direction: 'ltr' },
+    },
   },
 
   presets: [
@@ -91,7 +95,7 @@ const config = {
         isCloseable: true,
       },
       navbar: {
-        title: 'Resources',
+//        title: 'Resources',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -152,9 +156,8 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://wa.me/+8613237610083',
-            label: 'Request Update',
-            position: 'right',
+          type: 'localeDropdown',
+          position: 'right',
           },
         ],
       },

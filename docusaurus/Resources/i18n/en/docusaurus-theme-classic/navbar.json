@@ -1,0 +1,42 @@
+{
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.3DApp 🎨": {
+    "message": "3DApp 🎨",
+    "description": "Navbar item with label 3DApp 🎨"
+  },
+  "item.label.Tutorial 📚": {
+    "message": "Tutorial 📚",
+    "description": "Navbar item with label Tutorial 📚"
+  },
+  "item.label.Gallery 🖼️": {
+    "message": "Gallery 🖼️",
+    "description": "Navbar item with label Gallery 🖼️"
+  },
+  "item.label.Comp 🎨": {
+    "message": "Comp 🎨",
+    "description": "Navbar item with label Comp 🎨"
+  },
+  "item.label.Blender 🔥": {
+    "message": "Blender 🔥",
+    "description": "Navbar item with label Blender 🔥"
+  },
+  "item.label.Texture 🎨": {
+    "message": "Texture 🎨",
+    "description": "Navbar item with label Texture 🎨"
+  },
+  "item.label.Ae 🎬": {
+    "message": "Ae 🎬",
+    "description": "Navbar item with label Ae 🎬"
+  },
+  "item.label.Model 🏗️": {
+    "message": "Model 🏗️",
+    "description": "Navbar item with label Model 🏗️"
+  },
+  "item.label.Sim ⚙️": {
+    "message": "Sim ⚙️",
+    "description": "Navbar item with label Sim ⚙️"
+  }
+}
