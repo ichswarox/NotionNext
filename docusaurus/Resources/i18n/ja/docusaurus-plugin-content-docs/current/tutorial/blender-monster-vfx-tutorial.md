@@ -4,7 +4,7 @@ description: "Check out a monster creation workflow tutorial for Blender by FxFo
 tags: ['Blender', 'tutorial', 'VFX', 'monster', 'creature', 'FxForge', '3D modeling', 'timelapse']
 slug: /blender-monster-vfx-tutorial
 ---
-![Blender Monster VFX Tutorial by FxForge](<../../static/img/Blender Monster VFX Tutorial.jpg>)
+![Blender Monster VFX Tutorial by FxForge](</img/Blender-Monster-JKLP.jpg>)
 
 FxForge (Albin Thorburn) has released a "Blender Monster VFX Tutorial" on YouTube, demonstrating the workflow for creating a monster using Blender.
 
