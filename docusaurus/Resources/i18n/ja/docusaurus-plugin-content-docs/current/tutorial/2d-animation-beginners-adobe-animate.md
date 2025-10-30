@@ -1,6 +1,6 @@
 ---
-title: "Adobe Animateを使った初心者向け2Dアニメーション"
-description: "SkillshareでWalt WonderwolkからAdobe Animateを使った2Dアニメーションの基礎を学びましょう。初心者が素晴らしいアニメーションを作成するための完全なコースです。"
+title: "2D Animation For Beginners With Adobe Animate"
+description: "Learn 2D animation fundamentals with Adobe Animate from Walt Wonderwolk on Skillshare. Complete course for beginners to create stunning animations."
 tags: [adobe-animate, 2d-animation, skillshare-course, animation-tutorial, beginner-friendly]
 slug: /2d-animation-beginners-adobe-animate
 ---
@@ -9,43 +9,43 @@ Last updated: Oct 18 2025
 
 ![img1019-dQiA.webp](https://list.ucards.store/d/img/img1019-dQiA.webp)
 
-# Adobe Animateを使った初心者向け2Dアニメーション | Walt Wonderwolk | Skillshare
+# 2D Animation For Beginners With Adobe Animate | Walt Wonderwolk | Skillshare
 
-## コース概要
+## Course Overview
 
-この包括的なコースは、アニメーション技術を習得したい初心者のために特別に設計された、Adobe Animateを使用した2Dアニメーションの基礎をカバーしています。
+This comprehensive course covers the fundamentals of 2D animation using Adobe Animate, designed specifically for beginners looking to master animation techniques.
 
-### 主な特徴
+### Key Features
 
-:::info[コース情報]
-- **講師**: Walt Wonderwolk
-- **プラットフォーム**: Skillshare
-- **レベル**: 初心者
-- **焦点**: Adobe Animateによる2Dアニメーション
-- **コンテンツタイプ**: ビデオチュートリアルと実践演習
+:::info[Course Information]
+- **Instructor**: Walt Wonderwolk
+- **Platform**: Skillshare
+- **Level**: Beginner
+- **Focus**: 2D Animation with Adobe Animate
+- **Content Type**: Video tutorials and practical exercises
 :::
 
-### 再生オプション
+### Playback Options
 
-:::tip[学習体験を最適化する]
-学習ペースに合わせて再生速度を調整します:
-- 0.5倍: 詳細な学習とメモ取り用
-- 0.75倍: 快適な学習用
-- 1倍: 通常速度 (初回視聴に推奨)
-- 1.25倍-2倍: 復習と定着用
+:::tip[Optimize Your Learning Experience]
+Adjust playback speed to match your learning pace:
+- 0.5x: For detailed study and note-taking
+- 0.75x: For comfortable learning
+- 1x: Normal speed (recommended for first viewing)
+- 1.25x-2x: For review and reinforcement
 :::
 
-## コース構成
+## Course Structure
 
-このコースは、完全な初心者からAdobe Animateで独自の2Dアニメーションを作成できるようになるまでを目的としています。基本的な概念と実践的なテクニックをカバーしています。
+The course is designed to take students from complete beginners to creating their own 2D animations with Adobe Animate. It covers fundamental concepts and practical techniques.
 
-## 学習成果
+## Learning Outcomes
 
-このコースを修了すると、学生は次のことができるようになります:
-- Adobe Animateのインターフェースを自信を持って操作する
-- 基本的な2Dアニメーションを作成する
-- 主要なアニメーションの原則を理解する
-- 独自プロジェクトにアニメーション技術を適用する
+By the end of this course, students will be able to:
+- Navigate Adobe Animate interface confidently
+- Create basic 2D animations
+- Understand key animation principles
+- Apply animation techniques to their own projects
 
 ## 🚀Direct Download Link
 :::tip[Get Premium Download Speed Without any Limitations!]

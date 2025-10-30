@@ -65,3 +65,6 @@ iptables -t nat -I POSTROUTING -o tailscale0 -j MASQUERADE
 - 如果连接失败，请检查防火墙规则是否正确应用
 - 确认 Tailscale 服务在各出口设备上正常运行
 - 检查接口配置中的 IP 地址是否正确
+
+
+tailscale up --accept-dns=false --advertise-routes=192.168.10.0/24 --advertise-exit-node

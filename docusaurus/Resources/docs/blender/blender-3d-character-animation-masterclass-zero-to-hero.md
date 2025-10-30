@@ -60,6 +60,35 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
+## Course Content
+
+1. **Character Animation Basics**: Understand Blender animation workflow and essential tools
+2. **Rigging and Binding**: Learn how to set up and use character skeletons
+3. **Posing and Keyframing**: Master keyframing techniques for creating fluid animations
+4. **Lipsync Techniques**: Learn methods to precisely match dialogue with character expressions
+5. **Facial Animation**: Create vivid facial expressions and emotional performances
+6. **Character Acting**: Bring personality and depth to your character's performance
+7. **Camera Animation**: Set up professional cinematic camera movements and angles
+8. **Lighting and Rendering**: Optimize your scene for the best visual results
+
+## Who This Course is For
+
+- Beginners interested in 3D character animation
+- Intermediate users looking to improve their Blender animation skills
+- Animators, game developers, and visual effects artists
+- Anyone wanting to create their own 3D animated short films
+
+## Resource Highlights
+
+- **Practical Techniques**: Each chapter includes real-world workflows and tips used by industry professionals
+- **Step-by-Step Learning**: Build your animation skills progressively from basics to advanced
+- **Project-Based**: Apply your knowledge by creating complete animated short films
+- **Flexible Learning**: Study at your own pace, pause and review anytime
+
+## About the Author
+
+This course is carefully crafted by a professional artist with over 10 years of 3D animation experience. The author has worked on award-winning animated short films and commercial projects, with deep understanding and passion for Blender character animation. Through this course, you'll receive professional-level guidance to help you progress quickly in your animation journey.
+
 ## 🐌Free Slow Download Links
 
 | File Description | Download Link | Password |
