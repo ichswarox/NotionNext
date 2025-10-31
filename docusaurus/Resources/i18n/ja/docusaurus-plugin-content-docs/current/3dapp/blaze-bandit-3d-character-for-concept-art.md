@@ -1,27 +1,27 @@
 ---
-title: "Blaze Bandit – 3D Character for Concept Art"
-description: "A rigged character model in Blender+FBX format, including 1K and 2K resolution texture materials."
-tags: [3D Model, Blender Model, FBX Model, Character Model, Rigged Model]
+title: "ブレイズ・バンディット – コンセプトアート用3Dキャラクター"
+description: "Blender+FBX形式のリグ付きキャラクターモデル、1Kおよび2K解像度のテクスチャマテリアルを含む。"
+tags: ["3Dモデル", "Blenderモデル", "FBXモデル", "キャラクターモデル", "リグ付きモデル"]
 slug: /blaze-bandit-3d-character-for-concept-art
 ---
 
-Last updated: Oct 3 2025
+最終更新日: 2025年10月3日
 
-![Blaze Bandit – 3D Character for Concept Art](https://www.gfxcamp.com/wp-content/uploads/2025/10/Blaze-Bandit-3D-Character-for-Concept-Art.jpg)
+![Blaze Bandit – コンセプトアート用3Dキャラクター](https://www.gfxcamp.com/wp-content/uploads/2025/10/Blaze-Bandit-3D-Character-for-Concept-Art.jpg)
 
-The Blaze Bandit 3D model is fully rigged and textured for concept art projects.
+Blaze Bandit 3Dモデルは、コンセプトアートプロジェクトのために完全にリグ付けされ、テクスチャが適用されています。
 
-:::info Feature list
+:::info 機能一覧
 
--   1 character model with different parts.
--   1 rigged model.
--   6 character models with various poses.
--   1 weapon.
--   Textures in resolutions of 1K and 2K.
--   Render and wallpaper images.
+-   異なるパーツを持つ1つのキャラクターモデル。
+-   1つのリグ付きモデル。
+-   様々なポーズを持つ6つのキャラクターモデル。
+-   1つの武器。
+-   1Kおよび2K解像度のテクスチャ。
+-   レンダリングと壁紙画像。
 
 :::
 
-| Download Source | Password |
+| ダウンロードソース | パスワード |
 | --- | --- |
-| [Baidu Pan](https://pan.baidu.com/s/1o-sRgMWQPajOzIVQidxDHA?pwd=q5f7) | q5f7 |
+| [百度网盘](https://pan.baidu.com/s/1o-sRgMWQPajOzIVQidxDHA?pwd=q5f7) | q5f7 |

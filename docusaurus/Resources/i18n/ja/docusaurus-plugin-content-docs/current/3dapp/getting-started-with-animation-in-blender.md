@@ -1,53 +1,53 @@
 ---
-title: "Getting Started With Animation In Blender - Animation Fundamentals Tutorial"
-description: "Learn the basics of animation in Blender through easy and practical projects, covering keyframing, timeline, dope sheet, and animation view."
+title: "Blenderでアニメーションを始める - アニメーション基礎チュートリアル"
+description: "キーフレーミング、タイムライン、ドープシート、アニメーションビューをカバーする、簡単で実践的なプロジェクトを通じてBlenderでアニメーションの基本を学びます。"
 slug: /getting-started-with-animation-in-blender
-tags: [Blender, Blender tutorial, Udemy, animation tutorial, basics tutorial]
+tags: [Blender, Blenderチュートリアル, Udemy, アニメーションチュートリアル, 基礎チュートリアル]
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import {Badge} from '@docusaurus/theme-common';
 
-# Getting Started With Animation In Blender - Animation Fundamentals Tutorial
+# Blenderでアニメーションを始める - アニメーション基礎チュートリアル
 
 <Tabs>
-<TabItem value="overview" label="Overview" default>
-This course is designed to help you get started with animation in Blender through easy and practical projects. You will begin with the basics of keyframing and learn how to use the timeline, dope sheet, and animation view. A simple collision exercise will make it easier to understand how keyframes work and how objects move smoothly over time.
+<TabItem value="overview" label="概要" default>
+このコースは、簡単で実践的なプロジェクトを通じてBlenderでアニメーションを始めるのに役立つように設計されています。キーフレーミングの基礎から始めて、タイムライン、ドープシート、アニメーションビューの使用方法を学びます。シンプルな衝突演習により、キーフレームの仕組みとオブジェクトが時間をかけて滑らかに移動する方法を理解しやすくなります。
 </TabItem>
-<TabItem value="specifications" label="Specifications">
-- **Software Required**: Blender
-- **Duration**: 3 hours 42 minutes
-- **Project Files**: Included
-- **Subtitles**: English without subtitles
-- **Format**: MP4, 1280×720
+<TabItem value="specifications" label="仕様">
+- **必要なソフトウェア**: Blender
+- **期間**: 3時間42分
+- **プロジェクトファイル**: 含まれています
+- **字幕**: 英語（字幕なし）
+- **フォーマット**: MP4、1280×720
 </TabItem>
 </Tabs>
 
-![Getting Started With Animation In Blender Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/Getting-Started-With-Animation-In-Blender.jpg)
+![Blenderでアニメーションを始めるバナー](https://www.gfxcamp.com/wp-content/uploads/2025/09/Getting-Started-With-Animation-In-Blender.jpg)
 
-## Feature List
+## 機能一覧
 
-:::tip Key Features
-- **Animation Fundamentals**: Learn the basics of animation in Blender
-- **Keyframing Basics**: Begin with the basics of keyframing
-- **Timeline Usage**: Learn how to use the timeline, dope sheet, and animation view
-- **Practical Projects**: Easy and practical projects for learning
-- **Collision Exercise**: Simple collision exercise to understand keyframes
+:::tip 主な機能
+- **アニメーション基礎**: Blenderでアニメーションの基本を学ぶ
+- **キーフレーミング基礎**: キーフレーミングの基礎から始める
+- **タイムラインの使用方法**: タイムライン、ドープシート、アニメーションビューの使用方法を学ぶ
+- **実践的なプロジェクト**: 学習のための簡単で実践的なプロジェクト
+- **衝突演習**: キーフレームを理解するためのシンプルな衝突演習
 :::
 
-## System Requirements
+## システム要件
 
-- **Software**: Blender
-- **Operating System**: Windows, macOS, or Linux
-- **Hardware**: Any system capable of running Blender
+- **ソフトウェア**: Blender
+- **オペレーティングシステム**: Windows、macOS、またはLinux
+- **ハードウェア**: Blenderを実行できる任意のシステム
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-| Version | Download Link | Password |
+| バージョン | ダウンロードリンク | パスワード |
 |--------|---------------|----------|
-| Getting Started With Animation In Blender | [Baidu Netdisk](https://pan.baidu.com/s/1U3wn5p5_WM9jfxAZcIAS5g?pwd=qe14) | qe14 |
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+| Blenderでアニメーションを始める | [百度网盘](https://pan.baidu.com/s/1U3wn5p5_WM9jfxAZcIAS5g?pwd=qe14) | qe14 |
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

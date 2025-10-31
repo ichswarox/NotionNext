@@ -1,7 +1,7 @@
 ---
-title: "Universal Blender Material V1 - Quick Texture Material Add-on for Blender"
-description: "Universal Blender Material is a quick texture solution for 3D models in Blender, designed with usability and performance in mind, supporting only Cycles renderer."
-tags: ["Blender", "Blender add-on", "material plugin", "texture", "Cycles renderer", "3D modeling"]
+title: "Universal Blender Material V1 - Blender用クイックテクスチャマテリアルアドオン"
+description: "Universal Blender Materialは、Blenderでの3Dモデル用クイックテクスチャソリューションで、使いやすさとパフォーマンスを考慮して設計されており、Cyclesレンダラーのみをサポートしています。"
+tags: ["Blender", "Blenderアドオン", "マテリアルプラグイン", "テクスチャ", "Cyclesレンダラー", "3Dモデリング"]
 slug: /universal-blender-material-v1
 ---
 
@@ -9,77 +9,77 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import {Badge} from '@docusaurus/theme-common';
 
-# Universal Blender Material V1 - Quick Texture Material Add-on for Blender
+# Universal Blender Material V1 - Blender用クイックテクスチャマテリアルアドオン
 
 <Tabs>
-<TabItem value="overview" label="Overview" default>
-Universal Blender Material is designed to quickly texture your 3D models for rendering. Made with usability and performance in mind, it allows you to quickly add a universal material to your Blender models for rendering preview. This add-on supports Cycles renderer only.
+<TabItem value="overview" label="概要" default>
+Universal Blender Materialは、レンダリング用の3Dモデルに素早くテクスチャを適用するように設計されています。使いやすさとパフォーマンスを考慮して制作されており、Blenderモデルにレンダリングプレビュー用のユニバーサルマテリアルを素早く追加できます。このアドオンはCyclesレンダラーのみをサポートしています。
 </TabItem>
-<TabItem value="features" label="Features">
-- No need to UV unwrap
-- Simple sliders and checkboxes, no node editing required
-- Hand-painted textures with box projection
-- Optimized performance with efficient nodes
-- Cycles renderer only
+<TabItem value="features" label="特徴">
+- UVアンラップの必要なし
+- シンプルなスライダーとチェックボックス、ノード編集は不要
+- 手描きテクスチャとボックスプロジェクション
+- 効率的なノードによる最適化されたパフォーマンス
+- Cyclesレンダラーのみ
 </TabItem>
 </Tabs>
 
 ![Universal Blender Material Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/Universal-Blender-Material.jpg)
 
-## Feature List
+## 機能一覧
 
-:::tip Key Features
-- **Quick Material Application**: Fast application of universal material to 3D models
-- **No UV Unwrapping Required**: Works without needing to UV unwrap your models
-- **Simple Controls**: Just sliders and checkboxes, no need to work with nodes
-- **Hand-Painted Textures**: All textures are hand-painted and box projected for best performance
-- **Performance Optimized**: Heavy nodes are used only once for increased performance
-- **Cycles Only**: Specifically designed for Cycles renderer (not Eevee)
+:::tip 主な特徴
+- **クイックマテリアル適用**: 3Dモデルへのユニバーサルマテリアルの高速適用
+- **UVアンラップ不要**: モデルのUVアンラップが不要で動作
+- **シンプルなコントロール**: スライダーとチェックボックスのみ、ノード操作は不要
+- **手描きテクスチャ**: すべてのテクスチャは手描きで、最高のパフォーマンスのためボックスプロジェクション
+- **パフォーマンス最適化**: 重いノードは一度のみ使用され、パフォーマンスが向上
+- **Cycles専用**: Cyclesレンダラー専用に設計（Eevee非対応）
 :::
 
-## System Requirements
+## 📋 システム要件
 
-- **Software**: Blender 4.3-4.5
-- **Renderer**: Cycles only (not compatible with Eevee)
-- **Operating System**: Windows, macOS, or Linux
-- **Hardware**: Any system capable of running Blender 4.3-4.5
+- **ソフトウェア**: Blender 4.3-4.5
+- **レンダラー**: Cyclesのみ（Eeveeとは互換性がありません）
+- **オペレーティングシステム**: Windows、macOS、またはLinux
+- **ハードウェア**: Blender 4.3-4.5を実行できる任意のシステム
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
 <TabItem value="win" label="Windows" default>
-1. Open Blender
-2. Go to Edit > Preferences > Add-ons
-3. Click the dropdown in the top right corner
-4. Select "Install from Disk"
-5. Select the ZIP file from your disk
-6. Enable the add-on
+1. Blenderを開く
+2. 編集 > 環境設定 > アドオンへ移動
+3. 右上隅のドロップダウンをクリック
+4. "ディスクからインストール"を選択
+5. ディスクからZIPファイルを選択
+6. アドオンを有効にする
 </TabItem>
 <TabItem value="mac" label="Mac">
-1. Open Blender
-2. Go to Edit > Preferences > Add-ons
-3. Click the dropdown in the top right corner
-4. Select "Install from Disk"
-5. Select the ZIP file from your disk
-6. Enable the add-on
+1. Blenderを開く
+2. 編集 > 環境設定 > アドオンへ移動
+3. 右上隅のドロップダウンをクリック
+4. "ディスクからインストール"を選択
+5. ディスクからZIPファイルを選択
+6. アドオンを有効にする
 </TabItem>
 <TabItem value="linux" label="Linux">
-1. Open Blender
-2. Go to Edit > Preferences > Add-ons
-3. Click the dropdown in the top right corner
-4. Select "Install from Disk"
-5. Select the ZIP file from your disk
-6. Enable the add-on
+1. Blenderを開く
+2. 編集 > 環境設定 > アドオンへ移動
+3. 右上隅のドロップダウンをクリック
+4. "ディスクからインストール"を選択
+5. ディスクからZIPファイルを選択
+6. アドオンを有効にする
 </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌 無料の低速ダウンロードリンク
 
-| Version | Download Link | Password |
+| バージョン | ダウンロードリンク | パスワード |
 |--------|---------------|----------|
-| Universal Blender Material V1 | [Baidu Netdisk](https://pan.baidu.com/s/16Y1QOzLy2aFXEhvfr5oP5A?pwd=kc7w) | kc7w |
+| Universal Blender Material V1 | [百度ネットディスク](https://pan.baidu.com/s/16Y1QOzLy2aFXEhvfr5oP5A?pwd=kc7w) | kc7w |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

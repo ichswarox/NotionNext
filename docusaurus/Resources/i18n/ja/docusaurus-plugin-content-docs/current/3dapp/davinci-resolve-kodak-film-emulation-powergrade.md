@@ -1,45 +1,45 @@
 ---
-title: "DaVinci Resolve Kodak Film Emulation Powergrade - FilterGrade"
-description: "Fully editable DaVinci Resolve Powergrade that gives your footage aesthetic and filmic look with few simple clicks, simulating Kodak 250D film effect"
-tags: ["DaVinci Resolve", "Kodak", "Film Emulation", "PowerGrade", "FilterGrade", "Color Grading", "Video Color Grading", "Film Color Grading", "DaVinci Resolve Color Grading", "DaVinci Resolve Presets"]
+title: "DaVinci Resolve Kodakフィルムエミュレーションパワーグレード - FilterGrade"
+description: "完全に編集可能なDaVinci Resolveパワーグレードで、数回のクリックで映像に美的でフィルムのような外観を与え、Kodak 250Dフィルム効果をシミュレートします"
+tags: ["DaVinci Resolve", "Kodak", "フィルムエミュレーション", "パワーグレード", "FilterGrade", "カラーグレーディング", "ビデオカラーグレーディング", "フィルムカラーグレーディング", "DaVinci Resolveカラーグレーディング", "DaVinci Resolveプリセット"]
 slug: /davinci-resolve-kodak-film-emulation-powergrade
 ---
 
-Last updated: Sep 30 2025
+最終更新日: 2025年9月30日
 
 ![DaVinci Resolve Kodak Film Emulation Powergrade - FilterGrade](https://www.gfxcamp.com/wp-content/uploads/2025/09/FilterGrade-Davinci-Resolve-Kodak-film-Emulation-Powergrade.jpg)
 
-## DaVinci Resolve Kodak Film Emulation Powergrade - FilterGrade
+## DaVinci Resolve Kodakフィルムエミュレーションパワーグレード - FilterGrade
 
-**DaVinci Resolve Kodak Film Emulation Powergrade - FilterGrade**
+**DaVinci Resolve Kodakフィルムエミュレーションパワーグレード - FilterGrade**
 
-DaVinci Resolve Powergrade node presets in drx+dpx format, simulating Kodak 250D film effect.
+DaVinci Resolveパワーグレードノードプリセット（drx+dpx形式）で、Kodak 250Dフィルム効果をシミュレートします。
 
-Fully editable DaVinci Resolve Powergrade. Giving your footage aesthetic and filmic look with few simple clicks.
+完全に編集可能なDaVinci Resolveパワーグレード。数回のシンプルなクリックで映像に美的でフィルムのような外観を与えます。
 
-## Features
+## 機能
 
-- Fully editable DaVinci Resolve Powergrade
-- Simulates Kodak 250D film effect
-- Available in drx+dpx format
-- Provides aesthetic and filmic look with simple application
-- Easy to customize and adjust for your specific needs
+- 完全に編集可能なDaVinci Resolveパワーグレード
+- Kodak 250Dフィルム効果をシミュレート
+- drx+dpx形式で利用可能
+- シンプルな適用で美的でフィルムのような外観を提供
+- 特定のニーズに合わせて簡単にカスタマイズと調整が可能
 
-## System Requirements
+## システム要件
 
-- DaVinci Resolve (compatible with recent versions)
-- Supports drx+dpx format files
+- DaVinci Resolve（最近のバージョンと互換性あり）
+- drx+dpx形式ファイルをサポート
 
-## Installation Instructions
+## インストール手順
 
-### For DaVinci Resolve
-- Open DaVinci Resolve
-- Go to the Color page
-- In the Color tab, locate the PowerGrade section
-- Import the drx+dpx files to your project
-- Apply the PowerGrade to your footage as needed
+### DaVinci Resolve用
+- DaVinci Resolveを開く
+- カラーページに移動
+- カラータブで、パワーグレードセクションを見つける
+- drx+dpxファイルをプロジェクトにインポート
+- 必要に応じて映像にパワーグレードを適用
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

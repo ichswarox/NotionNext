@@ -1,51 +1,51 @@
 ---
-title: Houdini Animal Feather Creation Tutorial - Udemy In House Tool Building for Houdini TDs
-description: Learn to create complex tools in Houdini including VEX, Python for simulating feather effects. Gain the knowledge to be an effective Technical Director.
-tags: [Houdini, feather creation, VEX, Python, Technical Director, Houdini TD, Udemy, 3D animation, visual effects]
+title: Houdini動物羽作成チュートリアル - Udemy In House Tool Building for Houdini TDs
+description: Houdiniで複雑なツールを作成する方法を学び、羽効果のシミュレーションのためのVEX、Pythonを含む。効果的なテクニカルディレクターになるための知識を身につける。
+tags: [Houdini, 羽作成, VEX, Python, テクニカルディレクター, Houdini TD, Udemy, 3Dアニメーション, ビジュアルエフェクト]
 slug: /in-house-tool-building-for-houdini-tds
 ---
 
-<!--Last updated: Sep 17 2025-->
+# Houdini動物羽作成チュートリアル - Udemy In House Tool Building for Houdini TDs
 
-# Houdini Animal Feather Creation Tutorial - Udemy In House Tool Building for Houdini TDs
+最終更新日: 2025年9月17日
 
 ![Houdini Animal Feather Creation](https://www.gfxcamp.com/wp-content/uploads/2025/09/Udemy-In-House-Tool-Building-for-Houdini-TDs.jpg)
 
 :::tip[info]
-The goal of this course is to give you the knowledge to be an effective Technical Director. This course aims not to give you recipes, but to give you the perspective to deal with daily production problems.
+このコースの目標は、効果的なテクニカルディレクターになるための知識を提供することです。このコースはレシピを提供することを目的としていませんが、日常的な制作上の問題に対処するための視点を提供します。
 :::
 
-## Course Overview
+## コース概要
 
-This tutorial teaches you how to create complex tools in Houdini, including VEX and Python programming for simulating feather effects and other advanced techniques.
+このチュートリアルでは、Houdiniで複雑なツールを作成する方法を学び、羽効果のシミュレーションやその他の高度な技術のためのVEXおよびPythonプログラミングを含みます。
 
-## Key Features
+## 主な機能
 
-- **Technical Direction Focus**: Designed for aspiring Technical Directors
-- **Problem-Solving Approach**: Learn perspectives for daily production challenges
-- **Programming Skills**: Master VEX and Python in Houdini environment
-- **Practical Applications**: Create realistic feather simulations
-- **Production Ready**: Techniques used in real-world scenarios
+- **テクニカルディレクションに焦点**: 志向を持つテクニカルディレクターのために設計
+- **問題解決アプローチ**: 日常的な制作上の課題に対処するための視点を学ぶ
+- **プログラミングスキル**: Houdini環境でのVEXとPythonをマスター
+- **実践的な応用**: リアルな羽シミュレーションを作成
+- **制作準備完了**: 実世界のシナリオで使用される技術
 
-## Requirements
+## 必要条件
 
-- **Software**: Houdini
-- **Duration**: 11 hours 41 minutes
-- **Materials**: Does not include project files
-- **Subtitles**: English (no subtitles)
-- **Format**: MP4, 1920×1080
+- **ソフトウェア**: Houdini
+- **期間**: 11時間41分
+- **資料**: プロジェクトファイルは含まれません
+- **字幕**: 英語（字幕なし）
+- **形式**: MP4、1920×1080
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動します。抽出パスワードはリンクの横に記載されています。
 :::
 
-| File | Download Link | Password |
+| ファイル | ダウンロードリンク | パスワード |
 | ---- | ------------- | -------- |
-| **In House Tool Building for Houdini TDs** | [Download](https://pan.baidu.com/s/1Etw7SAZT6vC5DsoAdI8-MA?pwd=g7be) | `g7be` |
+| **In House Tool Building for Houdini TDs** | [ダウンロード](https://pan.baidu.com/s/1Etw7SAZT6vC5DsoAdI8-MA?pwd=g7be) | `g7be` |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀ダイレクトダウンロードリンク
+:::tip[制限なしのプレミアムダウンロード速度を取得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

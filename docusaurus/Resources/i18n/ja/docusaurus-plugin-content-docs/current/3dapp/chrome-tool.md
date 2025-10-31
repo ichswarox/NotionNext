@@ -1,63 +1,63 @@
 ---
-title: "AE Template + PR Preset - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation"
-description: "Create cool and fashionable chrome alloy style text, logo, or graphic animations with this AE template and PR preset. All text logos, fonts, colors, size and position parameters can be modified with transparent background."
-tags: ["AE template", "PR preset", "text animation", "logo animation", "graffiti text", "chrome alloy", "premium assets", "motion graphics", "videohive", "titles"]
+title: "AEテンプレート + PRプリセット - おしゃれなクロム合金カラーグラフィティスタイルロゴテキストアニメーション"
+description: "このAEテンプレートとPRプリセットでかっこよくおしゃれなクロム合金スタイルのテキスト、ロゴ、またはグラフィックアニメーションを作成。すべてのテキストロゴ、フォント、色、サイズ、位置パラメータを透明背景で変更可能。"
+tags: ["AEテンプレート", "PRプリセット", "テキストアニメーション", "ロゴアニメーション", "グラフィティテキスト", "クロム合金", "プレミアムアセット", "モーショングラフィックス", "ビデオハイブ", "タイトル"]
 slug: /chrome-tool
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# AE Template + PR Preset - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation
+# AEテンプレート + PRプリセット - おしゃれなクロム合金カラーグラフィティスタイルロゴテキストアニメーション
 
 <!--Second Part-This is First Banner -->
 ![AE Template + PR Preset - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation](https://www.gfxcamp.com/wp-content/uploads/2025/09/Chrome-Tool.jpg)
 
-:::tip[info]
-**Download Chrome Tool** - Fashionable Chrome Alloy Color Graffiti Style Logo Text Animation for After Effects and Premiere
+:::tip[情報]
+**Chrome Toolをダウンロード** - After EffectsおよびPremiere向けのおしゃれなクロム合金カラーグラフィティスタイルロゴテキストアニメーション
 
-This **AE Template + PR Preset** allows you to create cool and fashionable chrome alloy style text, logo, or graphic animations. It supports both After Effects and Premiere Pro, with all text logos, fonts, colors, size, and position parameters fully customizable. The background is transparent, and it has fixed support for both Chinese and English versions of AE and PR without expression errors.
+この**AEテンプレート + PRプリセット**により、かっこよくおしゃれなクロム合金スタイルのテキスト、ロゴ、またはグラフィックアニメーションを作成できます。After EffectsとPremiere Proの両方をサポートし、すべてのテキストロゴ、フォント、色、サイズ、位置パラメータが完全にカスタマイズ可能です。背景は透明で、AEとPRの中国語版と英語版の両方を式エラーなしで固定サポートしています。
 :::
 
-## Key Features
+## 主な機能
 
-- **Versatile Compatibility**: Works with both After Effects and Premiere Pro
-- **Fully Customizable**: All text logos, fonts, colors, sizes, and positions can be modified
-- **Transparent Background**: Ready for easy integration into any project
-- **Multi-language Support**: Fixed support for both Chinese and English versions
-- **No Expression Errors**: Smooth performance without technical issues
+- **多目的互換性**: After EffectsとPremiere Proの両方で動作
+- **完全にカスタマイズ可能**: すべてのテキストロゴ、フォント、色、サイズ、位置を変更可能
+- **透明背景**: どのプロジェクトにも簡単に統合可能
+- **多言語サポート**: 中国語版と英語版の両方を固定サポート
+- **式エラーなし**: 技術的な問題なしでスムーズなパフォーマンス
 
-## AE Template Specifications
+## AEテンプレート仕様
 
-- **File Format**: AEP project file
-- **Usage**: Directly open and use
-- **Requirements**: After Effects 2022 or higher version
+- **ファイル形式**: AEPプロジェクトファイル
+- **使用方法**: 直接開いて使用
+- **要件**: After Effects 2022以降のバージョン
 
-## PR Preset Specifications
+## PRプリセット仕様
 
-- **File Format**: MOGRT preset format
-- **Usage**: After installation, open through the top menu: Window > Essential Graphics panel
-- **Requirements**: Premiere 2024 or higher version
+- **ファイル形式**: MOGRTプリセット形式
+- **使用方法**: インストール後、上部メニューから開く：ウィンドウ > エッセンシャルグラフィックスパネル
+- **要件**: Premiere 2024以降のバージョン
 
-## Asset Requirements
+## アセット要件
 
-- **Software Versions**: AE 2022/PR 2024 or higher, supports Chinese/English versions, Win/Mac
-- **Resolution**: 4K HD 3840×2160
-- **Plugins**: No third-party plugins required
-- **File Size**: 638MB
-- **Tutorial**: Video tutorial included
-- **Audio**: Does not include background music
+- **ソフトウェアバージョン**: AE 2022/PR 2024以降、中国語/英語版をサポート、Win/Mac
+- **解像度**: 4K HD 3840×2160
+- **プラグイン**: サードパーティプラグインは不要
+- **ファイルサイズ**: 638MB
+- **チュートリアル**: ビデオチュートリアル付属
+- **オーディオ**: バックグラウンドミュージックは含まれていません
 
-## How to Purchase
+## 購入方法
 
-For purchase instructions, please visit: [View Purchase Instructions](https://www.gfxcamp.com/how-to-download/)
+購入手順については、こちらをご覧ください: [購入手順を表示](https://www.gfxcamp.com/how-to-download/)
 
-**Supports Alipay/WeChat, download link visible after purchase**
+**アリペイ/WeChatをサポート、購入後にダウンロードリンクが表示されます**
 
-## Conclusion
+## 結論
 
-This **Chrome Tool** template and preset package is perfect for motion designers and video editors who want to add stylish, professional-looking chrome alloy text animations to their projects. With support for both After Effects and Premiere Pro, full customization options, and 4K resolution, it's an excellent choice for creating eye-catching titles and logos in your videos.
+この**Chrome Tool**テンプレートとプリセットパッケージは、プロジェクトにおしゃれでプロフェッショナルなクロム合金テキストアニメーションを追加したいモーションデザイナーやビデオエディターに最適です。After EffectsとPremiere Proの両方をサポートし、完全なカスタマイズオプションと4K解像度を備えているため、ビデオで目を引くタイトルやロゴを作成するのに最適な選択肢です。
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

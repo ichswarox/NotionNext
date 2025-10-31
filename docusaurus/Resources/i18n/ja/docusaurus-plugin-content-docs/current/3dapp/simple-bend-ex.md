@@ -1,91 +1,91 @@
 ---
-title: "Blender Mesh Bending Deformer Enhanced Plugin - Simple Bend Ex V1.1.0"
-description: "Simple Bend Ex is the enhanced version of the Simple Bend plugin that allows you to easily bend 3D models with flexible deformation controls. This powerful addon enables artists to create curved and bent mesh geometries with precision and ease."
-tags: ["Blender", "Blender plugin", "Simple Bend Ex", "bend plugin", "mesh deformation", "3D modeling", "Blender addon", "deformer", "curved mesh", "bending tool", "3D animation", "geometry manipulation"]
+title: "Blenderメッシュベンディングデフォーマー強化プラグイン - Simple Bend Ex V1.1.0"
+description: "Simple Bend ExはSimple Bendプラグインの強化版で、柔軟な変形コントロールで3Dモデルを簡単に曲げることができます。この強力なアドオンにより、アーティストは精密かつ簡単に曲がったメッシュジオメトリを作成できます。"
+tags: ["Blender", "Blenderプラグイン", "Simple Bend Ex", "ベンドプラグイン", "メッシュ変形", "3Dモデリング", "Blenderアドオン", "デフォーマー", "曲がったメッシュ", "ベンディングツール", "3Dアニメーション", "ジオメトリ操作"]
 slug: /simple-bend-ex
 ---
 
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Blender Mesh Bending Deformer Enhanced Plugin - Simple Bend Ex V1.1.0
+# Blenderメッシュベンディングデフォーマー強化プラグイン - Simple Bend Ex V1.1.0
 
 <!--Second Part-This is First Banner -->
-![Blender Mesh Bending Deformer Enhanced Plugin - Simple Bend Ex](https://www.gfxcamp.com/wp-content/uploads/2025/08/Simple-Bend-Ex.jpg)
+![Blenderメッシュベンディングデフォーマー強化プラグイン - Simple Bend Ex](https://www.gfxcamp.com/wp-content/uploads/2025/08/Simple-Bend-Ex.jpg)
 
 :::tip[info]
-Simple Bend Ex is the enhanced version of the popular Simple Bend addon for Blender, offering expanded capabilities for bending and deforming 3D mesh objects. This powerful tool allows artists to easily create curved geometries with intuitive controls and precise deformation parameters.
+Simple Bend ExはBlender用の人気Simple Bendアドオンの強化版で、3Dメッシュオブジェクトの曲げや変形の機能を拡張しています。この強力なツールにより、アーティストは直感的なコントロールと精密な変形パラメーターを使って、簡単に曲がったジオメトリを作成できます。
 :::
 
-## Key Features
+## 主な特徴
 
-- **Enhanced Bending Capabilities**: Extended functionality beyond the original Simple Bend plugin
-- **Intuitive Mesh Deformation**: Easily bend 3D models with simple, user-friendly controls
-- **Flexible Deformer System**: Create complex curved shapes with precision and artistic control
-- **Non-Destructive Workflow**: Maintain editability while applying realistic bending effects
-- **Seamless Integration**: Works smoothly within Blender's existing modifier stack
+- **強化されたベンディング機能**: オリジナルのSimple Bendプラグインを超える拡張された機能
+- **直感的なメッシュ変形**: シンプルでユーザーフレンドリーなコントロールで3Dモデルを簡単に曲げる
+- **柔軟なデフォーマーシステム**: 精密で芸術的なコントロールで複雑な曲がった形状を作成
+- **非破壊的ワークフロー**: リアリスティックなベンディング効果を適用しながら編集可能性を維持
+- **シームレスな統合**: Blenderの既存のモディファイヤースタック内でスムーズに動作
 
-## Product Details
+## 製品詳細
 
-- **Plugin Name**: Simple Bend Ex
-- **Version**: V1.1.0
-- **Supported Blender Versions**: 2.83-4.5
-- **Category**: Mesh Deformation Plugin
-- **Installation Method**: ZIP file addon installation
+- **プラグイン名**: Simple Bend Ex
+- **バージョン**: V1.1.0
+- **対応Blenderバージョン**: 2.83-4.5
+- **カテゴリ**: メッシュ変形プラグイン
+- **インストール方法**: ZIPファイルアドオンインストール
 
-## Installation Instructions
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+  <TabItem value="blender-4.1+" label="Blender 4.1以降" default>
     <ol>
-      <li>Go to the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
-      <li>Click the dropdown in the top right corner and select "Install from Disk".</li>
-      <li>Select the corresponding ZIP file in the dialog window.</li>
+      <li>トップメニューへ: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>右上のドロップダウンをクリックして「Install from Disk」を選択。</li>
+      <li>ダイアログウィンドウで対応するZIPファイルを選択。</li>
     </ol>
   </TabItem>
-  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
+  <TabItem value="blender-4.0-" label="Blender 4.0以前">
     <ol>
-      <li>Go to the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code> → <code>Install</code>.</li>
-      <li>Select the corresponding ZIP file in the dialog window.</li>
+      <li>トップメニューへ: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code> → <code>Install</code>.</li>
+      <li>ダイアログウィンドウで対応するZIPファイルを選択。</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## Why Choose Simple Bend Ex?
+## なぜSimple Bend Exを選ぶのか？
 
-Whether you're creating organic shapes, architectural elements, or stylized character designs, Simple Bend Ex provides the essential tools for adding realistic bending effects to your 3D models. This enhanced plugin builds upon the foundation of the original Simple Bend addon with additional features and improved functionality.
+有機的な形状、建築要素、スタイライズされたキャラクターデザインを作成する場合でも、Simple Bend Exは3Dモデルにリアリスティックなベンディング効果を追加するための必須ツールを提供します。この強化版プラグインは、オリジナルのSimple Bendアドオンの基盤に追加機能と改良された機能性を組み込んでいます。
 
-### Perfect for 3D Artists and Designers
+### 3Dアーティストとデザイナーに最適
 
-This plugin is ideal for 3D artists, motion graphics designers, and architects who need to create curved or bent geometries in their projects. The intuitive interface makes it easy for both beginners and experienced users to achieve professional-quality results.
+このプラグインは、プロジェクトで曲がったり曲げられたジオメトリを作成する必要がある3Dアーティスト、モーショングラフィックスデザイナー、建築家に最適です。直感的なインターフェースにより、初心者から経験豊富なユーザーまで誰でもプロ品質の結果を簡単に達成できます。
 
-### Versatile Applications
+### 多用途な応用
 
-From creating curved walls and organic shapes to bending character limbs and environmental elements, Simple Bend Ex offers endless possibilities for adding dynamic curvature to your 3D scenes.
+曲がった壁や有機的な形状の作成から、キャラクターの四肢や環境要素のベンディングまで、Simple Bend Exは3Dシーンに動的な曲率を追加するための無限の可能性を提供します。
 
-## System Requirements
+## 📋 システム要件
 
-- **Supported Blender Versions**: 2.83-4.5
-- **Operating System**: Windows, macOS, Linux
-- **Storage Space**: Minimum 50MB available space
+- **対応Blenderバージョン**: 2.83-4.5
+- **オペレーティングシステム**: Windows, macOS, Linux
+- **ストレージスペース**: 最低50MBの利用可能スペース
 
-## Conclusion
+## まとめ
 
-The **Simple Bend Ex** plugin is an invaluable tool for any Blender artist working with mesh deformation. With its enhanced capabilities and user-friendly interface, this addon streamlines the process of creating bent and curved geometries while maintaining the flexibility needed for professional 3D workflows.
+**Simple Bend Ex**プラグインは、メッシュ変形を扱うすべてのBlenderアーティストにとって貴重なツールです。強化された機能とユーザーフレンドリーなインターフェースにより、このアドオンは曲がったおよび湾曲したジオメトリの作成プロセスを合理化しながら、プロフェッショナルな3Dワークフローに必要な柔軟性を維持します。
 
-## 🐌Free Slow Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+## 🐌 無料の低速ダウンロードリンク
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページへ移動してください。解凍パスワードはリンクの横に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Simple Bend Ex V1.1.0**  | [Download from Baidu Netdisk](https://pan.baidu.com/s/1g5d0BBUsMWzczu6uqbb0hA?pwd=u22w) | `u22w`   |
+| **Simple Bend Ex V1.1.0**  | [百度ネットディスクからダウンロード](https://pan.baidu.com/s/1g5d0BBUsMWzczu6uqbb0hA?pwd=u22w) | `u22w`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

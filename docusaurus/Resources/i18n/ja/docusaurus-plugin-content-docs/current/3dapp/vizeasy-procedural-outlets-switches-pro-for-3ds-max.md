@@ -1,34 +1,34 @@
 ---
-title: "VizEasy – Procedural Outlets & Switches Pro for 3ds Max"
-description: "The VizEasy Procedural Outlets & Switches script for 3ds Max is your ultimate solution for instantly adding fully customizable, realistic electrical fixtures to any scene."
-tags: ["3ds Max script", "Procedural modeling", "Electrical fixtures", "Architectural visualization", "3D modeling", "Scene detailing"]
+title: "VizEasy – 3ds Maxプロシージャルコンセント＆スイッチPro"
+description: "3ds Max用のVizEasyプロシージャルコンセント＆スイッチスクリプトは、任意のシーンに完全にカスタマイズ可能なリアルな電気器具を即座に追加する究極のソリューションです。"
+tags: ["3ds Maxスクリプト", "プロシージャルモデリング", "電気器具", "建築ビジュアライゼーション", "3Dモデリング", "シーン詳細化"]
 slug: /vizeasy-procedural-outlets-switches-pro-for-3ds-max
 ---
 
-Last updated: Sep 29, 2025
+最終更新日: 2025年10月22日
 
 ![img](/img/img1028-fEcT.webp)
 
 https://vizeasy.pro/b/windowspro
 
-The VizEasy Procedural Outlets & Switches script for 3ds Max is your ultimate solution for instantly adding fully customizable, realistic electrical fixtures to any scene. With just a click on a wall, you can place a socket or switch, then effortlessly modify it to achieve the perfect look, bringing your architectural visualizations to a new level of detail and believability.
+3ds Max用のVizEasyプロシージャルコンセント＆スイッチスクリプトは、任意のシーンに完全にカスタマイズ可能なリアルな電気器具を即座に追加する究極のソリューションです。壁をクリックするだけで、コンセントまたはスイッチを配置し、完璧な外観を達成するために簡単に修正できます。建築ビジュアライゼーションを新しいレベルのディテールと信憑性へと導きます。
 
-### System Requirements
+### 📋 システム要件
 
--   3DS MAX 2024 or higher
--   V-Ray and Corona renderer support
+-   3DS MAX 2024以降
+-   V-RayおよびCoronaレンダラーサポート
 
-### Installation
+### インストール手順
 
--   Copy `VizEasy_Switches_v1.1.2_Pro.mse` to the `scripts\Startup` folder in your 3DS MAX installation directory.
+-   `VizEasy_Switches_v1.1.2_Pro.mse`を3DS MAXインストールディレクトリの`scripts\Startup`フォルダにコピーします。
 
-### 🐌Free Slow Download Links
+### 🐌 無料の低速ダウンロードリンク
 
-| Link                                                              | Password |
+| リンク                                                              | パスワード |
 | ----------------------------------------------------------------- | -------- |
-| [Baidu Pan](https://pan.baidu.com/s/1ztoiXG1vrVW4ClXWuq8DJA?pwd=cs47) | `cs47`   |
+| [百度パン](https://pan.baidu.com/s/1ztoiXG1vrVW4ClXWuq8DJA?pwd=cs47) | `cs47`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

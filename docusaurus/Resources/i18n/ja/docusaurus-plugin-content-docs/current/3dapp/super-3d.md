@@ -1,55 +1,55 @@
 ---
-title: AE Basic 3D Model Import Editing Script - Aescripts Super 3D V1.4.4 + Tutorial
-description: Powerful extension for After Effects that expands 3D capabilities. Add 3D objects, parametric primitives, and control textures with ease.
-tags: [aescripts, After Effects, 3D script, Super 3D, 3D modeling, AE plugin, GLB, GLTF, animation]
+title: "AE Basic 3D Model Import Editing Script - Aescripts Super 3D V1.4.4 + チュートリアル"
+description: "After Effectsの3D機能を拡張する強力な拡張機能。3Dオブジェクト、パラメトリックプリミティブを簡単に追加し、テクスチャを制御できます。"
+tags: [aescripts, After Effects, 3Dスクリプト, Super 3D, 3Dモデリング, AEプラグイン, GLB, GLTF, アニメーション]
 slug: /super-3d
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-<!--Last updated: Sep 17 2025-->
+<!--最終更新日: 2025年9月17日-->
 
-# AE Basic 3D Model Import Editing Script - Aescripts Super 3D V1.4.4 + Tutorial
+# AE Basic 3D Model Import Editing Script - Aescripts Super 3D V1.4.4 + チュートリアル
 
 ![Super 3D](https://www.gfxcamp.com/wp-content/uploads/2024/04/Super-3D.jpg)
 
 :::tip[info]
-Super 3D is a powerful extension for After Effects (version 24.1 and newer) that expands your 3D capabilities. With Super 3D, you can easily add 3D objects, parametric primitives, and control textures.
+Super 3Dは、After Effects（バージョン24.1以降）の3D機能を拡張する強力な拡張機能です。Super 3Dを使用すると、3Dオブジェクト、パラメトリックプリミティブを簡単に追加し、テクスチャを制御できます。
 :::
 
-## Key Features
+## 主な機能
 
-- **Easy 3D Integration**: Add 3D objects (GLB, GLTF) with a single click
-- **Model Customization**: Replace models or textures on existing layers, even with animations
-- **Layer Conversion**: Convert 3D layers to solid layers for applying effects
-- **Built-in Models**: Comes with basic 3D models for immediate use
-- **Path-based Generation**: Create 3D models based on paths
-- **Responsive UI**: User-friendly interface design
+- **簡単な3D統合**: ワンクリックで3Dオブジェクト（GLB、GLTF）を追加
+- **モデルカスタマイズ**: アニメーションを含む既存のレイヤーでモデルやテクスチャを置き換え
+- **レイヤー変換**: 3Dレイヤーをソリッドレイヤーに変換してエフェクトを適用
+- **内蔵モデル**: すぐに使用できる基本的な3Dモデルが付属
+- **パスベース生成**: パスに基づいて3Dモデルを作成
+- **レスポンシブUI**: ユーザーフレンドリーなインターフェースデザイン
 
-## Supported Software Versions
+## 対応ソフトウェアバージョン
 
-- After Effects 2025, 2024
+- After Effects 2025、2024
 
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
-  <TabItem value="installation" label="Installation Steps" default>
+  <TabItem value="installation" label="インストール手順" default>
     <ol>
-      <li>Refer to the documentation for installation steps</li>
+      <li>ドキュメントを参照してインストール手順に従ってください</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Linkss
+## 🐌無料の低速ダウンロードリンク
 
-| File | Download Link | Password |
+| ファイル | ダウンロードリンク | パスワード |
 | ---- | ------------- | -------- |
-| **Super 3D V1.4.4** | [Download](https://pan.baidu.com/s/1u2_iXDnvZi7GrOUDRMqisg?pwd=vfix) | `vfix` |
-| **Super 3D V1.4.3** | [Download](https://pan.baidu.com/s/1mZGE0kNUjAP6NOqLJjOqkw?pwd=j9tx) | `j9tx` |
-| **Super 3D V1.3.2** | [Download](https://pan.baidu.com/s/1GRIvVOMXxauAJ-MT_b1zLQ?pwd=ynka) | `ynka` |
+| **Super 3D V1.4.4** | [ダウンロード](https://pan.baidu.com/s/1u2_iXDnvZi7GrOUDRMqisg?pwd=vfix) | `vfix` |
+| **Super 3D V1.4.3** | [ダウンロード](https://pan.baidu.com/s/1mZGE0kNUjAP6NOqLJjOqkw?pwd=j9tx) | `j9tx` |
+| **Super 3D V1.3.2** | [ダウンロード](https://pan.baidu.com/s/1GRIvVOMXxauAJ-MT_b1zLQ?pwd=ynka) | `ynka` |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度をゲット！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

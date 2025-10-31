@@ -1,62 +1,60 @@
 ---
-title: "Vectory Plugin"
-description: "AE plugin that transforms any image into a living network of moving lines. Perfect for creating organic motion graphics and abstract textures."
-tags: [aescripts, AE plugin, motion graphics, vector lines, After Effects]
+title: "Vectory Plugin - After Effectsダイナミックラインネットワークプラグイン"
+description: "画像を動くラインネットワークに変換するAEプラグイン。オーガニックモーショングラフィックスとアブストラクトテクスチャ作成に最適。"
+tags: [aescripts, AEプラグイン, モーショングラフィックス, ベクターライン, After Effects]
 slug: /vectory-plugin
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月22日
 
 ![img1019-JRkB.webp](https://list.ucards.store/d/img/img1019-JRkB.webp)
 
-# Vectory Plugin - Dynamic Line Network for AE
+# Vectory Plugin - After Effectsダイナミックラインネットワーク
 
-Transform any image into a living network of moving lines. Thousands of particles travel across your image, changing direction based on pixel brightness and forming dynamic, evolving patterns. Perfect for creating organic motion graphics and abstract textures.
+画像を動くラインネットワークに変換します。数千のパーティクルが画像を横断し、ピクセルの明るさに基づいて方向を変え、ダイナミックで進化するパターンを形成します。オーガニックモーショングラフィックスとアブストラクトテクスチャの作成に最適です。
 
-## Features
+## 🚀 特徴
 
-:::tip[Key Features]
-- Transform any image into a living network of moving lines
-- Thousands of particles travel across your image
-- Particles change direction based on pixel brightness
-- Create dynamic, evolving patterns
-- Perfect for organic motion graphics and abstract textures
+:::tip[主な機能]
+- 画像を動くラインネットワークに変換
+- 数千のパーティクルが画像を横断
+- パーティクルはピクセルの明るさに基づいて方向を変更
+- ダイナミックで進化するパターンを作成
+- オーガニックモーショングラフィックスとアブストラクトテクスチャに最適
 :::
 
-## Supported Software Versions
+## 📋 システム要件
 
 - After Effects 2026, 2025, 2024, 2023, 2022, 2021, 2020
 
-## Installation
+## インストール手順
 
 <Tabs>
 <TabItem value="ae" label="After Effects">
 
-1. Copy Vectory.aex to your AE Plugins directory
-2. Restart After Effects
+1. Vectory.aexをAEプラグインディレクトリにコピー
+2. After Effectsを再起動
 
 </TabItem>
 </Tabs>
 
-## Troubleshooting
+## トラブルシューティング
 
-:::caution[Troubleshooting Tips]
-- Don't use the Chinese version of AE, as it may cause expression errors
-- In Preferences > General panel, check "Allow Scripts to Write Files and Access Network"
-- Verify that the plugin supports your version of AE
+:::caution[トラブルシューティングのヒント]
+- 中国語版AEは使用しないでください。エクスプレッションエラーの原因となります
+- 環境設定 > 一般パネルで「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可」をチェック
+- プラグインがお使いのAEバージョンをサポートしていることを確認
 :::
 
-https://pan.baidu.com/s/1Dvcb79IdeXhE5CFN2X5LKA?pwd=e5x3
+## 🚀 直接ダウンロードリンク
 
-## 🚀Direct Download Link
-
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::
 
-## 🐌Free Slow Download Links
+## 🐌 無料の低速ダウンロードリンク
 
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1Dvcb79IdeXhE5CFN2X5LKA?pwd=e5x3)
+[百度网盘からダウンロード](https://pan.baidu.com/s/1Dvcb79IdeXhE5CFN2X5LKA?pwd=e5x3)

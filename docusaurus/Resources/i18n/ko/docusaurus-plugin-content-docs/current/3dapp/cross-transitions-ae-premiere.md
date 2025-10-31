@@ -1,48 +1,48 @@
 ---
-title: Transitions - Cross Transitions for AE and Premiere - Photo Slide Animation
-description: Professional photo and video slideshow transitions for After Effects and Premiere Pro. Perfect for creating engaging cross transitions in your projects.
+title: 트랜지션 - AE 및 프리미어용 크로스 트랜지션 - 포토 슬라이드 애니메이션
+description: 애프터 이펙트 및 프리미어 프로를 위한 전문 사진 및 비디오 슬라이드쇼 트랜지션. 프로젝트에서 매력적인 크로스 트랜지션을 만드는 데 완벽합니다.
 tags: [after effects, premiere pro, video transitions, cross transitions, photo slideshow, video editing, ae templates, pr presets]
 slug: /cross-transitions-ae-premiere
 ---
 
-# Transitions - Cross Transitions for AE and Premiere
+# 트랜지션 - AE 및 프리미어용 크로스 트랜지션
 
 ![Cross Transitions](https://www.gfxcamp.com/wp-content/uploads/2025/09/Transitions-Cross-Transitions-59505145.jpg)
 
-:::tip[info]
-Professional photo and video slideshow transitions for After Effects and Premiere Pro. Create engaging cross transitions in your projects with these easy-to-use templates and presets.
+:::tip[정보]
+애프터 이펙트 및 프리미어 프로를 위한 전문 사진 및 비디오 슬라이드쇼 트랜지션. 이러한 사용하기 쉬운 템플릿 및 프리셋으로 프로젝트에서 매력적인 크로스 트랜지션을 만드세요.
 :::
 
-## Key Features
+## 주요 기능
 
-- **Dual Compatibility**: Works with both After Effects and Premiere Pro
-- **Cross Transitions**: Smooth sliding and cross-fade effects
-- **Photo Friendly**: Perfect for photo slideshows
-- **HD Resolution**: High definition 1920×1080 resolution
-- **No Plugins Required**: Works without third-party plugins
-- **Video Tutorial Included**: Step-by-step instructions provided
-- **Customizable**: Replace up to 12 photos
+- **이중 호환성**: 애프터 이펙트와 프리미어 프로 모두에서 작동
+- **크로스 트랜지션**: 부드러운 슬라이딩 및 크로스 페이드 효과
+- **사진 친화적**: 사진 슬라이드쇼에 완벽
+- **HD 해상도**: 고화질 1920×1080 해상도
+- **플러그인 불필요**: 타사 플러그인 없이 작동
+- **비디오 튜토리얼 포함**: 단계별 지침 제공
+- **사용자 지정 가능**: 최대 12개 사진 교체 가능
 
-## Software Compatibility
+## 소프트웨어 호환성
 
-- **After Effects**: CC or higher
-- **Premiere Pro**: CC or higher
+- **애프터 이펙트**: CC 이상
+- **프리미어 프로**: CC 이상
 
-## Technical Details
+## 기술 세부 정보
 
-- **Format**: aep + mogrt
-- **Size**: 133MB
-- **Resolution**: HD 1920×1080
-- **Tutorial**: Video tutorial included
-- **Music**: Background music not included (recommended: AudioJungle music collection)
-- **Photos**: Up to 12 photos can be replaced
+- **포맷**: aep + mogrt
+- **크기**: 133MB
+- **해상도**: HD 1920×1080
+- **튜토리얼**: 비디오 튜토리얼 포함
+- **음악**: 배경음악 미포함 (권장: AudioJungle 음악 컬렉션)
+- **사진**: 최대 12개 사진 교체 가능
 
-## 🐌Free Slow Download Links
+## 🐌무료 느린 다운로드 링크
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[다운로드]
+링크를 클릭하면 다운로드 페이지로 이동합니다. 압축 해제 비밀번호는 링크 옆에 제공됩니다.
 :::
 
-| File                       | Download Link                                                              | Password |
+| 파일                       | 다운로드 링크                                                              | 비밀번호 |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Cross Transitions Pack**  | [Download](https://pan.baidu.com/s/1VJ8czxiUda4ChZUDS-YDYA?pwd=r7yf)        | `r7yf`   |
+| **크로스 트랜지션 팩**  | [다운로드](https://pan.baidu.com/s/1VJ8czxiUda4ChZUDS-YDYA?pwd=r7yf)        | `r7yf`   |

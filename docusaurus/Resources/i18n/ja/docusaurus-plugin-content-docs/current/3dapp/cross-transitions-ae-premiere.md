@@ -1,48 +1,48 @@
 ---
-title: Transitions - Cross Transitions for AE and Premiere - Photo Slide Animation
-description: Professional photo and video slideshow transitions for After Effects and Premiere Pro. Perfect for creating engaging cross transitions in your projects.
-tags: [after effects, premiere pro, video transitions, cross transitions, photo slideshow, video editing, ae templates, pr presets]
+title: トランジション - AEとPremiere用クロストランジション - 写真スライドアニメーション
+description: After EffectsとPremiere Pro用のプロフェッショナルな写真・ビデオスライドショートランジション。プロジェクトで魅力的なクロストランジションを作成するのに最適です。
+tags: [アフターエフェクト, プレミアプロ, ビデオトランジション, クロストランジション, 写真スライドショー, ビデオ編集, AEテンプレート, PRプリセット]
 slug: /cross-transitions-ae-premiere
 ---
 
-# Transitions - Cross Transitions for AE and Premiere
+# トランジション - AEとPremiere用クロストランジション
 
 ![Cross Transitions](https://www.gfxcamp.com/wp-content/uploads/2025/09/Transitions-Cross-Transitions-59505145.jpg)
 
-:::tip[info]
-Professional photo and video slideshow transitions for After Effects and Premiere Pro. Create engaging cross transitions in your projects with these easy-to-use templates and presets.
+:::tip[情報]
+After EffectsとPremiere Pro用のプロフェッショナルな写真・ビデオスライドショートランジション。これらの使いやすいテンプレートとプリセットで、プロジェクトで魅力的なクロストランジションを作成できます。
 :::
 
-## Key Features
+## 主な機能
 
-- **Dual Compatibility**: Works with both After Effects and Premiere Pro
-- **Cross Transitions**: Smooth sliding and cross-fade effects
-- **Photo Friendly**: Perfect for photo slideshows
-- **HD Resolution**: High definition 1920×1080 resolution
-- **No Plugins Required**: Works without third-party plugins
-- **Video Tutorial Included**: Step-by-step instructions provided
-- **Customizable**: Replace up to 12 photos
+- **デュアル互換性**: After EffectsとPremiere Proの両方で動作
+- **クロストランジション**: スムーズなスライドとクロスフェードエフェクト
+- **写真に最適**: 写真スライドショーに最適
+- **HD解像度**: 高精細度1920×1080解像度
+- **プラグイン不要**: サードパーティプラグインなしで動作
+- **ビデオチュートリアル付き**: ステップバイステップの説明が提供されています
+- **カスタマイズ可能**: 最大12枚の写真を置換可能
 
-## Software Compatibility
+## ソフトウェア互換性
 
-- **After Effects**: CC or higher
-- **Premiere Pro**: CC or higher
+- **After Effects**: CC以上
+- **Premiere Pro**: CC以上
 
-## Technical Details
+## 技術詳細
 
-- **Format**: aep + mogrt
-- **Size**: 133MB
-- **Resolution**: HD 1920×1080
-- **Tutorial**: Video tutorial included
-- **Music**: Background music not included (recommended: AudioJungle music collection)
-- **Photos**: Up to 12 photos can be replaced
+- **フォーマット**: aep + mogrt
+- **サイズ**: 133MB
+- **解像度**: HD 1920×1080
+- **チュートリアル**: ビデオチュートリアル付き
+- **音楽**: 背景音楽は含まれていません（推奨：AudioJungle音楽コレクション）
+- **写真**: 最大12枚の写真を置換可能
 
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動してください。解凍パスワードはリンクの横に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Cross Transitions Pack**  | [Download](https://pan.baidu.com/s/1VJ8czxiUda4ChZUDS-YDYA?pwd=r7yf)        | `r7yf`   |
+| **クロストランジションパック**  | [ダウンロード](https://pan.baidu.com/s/1VJ8czxiUda4ChZUDS-YDYA?pwd=r7yf)        | `r7yf`   |

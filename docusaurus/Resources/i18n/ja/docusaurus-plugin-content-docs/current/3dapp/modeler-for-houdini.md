@@ -1,55 +1,55 @@
 ---
-title: "Houdini Modeling Plugin - Modeler 2025.3.6 + 2023.4.19 for Houdini"
-description: "Modeler is a comprehensive modeling plugin for Houdini that includes various patch editing functions, boolean operations, and mesh modeling tools."
-tags: [Gumroad, Houdini, Houdini plugin, Modeler, modeling plugin]
+title: "Houdiniモデリングプラグイン - Modeler 2025.3.6 + 2023.4.19 for Houdini"
+description: "Modelerは、様々なパッチ編集機能、ブール演算、メッシュモデリングツールを含むHoudini用の総合的なモデリングプラグインです。"
+tags: [Gumroad, Houdini, Houdiniプラグイン, Modeler, モデリングプラグイン]
 slug: /modeler-for-houdini
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 22 2025
+最終更新日: 2025年10月22日
 
 ![Modeler-2023-for-Houdini](https://www.gfxcamp.com/wp-content/uploads/2021/05/Modeler-2023-for-Houdini.jpg)
 
-## Overview
+## 概要
 
-Modeler is a modeling plugin for Houdini that includes various patch editing functions, boolean operations, and other modeling capabilities. Modeler 1.0 (formerly DM) is a plugin package for modeling in SideFX Houdini. Edit Mesh is a standalone modeling environment, which allows you to use classic mesh modeling tools. You can quickly create models, UV maps and retopologize high-poly mesh just like in other modelers.
+Modelerは、様々なパッチ編集機能、ブール演算、その他のモデリング機能を含むHoudini用のモデリングプラグインです。Modeler 1.0（旧称DM）は、SideFX Houdiniでのモデリングのためのプラグインパッケージです。Edit Meshはスタンドアロンモデリング環境で、クラシックなメッシュモデリングツールを使用できるようにします。他のモデラーと同じように、モデル、UVマップを迅速に作成し、ハイポリメッシュのリトポロジーを行うことができます。
 
-## 🚀 Features
+## 🚀 特徴
 
-:::tip[Key Features]
-- **Patch Editing**: Various patch editing functions for precise modeling
-- **Boolean Operations**: Advanced boolean operations for complex modeling
-- **Mesh Modeling**: Classic mesh modeling tools in a standalone environment
-- **UV Mapping**: Create UV maps quickly and efficiently
-- **Retopology**: Retopologize high-poly mesh with ease
-- **Standalone Environment**: Edit Mesh provides a dedicated modeling environment
+:::tip[主な特徴]
+- **パッチ編集**: 精密なモデリングのための様々なパッチ編集機能
+- **ブール演算**: 複雑なモデリングのための高度なブール演算
+- **メッシュモデリング**: スタンドアロン環境でのクラシックなメッシュモデリングツール
+- **UVマッピング**: 迅速かつ効率的にUVマップを作成
+- **リトポロジー**: ハイポリメッシュのリトポロジーを簡単に実行
+- **スタンドアロン環境**: Edit Meshは専用のモデリング環境を提供
 :::
 
-## 📋 System Requirements
+## 📋 システム要件
 
 <Tabs>
-<TabItem value="version" label="Version" default>
-- **Software**: Houdini 18+ (compatible with multiple versions)
-- **Plugin Versions**: Modeler 2025.3.6 and 2023.4.19 included
+<TabItem value="version" label="バージョン" default>
+- **ソフトウェア**: Houdini 18+（複数のバージョンに対応）
+- **プラグインバージョン**: Modeler 2025.3.6および2023.4.19が含まれています
 </TabItem>
-<TabItem value="features" label="Features">
-- **Modeling Tools**: Classic mesh modeling tools
-- **Environment**: Standalone modeling environment
-- **Compatibility**: Works with various Houdini versions
+<TabItem value="features" label="特徴">
+- **モデリングツール**: クラシックなメッシュモデリングツール
+- **環境**: スタンドアロンモデリング環境
+- **互換性**: 様々なHoudiniバージョンで動作
 </TabItem>
 </Tabs>
 
-## 📦 Installation Guide
+## 📦 インストールガイド
 
-:::note[Installation Steps]
-1. Install the main Houdini software
-2. Install the Modeler plugin following standard Houdini plugin installation procedures
-3. Restart Houdini to complete the installation
+:::note[インストール手順]
+1. メインのHoudiniソフトウェアをインストールします
+2. 標準的なHoudiniプラグインインストール手順に従ってModelerプラグインをインストールします
+3. インストールを完了するためにHoudiniを再起動します
 :::
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

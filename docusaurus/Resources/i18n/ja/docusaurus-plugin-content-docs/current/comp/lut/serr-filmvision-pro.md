@@ -1,87 +1,87 @@
 ---
-title: "Serr FilmVision Pro 1.1 - Cinema-Grade Film Emulation PowerGrade"
-description: "Professional cinema-grade film emulation solution with 30+ looks based on real film stocks like Kodak, Fuji, Technicolor and more."
-tags: [film-emulation, color-grading, davinci-resolve, powergrade, lut]
+title: "Serr FilmVision Pro 1.1 - シネマグレードフィルムエミュレーションパワーグレード"
+description: "コダック、フジ、テクニカラーなどの実際のフィルムストックに基づいた30以上のルックを備えたプロフェッショナルシネマグレードフィルムエミュレーションソリューション。"
+tags: [フィルムエミュレーション, カラーグレーディング, ダヴィンチリゾルブ, パワーグレード, ルックアップテーブル]
 slug: /serr-filmvision-pro
 ---
 
-# Serr FilmVision Pro 1.1 - Cinema-Grade Film Emulation PowerGrade
+# Serr FilmVision Pro 1.1 - シネマグレードフィルムエミュレーションパワーグレード
 
-Last updated: Oct 24 2025
+最終更新: 2025年10月24日
 
 ![img](/img/img1028-svxE.webp)
 
 https://www.shopmoment.com/products/filmvision-pro
-## Overview
+## 概要
 
-Serr FilmVision Pro is the latest evolution of the film emulation pipeline, designed to accurately replicate the look of digitized negative-to-print film. This comprehensive solution includes cinema-grade looks that work seamlessly alongside the emulation process, creating a flexible and dynamic toolset for color grading. It's considered one of the most versatile color grading solutions available.
+Serr FilmVision Proは、フィルムエミュレーションパイプラインの最新の進化版で、デジタル化されたネガティブからプリントフィルムのルックを正確に再現するように設計されています。この包括的なソリューションは、エミュレーションプロセスとシームレスに連動するシネマグレードのルックを含み、カラーグレーディングのための柔軟でダイナミックなツールセットを作成します。これは最も多用途なカラーグレーディングソリューションの一つと考えられています。
 
-The workflow follows a structured and film-accurate pipeline. It begins by converting your digital log input into Cineon Log or a simulated negative film scan, effectively mimicking the first stage of a traditional film process. From there, the image is balanced and refined, then passed through a print film or display transform to prepare it for final viewing.
+ワークフローは構造化され、フィルムに正確なパイプラインに従います。デジタルログ入力をCineon Logまたはシミュレートされたネガティブフィルムスキャンに変換することから始まり、伝統的なフィルムプロセスの最初の段階を効果的に模倣します。その後、画像はバランスと調整が行われ、最終的な視聴のためにプリントフィルムまたはディスプレイ変換を通過します。
 
-## Key Features
+## 主な特徴
 
-:::tip[Key Features]
-- **Film Emulation** – Converts digital log to 500T or 250D film negative (Cineon-style)
-- **Print Standards** – 30 looks based on real film stocks like Kodak, Fuji, Technicolor
-- **Print Looks** – 50 modern, creative grades not tied to film emulation
-- **Print Mono** – 7 monochromatic looks in black & white or color tones
-- **Utility Tools** – Includes Bleach Bypass, Roll-off, Sky Boost, Vision3 Greens, and more
-- **Halation** – Native DaVinci Resolve tools create realistic highlight glow
-- **Grain & Texture** – Emulates 65mm, 35mm, 16mm grain using Resolve tools
-- **Compatibility** – Works in Premiere, Final Cut, LumaFusion (color tools only)
-- **Plugin Support** – Fully compatible with Dehancer, Cineprint, Filmbox, FilmConvert, etc.
+:::tip[主な特徴]
+- **フィルムエミュレーション** – デジタルログを500Tまたは250Dフィルムネガティブに変換（Cineonスタイル）
+- **プリントスタンダード** – コダック、フジ、テクニカラーなどの実際のフィルムストックに基づいた30のルック
+- **プリントルック** – フィルムエミュレーションに関連しない50のモダンでクリエイティブなグレード
+- **プリントモノ** – 白黒またはカラートーンの7つの単色ルック
+- **ユーティリティツール** – ブリーチバイパス、ロールオフ、スカイブースト、ビジョン3グリーンズなどを含む
+- **ハレーション** – ネイティブDaVinci Resolveツールでリアルなハイライトグローを作成
+- **グレイン＆テクスチャ** – Resolveツールを使用して65mm、35mm、16mmグレインをエミュレート
+- **互換性** – Premiere、Final Cut、LumaFusionで動作（カラーツールのみ）
+- **プラグインサポート** – Dehancer、Cineprint、Filmbox、FilmConvertなどと完全に互換
 :::
 
-:::note[System Requirements]
-- System Requirements: Win+Mac
-- Software Compatibility: Davinci Resolve
-- File Format: .drx+.dpx+.cube
-- File Size: 2.21G
+:::note[システム要件]
+- システム要件: Win+Mac
+- ソフトウェア互換性: DaVinci Resolve
+- ファイル形式: .drx+.dpx+.cube
+- ファイルサイズ: 2.21G
 :::
 
-## Installation
+## インストール
 
-### How to Install DCTL Plugins in DaVinci Resolve
+### DaVinci ResolveでDCTLプラグインをインストールする方法
 
-Step 1: Open the Project Settings Windows
-Open or create a new project. Click on the settings icon at the bottom right corner of the screen to see the project settings window. You can also access this window by going to File > Project Settings or using the keyboard shortcut Shift + 9.
+ステップ1: プロジェクト設定ウィンドウを開く
+新しいプロジェクトを開くか作成します。画面の右下にある設定アイコンをクリックしてプロジェクト設定ウィンドウを表示します。ファイル > プロジェクト設定を使用するか、キーボードショートカットShift + 9を使用してこのウィンドウにアクセスすることもできます。
 ![img](/img/img1028-zuYU.webp)
 
-Step 2: Color Management Tab
-Search the Color Management Tab on the left in the Project Settings window. Click on it to see the new color spaces, transforms, and Lookup Tables options.
+ステップ2: カラーマネジメントタブ
+プロジェクト設定ウィンドウの左側にあるカラーマネジメントタブを検索します。クリックして、新しいカラースペース、変換、ルックアップテーブルのオプションを表示します。
 
 ![img](/img/img1028-jBqU.webp)
 
-Step 3: LUT Folder
-Scroll under the Lookup Table options and click the “Open LUT Folder” button. When the LUT folder opens in a new window, drag or copy the cube files to import LUTs.
+ステップ3: LUTフォルダー
+ルックアップテーブルオプションの下にスクロールして、「LUTフォルダーを開く」ボタンをクリックします。LUTフォルダーが新しいウィンドウで開いたら、キューブファイルをドラッグまたはコピーしてLUTをインポートします。
 
-You can organize your LUTs in folders to keep all LUT types on specific folders.
+すべてのLUTタイプを特定のフォルダーに整理して、整理することができます。
 
 ![img](/img/img1028-GViB.webp)
 
 ![img](/img/img1028-ZWRP.webp)
 
-Step 4: Refresh LUTs
-Return to DaVinci Resolve. Now, you need to refresh the LUT list with the ones you just added.
+ステップ4: LUTを更新
+DaVinci Resolveに戻ります。これで、追加したものでLUTリストを更新する必要があります。
 
-In the Color Management Tab, click the “Update Lists” button above “Open LUT Folder” in the Lookup Tables settings and then click Save in the project settings window to close it.
+カラーマネジメントタブで、ルックアップテーブル設定の「LUTフォルダーを開く」の上にある「リストを更新」ボタンをクリックし、プロジェクト設定ウィンドウで保存をクリックして閉じます。
 ![img](/img/img1028-QWPn.webp)
 ![img](/img/img1028-owLo.webp)
 
-BONUS: LUTs Manual Installation
-Another way to install your LUTs is by manually searching your system's DaVinci Resolve LUT folder and copying the new LUTs there. These are the DaVinci Resolve LUT folder locations for each system:
+ボーナス: LUTの手動インストール
+LUTをインストールする別の方法は、システムのDaVinci Resolve LUTフォルダーを手動で検索して、新しいLUTをコピーすることです。これらは各システムのDaVinci Resolve LUTフォルダーの場所です：
 
-LUT folder in Mac: /Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/
+MacのLUTフォルダー: /Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT/
 
-LUT folder in Windows: C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT
+WindowsのLUTフォルダー: C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT
 
-LUT folder in Linux: /opt/resolve/LUT
+LinuxのLUTフォルダー: /opt/resolve/LUT
 
-If you install it manually, I recommend copying the LUT file before you open DaVinci Resolve. Otherwise, you must go to the Color Management Tab and update the LUT list. After installing LUTs, they will be available to select inside DaVinci Resolve.
+手動でインストールする場合は、DaVinci Resolveを開く前にLUTファイルをコピーすることをお勧めします。それ以外の場合は、カラーマネジメントタブに移動してLUTリストを更新する必要があります。LUTをインストールした後、DaVinci Resolve内で選択できるようになります。
 
-### How to Install POWERGRADE Color Correction Nodes in DaVinci Resolve
+### DaVinci Resolveでパワーグレードカラーコレクションノードをインストールする方法
 
-## Preview Images
+## プレビュー画像
 ![img](/img/img1028-fUPx.webp)
 ![img](/img/img1028-ZvfL.webp)
 ![img](/img/img1028-wHyv.webp)
@@ -89,8 +89,8 @@ If you install it manually, I recommend copying the LUT file before you open DaV
 ![img](/img/img1028-KvOV.webp)
 ![img](/img/img1028-TQOd.webp)
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

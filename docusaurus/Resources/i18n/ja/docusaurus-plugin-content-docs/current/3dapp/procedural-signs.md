@@ -1,84 +1,84 @@
 ---
-title: Blender Neon Sign Generator Plugin - Procedural Signs V2.0.0+V1.1.0 + Preset Pack
-description: Create stunning neon signs and billboards procedurally in Blender with the Procedural Signs plugin. This powerful addon offers customizable parameters for generating a wide variety of neon signage effects for urban environments, commercial zones, and digital platforms.
-tags: [Blender, Blender plugin, neon signs, billboard generator, procedural modeling, 3D signage, urban design, commercial signage, VFX tools, Blender addon]
+title: Blenderネオンサイングeneratorプラグイン - プロシージャルサイングV2.0.0+V1.1.0 + プリセットパック
+description: Blenderでプロシージャルにスタンディングネオンサイングと看板を作成します。Procedural Signsプラグインは、都市環境、商業ゾーン、デジタルプラットフォーム向けの多様なネオンサイング効果を生成するためのカスタマイズ可能なパラメータを提供する強力なアドオンです。
+tags: [Blender, Blenderプラグイン, ネオンサイング, 看板ジェネレーター, プロシージャルモデリング, 3Dサイング, 都市デザイン, 商業サイング, VFXツール, Blenderアドオン]
 slug: /procedural-signs
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Blender Neon Sign Generator Plugin - Procedural Signs V2.0.0+V1.1.0 + Preset Pack
+# Blenderネオンサイングeneratorプラグイン - プロシージャルサイングV2.0.0+V1.1.0 + プリセットパック
 
 <!--Second Part-This is First Banner -->
-![Blender Neon Sign Generator Plugin - Procedural Signs](https://www.gfxcamp.com/wp-content/uploads/2023/12/Procedural-Signs.jpg)
+![Blenderネオンサイングeneratorプラグイン - プロシージャルサイング](https://www.gfxcamp.com/wp-content/uploads/2023/12/Procedural-Signs.jpg)
 
-:::tip[info]
-The **Procedural Signs** plugin is a powerful addon for Blender that enables artists to create stunning neon signs and billboards with procedural generation techniques. This versatile toolkit adds incredible depth and detail to your scenes, whether you're designing urban streetscapes, bustling commercial zones, or digital platforms.
+:::tip[情報]
+**プロシージャルサイング**プラグインは、アーティストがプロシージャル生成技術でスタンディングネオンサイングと看板を作成できるようにするBlender用の強力なアドオンです。この多用途なツールキットは、都市の街並み、にぎやかな商業ゾーン、デジタルプラットフォームを設計する際に、シーンに信じられないほどの深みとディテールを追加します。
 :::
 
-## Key Features
+## 主な特徴
 
-- **Procedural Generation**: Create diverse neon signs and billboards automatically
-- **Customizable Parameters**: Fine-tune every aspect of your signage with adjustable controls
-- **Urban Environment Enhancement**: Perfect for adding realistic commercial elements to city scenes
-- **Commercial Zone Design**: Ideal for creating bustling business district environments
-- **Digital Platform Integration**: Suitable for modern digital signage and display systems
+- **プロシージャル生成**：多様なネオンサイングと看板を自動的に作成
+- **カスタマイズ可能なパラメータ**：調整可能なコントロールでサイングのあらゆる側面を微調整
+- **都市環境の強化**：都市のシーンにリアルな商業要素を追加するのに最適
+- **商業ゾーン設計**：にぎやかなビジネス街環境の作成に最適
+- **デジタルプラットフォーム統合**：モダンなデジタルサイングやディスプレイシステムに適切
 
-## Product Details
+## 製品詳細
 
-- **Supported Blender Versions**:
-  - V1.1.0: Blender 3.6, 4.0
-  - V2.0.0: Blender 4.2 – 4.4
-- **Installation**: ZIP file addon installation
-- **Content**: Plugin + Preset Pack
+- **サポートされているBlenderバージョン**：
+  - V1.1.0：Blender 3.6、4.0
+  - V2.0.0：Blender 4.2 – 4.4
+- **インストール**：ZIPファイルアドオンインストール
+- **コンテンツ**：プラグイン + プリセットパック
 
-## Installation Instructions
+## インストール手順
 
-### For Blender 4.0 and Earlier Versions
-1. Go to the top menu: Edit → Preferences → Add-ons → Install
-2. Select the corresponding ZIP file in the dialog window
+### Blender 4.0以前のバージョン用
+1. トップメニューへ：編集 → 環境設定 → アドオン → インストール
+2. ダイアログウィンドウで対応するZIPファイルを選択
 
-### For Blender 4.1 and Later Versions
-1. Go to the top menu: Edit → Preferences → Add-ons
-2. Click the dropdown in the top right corner and select "Install from Disk"
-3. Select the corresponding ZIP file in the dialog window
+### Blender 4.1以降のバージョン用
+1. トップメニューへ：編集 → 環境設定 → アドオン
+2. 右上のドロップダウンをクリックし、「ディスクからインストール」を選択
+3. ダイアログウィンドウで対応するZIPファイルを選択
 
-## Why Choose Procedural Signs Plugin?
+## なぜプロシージャルサイングプラグインを選ぶのか？
 
-Whether you're creating architectural visualizations, game environments, or animated films, the Procedural Signs plugin streamlines the process of adding realistic neon signage to your scenes. This addon is particularly valuable for artists working on urban environments who need to populate their scenes with commercial signage quickly and efficiently.
+建築ビジュアライゼーション、ゲーム環境、またはアニメーション映画を作成する際に関わらず、Procedural Signsプラグインはシーンにリアルなネオンサイングを追加するプロセスを合理化します。このアドオンは、都市環境に取り組むアーティストが商業サイングを迅速かつ効率的にシーンに配置する必要がある場合に特に価値があります。
 
-### Perfect for Urban Designers and VFX Artists
+### 都市デザイナーとVFXアーティストに最適
 
-This plugin is ideal for 3D artists, urban designers, and VFX professionals who need to create realistic city environments. The procedural approach allows for rapid iteration and customization, enabling you to create unique signage solutions for any project.
+このプラグインは、リアルな都市環境を作成する必要がある3Dアーティスト、都市デザイナー、VFXプロフェッショナルに最適です。プロシージャルアプローチにより、迅速な繰り返しとカスタマイズが可能となり、あらゆるプロジェクト向けの独自のサイングソリューションを作成できます。
 
-### Versatile Applications
+### 多用途なアプリケーション
 
-From small business signs to large commercial billboards, this plugin offers the flexibility to create a wide range of signage types. The customizable parameters ensure that each sign can be tailored to specific design requirements.
+小規模なビジネスサイングから大規模な商業ビルボードまで、このプラグインは幅広いタイプのサイングを作成する柔軟性を提供します。カスタマイズ可能なパラメータにより、各サイングを特定の設計要件に合わせて調整できます。
 
-## System Requirements
+## システム要件
 
-- **Blender Versions**:
-  - V1.1.0: Blender 3.6, 4.0
-  - V2.0.0: Blender 4.2 – 4.4
-- **Operating System**: Windows, macOS, Linux
-- **Storage**: Minimum 100MB available space
+- **Blenderバージョン**：
+  - V1.1.0：Blender 3.6、4.0
+  - V2.0.0：Blender 4.2 – 4.4
+- **オペレーティングシステム**：Windows、macOS、Linux
+- **ストレージ**：最小100MBの利用可能スペース
 
 
 
-## Conclusion
+## 結論
 
-The **Procedural Signs** plugin is an essential tool for Blender artists working on urban environments, commercial scenes, or any project requiring realistic signage. With its procedural generation capabilities and customizable parameters, this addon saves valuable time while delivering professional-quality results for neon signs and billboards.
+**プロシージャルサイング**プラグインは、都市環境、商業シーン、またはリアルなサイングを必要とするあらゆるプロジェクトに取り組むBlenderアーティストにとって必須のツールです。そのプロシージャル生成機能とカスタマイズ可能なパラメータにより、このアドオンは貴重な時間を節約しながら、ネオンサイングと看板のプロフェッショナル品質の結果を提供します。
 
 
 <!-- The Last Part-Download -->
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Procedural Signs V2.0.0** | [Download](https://pan.baidu.com/s/1lIDKIB11zMHAw1Ww8-NNDG?pwd=sxh5) | `sxh5`   |
-| **Procedural Signs V1.1.0** | [Download](https://pan.baidu.com/s/1GccjR3X6pa_sGbc2EXTKWQ?pwd=junf) | `junf`   |
+| **プロシージャルサイングV2.0.0** | [ダウンロード](https://pan.baidu.com/s/1lIDKIB11zMHAw1Ww8-NNDG?pwd=sxh5) | `sxh5`   |
+| **プロシージャルサイングV1.1.0** | [ダウンロード](https://pan.baidu.com/s/1GccjR3X6pa_sGbc2EXTKWQ?pwd=junf) | `junf`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては、[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

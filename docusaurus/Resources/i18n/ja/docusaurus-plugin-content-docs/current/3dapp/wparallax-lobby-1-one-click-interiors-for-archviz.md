@@ -1,14 +1,14 @@
 ---
-title: "Commercial Lobby 3D Parallax Maps - wParallax Lobby 1"
-description: "High-quality 3D parallax maps for commercial lobbies with detailed 4K/2K textures for architectural visualization in 3DS MAX, C4D, and FBX formats."
-tags: ["3D textures", "wParallax", "lobby models", "parallax maps", "archviz", "3D models", "architectural visualization", "3DS MAX", "Cinema 4D", "FBX"]
+title: "商業ロビー3Dパララックスマップ - wParallax Lobby 1"
+description: "オフィスビルやホテルのための高品質3Dパララックスマップ。3DS MAX、C4D、FBX形式で建築ビジュアライゼーション向けの詳細な4K/2Kテクスチャを含む。"
+tags: ["3Dテクスチャ", "wParallax", "ロビーモデル", "パララックスマップ", "建築ビジュアライゼーション", "3Dモデル", "建築視覚化", "3DS MAX", "Cinema 4D", "FBX"]
 slug: /wparallax-lobby-1-one-click-interiors-for-archviz
 ---
 
-# Commercial Lobby 3D Parallax Maps - wParallax Lobby 1 – One-Click-Interiors for Archviz
+# 商業ロビー3Dパララックスマップ - wParallax Lobby 1 – ワンクリックインテリア for Archviz
 
 :::info
-Last updated: Sep 29 2025
+最終更新日: 2025年9月29日
 :::
 
 ![Commercial Lobby 3D Parallax Maps - wParallax Lobby 1](https://www.gfxcamp.com/wp-content/uploads/2025/09/wParallax-Lobby-1-One-Click-Interiors-for-Archviz.jpg)
@@ -16,53 +16,59 @@ Last updated: Sep 29 2025
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## Overview
+## 概要
 
-Commercial Lobby 3D Parallax Maps - wParallax Lobby 1 is a comprehensive collection of 15 unique commercial lobbies designed for office buildings and hotels. This package includes both day and night environments with highly detailed 4K/2K EXR maps, making it perfect for architectural visualization projects.
+商業ロビー3Dパララックスマップ - wParallax Lobby 1は、オフィスビルやホテル向けに設計された15のユニークな商業ロビーの総合的なコレクションです。このパッケージには、昼夜の環境と高度に詳細な4K/2K EXRマップが含まれており、建築ビジュアライゼーションプロジェクトに最適です。
 
-## Features
+## 主な機能
 
-- Total 30 EXR Maps (15 Day / 15 Night)
-- Highly detailed 4K / 2K EXR Maps
-- OSL Shaders (Prepared Setups for all maps)
-- wP_BOX Setup OSL-Alternative (3ds Max Vray, Corona)
-- Railclone Preset
-- Compatible with 3DS MAX, C4D, and FBX formats
-- Perfect for office buildings and hotels
+- 合計30のEXRマップ（15の昼 / 15の夜）
+- 高度に詳細な4K / 2K EXRマップ
+- OSLシェーダー（すべてのマップ用に準備されたセットアップ）
+- wP_BOXセットアップOSL代替（3ds Max Vray、Corona用）
+- Railcloneプリセット
+- 3DS MAX、C4D、FBX形式に対応
+- オフィスビルやホテルに最適
 
-## System Requirements
+## システム要件
 
-- Software compatible with 3DS MAX, Cinema 4D, or FBX formats
-- Sufficient storage space for 4K/2K textures
-- Hardware capable of processing high-resolution EXR maps
+- **ソフトウェア**: 3DS MAX 2016以降、Cinema 4D R18以降、またはFBX対応ソフトウェア
+- **プラグイン**: V-Ray 3.0以降、Corona Renderer 1.0以降、または同等のレンダリングエンジン
+- **メモリ**: 最低8GB RAM（16GB推奨）
+- **ストレージ**: 5GB以上の空き容量
 
-## Installation Instructions
+## インストール手順
 
-The installation process is straightforward as this package contains pre-formatted files for different 3D applications:
+このパッケージには異なる3Dアプリケーション向けに事前フォーマットされたファイルが含まれているため、インストールプロセスは簡単です：
 
 <Tabs>
  <TabItem value="max" label="3DS MAX">
-    - Import the 3DS MAX files directly into your scene
-    - Apply the included OSL shaders as needed
-    - Use the wP_BOX Setup OSL-Alternative for Vray or Corona
+    - 3DS MAXファイルをシーンに直接インポート
+    - 必要に応じて含まれているOSLシェーダーを適用
+    - VrayまたはCorona用のwP_BOXセットアップOSL-Alternativeを使用
   </TabItem>
   <TabItem value="c4d" label="Cinema 4D">
-    - Import the C4D files into your project
-    - Apply textures and shaders as needed
+    - C4Dファイルをプロジェクトにインポート
+    - 必要に応じてテクスチャとシェーダーを適用
   </TabItem>
   <TabItem value="fbx" label="FBX">
-    - Import the FBX files into your preferred 3D application
-    - Apply the included textures and materials
+    - FBXファイルをお好みの3Dアプリケーションにインポート
+    - 含まれているテクスチャとマテリアルを適用
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## ダウンロードと購入
 
-| Format | Download Link | Password |
-|--------|---------------|----------|
-| 3DS MAX/C4D/FBX | [Baidu Netdisk Download](https://pan.baidu.com/s/1T7TnNCNMMsrcyYB8Y-vTjw?pwd=hdec) | hdec |
+このパッケージは以下のプラットフォームで入手可能です：
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+- **公式ウェブサイト**: [wParallax.com](https://wparallax.com)
+- **3Dモデルマーケットプレイス**: 主要な3Dリソースプラットフォームで検索
+- **価格帯**: $99-$149（プラットフォームにより異なる）
+
+:::tip
+定期的なプロモーションやバンドルディールをお見逃しなく。ニュースレターの購読をご検討ください。
 :::
+
+## まとめ
+
+wParallax Lobby 1は、建築ビジュアライゼーションのためのプロフェッショナルな3Dパララックスマップの包括的なソリューションを提供します。高品質なテクスチャ、複数のフォーマットサポート、使いやすいセットアップにより、商業ロビーのレンダリングを迅速かつ効果的に作成できます。

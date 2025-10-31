@@ -1,5 +1,5 @@
 ---
-title: "JangaFX LiquidGen v1.0.2 - Real-time Liquid Simulation Software for Windows"
+title: "JangaFX LiquidGen v1.0.2 - Windows用リアルタイム液体シミュレーションソフトウェア"
 description: "Create realistic liquid simulations including water, blood, ketchup, and slime with JangaFX LiquidGen. Features real-time meshing, customizable forces, sparse simulation domains, and a real-time path tracer."
 tags: ["JangaFX", "LiquidGen", "Liquid Simulation", "Fluid Simulation", "3D Software", "Real-time Rendering", "VFX", "CGI", "Water Simulation", "Particle Effects"]
 slug: /jangafx-liquidgen
@@ -9,22 +9,22 @@ slug: /jangafx-liquidgen
 
 ![JangaFX LiquidGen](https://www.gfxcamp.com/wp-content/uploads/2024/10/LiquidGen.jpg)
 
-## Software Overview
+## ソフトウェア概要
 
-LiquiGen allows you to create anything from water and blood to ketchup and slime. With real-time meshing, customizable forces, sparse simulation domains, and a real-time path tracer, you'll be able to reach elemental mastery in no-time.
+JangaFX LiquidGenは、リアルな液体シミュレーションを作成するための最先端のソフトウェアです。水、血液、ケチャップ、スライムなど、様々な液体をシミュレートできます。
 
-We want you to master the element of water and LiquiGen is the easiest real-time liquid simulation tool you'll ever use.
+リアルタイムメッシング、カスタマイズ可能なフォース、スパースシミュレーションドメイン、リアルタイムパストレーサーを搭載し、誰でも簡単に液体の要素をマスターできます。
 
-## Key Features
+## 主な特徴
 
-- Real-time liquid simulation
-- Create various liquid types (water, blood, ketchup, slime)
-- Real-time meshing capabilities
-- Customizable forces
-- Sparse simulation domains
-- Real-time path tracer
+- **リアルタイム液体シミュレーション**
+- **多様な液体タイプの作成**: 水、血液、ケチャップ、スライムなど
+- **リアルタイムメッシング機能**
+- **カスタマイズ可能なフォース**
+- **スパースシミュレーションドメイン**
+- **リアルタイムパストレーサー**
 
-## Installation Instructions
+## インストール手順
 
 1. Install liquigen_1_0_2_installer.exe
 2. Copy and replace the LiquiGen.exe and TurboFloat.dll files from the replacement folder to the installation directory
@@ -41,7 +41,7 @@ Click on the link to go to the download page. The extraction password is provide
 | **v1.0.0 (Cracked Version)** | [Download](https://pan.baidu.com/s/1LiHBgls6ggaI8ZvQDGKlmQ?pwd=fpqe) | `fpqe` |
 | **v1.0.0 (Direct Use)** | [Download](https://pan.baidu.com/s/1OOxP6Ot6TlaC8YMHfaksMw?pwd=wu4q) | `wu4q` |
 | **v0.3.0** | [Download](https://pan.baidu.com/s/1QuHzGz0-RZj77Ddpusl03Q?pwd=b7hg) | `b7hg` |
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) までお問い合わせください。
 :::

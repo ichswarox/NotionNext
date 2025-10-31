@@ -1,28 +1,28 @@
 ---
-title: "10 Dreamy Japanese-Style Video LUTs Presets"
-description: "A pack of 10 dreamy, fresh, Japanese-style brightening video color grading LUTs presets for DaVinci Resolve, After Effects, Premiere Pro, FCPX, Jianying, Photoshop, and more."
-tags: [LUTs, Video Color Grading, Japanese Style, DaVinci Resolve, After Effects, Premiere Pro, FCPX, Photoshop]
+title: "10のドリーミーな日本スタイルビデオLUTプリセット"
+description: "DaVinci Resolve、After Effects、Premiere Pro、FCPX、剪映、Photoshopなどに対応した、ドリーミーで新鮮な日本スタイルの明るいビデオカラーグレーディングLUTプリセット10個のパック"
+tags: [LUT, ビデオカラーグレーディング, 日本スタイル, DaVinci Resolve, After Effects, Premiere Pro, FCPX, Photoshop]
 slug: /dreamy-japanese-luts-presets
 ---
 
-Last updated: Sep 29, 2025
+最終更新日: 2025年9月29日
 
 ![10 Dreamy Japanese-Style Video LUTs Presets](https://www.gfxcamp.com/wp-content/uploads/2025/09/Cinecolor-Primaries.jpg)
 
-This pack includes 10 fresh, Japanese-style video color grading LUTS presets that add a soft, glowing effect to your footage for a slightly brightened look.
+このパックには、映像に柔らかいグロー効果を加えて少し明るい外観を与える、新鮮な日本スタイルのビデオカラーグレーディングLUTプリセット10個が含まれています。
 
-### Features
+### 機能
 
-- **10 Unique Presets**: A versatile collection of LUTs to achieve a dreamy, Japanese-inspired aesthetic.
-- **Softening & Brightening**: Adds a subtle glow and brightness to your videos.
-- **Broad Compatibility**: Use these `.CUBE` files in any software that supports LUTs, including DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying.
-- **Recommended Usage**: Best results are achieved on Rec.709 or RAW footage. If using on log footage, it's recommended to apply a conversion LUT to Rec.709 first.
+- **10個のユニークなプリセット**: ドリーミーで日本風の美的を達成するための多用途なLUTコレクション
+- **柔らかさと明るさ**: ビデオに微妙なグローと明るさを追加
+- **広範な互換性**: これらの`.CUBE`ファイルを、DaVinci Resolve、Premiere Pro、After Effects、Final Cut Pro X、Photoshop、剪映を含むLUTに対応した任意のソフトウェアで使用
+- **推奨使用方法**: Rec.709またはRAW映像で最高の結果を達成。ログ映像で使用する場合は、まずRec.709への変換LUTを適用することを推奨
 
-### File Details
+### ファイル詳細
 
-- **File Size**: 25MB (Compressed)
+- **ファイルサイズ**: 25MB（圧縮）
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

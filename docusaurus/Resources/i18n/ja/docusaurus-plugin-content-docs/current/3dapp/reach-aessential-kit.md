@@ -1,87 +1,87 @@
 ---
-title: After Effects Script -  Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection
-description: Aescripts REACH AEssential Kit v2.1.6 is a comprehensive collection of After Effects tools, plugins, scripts, commands, presets, and expressions that accelerate your motion design workflow. Supports AE 2025, 2024, 2023, 2022 on Windows and Mac.
-tags: [After Effects script, Aescripts REACH, motion design tools, AE workflow, visual effects, animation tools, script collection]
+title: After Effectsスクリプト - Aescripts REACH AEssential Kit v2.1.6 - 必須ツールコレクション
+description: Aescripts REACH AEssential Kit v2.1.6は、モーションデザインワークフローを加速させるAfter Effectsツール、プラグイン、スクリプト、コマンド、プリセット、およびエクスプレッションの総合的なコレクションです。WindowsおよびMacでAE 2025、2024、2023、2022をサポート。
+tags: [After Effectsスクリプト, Aescripts REACH, モーションデザインツール, AEワークフロー, ビジュアルエフェクト, アニメーションツール, スクリプトコレクション]
 slug: /reach-aessential-kit
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
-<!--First Part-This is Title -->
-# After Effects Script -  Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection
+<!--最初の部分-これはタイトル -->
+# After Effectsスクリプト - Aescripts REACH AEssential Kit v2.1.6 - 必須ツールコレクション
 
-<!--Second Part-This is First Banner -->
-![Aescripts REACH AEssential Kit v2.1.6 - Essential Tools Collection](https://www.gfxcamp.com/wp-content/uploads/2023/07/Reach-AEssential-Kit.jpg)
+<!--第二の部分-これは最初のバナー -->
+![Aescripts REACH AEssential Kit v2.1.6 - 必須ツールコレクション](https://www.gfxcamp.com/wp-content/uploads/2023/07/Reach-AEssential-Kit.jpg)
 
-:::tip[info]
-**Download Aescripts REACH AEssential Kit v2.1.6** - Comprehensive collection of After Effects tools and utilities
+:::tip[情報]
+**Aescripts REACH AEssential Kit v2.1.6をダウンロード** - After Effectsツールおよびユーティリティの総合的なコレクション
 :::
 
-Ready to take your motion design workflow to uncharted territories? Reach is an all-encompassing, adaptable, and ever-evolving toolset. It infuses the After Effects toolkit with a medley of uniquely innovative utilities. From elementary to intricate, Reach takes the expected and elevates it into the realm of the extraordinary. Simplify the complex, streamline the cumbersome, and catalyze your creativity with Reach – the quintessential companion for every After Effects adventurer. Elevate your art. Reach for the stars.
+モーションデザインワークフローを未知の領域へと導く準備はできていますか？Reachは、包括的で適応可能、そして絶えず進化するツールセットです。After Effectsツールキットに独自の革新的なユーティリティのメドレーを注入します。初歩的なものから複雑なものまで、Reachは期待されるものを取り上げ、それを非凡な領域へと高めます。複雑なものを単純化し、面倒なものを合理化し、Reachで創造性を触媒させましょう – すべてのAfter Effects冒険家のための究極のコンパニオンです。あなたのアートを高めましょう。星に向かって到達しましょう。
 
-## Key Features of Aescripts REACH AEssential Kit v2.1.6
+## Aescripts REACH AEssential Kit v2.1.6の主な特徴
 
-- **Comprehensive Tool Collection**: Combines multiple effects, plugins, scripts, commands, presets, and expressions in one package
-- **Workflow Acceleration**: Streamlines complex processes and eliminates repetitive tasks
-- **Cross-Platform Compatibility**: Works on both Windows and Mac operating systems
-- **Ever-Evolving Toolkit**: Continuously updated with new and innovative utilities
-- **Beginner to Advanced**: Suitable for users at all skill levels
-- **Creative Enhancement**: Elevates standard workflows to extraordinary results
+- **総合的なツールコレクション**：複数のエフェクト、プラグイン、スクリプト、コマンド、プリセット、およびエクスプレッションを1つのパッケージに結合
+- **ワークフロー加速**：複雑なプロセスを合理化し、繰り返しタスクを排除
+- **クロスプラットフォーム互換性**：WindowsおよびMacオペレーティングシステムの両方で動作
+- **絶えず進化するツールキット**：新しい革新的なユーティリティで継続的に更新
+- **初心者から上級者まで**：すべてのスキルレベルのユーザーに適切
+- **創造性の向上**：標準的なワークフローを非凡な結果へと高める
 
-## Product Details
+## 製品詳細
 
-- **Script Name**: Aescripts REACH AEssential Kit
-- **Version**: v2.1.6
-- **Category**: After Effects Scripts
-- **License**: Commercial
-- **Operating Systems**: Windows, macOS
+- **スクリプト名**：Aescripts REACH AEssential Kit
+- **バージョン**：v2.1.6
+- **カテゴリ**：After Effectsスクリプト
+- **ライセンス**：商用
+- **オペレーティングシステム**：Windows、macOS
 
-## System Requirements
+## システム要件
 
-- **Supported Software**: After Effects 2025, 2024, 2023, 2022
-- **Operating Systems**: Windows, macOS
+- **サポートソフトウェア**：After Effects 2025、2024、2023、2022
+- **オペレーティングシステム**：Windows、macOS
 
-## Installation Guide
+## インストールガイド
 
-1. Copy the jsxbin file to: Support Files\\Scripts\\ScriptUI Panels
+1. jsxbinファイルを以下にコピー：Support Files\\Scripts\\ScriptUI Panels
 
-## Troubleshooting Tips
+## トラブルシューティングのヒント
 
-- **Do not use Chinese version of AE**: The Chinese version may cause expression errors
-- **Enable Script Writing Permissions**: In Preferences, go to Edit → Preferences → General panel and check "Allow Scripts to Write Files and Access Network"
-- **Version Compatibility**: If the script doesn't work, it may not support your specific AE version (less likely)
+- **中国語版AEは使用しないでください**：中国語版はエクスプレッションエラーを引き起こす可能性があります
+- **スクリプト書き込み権限を有効にする**：環境設定で、編集→環境設定→一般パネルに移動し、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」をチェックしてください
+- **バージョン互換性**：スクリプトが動作しない場合、お使いの特定のAEバージョンをサポートしていない可能性があります（可能性は低い）
 
 
-## Why Choose Aescripts REACH AEssential Kit v2.1.6?
+## なぜAescripts REACH AEssential Kit v2.1.6を選ぶのですか？
 
-Aescripts REACH AEssential Kit v2.1.6 is the ultimate collection of tools for After Effects artists who want to streamline their workflow and enhance their creative capabilities. This comprehensive package brings together a wide variety of utilities that would normally need to be purchased separately.
+Aescripts REACH AEssential Kit v2.1.6は、ワークフローを合理化し、創造能力を高めたいAfter Effectsアーティストのための究極のツールコレクションです。この包括的なパッケージは、通常は個別に購入する必要があるさまざまなユーティリティを1つにまとめています。
 
-### All-in-One Solution
+### オールインワンソリューション
 
-Rather than purchasing multiple individual scripts and plugins, REACH provides a cost-effective solution that combines dozens of essential tools in one package, saving both time and money.
+複数の個別のスクリプトやプラグインを購入するのではなく、REACHは数十の必須ツールを1つのパッケージに結集したコスト効果の高いソリューションを提供し、時間とお金の両方を節約します。
 
-### Workflow Optimization
+### ワークフロー最適化
 
-By automating repetitive tasks and providing quick access to commonly used functions, REACH significantly reduces the time spent on routine operations, allowing artists to focus on creative work.
+繰り返しタスクを自動化し、よく使う機能への迅速なアクセスを提供することで、REACHは日常業務に費やす時間を大幅に削減し、アーティストが創造的な作業に集中できるようにします。
 
-## Conclusion on Aescripts REACH AEssential Kit v2.1.6
+## Aescripts REACH AEssential Kit v2.1.6の結論
 
-Aescripts REACH AEssential Kit v2.1.6 is an indispensable collection of tools for After Effects artists at any skill level. Its comprehensive feature set, cross-platform compatibility, and workflow optimization capabilities make it a valuable investment for motion designers, visual effects artists, and animators.
+Aescripts REACH AEssential Kit v2.1.6は、どんなスキルレベルのAfter Effectsアーティストにとっても欠かせないツールコレクションです。包括的な機能セット、クロスプラットフォーム互換性、ワークフロー最適化機能により、モーションデザイナー、ビジュアルエフェクトアーティスト、アニメーターにとって貴重な投資となります。
 
-Whether you're a beginner looking to streamline your learning process or a professional seeking to maximize efficiency, this toolkit provides the professional tools needed to achieve exceptional results with significantly reduced manual effort.
+学習プロセスを効率化したい初心者であっても、効率性を最大化しようとするプロフェッショナルであっても、このツールキットは手間を大幅に削減しながら優れた結果を達成するために必要なプロフェッショナルツールを提供します。
 
 <!-- The Last Part-Download -->
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動してください。解凍パスワードはリンクの隣に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Aescripts REACH AEssential Kit v2.1.6** | [Download](https://pan.baidu.com/s/1RAHgXiCR8owM3VCC5Y78vw?pwd=rxgv) | `rxgv`   |
-| **Aescripts REACH AEssential Kit v1.9.5** | [Download](https://pan.baidu.com/s/1Q0zTdd1HnydeI7eBB4nkFQ?pwd=57pp) | `57pp`   |
+| **Aescripts REACH AEssential Kit v2.1.6** | [ダウンロード](https://pan.baidu.com/s/1RAHgXiCR8owM3VCC5Y78vw?pwd=rxgv) | `rxgv`   |
+| **Aescripts REACH AEssential Kit v1.9.5** | [ダウンロード](https://pan.baidu.com/s/1Q0zTdd1HnydeI7eBB4nkFQ?pwd=57pp) | `57pp`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

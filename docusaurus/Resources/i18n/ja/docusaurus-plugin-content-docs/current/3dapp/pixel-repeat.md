@@ -1,84 +1,86 @@
 ---
-title: After Effects Plugin - Aescripts Pixel Repeat V1.2 - Pixel Looping and Stretching Tool
-description: Aescripts Pixel Repeat V1.2 is an After Effects plugin for creating pixel looping and stretching effects. Perfect for glitch art, stylized streaks, and other unique visual effects. Supports AE 2025, 2024 on Windows.
-tags: [After Effects plugin, Aescripts Pixel Repeat, pixel looping, glitch art, visual effects, motion graphics, AE tools]
+title: "After Effectsプラグイン - Aescripts Pixel Repeat V1.2 - ピクセルループおよびストレッチツール"
+description: "Aescripts Pixel Repeat V1.2は、ピクセルループおよびストレッチ効果を作成するためのAfter Effectsプラグインです。グリッチアート、スタイライズされたストリーク、その他の独特のビジュアル効果に最適です。WindowsでのAE 2025、2024をサポート。"
+tags: ["After Effectsプラグイン", "Aescripts Pixel Repeat", "ピクセルループ", "グリッチアート", "ビジュアル効果", "モーショングラフィックス", "AEツール"]
 slug: /pixel-repeat
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# After Effects Plugin - Aescripts Pixel Repeat V1.2 - Pixel Looping and Stretching Tool
+# After Effectsプラグイン - Aescripts Pixel Repeat V1.2 - ピクセルループおよびストレッチツール
 
 <!--Second Part-This is First Banner -->
 ![Aescripts Pixel Repeat V1.2 - Pixel Looping and Stretching Tool](https://www.gfxcamp.com/wp-content/uploads/2025/08/Pixel-Repeat.jpg)
 
 :::tip[info]
-**Download Aescripts Pixel Repeat V1.2** - After Effects plugin for creating pixel looping and stretching effects
+**Aescripts Pixel Repeat V1.2をダウンロード** - ピクセルループおよびストレッチ効果を作成するためのAfter Effectsプラグイン
 :::
 
-Pixel Repeat loops pixels! Perfect for glitch art, stylized streaks, and other unique visuals.
+Pixel Repeatはピクセルをループさせます！グリッチアート、スタイライズされたストリーク、その他の独特なビジュアルに最適です。
 
-## Key Features of Aescripts Pixel Repeat V1.2
+## Aescripts Pixel Repeat V1.2の主な機能
 
-- **Pixel Looping**: Create seamless pixel repetition effects
-- **Glitch Art Creation**: Ideal for digital glitch and distortion effects
-- **Stylized Visuals**: Perfect for creating unique visual treatments
-- **Easy Integration**: Simple plugin installation and use within After Effects
-- **Creative Flexibility**: Endless possibilities for artistic expression
+- **ピクセルループ**: シームレスなピクセル繰り返し効果を作成
+- **グリッチアート作成**: デジタルグリッチおよび歪み効果に最適
+- **スタイライズされたビジュアル**: 独特なビジュアル処理を作成するのに最適
+- **簡単な統合**: After Effects内での簡単なプラグインインストールおよび使用
+- **創造的な柔軟性**: 芸術的表現のための無限の可能性
 
-## Product Details
+## 製品詳細
 
-- **Plugin Name**: Aescripts Pixel Repeat
-- **Version**: V1.2
-- **Category**: After Effects Plugins
-- **License**: 破解版 (Cracked Version - Educational/Testing Use Only)
-- **Operating Systems**: Windows
+- **プラグイン名**: Aescripts Pixel Repeat
+- **バージョン**: V1.2
+- **カテゴリー**: After Effectsプラグイン
+- **ライセンス**: 破解版（クラック版 - 教育/テスト使用のみ）
+- **オペレーティングシステム**: Windows
 
-## System Requirements
+## システム要件
 
-- **Supported Software**: After Effects 2025, 2024
-- **Operating Systems**: Windows
+- **サポートソフトウェア**: After Effects 2025、2024
+- **オペレーティングシステム**: Windows
 
-## Installation Guide
+## インストールガイド
 
-1. Copy PixelRepeat.aex to the plugins folder
+1. PixelRepeat.aexをプラグインフォルダにコピーしてください
 
-## Troubleshooting Tips
+## トラブルシューティングのヒント
 
-- **Do not use Chinese version of AE**: The Chinese version may cause expression errors
-- **Enable Script Writing Permissions**: In Preferences, go to Edit → Preferences → General panel and check "Allow Scripts to Write Files and Access Network"
-- **Version Compatibility**: If the plugin doesn't work, it may not support your specific AE version (less likely)
+- **中国語版AEは使用しないでください**: 中国語版は式エラーが発生する可能性があります
+- **スクリプト書き込み権限を有効にする**: 環境設定で、編集→環境設定→一般パネルに移動し、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」をチェックしてください
+- **バージョン互換性**: プラグインが動作しない場合、お使いの特定のAEバージョンをサポートしていない可能性があります（可能性は低い）
 
 
-## Why Choose Aescripts Pixel Repeat V1.2?
+## なぜAescripts Pixel Repeat V1.2を選ぶべきか？
 
-Aescripts Pixel Repeat V1.2 is specifically designed for motion designers and visual effects artists who want to create unique pixel-based effects in After Effects. This plugin simplifies the process of creating glitch art, stylized streaks, and other distinctive visual treatments that would be difficult to achieve manually.
+Aescripts Pixel Repeat V1.2は、After Effectsで独自のピクセルベースの効果を作成したいモーションデザイナーおよびビジュアルエフェクトアーティストのために特別に設計されています。このプラグインは、グリッチアート、スタイライズされたストリーク、および手動では実現が難しいその他の独自のビジュアル処理を作成するプロセスを簡素化します。
 
-### Creative Expression Tool
+### クリエイティブ表現ツール
 
-Whether you're creating music videos, title sequences, or experimental motion graphics, Pixel Repeat provides an intuitive way to add distinctive pixel-based effects to your projects.
+ミュージックビデオ、タイトルシーケンス、実験的なモーショングラフィックスを作成しているかどうかにかかわらず、Pixel Repeatはプロジェクトに独自のピクセルベースの効果を追加するための直感的な方法を提供します。
 
-### Time-Saving Workflow
+### 時間を節約するワークフロー
 
-By automating complex pixel manipulation processes, this plugin significantly reduces the time needed to create sophisticated visual effects that would normally require extensive manual work.
+複雑なピクセル操作プロセスを自動化することにより、このプラグインは通常広範な手作業を必要とする洗練されたビジュアル効果を作成するために必要な時間を大幅に削減します。
 
-## Conclusion on Aescripts Pixel Repeat V1.2
+## Aescripts Pixel Repeat V1.2の結論
 
-Aescripts Pixel Repeat V1.2 is an essential plugin for After Effects artists looking to add unique pixel-based effects to their motion graphics and visual effects projects. Its specialized functionality and ease of use make it a valuable addition to any creative professional's toolkit.
+Aescripts Pixel Repeat V1.2は、モーショングラフィックスおよびビジュアルエフェクトプロジェクトに独自のピクセルベースの効果を追加したいAfter Effectsアーティストにとって必須のプラグインです。その専門的な機能と使いやすさは、どんなクリエイティブプロフェッショナルのツールキットにとっても貴重な追加となります。
 
-Whether you're creating glitch art for music videos, stylized streaks for title sequences, or experimental visual treatments, this plugin provides the professional tools needed to achieve exceptional results with minimal effort.
+ミュージックビデオのグリッチアート、タイトルシーケンスのスタイライズされたストリーク、または実験的なビジュアル処理を作成しているかどうかにかかわらず、このプラグインは最小限の努力で卓越した結果を達成するために必要なプロフェッショナルツールを提供します。
 <!-- The Last Part-Download -->
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+**注意してください**: 以下のダウンロードリンクは低速で、ダウンロードに長時間かかる可能性があります。より高速なダウンロードには、ぜひ私たちのコミュニティに参加してください。
+
+リンクをクリックしてダウンロードページに移動してください。解凍パスワードはリンクの横に記載されています。
 :::
 
 | File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Aescripts Pixel Repeat V1.2** | [Download](https://pan.baidu.com/s/1m05U5xOzuDvlH6Hp2qwb4g?pwd=fufp) | `fufp`   |
+| **Aescripts Pixel Repeat V1.2** | [ダウンロード](https://pan.baidu.com/s/1m05U5xOzuDvlH6Hp2qwb4g?pwd=fufp) | `fufp`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を取得！]
+プレミアムアクセスおよびサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

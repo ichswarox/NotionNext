@@ -1,67 +1,67 @@
 ---
-title: "Photo Mosaic Plugin"
-description: "AE/PR plugin for creating dynamic video mosaics from images. Transform any footage into a living network of moving images with Photo Mosaic V1.0."
-tags: [aescripts, AE plugin, video mosaic, After Effects, Premiere]
+title: "フォトモザイクプラグイン"
+description: "画像から動的なビデオモザイクを作成するためのAE/PRプラグイン。どんな映像でも移動する画像の生き生きとしたネットワークに変換します。"
+tags: ["aescripts", "AEプラグイン", "ビデオモザイク", "アフターエフェクト", "プレミアプロ"]
 slug: /photo-mosaic-plugin
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月17日
 
 ![img1018-aJwN.webp](https://list.ucards.store/d/img/img1018-aJwN.webp)
 
-# Photo Mosaic Plugin - Dynamic Image Mosaic for AE/PR
+# フォトモザイクプラグイン - AE/PR向け動的画像モザイク
 
-Photo Mosaic allows you to reconstruct each frame with thousands of small photos, creating a visually engaging texture worth close inspection.
+フォトモザイクを使用すると、何千もの小さな写真で各フレームを再構築し、近くで観察する価値のある視覚的に魅力的なテクスチャを作成できます。
 
-## Features
+## 主な機能
 
-:::tip[Key Features]
-- Transform any footage into a living network of moving images
-- Uses thousands of small photos to reconstruct each frame
-- Creates visually engaging textures perfect for close inspection
-- Supports After Effects and Premiere Pro
+:::tip[主な機能]
+- どんな映像でも移動する画像の生き生きとしたネットワークに変換
+- 各フレームを再構築するために何千もの小さな写真を使用
+- 近くで観察するのに最適な視覚的に魅力的なテクスチャを作成
+- アフターエフェクトとプレミアプロをサポート
 :::
 
-## Supported Software Versions
+## 対応ソフトウェアバージョン
 
-- After Effects 2025, 2024, 2023
-- Premiere 2025, 2024, 2023
+- アフターエフェクト 2025, 2024, 2023
+- プレミアプロ 2025, 2024, 2023
 
-## Installation
+## インストール方法
 
 <Tabs>
-<TabItem value="ae" label="After Effects">
+<TabItem value="ae" label="アフターエフェクト">
 
-1. Copy PhotoMosaic.aex to `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore`
-2. Restart After Effects
+1. PhotoMosaic.aexを `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore` にコピー
+2. アフターエフェクトを再起動
 
 </TabItem>
-<TabItem value="pr" label="Premiere Pro">
+<TabItem value="pr" label="プレミアプロ">
 
-1. Copy PhotoMosaic.aex to `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore`
-2. Restart Premiere Pro
+1. PhotoMosaic.aexを `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore` にコピー
+2. プレミアプロを再起動
 
 </TabItem>
 </Tabs>
 
-## Troubleshooting
+## トラブルシューティング
 
-:::caution[Troubleshooting Tips]
-- Don't use the Chinese version of AE, as it may cause expression errors
-- In Preferences > General panel, check "Allow Scripts to Write Files and Access Network"
-- Verify that the plugin supports your version of AE
+:::caution[トラブルシューティングのヒント]
+- 中国語版のAEは使用しないでください。式エラーが発生する可能性があります
+- 環境設定>一般パネルで、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」をチェック
+- プラグインがお使いのAEバージョンをサポートしていることを確認
 :::
 
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-| File Name | Download Link | Password |
-|-----------|---------------|----------|
-| Photo Mosaic Plugin | [Baidu NetDisk](https://pan.baidu.com/s/1zYN2ZRWK2Ryyk_lHzQf9Hw?pwd=6c2i) | 6c2i |
+| ファイル名 | ダウンロードリンク | パスワード |
+|-----------|-------------------|----------|
+| フォトモザイクプラグイン | [百度网盘](https://pan.baidu.com/s/1zYN2ZRWK2Ryyk_lHzQf9Hw?pwd=6c2i) | 6c2i |
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしのプレミアムダウンロード速度を利用！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

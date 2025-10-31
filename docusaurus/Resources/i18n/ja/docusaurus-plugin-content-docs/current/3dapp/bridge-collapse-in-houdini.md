@@ -1,34 +1,34 @@
 ---
-title: The VFX School - Bridge Collapse in Houdini
-description: Learn to create a massive bridge collapse effect in Houdini. This comprehensive course covers geometry fracturing, metal deformation, constraints, RBD simulations, and more.
-tags: [houdini, houdini tutorial, vfx school, bridge collapse, destruction effects, 3d simulation, visual effects, houdini course]
+title: The VFX School - Houdiniで橋が崩壊するエフェクト
+description: Houdiniで巨大な橋が崩壊するエフェクトを作成する方法を学びます。この総合コースでは、ジオメトリの破砕、金属の変形、コンストレイント、RBDシミュレーションなどをカバーしています。
+tags: [フーディーニ, フーディーニチュートリアル, VFXスクール, 橋崩壊, 破壊エフェクト, 3Dシミュレーション, ビジュアルエフェクト, フーディーニコース]
 slug: /bridge-collapse-in-houdini
 ---
 
-# The VFX School: Bridge Collapse in Houdini
+# The VFX School: Houdiniで橋が崩壊するエフェクト
 
-![Houdini Bridge Collapse Course](https://www.gfxcamp.com/wp-content/uploads/2025/09/The-VFX-School-Bridge-Collapse.jpg)
+![Houdini橋崩壊コース](https://www.gfxcamp.com/wp-content/uploads/2025/09/The-VFX-School-Bridge-Collapse.jpg)
 
-:::tip[Course Overview]
-In this Houdini destruction course, we are going to shake the earth to collapse a huge bridge. You will learn to set up and fracture geometry, deform metals, create and control constraints, perform simulations with RBDs, Vellum and Pyro, generate debris, dust, volumes, and a lot more.
+:::tip[コース概要]
+このHoudini破壊コースでは、巨大な橋を崩壊させるために地面を揺らします。ジオメトリの設定と破砕、金属の変形、コンストレイントの作成と制御、RBD、Vellum、Pyroを使ったシミュレーション、破片、ダスト、ボリュームの生成など、さらに多くのことを学びます。
 :::
 
-## Course Details
+## コース詳細
 
-- **Software Required**: Houdini
-- **Course Duration**: 9 hours
-- **Assets**: Includes project files
-- **Subtitles**: English (no subtitles)
-- **Format**: MKV, 1920×1080
+- **必要なソフトウェア**: Houdini
+- **コース期間**: 9時間
+- **アセット**: プロジェクトファイル付き
+- **字幕**: 英語（字幕なし）
+- **フォーマット**: MKV、1920×1080
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-| File | Download Link | Password |
+| ファイル | ダウンロードリンク | パスワード |
 |------|---------------|----------|
-| **Bridge Collapse in Houdini Course** | [Download](https://pan.baidu.com/s/1f6kw9nTYpDEnARwynLx9BA?pwd=ufsr) | `ufsr` |
+| **Houdiniで橋が崩壊するコース** | [ダウンロード](https://pan.baidu.com/s/1f6kw9nTYpDEnARwynLx9BA?pwd=ufsr) | `ufsr` |
 
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

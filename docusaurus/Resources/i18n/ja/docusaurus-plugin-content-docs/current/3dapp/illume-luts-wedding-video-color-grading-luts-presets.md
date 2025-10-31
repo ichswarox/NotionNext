@@ -1,38 +1,38 @@
 ---
-title: "7 Sets Wedding Video Brightening Warm/Cool Soft Color Grading LUTs Presets"
-description: "Collection of 7 sets of wedding video color grading LUTs presets for DaVinci Resolve, AE, PR, FCPX, CapCut and other software supporting LUTs."
-tags: [luts, color-grading, wedding, video-editing, presets]
+title: "7種類の結婚式ビデオ明るさ調整・暖色/冷色・ソフト肌色カラーグレーディングLUTプリセット"
+description: "DaVinci Resolve、AE、PR、FCPX、CapCut、およびその他のLUT対応ソフトウェア向けの7種類の結婚式ビデオカラーグレーディングLUTプリセットコレクション。"
+tags: [luts, カラーグレーディング, 結婚式, ビデオ編集, プリセット]
 slug: /illume-luts-wedding-video-color-grading-luts-presets
 ---
 
-_Last updated: Oct 17 2025_
+_最終更新日: 2025年10月17日_
 
 ![img1018-qBpg.webp](https://list.ucards.store/d/img/img1018-qBpg.webp)
 
-## Overview
+## 概要
 
-This collection includes 7 sets of wedding video color grading LUTs presets, including image brightening, warm/cool tones, and soft skin tones, in CUBE format, supporting DaVinci Resolve, Premiere, After Effects, FCPX, Photoshop, CapCut and any other software that can load LUTs.
+このコレクションには、画像の明るさ調整、暖色/冷色トーン、ソフト肌色を含む7種類の結婚式ビデオカラーグレーディングLUTプリセットが含まれています。CUBE形式で、DaVinci Resolve、Premiere、After Effects、FCPX、Photoshop、CapCut、およびLUTを読み込めるその他のソフトウェアに対応しています。
 
-:::tip[Key Features]
-- 7 sets of wedding video color grading LUTs
-- Includes image brightening effects
-- Warm and cool tone options
-- Soft skin tone enhancement
-- CUBE format compatible with most grading software
+:::tip[主な機能]
+- 7種類の結婚式ビデオカラーグレーディングLUT
+- 画像明るさ効果を含む
+- 暖色と冷色のトーンオプション
+- ソフト肌色エンハンスメント
+- ほとんどのグレーディングソフトウェアと互換性のあるCUBE形式
 :::
 
-## Compatibility
+## 互換性
 
-Recommended for use on Rec-709 formatted videos. For flat/gray footage, it's best to restore the image first before using these presets.
+Rec-709形式のビデオでの使用を推奨します。フラット/グレーの映像の場合、これらのプリセットを使用する前に最初に画像を復元することをお勧めします。
 
-## File Size
+## ファイルサイズ
 
-- 2MB compressed package
+- 2MB圧縮パッケージ
 
-## 🚀Direct Download Link
+## 🚀ダイレクトダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしのプレミアムダウンロード速度を取得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::
 
 

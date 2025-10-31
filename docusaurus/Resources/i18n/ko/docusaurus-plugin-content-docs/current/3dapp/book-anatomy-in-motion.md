@@ -1,52 +1,52 @@
 ---
-title: "Anatomy in Motion: A Visual Reference for Artists"
-description: "The Japanese edition of the popular 3dtotal book 'Anatomy in Motion' is set to release in September 2025, offering a comprehensive visual guide to the human body in action."
+title: "Anatomy in Motion: 예술가를 위한 시각 참조서"
+description: "인기 있는 3dtotal 출판사의 책 'Anatomy in Motion'의 일본어판이 2025년 9월에 출시되어 움직이는 인체에 대한 포괄적인 시각 가이드를 제공합니다."
 tags: ['anatomy', 'art', 'book', 'reference', '3dtotal', 'Born Digital', 'drawing', 'sculpting', 'character design']
 slug: /book-anatomy-in-motion
 ---
 
-The Japanese edition of the 3dtotal publishing book, **"Anatomy in Motion: A Visual Reference,"** is scheduled for release in September 2025 from Born Digital. This book is an essential guide for artists, featuring photographs and illustrations of poses in motion.
+3dtotal 출판사의 일본어판 **"Anatomy in Motion: A Visual Reference"**은 Born Digital에서 2025년 9월에 출시 예정입니다. 이 책은 움직이는 포즈에 대한 사진과 일러스트레이션을 포함한 예술가를 위한 필수 가이드입니다.
 
-![Anatomy in Motion Cover](https://m.media-amazon.com/images/I/51bTkRZG+CL._SL500_.jpg)
+![Anatomy in Motion 표지](https://m.media-amazon.com/images/I/51bTkRZG+CL._SL500_.jpg)
 
-### About the Book
+### 책 소개
 
-> **Learn from over 750 high-quality photos and illustrations in this definitive guide to the anatomy of the human body in motion.**
+> **움직이는 인체 해부학에 대한 권위적인 이 가이드에서 750여 개의 고품질 사진과 일러스트레이션을 통해 배우세요.**
 
-*"Anatomy in Motion"* is a visual reference guide of the human body in action, composed of detailed photographs with overlaid illustrations showing muscle diagrams, planar views, and contour lines.
+*"Anatomy in Motion"*은 근육 다이어그램, 평면도, 윤곽선을 보여주는 중첩 일러스트레이션이 포함된 자세한 사진으로 구성된 움직이는 인체에 대한 시각 참조 가이드입니다.
 
-The book captures professional models performing a wide range of actions—from walking and jumping to combat and dancing—showcasing the contours, planes, and musculoskeletal systems of various body types. Whether you are a traditional sculptor, oil painter, illustrator, or a CG/digital artist, the materials in this book will help improve the quality and accuracy of your art.
+이 책은 걷기, 점프, 전투, 춤추기 등 광범위한 동작을 수행하는 전문 모델의 윤곽, 평면, 근골격계를 다양한 신체 유형으로 보여줍니다. 당신이 전통적인 조각가, 유화가, 일러스트레이터이든 CG/디지털 아티스트이든 이 책의 자료는 당신의 예술 작품의 품질과 정확성을 향상시키는 데 도움이 될 것입니다.
 
-### Book Details
+### 책 정보
 
-*   **Publisher**: Born Digital
-*   **Release Date**: September 23, 2025
-*   **Language**: Japanese
-*   **Format**: Softcover, 368 pages
-*   **Dimensions**: 27.9 x 21 x 2.1 cm
+*   **출판사**: Born Digital
+*   **출시일**: 2025년 9월 23일
+*   **언어**: 일본어
+*   **형식**: 종이본, 368페이지
+*   **크기**: 27.9 x 21 x 2.1 cm
 
-### Features
+### 특징
 
-*   368 pages in a large format (210 x 279 mm).
-*   Hundreds of high-quality color photos and illustrations.
-*   Detailed planar, contour, and écorché (muscle) diagrams.
-*   An extensive visual reference for the human body in motion.
+*   대형 포맷(210 x 279 mm)의 368페이지.
+*   수백 장의 고품질 컬러 사진과 일러스트레이션.
+*   자세한 평면, 윤곽, 근육 다이어그램.
+*   움직이는 인체에 대한 포괄적인 시각 참조.
 
-:::caution Content Warning
-This book contains nude representations for artistic and educational purposes.
+:::caution 내용 주의
+이 책에는 예술적 및 교육적 목적으로 노출된 인체가 포함되어 있습니다.
 :::
 
-### Table of Contents
+### 목차
 
-*   **Basics of Movement**: Introduction, Principles of Motion, Muscle Types, etc.
-*   **Basic Body Movements**: Shoulder, Arm, Knee, Hip, Torso, Neck, Forearm, Jaw.
-*   **Full-Body Movements**: Walking, Running, Lifting, Jumping, Pulling, Pushing, Hitting, Standing from Sitting, Catching, Kicking, Crawling, Cartwheeling, Punching, Dancing, Combat.
-*   **Gallery**
-*   **Glossary**
+*   **움직임의 기초**: 서론, 운동 원리, 근육 유형 등.
+*   **기본 신체 움직임**: 어깨, 팔, 무릎, 엉덩이, 몸통, 목, 앞팔, 턱.
+*   **전신 움직임**: 걷기, 달리기, 들어올리기, 점프, 당기기, 미는기, 때리기, 앉아서 일어서기, 잡기, 차기, 기기, 앞바퀴, 펀치, 춤, 전투.
+*   **갤러리**
+*   **용어 사전**
 
-This is an indispensable reference book for any artist's library.
+이는 모든 예술가의 서재에 없어서는 안 될 참조서입니다.
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀직접 다운로드 링크
+:::tip[제한 없이 프리미엄 다운로드 속도를 얻으세요!]
+프리미엄 접근 권한과 지원을 받으려면 [💬WhatsApp](https://wa.me/+8613237610083)으로 문의해 주세요.
 :::

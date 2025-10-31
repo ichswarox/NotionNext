@@ -1,59 +1,59 @@
 ---
-title: 'Interactive Shape & Path Animation in After Effects with Tweaks'
+title: 'After Effectsインタラクティブシェイプ＆パスアニメーション - Tweaks'
 sidebar_label: 'Aescripts Tweaks'
-description: A powerful script for After Effects that opens up new possibilities for shape and path animation. From morphing shapes to fine-tuning paths and innovatively distributing layers.
-tags: [after effects, shape animation, path animation, tweaks, motion graphics, animation script, after effects plugin]
+description: After Effects用の強力なスクリプトで、シェイプとパスアニメーションに新しい可能性を開きます。シェイプのモーフィングからパスの微調整、革新的なレイヤー配布まで。
+tags: [after effects, シェイプアニメーション, パスアニメーション, tweaks, モーショングラフィックス, アニメーションスクリプト, after effectsプラグイン]
 slug: /shape-animation-tweaks
 ---
 
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Interactive Shape & Path Animation in After Effects with Tweaks
+# After Effectsインタラクティブシェイプ＆パスアニメーション - Tweaks
 
 <!--Second Part-This is First Banner -->
 ![Aescripts Tweaks for After Effects](/img/aescripts-tweaks.jpg)
 
 
 
-## A New Way to Animate Shape Layers and Paths
+## シェイプレイヤーとパスをアニメートする新しい方法
 
-**Tweaks** is a powerful script for After Effects that opens up new possibilities for shape and path animation. From morphing shapes to fine-tuning paths and innovatively distributing layers, this tool will enrich your creative experience.
+**Tweaks**はAfter Effects用の強力なスクリプトで、シェイプとパスアニメーションに新しい可能性を開きます。シェイプのモーフィングからパスの微調整、革新的なレイヤー配布まで、このツールはあなたの創造的な体験を豊かにします。
 
-With Tweaks, you can create complex and interactive animations, such as morphing between two shapes, creating reactions based on control points, and generating a wide variety of motion graphics animations. Your artistic possibilities expand, limited only by your creativity.
+Tweaksを使用すると、2つのシェイプ間のモーフィング、コントロールポイントに基づくリアクションの作成、さまざまなモーショングラフィックスアニメーションの生成など、複雑でインタラクティブなアニメーションを作成できます。あなたの芸術的可能性は創造力だけに制限されて広がります。
 
-### Supported After Effects Versions:
+### 対応After Effectsバージョン：
 
 -   After Effects 2024, 2023
 
-### Installation Instructions:
+### インストール手順：
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="installation" label="Installation Steps" default>
+  <TabItem value="installation" label="インストール手順" default>
     <ol>
-      <li>Copy the <code>.jsxbin</code> file into the <code>Support Files\Scripts\ScriptUI Panels</code> directory of your After Effects installation.</li>
-      <li><strong>Permissions:</strong> For the script to function correctly, you must enable the "Allow Scripts to Write Files and Access Network" option in your After Effects preferences (<code>Edit > Preferences > General</code> on Windows or <code>After Effects > Settings > General</code> on macOS).</li>
-      <li><strong>Language:</strong> It is highly recommended to use the English version of After Effects to avoid potential expression errors.</li>
+      <li><code>.jsxbin</code>ファイルをAfter Effectsインストールディレクトリの<code>Support Files\Scripts\ScriptUI Panels</code>フォルダにコピーします。</li>
+      <li><strong>権限：</strong>スクリプトが正しく機能するためには、After Effects環境設定で「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可」オプションを有効にする必要があります（Windowsでは<code>編集 > 環境設定 > 一般</code>、macOSでは<code>After Effects > 設定 > 一般</code>）。</li>
+      <li><strong>言語：</strong>潜在的なエクスプレッションエラーを避けるため、英語版のAfter Effectsを使用することを強くお勧めします。</li>
     </ol>
   </TabItem>
 </Tabs>
 
 
-<!-- The Download Part-->
-## 🐌Free Slow Download Links
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+<!-- ダウンロード部分 -->
+## 🐌 無料の低速ダウンロードリンク
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動します。解凍パスワードはリンクの横に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Tweaks v1.2.8**          | [Download](https://pan.baidu.com/s/1PKeyjKnT3lwBif60lg33Tw?pwd=rw2b)        | `rw2b`   |
-| **Tweaks v1.0.83**         | [Download](https://pan.baidu.com/s/197m0ZBJeiYeaoPW5sEARLw?pwd=jz1g)        | `jz1g`   |
+| **Tweaks v1.2.8**          | [ダウンロード](https://pan.baidu.com/s/1PKeyjKnT3lwBif60lg33Tw?pwd=rw2b)        | `rw2b`   |
+| **Tweaks v1.0.83**         | [ダウンロード](https://pan.baidu.com/s/197m0ZBJeiYeaoPW5sEARLw?pwd=jz1g)        | `jz1g`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

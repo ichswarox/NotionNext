@@ -5,28 +5,28 @@ description: A sleek, modern, and tech-inspired After Effects template for creat
 tags: [after effects template, timeline template, tech timeline, corporate presentation, ae template, history timeline]
 slug: /history-timeline-template
 ---
-<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
+<!--上記はフロントマター部分-コンテンツに基づいてGoogle SEOを満たすために生成、自動化の効率性とGoogleのコアランキングファクター、特にE-E-A-T（経験、専門性、権威性、信頼性）のバランスを取る必要があります-->
 
-<!--First Part-This is Title -->
-# Create Stunning Tech Timelines with This After Effects Template
+<!--最初の部分-これはタイトルです-->
+# このAfter Effectsテンプレートで驚くべきテックタイムラインを作成
 
-<!--Second Part-This is First Banner -->
-![History Timeline After Effects Template](/img/History-Timeline.jpg)
+<!--2番目の部分-これは最初のバナーです-->
+![After Effects用ヒストリータイムラインテンプレート](/img/History-Timeline.jpg)
 
-:::tip[info]
-Showcase your company's history, product evolution, or any chronological story with this sleek, modern, and tech-inspired After Effects template. It's perfect for creating professional and engaging presentations, corporate videos, and promotional content.
+:::tip[情報]
+この洗練された、モダンで、テックインスパイアされたAfter Effectsテンプレートで、貴社の歴史、製品の進化、またはあらゆる年代順のストーリーを展示してください。プロフェッショナルで魅力的なプレゼンテーション、企業ビデオ、プロモーションコンテンツの作成に最適です。
 :::
 
-## Template Specifications
+## テンプレート仕様
 
-- **Compatibility:** Adobe After Effects CS5 and higher. Works with all language versions of AE.
-- **Resolution:** Full HD (1920x1080).
-- **Plugins:** No third-party plugins required.
-- **File Size:** 23MB.
-- **Ease of Use:** No tutorial necessary; simply drop in your photos and edit the text.
-- **Music:** Please note that the background music is not included.
+- **互換性：** Adobe After Effects CS5以降。AEのすべての言語バージョンで動作します。
+- **解像度：** フルHD（1920x1080）。
+- **プラグイン：** 第三者プラグインは不要です。
+- **ファイルサイズ：** 23MB。
+- **使いやすさ：** チュートリアルは不要；写真をドロップしてテキストを編集するだけです。
+- **音楽：** 背景音楽は含まれていないことに注意してください。
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

@@ -1,7 +1,7 @@
 ---
-title: "Jackimorphic Camera Pack V1.0.3 - Real Camera Simulation Add-on for Blender"
-description: "Jackimorphic Camera Pack is a camera setup for people who have used a real camera before and a real anamorphic lens or want to start learning to take real anamorphic photography/film."
-tags: ["Blender", "Blender add-on", "camera plugin", "anamorphic lens", "realistic camera", "cinematography"]
+title: "Jackimorphic Camera Pack V1.0.3 - Blender向け実カメラシミュレーションアドオン"
+description: "Jackimorphic Camera Packは、実カメラや実アナモフィックレンズを使用したことがある人、または実アナモフィック写真/映画の撮影を学び始めたい人のためのカメラセットアップです。"
+tags: ["Blender", "Blenderアドオン", "カメラプラグイン", "アナモフィックレンズ", "リアルカメラ", "映画撮影"]
 slug: /jackimorphic-camera-pack-v1-0-3
 ---
 
@@ -9,66 +9,66 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import {Badge} from '@docusaurus/theme-common';
 
-# Jackimorphic Camera Pack V1.0.3 - Real Camera Simulation Add-on for Blender
+# Jackimorphic Camera Pack V1.0.3 - Blender向け実カメラシミュレーションアドオン
 
 <Tabs>
-<TabItem value="overview" label="Overview" default>
-Jackimorphic Camera Pack is a camera setup designed for people who have used a real camera before and a real anamorphic lens or want to start learning to take real anamorphic photography/film. It greatly helps to bring a sense of knowledge to this to make your shots beautiful!
+<TabItem value="overview" label="概要" default>
+Jackimorphic Camera Packは、実カメラや実アナモフィックレンズを使用したことがある人、または実アナモフィック写真/映画の撮影を学び始めたい人のために設計されたカメラセットアップです。これは、美しいショットを作成するための知識の感覚をもたらすのに大いに役立ちます！
 </TabItem>
-<TabItem value="features" label="Features">
-- Real camera simulation
-- Anamorphic lens simulation
-- Designed for realistic cinematography
-- Compatible with multiple Blender versions
+<TabItem value="features" label="機能">
+- 実カメラシミュレーション
+- アナモフィックレンズシミュレーション
+- リアルな映画撮影のために設計
+- 複数のBlenderバージョンと互換性あり
 </TabItem>
 </Tabs>
 
 ![Jackimorphic Camera Pack Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/Jackimorphic-Camera-Pack.jpg)
 
-## Feature List
+## 機能一覧
 
-:::tip Key Features
-- **Real Camera Simulation**: Authentic camera behavior simulation in Blender
-- **Anamorphic Lens Simulation**: Replicates real anamorphic lens characteristics
-- **Cinematography Learning**: Perfect for learning real anamorphic photography/film techniques
-- **Enhanced Shots**: Brings a sense of knowledge to make your shots beautiful
-- **Wide Compatibility**: Works with multiple Blender versions
+:::tip 主な機能
+- **実カメラシミュレーション**: Blenderでの本物のカメラ動作シミュレーション
+- **アナモフィックレンズシミュレーション**: 実際のアナモフィックレンズ特性を再現
+- **映画撮影学習**: 実アナモフィック写真/映画技術を学習するのに最適
+- **ショットの向上**: 美しいショットを作成するための知識の感覚をもたらす
+- **幅広い互換性**: 複数のBlenderバージョンで動作
 :::
 
-## System Requirements
+## システム要件
 
-- **Software**: Blender 2.9-4.2
-- **Operating System**: Windows, macOS, or Linux
-- **Hardware**: Any system capable of running Blender
+- **ソフトウェア**: Blender 2.9-4.2
+- **オペレーティングシステム**: Windows、macOS、またはLinux
+- **ハードウェア**: Blenderを実行できるシステム
 
-## Installation Instructions
+## インストール手順
 
 <Tabs groupId="blender-version">
-<TabItem value="blender-4-lower" label="Blender 4 or Lower" default>
-1. Open Blender
-2. Go to Edit > Preferences > Add-ons
-3. Click on "Install"
-4. Select the ZIP file from your disk
-5. Enable the add-on
+<TabItem value="blender-4-lower" label="Blender 4以下" default>
+1. Blenderを開く
+2. 編集>環境設定>アドオンへ移動
+3. 「インストール」をクリック
+4. ディスクからZIPファイルを選択
+5. アドオンを有効にする
 </TabItem>
-<TabItem value="blender-41-higher" label="Blender 4.1 or Higher">
-1. Open Blender
-2. Go to Edit > Preferences > Add-ons
-3. Click the dropdown in the top right corner
-4. Select "Install from Disk"
-5. Select the ZIP file from your disk
-6. Enable the add-on
+<TabItem value="blender-41-higher" label="Blender 4.1以上">
+1. Blenderを開く
+2. 編集>環境設定>アドオンへ移動
+3. 右上隅のドロップダウンをクリック
+4. 「ディスクからインストール」を選択
+5. ディスクからZIPファイルを選択
+6. アドオンを有効にする
 </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-| Version | Download Link | Password |
-|--------|---------------|----------|
-| Jackimorphic Camera Pack V1.0.3 | [Baidu Netdisk](https://pan.baidu.com/s/1Fv-9kQ7XjaF9OyHl0J_jEg?pwd=vr8v) | vr8v |
+| バージョン | ダウンロードリンク | パスワード |
+|-----------|-------------------|----------|
+| Jackimorphic Camera Pack V1.0.3 | [百度网盘](https://pan.baidu.com/s/1Fv-9kQ7XjaF9OyHl0J_jEg?pwd=vr8v) | vr8v |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしのプレミアムダウンロード速度を利用！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::
-_Last updated: Sep 23 2025_
+_最終更新日: 2025年9月23日_

@@ -1,51 +1,51 @@
 ---
-title: Curtain Maker Pro v1.1.6 for Blender - Create Realistic Curtains
-description: Free Blender addon to generate and customize procedural curtain meshes. Perfect for interior design and architectural visualization.
-tags: [blender, curtain maker pro, blender plugin, 3d curtains, interior design, architectural visualization, procedural meshes]
+title: Curtain Maker Pro v1.1.6 for Blender - リアルなカーテンを作成
+description: 手続き型カーテンメッシュを生成・カスタマイズする無料のBlenderアドオン。インテリアデザインと建築ビジュアライゼーションに最適です。
+tags: [ブレンダー, curtain maker pro, ブレンダープラグイン, 3Dカーテン, インテリアデザイン, 建築ビジュアライゼーション, 手続き型メッシュ]
 slug: /curtain-maker-pro
 ---
 
-# Curtain Maker Pro: Create Realistic Curtains in Blender
+# Curtain Maker Pro: Blenderでリアルなカーテンを作成
 
 ![Curtain Maker Pro for Blender](https://www.gfxcamp.com/wp-content/uploads/2025/09/Curtain-Maker-Pro.jpg)
 
-:::tip[info]
-Curtain Maker Pro is a free Blender add-on that helps you generate and customize procedural curtain meshes in seconds. Perfect for interior design, architectural visualization, or any 3D scene that needs realistic drapery.
+:::tip[情報]
+Curtain Maker Proは、数秒で手続き型カーテンメッシュを生成・カスタマイズするのに役立つ無料のBlenderアドオンです。インテリアデザイン、建築ビジュアライゼーション、またはリアルなドレープが必要なあらゆる3Dシーンに最適です。
 :::
 
-## Key Features
+## 主な機能
 
-- **Procedural Generation**: Create realistic curtain meshes quickly
-- **Customizable Parameters**: Adjust various properties to match your needs
-- **Interior Design Ready**: Perfect for architectural visualization projects
-- **Easy to Use**: Simple interface for fast workflow
+- **手続き型生成**: リアルなカーテンメッシュを素早く作成
+- **カスタマイズ可能なパラメータ**: ニーズに合わせて様々なプロパティを調整
+- **インテリアデザイン対応**: 建築ビジュアライゼーションプロジェクトに最適
+- **使いやすい**: 高速ワークフローのためのシンプルなインターフェース
 
-## Supported Blender Versions
+## 対応Blenderバージョン
 
-Supports a wide range of Blender versions: 3.0 - 4.5
+Blender 3.0 - 4.5の広範囲のバージョンをサポート
 
-## Installation Instructions
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="blender-3.0+" label="Blender 3.0 and Later" default>
+  <TabItem value="blender-3.0+" label="Blender 3.0以降" default>
     <ol>
-      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
-      <li>Click the dropdown in the top right and select <code>Install from Disk</code>.</li>
-      <li>Select the corresponding ZIP file.</li>
+      <li>Blenderで、<code>編集</code> → <code>環境設定</code> → <code>アドオン</code>に移動します。</li>
+      <li>右上のドロップダウンをクリックし、<code>ディスクからインストール</code>を選択します。</li>
+      <li>対応するZIPファイルを選択します。</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Curtain Maker Pro v1.1.6**  | [Download](https://pan.baidu.com/s/1wC-7EN3LwcI4gClxUa2rWQ?pwd=3jhx)        | `3jhx`   |
+| **Curtain Maker Pro v1.1.6**  | [ダウンロード](https://pan.baidu.com/s/1wC-7EN3LwcI4gClxUa2rWQ?pwd=3jhx)        | `3jhx`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

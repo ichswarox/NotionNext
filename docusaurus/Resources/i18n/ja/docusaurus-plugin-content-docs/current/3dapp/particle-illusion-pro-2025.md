@@ -1,60 +1,60 @@
 ---
-title: Particle Illusion Pro 2025.5 v18.5.1 Win Crack - Particle Effects Simulation Software
+title: Particle Illusion Pro 2025.5 v18.5.1 Winクラック - パーティクルエフェクトシミュレーションソフトウェア
 sidebar_position: 1
-description: Particle Illusion Pro 2025 is a powerful particle generator that can quickly create realistic particle effects for motion graphics, visual effects, titles, and lower thirds.
-tags: [Particle Illusion, particle software, effects software, particle simulation, visual effects, VFX software, motion graphics, particle generator, BorisFX]
+description: Particle Illusion Pro 2025は、モーショングラフィックス、ビジュアルエフェクト、タイトル、ロアサード用のリアルなパーティクルエフェクトを素早く作成できる強力なパーティクルジェネレーターです。
+tags: [Particle Illusion, パーティクルソフトウェア, エフェクトソフトウェア, パーティクルシミュレーション, ビジュアルエフェクト, VFXソフトウェア, モーショングラフィックス, パーティクルジェネレーター, BorisFX]
 slug: /particle-illusion-pro-2025
 ---
-<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->
-*Last updated: Sep 21 2025*<!--generate depend on file modified time -->
+<!--上記はフロントマター部分です。Google SEOに対応したコンテンツ生成のため、自動化効率とGoogleのコアルランキング要因、特にE-E-A-T（経験、専門性、権威性、信頼性）のバランスを考慮する必要があります。-->
+*最終更新日: 2025年9月21日*<!--ファイル修正時刻に基づいて生成されます-->
 
-<!--First Part-This is Title -->
-# Particle Illusion Pro 2025: Particle Effects Simulation Software
+<!--最初の部分-これはタイトルです-->
+# Particle Illusion Pro 2025: パーティクルエフェクトシミュレーションソフトウェア
 
-<!--Second Part-This is First Banner -->
+<!--2番目の部分-これは最初のバナーです-->
 ![img1016-TmFp.webp](https://list.ucards.store/d/img/img1016-TmFp.webp)
 
-:::tip[info]
-Particle Illusion Pro by BorisFX is now a standalone software that can generate various special effect particles, including multiple presets that can be used directly.
+:::tip[情報]
+BorisFXによるParticle Illusion Proは現在、スタンドアロンソフトウェアとなり、直接使用できる複数のプリセットを含む、様々な特殊効果パーティクルを生成できます。
 :::
 
-## Software Introduction
+## ソフトウェア紹介
 
-Particle Illusion Pro is a powerful particle generator that provides users with instant access to 3D particles. It can quickly create realistic particle effects for motion graphics, visual effects, titles, and lower thirds. The software can be used as a fully functional standalone application or as a plugin within the Continuum effects suite.
+Particle Illusion Proは、ユーザーに3Dパーティクルへの即時アクセスを提供する強力なパーティクルジェネレーターです。モーショングラフィックス、ビジュアルエフェクト、タイトル、ロアサード用のリアルなパーティクルエフェクトを素早く作成できます。このソフトウェアは、完全に機能するスタンドアロンアプリケーションとして、またはContinuumエフェクトスイート内のプラグインとして使用できます。
 
-Key Features:
-- Powerful 3D particle generator
-- Multiple preset effects ready to use
-- Suitable for motion graphics and visual effects production
-- Available as both standalone application and plugin
-- Quick creation of realistic particle effects
+主な特徴：
+- 強力な3Dパーティクルジェネレーター
+- すぐに使用できる複数のプリセットエフェクト
+- モーショングラフィックスとビジュアルエフェクト制作に適している
+- スタンドアロンアプリケーションとプラグインの両方として利用可能
+- リアルなパーティクルエフェクトの素早い作成
 
-## Installation Steps
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="installation" label="Installation Instructions" default>
+  <TabItem value="installation" label="インストール手順" default>
     <ol>
-      <li>Install Particle_Illusion_2025.5_Standalone_18_5_1_Windows.exe without modifying the path. Use the default installation path, otherwise the crack won't work</li>
-      <li>Install the particle preset library Particle_Illusion_2025.5_Emitter_Libraries_Windows.exe</li>
-      <li>Run the installation crack patch BorisFX uni-patch 2025.exe</li>
+      <li>Particle_Illusion_2025.5_Standalone_18_5_1_Windows.exeをパスを変更せずにインストールします。デフォルトのインストールパスを使用してください。そうでないとクラックが機能しません</li>
+      <li>パーティクルプリセットライブラリParticle_Illusion_2025.5_Emitter_Libraries_Windows.exeをインストールします</li>
+      <li>インストールクラックパッチBorisFX uni-patch 2025.exeを実行します</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌 無料の低速ダウンロードリンク
 
 
 
-| File Version | Download Link | Password |
+| ファイルバージョン | ダウンロードリンク | パスワード |
 |--------------|---------------|----------|
-| Particle Illusion Pro 2025.5 | [Download Link](https://pan.baidu.com/s/1PC7F2K3VnD6nvBcHvc5PtA?pwd=xtjb) | `xtjb` |
+| Particle Illusion Pro 2025.5 | [ダウンロードリンク](https://pan.baidu.com/s/1PC7F2K3VnD6nvBcHvc5PtA?pwd=xtjb) | `xtjb` |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::
 
-Link: https://borisfx.com/products/particle-illusion/
+リンク: https://borisfx.com/products/particle-illusion/

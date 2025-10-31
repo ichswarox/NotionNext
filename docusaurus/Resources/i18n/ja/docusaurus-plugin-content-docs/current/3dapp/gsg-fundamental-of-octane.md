@@ -1,61 +1,61 @@
 ---
-title: "GreyscaleGorilla Fundamental of Octane Tutorial"
-description: "Introduction to Octane renderer basics, covering setup, texture creation, and essential techniques for Cinema 4D users by Octane expert David Ariew."
-tags: ["Octane", "Cinema 4D", "Tutorial", "Rendering", "GreyscaleGorilla", "GSG"]
+title: "GreyscaleGorilla Octaneの基礎チュートリアル"
+description: "Octaneレンダラーの基本入門で、Cinema 4Dユーザーのためのセットアップ、テクスチャ作成、必須テクニックをOctaneエキスパートDavid Ariewが解説します。"
+tags: ["Octane", "Cinema 4D", "チュートリアル", "レンダリング", "GreyscaleGorilla", "GSG"]
 slug: /3dapp/gsg-fundamental-of-octane
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# GreyscaleGorilla Fundamental of Octane Tutorial
+# GreyscaleGorilla Octaneの基礎チュートリアル
 
-<sub>Last updated: Sep 30 2025</sub>
+<sub>最終更新日: 2025年9月30日</sub>
 
-![GreyscaleGorilla Fundamental of Octane](https://www.gfxcamp.com/wp-content/uploads/2025/09/GreyscaleGorilla-Fundamental-of-Octane.jpg)
+![GreyscaleGorilla Octaneの基礎](https://www.gfxcamp.com/wp-content/uploads/2025/09/GreyscaleGorilla-Fundamental-of-Octane.jpg)
 
-## Features
+## 機能
 
 :::info
-In this training, Octane expert David Ariew gives you a super informative and efficiently paced speedrun through his extensive Octane knowledge.
+このトレーニングでは、OctaneエキスパートDavid Ariewが彼の広範なOctane知識を効率的なペースでスピードラン形式で解説します。
 :::
 
-- Introduction to Octane renderer setup
-- Texture creation techniques
-- Essential Octane knowledge
-- Expert instruction by David Ariew
-- 5+ hours of comprehensive content
+- Octaneレンダラーセットアップ入門
+- テクスチャ作成テクニック
+- Octane必須知識
+- David Ariewによるエキスパート指導
+- 5時間以上の総合的なコンテンツ
 
-## System Requirements
+## システム要件
 
 - Cinema 4D
-- Octane renderer
-- MP4 video player (1920×1080 resolution)
+- Octaneレンダラー
+- MP4ビデオプレーヤー（1920×1080解像度）
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
 <TabItem value="windows" label="Windows">
-1. Install Cinema 4D
-2. Install Octane renderer
-3. Download and extract tutorial files
-4. Follow along with the training videos
+1. Cinema 4Dをインストール
+2. Octaneレンダラーをインストール
+3. チュートリアルファイルをダウンロードして展開
+4. トレーニングビデオに沿って学習
 </TabItem>
 <TabItem value="macos" label="macOS">
-1. Install Cinema 4D
-2. Install Octane renderer
-3. Download and extract tutorial files
-4. Follow along with the training videos
+1. Cinema 4Dをインストール
+2. Octaneレンダラーをインストール
+3. チュートリアルファイルをダウンロードして展開
+4. トレーニングビデオに沿って学習
 </TabItem>
 <TabItem value="linux" label="Linux">
-1. Install Cinema 4D
-2. Install Octane renderer
-3. Download and extract tutorial files
-4. Follow along with the training videos
+1. Cinema 4Dをインストール
+2. Octaneレンダラーをインストール
+3. チュートリアルファイルをダウンロードして展開
+4. トレーニングビデオに沿って学習
 </TabItem>
 </Tabs>
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

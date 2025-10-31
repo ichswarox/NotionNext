@@ -1,11 +1,11 @@
 ---
-title: "Instance Damage System v2.0 for Unreal Engine 5"
-description: "Discover the Instance Damage System, a powerful UE5 plugin that enables interaction and damage effects for instanced static meshes, perfect for open-world games."
-tags: ['Unreal Engine 5', 'UE5', 'plugin', 'asset', 'game development', 'instance damage', 'destruction', 'open world']
+title: "Unreal Engine 5用インスタンスダメージシステム v2.0"
+description: "インスタンススタティックメッシュの相互作用とダメージ効果を可能にする強力なUE5プラグインであるインスタンスダメージシステムを発見してください。オープンワールドゲームに最適です。"
+tags: ['Unreal Engine 5', 'UE5', 'プラグイン', 'アセット', 'ゲーム開発', 'インスタンスダメージ', '破壊', 'オープンワールド']
 slug: /ue5-instance-damage-system
 ---
 
-The **Instance Damage System v2.0**, a plugin by developer Adi for Unreal Engine 5, allows you to add damage and interaction to instanced static meshes. It makes it easy to implement systems where damaged instances are replaced, trigger physics simulations, or respawn over time.
+**インスタンスダメージシステム v2.0**は、開発者AdiによるUnreal Engine 5用のプラグインで、インスタンススタティックメッシュにダメージと相互作用を追加できます。ダメージを受けたインスタンスを置き換えたり、物理シミュレーションをトリガーしたり、時間経過でリスポーンしたりするシステムを簡単に実装できます。
 
 <div className="player-wrapper">
   <iframe 
@@ -19,34 +19,38 @@ The **Instance Damage System v2.0**, a plugin by developer Adi for Unreal Engine
   />
 </div>
 
-:::info Ideal for Open-World Games
-The Instance Damage System is the perfect solution for interacting with instanced static meshes in an open-world setting. It's ideal for GTA-style destruction, props that respawn, or resource-gathering games.
+:::info オープンワールドゲームに最適
+インスタンスダメージシステムは、オープンワールド環境でのインスタンススタティックメッシュとの相互作用のための完璧なソリューションです。GTAスタイルの破壊、リスポーンするプロップ、またはリソース収集ゲームに最適です。
 :::
 
-### Key Features
+### 主な特徴
 
-*   **Register Any Static Mesh Component as a Proxy**: Primarily for Instanced Static Mesh Components (ISMC), but can be extended to other object classes via C++.
-*   **Per-Asset Damage Settings**: Define specific damage behaviors for each Static Mesh used as a proxy.
-    *   **Spawn Destruction Meshes**: Replace damaged instances with destructible mesh versions.
-*   **Toggle Instance Visibility**: Hide and show proxy instances as needed.
-*   **Distance-Based Respawning**: Automatically respawn instances over time based on their distance from the player.
-*   **Object Pooling**: Reuse generated destruction meshes to improve performance.
-*   **World Partition Support**: Toggle instance visibility even when the proxy is not present in the level.
-*   **Custom Data**: Assign custom data like "XP" or "money" to each damage asset.
-*   **Network Support (3 Modes)**:
-    *   **Client Authoritative**: Client spawns the destruction mesh, and the server notifies other clients.
-    *   **Client Replicated**: Destruction meshes are spawned on the client via replication.
-    *   **Server**: The server manages and replicates the destruction actor.
-*   **Save/Load Proxy Visibility State**.
-*   **Easy Setup from Data Tables**.
-*   **Blueprint Ready**: Easily scriptable throughout your project.
-*   **C++ Extensible**: Add new features or override default behaviors using subsystems and virtual functions.
-*   **Includes Sample Projects**:
-    *   **Chaos Minigame**: *Saints Row* "Mayhem"-style gameplay.
-    *   **Destruction Minigame**: Destroy randomly selected meshes.
-    *   **Wanted Level Example**: Increase a "wanted" level based on the amount of destruction.
+*   **任意のスタティックメッシュコンポーネントをプロキシとして登録**:主にインスタンススタティックメッシュコンポーネント（ISMC）用ですが、C++を介して他のオブジェクトクラスに拡張できます。
+*   **アセットごとのダメージ設定**:プロキシとして使用される各スタティックメッシュに対して特定のダメージ動作を定義します。
+    *   **破壊メッシュのスポーン**:ダメージを受けたインスタンスを破壊可能なメッシュバージョンに置き換えます。
+*   **インスタンスの可視性の切り替え**:必要に応じてプロキシインスタンスを非表示または表示します。
+*   **距離ベースのリスポーン**:プレイヤーからの距離に基づいて、時間経過とともにインスタンスを自動的にリスポーンします。
+*   **オブジェクトプーリング**:生成された破壊メッシュを再利用してパフォーマンスを向上させます。
+*   **ワールドパーティションサポート**:プロキシがレベルに存在しない場合でも、インスタンスの可視性を切り替えます。
+*   **カスタムデータ**:各ダメージアセットに「XP」や「お金」などのカスタムデータを割り当てます。
+*   **ネットワークサポート（3つのモード）**:  
+    *   **クライアント権限**:クライアントが破壊メッシュをスポーンし、サーバーが他のクライアントに通知します。
+    *   **クライアントレプリケーション**:破壊メッシュはレプリケーションを介してクライアント上でスポーンされます。
+    *   **サーバー**:サーバーが破壊アクターを管理し、レプリケーションします。
+*   **プロキシ可視性状態の保存/読み込み**。
+*   **データテーブルからの簡単なセットアップ**。
+*   **ブループリント対応**:プロジェクト全体で簡単にスクリプト化できます。
+*   **C++拡張可能**:サブシステムと仮想関数を使用して、新機能を追加したりデフォルトの動作をオーバーライドしたりできます。
+*   **サンプルプロジェクトを含む**:  
+    *   **カオスミニゲーム**: *セインツロウ*「メイヘム」スタイルのゲームプレイ。
+    *   **破壊ミニゲーム**:ランダムに選択されたメッシュを破壊します。
+    *   **指名手配レベルの例**:破壊の量に基づいて「指名手配」レベルを上昇させます。
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+### システム要件
+
+**Unreal Engineバージョン:** 5.0 - 5.5+
+
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートのため、[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

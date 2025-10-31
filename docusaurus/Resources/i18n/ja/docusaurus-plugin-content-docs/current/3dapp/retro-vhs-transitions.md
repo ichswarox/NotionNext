@@ -16,11 +16,11 @@ slug: /retro-vhs-transitions
 This package contains 225 video transition effects, including film strips, burn holes, graffiti elements, scratch films, VHS, paper stop-motion, tape markers, lens flares, and more. It requires Premiere Pro CC 2022 or higher version and works through the AtomX script (included) with visual operation. Simply double-click to generate the desired elements - very convenient!
 :::
 
-## Script Preset Introduction:
+## スクリプトプリセットの紹介:
 
 This package contains 225 video transition effects, including film strips, burn holes, graffiti elements, scratch films, VHS, paper stop-motion, tape markers, lens flares, and more. It requires Premiere Pro CC 2022 or higher version and works through the AtomX script (included) with visual operation. Simply double-click to generate the desired elements - very convenient!
 
-## Requirements:
+## 要件:
 
 - **Version**: Premiere Pro CC 2022 or higher, supports Chinese/English versions of PR, Win/Mac
 - **Resolution**: No limitations
@@ -32,7 +32,7 @@ This package contains 225 video transition effects, including film strips, burn 
 <!-- The Last Part-Download -->
 ## 🐌Free Slow Download Links
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) までお問い合わせください。
 :::

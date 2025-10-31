@@ -1,59 +1,59 @@
 ---
-title: "Fruit Market 3D Model Asset"
-description: "Collection of various fruit models, shelves, and fruit stalls in FBX format with textures and materials. Perfect for creating realistic market scenes."
-tags: ["3D Model", "FBX Model", "Fruit Model", "Market Asset", "3D Asset"]
+title: "フルーツマーケット3Dモデルアセット"
+description: "テクスチャとマテリアル付きのFBX形式の様々なフルーツモデル、棚、フルーツ屋台のコレクション。リアルな市場シーンの作成に最適です。"
+tags: ["3Dモデル", "FBXモデル", "フルーツモデル", "市場アセット", "3Dアセット"]
 slug: /fruit-market-3d-model-asset
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-<div class="time-update">Last updated: Sep 24 2025</div>
+<div class="time-update">最終更新日: 2025年9月24日</div>
 
 ![Fruit Market](https://www.gfxcamp.com/wp-content/uploads/2025/09/Fruit-Market.jpg)
 
-## Fruit Market 3D Model Asset
+## フルーツマーケット3Dモデルアセット
 
-Dive into the world of fruits with "Fruit Market" asset! It includes a wide variety of exotic and common fruits, as well as various boxes, crates, and market stalls.
+「フルーツマーケット」アセットでフルーツの世界に飛び込みましょう！エキゾチックで一般的なフルーツの幅広い品揃えに加え、様々な箱、木箱、市場の屋台が含まれています。
 
-### Feature List
-- Various fruit models
-- Market shelves and stalls
-- FBX format with textures and materials
-- Realistic market scene creation
+### 機能一覧
+- 様々なフルーツモデル
+- 市場の棚と屋台
+- テクスチャとマテリアル付きのFBX形式
+- リアルな市場シーンの作成
 
-### System Requirements
-- 3D software that supports FBX format (Blender, Maya, 3ds Max, Cinema 4D, etc.)
+### システム要件
+- FBX形式をサポートする3Dソフトウェア（Blender、Maya、3ds Max、Cinema 4Dなど）
 
-### Installation Instructions
+### インストール手順
 
 <Tabs>
-<TabItem value="fbx" label="FBX Import">
+<TabItem value="fbx" label="FBXインポート">
   <details>
-    <summary>Import FBX files</summary>
-    <p>1. Open your 3D software</p>
-    <p>2. Go to File > Import > FBX</p>
-    <p>3. Select the Fruit Market asset files</p>
-    <p>4. Adjust import settings as needed</p>
+    <summary>FBXファイルのインポート</summary>
+    <p>1. 3Dソフトウェアを開く</p>
+    <p>2. ファイル＞インポート＞FBXに移動</p>
+    <p>3. フルーツマーケットアセットファイルを選択</p>
+    <p>4. 必要に応じてインポート設定を調整</p>
  </details>
 </TabItem>
 <TabItem value="blender" label="Blender">
   <details>
-    <summary>Using in Blender</summary>
-    <p>1. Open Blender</p>
-    <p>2. Go to File > Import > FBX</p>
-    <p>3. Select the Fruit Market asset files</p>
-    <p>4. Adjust import settings as needed</p>
+    <summary>Blenderでの使用</summary>
+    <p>1. Blenderを開く</p>
+    <p>2. ファイル＞インポート＞FBXに移動</p>
+    <p>3. フルーツマーケットアセットファイルを選択</p>
+    <p>4. 必要に応じてインポート設定を調整</p>
   </details>
 </TabItem>
 </Tabs>
 
-### 🐌Free Slow Download Links
+### 🐌無料の低速ダウンロードリンク
 
-| Platform | Link | Password |
+| プラットフォーム | リンク | パスワード |
 |----------|------|----------|
-| Baidu Netdisk | [Download](https://pan.baidu.com/s/1ykV8FNn_NY-5iQg8AHJt0w?pwd=uuky) | uuky |
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+| 百度网盘 | [ダウンロード](https://pan.baidu.com/s/1ykV8FNn_NY-5iQg8AHJt0w?pwd=uuky) | uuky |
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までご連絡ください。
 :::

@@ -1,50 +1,50 @@
 ---
-title: Instagram UI Elements Pack for After Effects - Social Media Animation
-description: Professional Instagram UI elements pack for After Effects. Create engaging social media animations with this easy-to-use template.
-tags: [after effects, instagram, ui elements, social media, animation, ae template, video editing, instagram stories]
+title: After Effects用Instagram UI要素パック - ソーシャルメディアアニメーション
+description: After Effects用のプロフェッショナルInstagram UI要素パック。この使いやすいテンプレートで魅力的なソーシャルメディアアニメーションを作成します。
+tags: [after effects, instagram, ui要素, ソーシャルメディア, アニメーション, aeテンプレート, ビデオ編集, instagramストーリー]
 slug: /instagram-ui-elements-pack
 ---
 
-# Instagram UI Elements Pack for After Effects
+# After Effects用Instagram UI要素パック
 
 ![Instagram UI Elements Pack](https://www.gfxcamp.com/wp-content/uploads/2025/09/Instagram-UI-Elements-Pack-59577248.jpg)
 
 :::tip[info]
-Professional Instagram UI elements pack for After Effects. Create engaging social media animations and stories with this easy-to-use template that mimics real Instagram interface elements.
+After Effects用のプロフェッショナルInstagram UI要素パック。実際のInstagramインターフェース要素を模したこの使いやすいテンプレートで、魅力的なソーシャルメディアアニメーションとストーリーを作成します。
 :::
 
-## Key Features
+## 主な機能
 
-- **Instagram UI Elements**: Realistic Instagram interface components
-- **Social Media Focused**: Perfect for Instagram stories and posts
-- **HD Resolution**: High definition 1920×1080 resolution
-- **No Plugins Required**: Works without third-party plugins
-- **PDF Tutorial Included**: Step-by-step instructions provided
-- **Easy to Customize**: Simple modification process
+- **Instagram UI要素**: リアルなInstagramインターフェースコンポーネント
+- **ソーシャルメディアに特化**: Instagramストーリーと投稿に最適
+- **HD解像度**: 高精細度1920×1080解像度
+- **プラグイン不要**: サードパーティプラグインなしで動作
+- **PDFチュートリアル含む**: ステップバイステップ説明書を提供
+- **簡単にカスタマイズ**: 簡単な修正プロセス
 
-## Software Compatibility
+## ソフトウェア互換性
 
-- **After Effects**: CC or higher
+- **After Effects**: CC以降
 
-## Technical Details
+## 技術詳細
 
-- **Format**: aep
-- **Size**: 19MB
-- **Resolution**: HD 1920×1080
-- **Tutorial**: PDF tutorial included
-- **Music**: Background music not included (recommended: AudioJungle music collection)
-- **Customization**: Simple to modify
+- **形式**: aep
+- **サイズ**: 19MB
+- **解像度**: HD 1920×1080
+- **チュートリアル**: PDFチュートリアルを含む
+- **音楽**: バックグラウンド音楽は含まれません（推奨: AudioJungle音楽コレクション）
+- **カスタマイズ**: 簡単に修正
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動します。抽出パスワードはリンクの横に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Instagram UI Elements Pack**  | [Download](https://pan.baidu.com/s/1NGxatWaeEXe7ugW9-xiMqg?pwd=qa4f)        | `qa4f`   |
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+| **Instagram UI要素パック**  | [ダウンロード](https://pan.baidu.com/s/1NGxatWaeEXe7ugW9-xiMqg?pwd=qa4f)        | `qa4f`   |
+## 🚀ダイレクトダウンロードリンク
+:::tip[制限なしのプレミアムダウンロード速度を取得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

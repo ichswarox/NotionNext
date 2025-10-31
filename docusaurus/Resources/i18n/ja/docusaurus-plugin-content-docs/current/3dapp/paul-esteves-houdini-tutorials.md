@@ -1,43 +1,43 @@
 ---
-title: "Paul Esteves Houdini Commercial VFX Packaging Tutorials Collection"
-description: "Complete collection of Paul Esteves Houdini commercial visual effects packaging tutorials with Chinese/English subtitles."
-tags: [houdini, paul-esteves, vfx, tutorials, visual-effects, packaging]
+title: "Paul Esteves Houdini商用VFXパッケージングチュートリアルコレクション"
+description: "中国語/英語字幕付きPaul Esteves Houdini商用ビジュアルエフェクトパッケージングチュートリアルの完全コレクション。"
+tags: [houdini, paul-esteves, vfx, チュートリアル, ビジュアルエフェクト, パッケージング]
 slug: /paul-esteves-houdini-tutorials
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 10 2025
+最終更新日: 2025年10月10日
 
-![Paul Esteves Houdini Patreon Collection](https://www.gfxcamp.com/wp-content/uploads/2025/10/Paul-Esteves-Houdini-Patreon-Collection.jpg)
+![Paul Esteves Houdini Patreonコレクション](https://www.gfxcamp.com/wp-content/uploads/2025/10/Paul-Esteves-Houdini-Patreon-Collection.jpg)
 
-## Paul Esteves Houdini Commercial VFX Packaging Tutorials Collection
+## Paul Esteves Houdini商用VFXパッケージングチュートリアルコレクション
 
-This tutorial collection focuses on Houdini and Redshift, emphasizing workflows, Vellum, SOPs, and design and rendering techniques commonly used by the author. Currently includes 44 effect tutorials.
+このチュートリアルコレクションは、HoudiniとRedshiftに焦点を当て、著者が一般的に使用するワークフロー、Vellum、SOP、そしてデザインとレンダリングテクニックを強調しています。現在は44のエフェクトチュートリアルを含んでいます。
 
-### Features
+### 特徴
 
-- Focus on Houdini and Redshift knowledge
-- Workflows, Vellum, SOPs and rendering techniques
-- 4 effect tutorials covering commercial VFX
-- Project files included
+- HoudiniとRedshiftの知識に焦点
+- ワークフロー、Vellum、SOP、そしてレンダリングテクニック
+- 商用VFXをカバーする4つのエフェクトチュートリアル
+- プロジェクトファイル付属
 
-### Tutorial Details
+### チュートリアルの詳細
 
 <Tabs>
-<TabItem value="format" label="Format">
-- Format: MP4
-- Project files: Included
-- Software: Houdini
-- Resolution: 2650×1440
-- Duration: 46 hours 49 minutes
-- Language: English with AI-translated Chinese/English subtitles
-- Size: 51.3GB
+<TabItem value="format" label="フォーマット">
+- フォーマット: MP4
+- プロジェクトファイル: 付属
+- ソフトウェア: Houdini
+- 解像度: 2650×1440
+- 期間: 46時間49分
+- 言語: 英語とAI翻訳中国語/英語字幕
+- サイズ: 51.3GB
 </TabItem>
 </Tabs>
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[制限なしのプレミアムダウンロード速度を手に入れよう！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

@@ -1,61 +1,61 @@
 ---
-title: "AE Custom Range Layer Selection Script Aescripts - Select Every Other Layer"
-description: "AE script for rapid, precise row-based layer selection via freeform ranges or steps, with animated UI, real-time readouts and fully keyboard-driven workflow."
-tags: [aescripts, AE script, layer script]
+title: "AEカスタムレンジレイヤー選択スクリプト Aescripts - Select Every Other Layer"
+description: "フリーフォームレンジまたはステップによる高速で正確な行ベースレイヤー選択、アニメーションUI、リアルタイム読み取り、完全キーボード駆動ワークフロー対応のAEスクリプト。"
+tags: [aescripts, AEスクリプト, レイヤースクリプト]
 slug: /select-every-other-layer
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月17日
 
 ![img1018-ERfg.webp](https://list.ucards.store/d/img/img1018-ERfg.webp)
 
-## Feature List
+## 機能一覧
 
 :::tip
-Rapid, precise row‑based layer selection via freeform ranges or steps, animated UI, real‑time readouts & fully keyboard‑driven workflow.
+フリーフォームレンジまたはステップによる高速で正確な行ベースレイヤー選択、アニメーションUI、リアルタイム読み取り、完全キーボード駆動ワークフロー。
 :::
 
-## Supported Software Versions
+## 対応ソフトウェアバージョン
 
 - After Effects 2025, 2024, 2023
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
 <TabItem value="windows" label="Windows">
 
-1. Refer to the documentation steps inside the compressed package
-2. Make sure to use English version of After Effects (Chinese version may cause expression errors)
-3. In preferences, go to Edit—Preferences—General panel and check "Allow Scripts to Write Files and Access Network"
+1. 圧縮パッケージ内のドキュメント手順を参照してください
+2. After Effectsの英語版を使用してください（中国語版は式エラーの原因となる可能性があります）
+3. 環境設定で、編集—環境設定—一般パネルに移動し、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」をチェックします
 
 </TabItem>
 <TabItem value="mac" label="Mac">
 
-1. Refer to the documentation steps inside the compressed package
-2. Make sure to use English version of After Effects (Chinese version may cause expression errors)
-3. In preferences, go to Edit—Preferences—General panel and check "Allow Scripts to Write Files and Access Network"
+1. 圧縮パッケージ内のドキュメント手順を参照してください
+2. After Effectsの英語版を使用してください（中国語版は式エラーの原因となる可能性があります）
+3. 環境設定で、編集—環境設定—一般パネルに移動し、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」をチェックします
 
 </TabItem>
 </Tabs>
 
-## System Requirements
+## 📋 システム要件
 
 - After Effects 2025, 2024, 2023
 
-## Key Features
+## 主な特徴
 
-- Quick and accurate layer selection based on rows
-- Customizable ranges or steps for selection
-- Animated user interface
-- Real-time readouts
-- Fully keyboard-driven workflow for efficiency
+- 行ベースでの高速で正確なレイヤー選択
+- 選択のためのカスタマイズ可能なレンジまたはステップ
+- アニメーションUI
+- リアルタイム読み取り
+- 効率性のための完全キーボード駆動ワークフロー
 
-## 🚀Direct Download Link
+## 🚀 直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしのプレミアムダウンロード速度を手に入れよう！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::
 
-Link: https://aescripts.com/select-every-other-layer/
+リンク: https://aescripts.com/select-every-other-layer/

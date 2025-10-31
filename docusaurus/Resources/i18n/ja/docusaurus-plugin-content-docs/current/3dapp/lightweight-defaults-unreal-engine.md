@@ -1,39 +1,39 @@
 ---
-title: "Lightweight Defaults: A Free Unreal Engine 5 Plugin for Performance"
-description: "Discover Lightweight Defaults, a free Unreal Engine 5 plugin by Leon Gameworks that lightens the editor's load, making development on low-spec machines more comfortable."
-tags: ["Unreal Engine 5", "Performance optimization", "Editor plugin", "Low-spec machines", "Rendering optimization", "Game development"]
+title: "Lightweight Defaults：パフォーマンスのための無料Unreal Engine 5プラグイン"
+description: "Leon Gameworksによって開発された無料のUnreal Engine 5プラグイン「Lightweight Defaults」を発見し、エディターの負荷を軽減し、低スペックマシンでの開発をより快適にします。"
+tags: ["Unreal Engine 5", "パフォーマンス最適化", "エディタープラグイン", "低スペックマシン", "レンダリング最適化", "ゲーム開発"]
 slug: /lightweight-defaults-unreal-engine-plugin
 ---
 
-Leon Gameworks has developed and released "Lightweight Defaults," a free Unreal Engine 5 plugin that makes the editor lighter and more comfortable for development on low-spec machines.
+Leon Gameworksは、「Lightweight Defaults」という無料のUnreal Engine 5プラグインを開発し、リリースしました。これにより、エディターが軽くなり、低スペックマシンでの開発がより快適になります。
 
-## Lightweight Defaults
+## 軽量デフォルト
 
-**Lightweight Defaults** is a plugin that reduces the rendering load of the editor with a single click. It is designed to improve performance when launching the editor and to keep development smooth even on low-spec machines.
+**Lightweight Defaults**は、ワンクリックでエディターのレンダリング負荷を軽減するプラグインです。エディターの起動時のパフォーマンスを改善し、低スペックマシンでも開発をスムーズに行えるように設計されています。
 
--   **No setup required:** Simply enable the plugin to reduce the load, and all settings can be adjusted directly from the menu bar.
--   **Preset switching:** Instantly apply quality presets: Low/Medium/High/Epic/Cinematic.
--   **Scalability control:** Individually adjust scalability settings such as anti-aliasing, post-processing, shadows, global illumination, and textures.
--   **Rendering control:** Freely switch motion blur, bloom, ambient occlusion, volume cloud, custom depth, etc.
--   **Real-time viewport control:** Quickly turn on/off real-time rendering of the viewport.
+-   **セットアップ不要：** プラグインを有効にするだけで負荷を軽減でき、すべての設定はメニューバーから直接調整できます。
+-   **プリセット切り替え：** 品質プリセットを即座に適用：Low/Medium/High/Epic/Cinematic。
+-   **スケーラビリティ制御：** アンチエイリアシング、ポストプロセス、シャドウ、グローバルイルミネーション、テクスチャなどのスケーラビリティ設定を個別に調整。
+-   **レンダリング制御：** モーションブラー、ブルーム、アンビエントオクルージョン、ボリュームクラウド、カスタムディスプスなどを自由に切り替え。
+-   **リアルタイムビューポート制御：** ビューポートのリアルタイムレンダリングをすばやくオン/オフ。
 
-:::caution Important Notes
+:::caution 重要な注意事項
 
-Please note that the weight reduction in this plugin is for the purpose of comfortable operation of the editor, so while the editor will be lighter, the game itself is not essentially optimized.
-Also, projects that assume Lumen or Virtual Texture will not work correctly with low quality settings (as they are projects that assume high-spec PCs).
+このプラグインの軽量化は、エディターの快適な操作を目的としているため、エディターは軽くなりますが、ゲーム自体は本質的に最適化されないことに注意してください。
+また、LumenやVirtual Textureを前提としたプロジェクトは、低品質設定では正しく動作しません（高スペックPCを前提としたプロジェクトであるため）。
 
 :::
 
-This plugin seems to be useful when working on a laptop.
-It also seems very convenient for things like turning off motion blur during work.
-"Lightweight Defaults" is available for free from Fab!
-Be sure to check it out!
+このプラグインは、ノートパソコンでの作業時に役立つようです。
+また、作業中のモーションブラーをオフにするなど、非常に便利な機能も搭載されています。
+「Lightweight Defaults」はFabから無料で利用可能です！
+ぜひチェックしてみてください！
 
-## Links
+## リンク
 
 -   [Lightweight Defaults | Fab](https://www.fab.com/ja/listings/73947669-93da-417f-bbf4-e8f1cab933fb)
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

@@ -1,76 +1,76 @@
 ---
-title: "BMS Military Armed Character Tank Hard Surface 3D Asset Models - Armor Blender/FBX/OBJ/UE Formats"
-description: "Discover the BMS Military Armed Character Tank Hard Surface 3D Asset Models in Armor Blender/FBX/OBJ/UE formats. This comprehensive package includes over 550 models: fully rigged character models, 35 pose actions, 3 complete tank armor vehicle models, 34 assembly model assets, and 500+ modular kit model assets with UVs and textures."
-tags: ["3D models", "Armor", "BigMediumSmall", "Blender models", "BMS", "FBX models", "OBJ models", "UE models", "character models", "military models", "tank models", "role models", "premium assets", "3D assets"]
+title: "BMS軍事武装キャラクタータンクハードサーフェス3Dアセットモデル - Armor Blender/FBX/OBJ/UEフォーマット"
+description: "Armor Blender/FBX/OBJ/UEフォーマットのBMS軍事武装キャラクタータンクハードサーフェス3Dアセットモデルを発見してください。この総合的なパッケージには、完全にリギングされたキャラクターモデル、35のポーズアクション、3つの完全な戦車装甲車両モデル、34のアセンブリモデルアセット、そしてUVとテクスチャを持つ500以上のモジュラーキットモデルアセットが含まれています。"
+tags: ["3Dモデル", "Armor", "BigMediumSmall", "Blenderモデル", "BMS", "FBXモデル", "OBJモデル", "UEモデル", "キャラクターモデル", "軍事モデル", "戦車モデル", "ロールモデル", "プレミアムアセット", "3Dアセット"]
 slug: /bms-armor
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# BMS Military Armed Character Tank Hard Surface 3D Asset Models - Armor Blender/FBX/OBJ/UE Formats
+# BMS軍事武装キャラクタータンクハードサーフェス3Dアセットモデル - Armor Blender/FBX/OBJ/UEフォーマット
 
 <!--Second Part-This is First Banner -->
 ![BMS Military Armed Character Tank Hard Surface 3D Asset Models](https://www.gfxcamp.com/wp-content/uploads/2025/08/BMS-Armor.jpg)
 
-:::tip[info]
-Discover the BMS Military Armed Character Tank Hard Surface 3D Asset Models in Armor Blender/FBX/OBJ/UE formats. This comprehensive package includes over 550 models: fully rigged character models, 35 pose actions, 3 complete tank armor vehicle models, 34 assembly model assets, and 500+ modular kit model assets with UVs and textures.
+:::tip[情報]
+Armor Blender/FBX/OBJ/UEフォーマットのBMS軍事武装キャラクタータンクハードサーフェス3Dアセットモデルを発見してください。この総合的なパッケージには、完全にリギングされたキャラクターモデル、35のポーズアクション、3つの完全な戦車装甲車両モデル、34のアセンブリモデルアセット、そしてUVとテクスチャを持つ500以上のモジュラーキットモデルアセットが含まれています。
 :::
 
-## Key Features
+## 主な機能
 
-- **Extensive Model Collection**: Over 550 models including:
-  - Fully rigged character models
-  - 35 pose actions
-  - 3 complete tank armor vehicle models
-  - 34 assembly model assets
-  - 500+ modular kit model assets with UVs and textures
-- **Multiple Format Support**: 
-  - Blender format (Blender 3.6 or higher)
-  - FBX format (compatible with other 3D software)
-  - OBJ format (compatible with other 3D software)
-  - Unreal Engine format (UE5.5 or higher)
-- **High-Quality Textures**: Includes 2K and 4K resolution texture materials
-- **Asset Browser Integration**: Direct model files and asset presets that can be previewed and used through Blender's asset browser
-- **Large Package Size**: 30.7GB compressed package - download only the format you need
+- **広範なモデルコレクション**: 550以上のモデルが含まれています：
+  - 完全にリギングされたキャラクターモデル
+  - 35のポーズアクション
+  - 3つの完全な戦車装甲車両モデル
+  - 34のアセンブリモデルアセット
+  - UVとテクスチャを持つ500以上のモジュラーキットモデルアセット
+- **複数のフォーマットサポート**: 
+  - Blenderフォーマット（Blender 3.6以上）
+  - FBXフォーマット（他の3Dソフトウェアと互換性あり）
+  - OBJフォーマット（他の3Dソフトウェアと互換性あり）
+  - Unreal Engineフォーマット（UE5.5以上）
+- **高品質なテクスチャ**: 2Kおよび4K解像度のテクスチャマテリアルを含む
+- **アセットブラウザー統合**: Blenderのアセットブラウザーを通じてプレビューおよび使用できる直接のモデルファイルとアセットプリセット
+- **大きなパッケージサイズ**: 30.7GB圧縮パッケージ - 必要なフォーマットのみをダウンロード
 
-## Product Details
+## 製品詳細
 
-- **Developer**: BigMediumSmall
-- **Formats**: Blender, FBX, OBJ, UE
-- **Texture Resolution**: 2K and 4K
-- **Total Models**: 550+
-- **File Size**: 30.7GB (compressed)
-- **Supported Software**: 
+- **開発元**: BigMediumSmall
+- **フォーマット**: Blender、FBX、OBJ、UE
+- **テクスチャ解像度**: 2Kおよび4K
+- **総モデル数**: 550+
+- **ファイルサイズ**: 30.7GB（圧縮済み）
+- **対応ソフトウェア**: 
   - Blender 3.6+
   - UE 5.5+
-  - Other 3D software (FBX/OBJ)
+  - 他の3Dソフトウェア（FBX/OBJ）
 
-## Why Choose BMS Military Armed Character Tank Hard Surface 3D Asset Models?
+## BMS軍事武装キャラクタータンクハードサーフェス3Dアセットモデルを選ぶ理由？
 
-Whether you're creating military-themed video games, films, or architectural visualizations, this comprehensive asset pack provides all the elements needed to build realistic military environments. The package includes everything from individual soldiers and equipment to complete armored vehicles and modular building components.
+軍事テーマのビデオゲーム、映画、または建築ビジュアライゼーションを作成する場合でも、この総合的なアセットパックは、リアルな軍事環境を構築するために必要なすべての要素を提供します。このパッケージには、個々の兵士と装備から、完全な装甲車両やモジュラー建築コンポーネントまで、すべてが含まれています。
 
-### Perfect for Game Developers and 3D Artists
+### ゲーム開発者と3Dアーティストに最適
 
-This asset pack is ideal for game developers, 3D artists, and animators working on military-themed projects. The extensive collection of modular components allows for infinite combinations and customizations, enabling you to create unique scenes and environments.
+このアセットパックは、軍事テーマのプロジェクトに取り組むゲーム開発者、3Dアーティスト、アニメーターに理想的です。広範なモジュラーコンポーネントのコレクションは、無限の組み合わせとカスタマイズを可能にし、独自のシーンと環境を作成することを可能にします。
 
-### High-Quality Assets for Professional Projects
+### プロフェッショナルプロジェクト向けの高品質アセット
 
-All models in this package are created with attention to detail, featuring realistic proportions and accurate military equipment designs. With 2K and 4K texture resolution options, your projects will look sharp and professional on all platforms.
+このパッケージのすべてのモデルは、リアルなプロポーションと正確な軍事装備のデザインを特徴とする、細部への注意を払って作成されています。2Kおよび4Kのテクスチャ解像度オプションにより、すべてのプラットフォームでプロジェクトが鮮明でプロフェッショナルに見えるようになります。
 
-## System Requirements
+## システム要件
 
-- **Blender Format**: Blender 3.6 or higher
-- **Unreal Engine Format**: UE 5.5 or higher
-- **FBX/OBJ Formats**: Compatible with most 3D software
-- **Storage Space**: 30.7GB available space for full package
+- **Blenderフォーマット**: Blender 3.6以上
+- **Unreal Engineフォーマット**: UE 5.5以上
+- **FBX/OBJフォーマット**: ほとんどの3Dソフトウェアと互換性あり
+- **ストレージスペース**: フルパッケージ用に30.7GBの利用可能スペース
 
-For direct purchase or if you encounter any download issues, please contact us via WeChat at +86 13237610083
+直接購入、またはダウンロードの問題が発生した場合は、WeChatで+86 13237610083までご連絡ください
 
-## Conclusion
+## まとめ
 
-The **BMS Military Armed Character Tank Hard Surface 3D Asset Models** package is an essential resource for any 3D artist or developer working on military-themed projects. With over 550 high-quality models and support for multiple popular 3D software formats, this comprehensive package provides everything needed to create realistic military environments and characters.
+**BMS軍事武装キャラクタータンクハードサーフェス3Dアセットモデル**パッケージは、軍事テーマのプロジェクトに取り組むすべての3Dアーティストや開発者にとって不可欠なリソースです。550以上の高品質なモデルと、複数の人気3Dソフトウェアフォーマットのサポートを備えたこの総合的なパッケージは、リアルな軍事環境とキャラクターを作成するために必要なすべてを提供します。
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

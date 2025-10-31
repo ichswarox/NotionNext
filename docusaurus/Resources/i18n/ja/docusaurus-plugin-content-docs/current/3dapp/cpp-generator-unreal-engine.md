@@ -1,64 +1,64 @@
 ---
-title: "C++ Generator: A Development Tool Plugin for Unreal Engine"
-description: "Discover C++ Generator, a powerful Unreal Engine plugin by Ciji Games that automates the creation of C++ snippets, macros, actors, and classes to streamline your development workflow."
-tags: ["Unreal Engine", "C++", "C++ Generator", "UE5", "Game Development", "Plugin"]
+title: "C++ Generator: Unreal Engine用開発ツールプラグイン"
+description: "Ciji GamesによるC++ Generatorを発見してください。これは、スニペット、マクロ、アクター、クラスの作成を自動化し、開発ワークフローを合理化する強力なUnreal Engineプラグインです。"
+tags: ["アンリアルエンジン", "C++", "C++ Generator", "UE5", "ゲーム開発", "プラグイン"]
 slug: /cpp-generator-unreal-engine-plugin
 ---
 
-"C++ Generator" by Ciji Games is a plugin designed to assist with C++ code generation in Unreal Engine development. It is versatile, catering to both C++ learners who need to quickly create snippets and experienced developers looking to organize variables and actor structures.
+Ciji Gamesによる「C++ Generator」は、Unreal Engine開発におけるC++コード生成を支援するように設計されたプラグインです。これは多用途で、スニペットを素早く作成する必要があるC++学習者と、変数とアクター構造を整理しようとしている経験豊富な開発者の両方に対応しています。
 
-## C++ Generator Features
+## C++ Generatorの機能
 
 <iframe
   width="560"
   height="315"
   src="https://www.youtube.com/embed/fko2KlbKVmE"
-  title="YouTube video player"
+  title="YouTubeビデオプレーヤー"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
 
-### UMacros Generator
+### UMacrosジェネレーター
 
-Enhance your C++ workflow in Unreal Engine.
+Unreal EngineでのC++ワークフローを強化します。
 
--   **Create Variables, Arrays, and Sets**: Generate essential variables (Bool, Int, Transform, etc.) and easily set their defaults.
--   **Advanced Flags and Specifiers**: Expose C++ variables and functions in the editor while customizing their behavior.
--   **Custom Node Generation**: Create functions with multiple inputs and outputs, similar to Blueprints.
+-   **変数、配列、セットの作成**: 必須の変数（Bool、Int、Transformなど）を生成し、簡単にデフォルトを設定します。
+-   **高度なフラグと指定子**: C++変数と関数をエディタに公開しながら、その動作をカスタマイズします。
+-   **カスタムノード生成**: 複数の入力と出力を持つ関数を作成し、ブループリントと同様の機能を実現します。
 
-### AActor Generator
+### AActorジェネレーター
 
-Easily create and manage actor hierarchies while ensuring error-free compilation.
+アクターヒエラルキーを簡単に作成・管理し、エラーのないコンパイルを確実にします。
 
--   **Drag-and-Drop Management**: Modify actor hierarchies with drag-and-drop functionality.
--   **Custom Component Integration**: Seamlessly integrate custom C++ components into generated actors.
--   **Full Class Code Generation**: Automatically generate complete class code as quickly as creating a Blueprint.
+-   **ドラッグアンドドロップ管理**: ドラッグアンドドロップ機能でアクターヒエラルキーを変更します。
+-   **カスタムコンポーネント統合**: カスタムC++コンポーネントを生成されたアクターにシームレスに統合します。
+-   **完全なクラスコード生成**: ブループリントを作成するのと同じくらい素早く、完全なクラスコードを自動生成します。
 
-### C++ Toolbox
+### C++ツールボックス
 
-Streamline your C++ workflow with essential development tools.
+必須の開発ツールでC++ワークフローを合理化します。
 
--   **Find Includes and Delegates**: Search for include and delegate signatures in the engine.
--   **Instant Logging and Debugging**: Generate logs and debug shapes with just two clicks.
--   **Get Asset Paths**: Easily load non-C++ assets into your code.
--   **Easily Generate Structs and Enums**
+-   **インクルードとデリゲートの検索**: エンジン内でインクルードとデリゲートシグネチャを検索します。
+-   **即座のロギングとデバッグ**: 2回のクリックでログとデバッグシェイプを生成します。
+-   **アセットパスの取得**: 非C++アセットをコードに簡単にロードします。
+-   **構造体と列挙型を簡単に生成**
 
-### BP Node Translator
+### BPノード翻訳機
 
-Search for widely used nodes in the database and get the equivalent C++ node with a single click.
+データベースで広く使用されているノードを検索し、1回のクリックで同等のC++ノードを取得します。
 
 :::info
 
-The "C++ Generator" is available on Fab for $14.99 for a personal license and $34.99 for a professional license.
+「C++ Generator」は、Fabで個人ライセンス14.99ドル、プロフェッショナルライセンス34.99ドルで入手可能です。
 
 :::
 
-## Links
+## リンク
 
 -   [C++ Generator | Fab](https://www.fab.com/ja/listings/6f1236ea-3587-4cdc-808c-1624ce0b9500)
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

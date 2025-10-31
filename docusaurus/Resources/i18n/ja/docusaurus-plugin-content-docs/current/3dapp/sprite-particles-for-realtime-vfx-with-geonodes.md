@@ -1,63 +1,63 @@
 ---
-title: Sprite Particles For Realtime Vfx With Geonodes V2.0 - Blender Custom Particle Effects Node Asset Presets
+title: ジオノードV2.0によるリアルタイムVFX用スプライトパーティクル - Blenderカスタムパーティクルエフェクトノードアセットプリセット
 sidebar_position: 1
-description: Blender particle effects asset presets based on geometry nodes, capable of creating various real-time visual effects such as explosions, water splashes, campfires, smoke, and steam.
-tags: [Sprite Particles, Blender plugin, particle effects, real-time particles, explosion effects, geometry nodes, 3D effects, VFX assets, Blender effects]
+description: ジオノードに基づいたBlenderパーティクルエフェクトアセットプリセットで、爆発、水しぶき、キャンプファイヤー、煙、蒸気などの様々なリアルタイムビジュアルエフェクトを作成可能。
+tags: [スプライトパーティクル, Blenderプラグイン, パーティクルエフェクト, リアルタイムパーティクル, 爆発エフェクト, ジオノード, 3Dエフェクト, VFXアセット, Blenderエフェクト]
 slug: /sprite-particles-for-realtime-vfx-with-geonodes
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->
-*Last updated: Sep 21 2025*<!--generate depend on file modified time -->
+*最終更新日: 2025年9月21日*<!--generate depend on file modified time -->
 
 <!--First Part-This is Title -->
-# Sprite Particles: Blender Custom Particle Effects Node Asset Presets
+# スプライトパーティクル：Blenderカスタムパーティクルエフェクトノードアセットプリセット
 
 <!--Second Part-This is First Banner -->
-![Sprite Particles For Realtime Vfx With Geonodes](https://www.gfxcamp.com/wp-content/uploads/2025/07/Sprite-Particles-For-Realtime-Vfx-With-Geonodes.jpg)
+![ジオノードによるリアルタイムVFX用スプライトパーティクル](https://www.gfxcamp.com/wp-content/uploads/2025/07/Sprite-Particles-For-Realtime-Vfx-With-Geonodes.jpg)
 
-:::tip[info]
-Based on geometry nodes, various particle effects can be custom generated, such as explosions, water splashes, campfires, smoke, and steam. Sprite particles facilitate the creation of diverse real-time visual effects; this technique, long embraced by the gaming industry, is now effortlessly achievable within Blender.
+:::tip[情報]
+ジオノードに基づいて、爆発、水しぶき、キャンプファイヤー、煙、蒸気などの様々なパーティクルエフェクトをカスタム生成できます。スプライトパーティクルは多様なリアルタイムビジュアルエフェクトの作成を容易にし、この技術は長年ゲーム業界で採用されてきましたが、今ではBlender内で簡単に実現可能です。
 :::
 
-## Asset Presets Introduction
+## アセットプリセットの紹介
 
-Sprite Particles For Realtime Vfx With Geonodes is a set of particle effects asset presets based on Blender's geometry node system. These presets allow creators to easily create various real-time visual effects, including explosions, water splashes, campfires, smoke, and steam, without requiring in-depth programming knowledge.
+ジオノードによるリアルタイムVFX用スプライトパーティクルは、Blenderのジオノードシステムに基づいたパーティクルエフェクトアセットプリセットセットです。これらのプリセットにより、クリエイターは爆発、水しぶき、キャンプファイヤー、煙、蒸気を含む様々なリアルタイムビジュアルエフェクトを簡単に作成でき、深いプログラミング知識は必要ありません。
 
-Key Features:
-- Based on geometry node system
-- Multiple particle effect presets
-- Optimized for real-time rendering
-- Easy to customize and adjust
-- Suitable for game and animation production
+主な特徴：
+- ジオノードシステムに基づいている
+- 複数のパーティクルエフェクトプリセット
+- リアルタイムレンダリングに最適化
+- カスタマイズと調整が簡単
+- ゲームとアニメーション制作に適している
 
-## Compatibility
+## 互換性
 
-Supported Blender Versions:
+対応Blenderバージョン：
 - Blender 4.3, 4.2, 4.1, 4.0
 
-## Installation Steps
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="installation" label="Installation Instructions" default>
+  <TabItem value="installation" label="インストール手順" default>
     <ol>
-      <li>In the top menu, select <code>Edit</code> → <code>Preferences</code> → <code>File Paths</code> → <code>Asset Libraries</code></li>
-      <li>Add the path to the Sprite Particles For Realtime Vfx With Geonodes folder</li>
+      <li>上部メニューから<code>編集</code> → <code>環境設定</code> → <code>ファイルパス</code> → <code>アセットライブラリ</code>を選択</li>
+      <li>ジオノードによるリアルタイムVFX用スプライトパーティクルフォルダへのパスを追加</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌 無料の低速ダウンロードリンク
 
 
 
-| File Version | Download Link | Password |
+| ファイルバージョン | ダウンロードリンク | パスワード |
 |--------------|---------------|----------|
-| Sprite Particles V2.0 | [Download Link](https://pan.baidu.com/s/1kK7yXykQYCDW6kELSKS0dQ?pwd=5sm8) | `5sm8` |
-| Sprite Particles V1.2.1 | [Download Link](https://pan.baidu.com/s/1uNk2DGDMgaUSdJn5Fz5suw?pwd=p6yk) | `p6yk` |
+| スプライトパーティクル V2.0 | [ダウンロードリンク](https://pan.baidu.com/s/1kK7yXykQYCDW6kELSKS0dQ?pwd=5sm8) | `5sm8` |
+| スプライトパーティクル V1.2.1 | [ダウンロードリンク](https://pan.baidu.com/s/1uNk2DGDMgaUSdJn5Fz5suw?pwd=p6yk) | `p6yk` |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

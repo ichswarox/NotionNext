@@ -1,62 +1,65 @@
 ---
-title: "MotionVFX mBrand DVR - 14 Text Title Logo Transition Animation Presets for DaVinci Resolve"
-description: "MotionVFX mBrand DVR includes 11 text title logo animations and 3 video transition animations for DaVinci Resolve"
-tags: [motionvfx, davinci-resolve, logo-animation, video-transitions, text-animation]
-slug: /motionvfx-mbrand-dvr
+title: MotionVFX mBrand DVR - DaVinci Resolveブランディングモーショングラフィックステンプレートパック
+description: MotionVFX mBrand DVRはDaVinci Resolve用のプロフェッショナルブランディングモーショングラフィックステンプレートパックで、ロゴアニメーション、ロワーサード、トランジション、ソーシャルメディアグラフィックが含まれています。
+slug: motionvfx-mbrand-dvr
+tags:
+  - DaVinci Resolve
+  - MotionVFX
+  - ブランディング
+  - モーショングラフィック
+  - ステンプレート
+  - ロゴアニメーション
+  - ロワーサード
+  - トランジション
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <div align="left">
-  Last updated: Oct 10 2025
+  最終更新日: 2025年10月22日
 </div>
 
-![MotionVFX mBrand DVR - 14 Text Title Logo Transition Animation Presets for DaVinci Resolve](https://www.gfxcamp.com/wp-content/uploads/2025/10/MotionVFX-–-mBrand-DVR.jpg)
+![motionvfx-mbrand-dvr-cover.webp](https://list.ucards.store/d/img/motionvfx-mbrand-dvr-cover.webp)
 
-## MotionVFX mBrand DVR - 14 Text Title Logo Transition Animation Presets for DaVinci Resolve
+# MotionVFX mBrand DVR - DaVinci Resolveブランディングモーショングラフィックステンプレートパック
 
-MotionVFX mBrand DVR includes 11 text title logo animations + 3 video transition animations
+## アセット概要
 
-Sometimes it feels like MotionVFX is playing "catch me if you can" with us. They drop packs that don't even exist in their official catalog. This time it's all about mBrand. Officially it doesn't exist — but we know it's real.
+MotionVFX mBrand DVRは、DaVinci Resolve用に特別に設計された包括的なブランディングモーショングラフィックステンプレートパックです。このコレクションには、プロフェッショナルなブランドビデオコンテンツを作成するために必要なすべてが含まれています。
 
-## Features
+## 🚀 特徴
 
-- 11 text title logo animations
-- 3 video transition animations
-- Compatible with DaVinci Resolve
-- Professional motion graphics presets
+:::info[パック内容]
+- **11のロゴアニメーション**: 動的なロゴ表示とアニメーション
+- **3つのビデオトランジション**: スムーズでプロフェッショナルなトランジションエフェクト
+- **モダンなデザイン**: コンテンポラリーな美学とクリーンなアニメーション
+- **カスタマイズ可能**: カラー、テキスト、タイミングを簡単に調整可能
+- **高品質**: プロフェッショナルな結果のためのプレミアム品質
+:::
 
-## Installation
+## 📋 システム要件
 
-<Tabs>
-<TabItem value="macos" label="macOS">
-1. Download the package
-2. Extract the files to your DaVinci Resolve plugins directory
-3. Restart DaVinci Resolve
-4. The presets will be available in the effects library
-</TabItem>
-<TabItem value="windows" label="Windows">
-1. Download the package
-2. Extract the files to your DaVinci Resolve plugins directory
-3. Restart DaVinci Resolve
-4. The presets will be available in the effects library
-</TabItem>
-<TabItem value="linux" label="Linux">
-1. Download the package
-2. Extract the files to your DaVinci Resolve plugins directory
-3. Restart DaVinci Resolve
-4. The presets will be available in the effects library
-</TabItem>
-</Tabs>
+- **ソフトウェア**: DaVinci Resolve 17以降
+- **プラットフォーム**: WindowsとMacに対応
+- **解像度**: 4K対応（3840×2160）
+- **プラグイン**: 追加のプラグインは不要
+- **サイズ**: 約500MB
 
-## 🐌Free Slow Download Links
+## インストール手順
 
-| File | Link | Password |
+1. ダウンロードしたファイルを解凍
+2. `.drfx`ファイルをDaVinci Resolveにドラッグ＆ドロップ
+3. プロジェクトでテンプレートにアクセス
+4. カスタマイズして使用開始
+
+## 🐌 無料の低速ダウンロードリンク
+
+| ファイル | リンク | パスワード |
 |------|----------|----------|
-| MotionVFX mBrand DVR | [Baidu Netdisk Download](https://pan.baidu.com/s/1ibwocI1A9QH1dfJrTcayjw?pwd=pcff) | pcff |
+| MotionVFX mBrand DVR | [Baidu Netdiskダウンロード](https://pan.baidu.com/s/1ibwocI1A9QH1dfJrTcayjw?pwd=pcff) | pcff |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

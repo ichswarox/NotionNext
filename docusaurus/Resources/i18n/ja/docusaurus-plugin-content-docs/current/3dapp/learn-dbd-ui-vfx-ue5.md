@@ -1,48 +1,48 @@
 ---
-title: "Learn UI Visual Effects from 'Dead by Daylight' in UE5"
-description: "An online course by CGWORLD ONLINE ACADEMY featuring UI Technical Designer Adrian Saito, breaking down UI material creation and visual expression techniques used in 'Dead by Daylight'."
-tags: ['Dead by Daylight', 'UI', 'VFX', 'Unreal Engine 5', 'UE5', 'CGWORLD', 'tutorial', 'game development']
+title: "UE5で『Dead by Daylight』のUIビジュアルエフェクトを学ぶ"
+description: "CGWORLD ONLINE ACADEMYによるオンラインコースで、UIテクニカルデザイナーAdrian Saitoが『Dead by Daylight』で使用されるUIマテリアル作成とビジュアル表現テクニックを解説。"
+tags: ['Dead by Daylight', 'UI', 'VFX', 'Unreal Engine 5', 'UE5', 'CGWORLD', 'チュートリアル', 'ゲーム開発']
 slug: /learn-dbd-ui-vfx-ue5
 ---
 
-CGWORLD ONLINE ACADEMY is hosting an online course, **"Learning UI Visual Expression from 'DEAD BY DAYLIGHT' ~A Gentle Guide to UI Materials~"**, presented by Adrian Saito, a UI Technical Designer at Behaviour Interactive. The course will be held online on Friday, September 19, 2025.
+CGWORLD ONLINE ACADEMYは、オンラインコース**『DEAD BY DAYLIGHT』から学ぶUIビジュアル表現～UIマテリアルのやさしい入門～**を、Behaviour InteractiveのUIテクニカルデザイナーAdrian Saitoによる開催を予定しています。コースは2025年9月19日（金）にオンラインで開催されます。
 
 ![Dead by Daylight UI Course](https://3dnchu.com/wp-content/uploads/2025/09/2025-09-13_15-09-05.jpg)
 
-:::info Who is this course for?
-Have you ever felt lost about where to start with UI materials due to the lack of documentation and tutorials? This course is designed for you. It gently explains everything from the basics of materials needed for UI effects to advanced techniques used by professionals, using examples from *Dead by Daylight*. Even if you're a UI designer who thinks, "I'm not good at math, so UI materials are impossible," this course will show you that you can create stunning UI presentations by mastering the fundamentals.
+:::info このコースは誰のため？
+UIマテリアルについてのドキュメントやチュートリアルが不足していて、どこから始めればいいか迷ったことはありませんか？このコースはあなたのために設計されています。*Dead by Daylight*の例を使用して、UIエフェクトに必要なマテリアルの基本からプロフェッショナルが使用する高度なテクニックまで、やさしく説明します。「数学が苦手だからUIマテリアルは無理」と思っているUIデザイナーの方も、基本をマスターすることで素晴らしいUIプレゼンテーションを作成できることをお見せします。
 :::
 
-The course will be conducted using Unreal Engine 5, but the concepts covered are versatile and applicable to other game engines.
+コースはUnreal Engine 5を使用して実施されますが、カバーされる概念は汎用的で、他のゲームエンジンにも適用可能です。
 
-### Course Details
+### コース詳細
 
 | | |
 | :--- | :--- |
-| **Course Name** | Learning UI Visual Expression from 'DEAD BY DAYLIGHT' |
-| **Instructor** | **Adrian Saito**, UI Technical Designer at Behaviour Interactive ([@ko\_yuki\_lo](https://x.com/ko_yuki_lo)) |
-| **Date & Time** | Friday, September 19, 2025, 18:00 - 21:00 |
-| **Archive** | Available for attendees after the event. |
-| **Price** | ¥13,200 (tax included) |
+| **コース名** | 『DEAD BY DAYLIGHT』から学ぶUIビジュアル表現 |
+| **講師** | **Adrian Saito**、Behaviour InteractiveのUIテクニカルデザイナー ([@ko\_yuki\_lo](https://x.com/ko_yuki_lo)) |
+| **日時** | 2025年9月19日（金）、18:00 - 21:00 |
+| **アーカイブ** | イベント後に参加者向けに提供されます。 |
+| **価格** | ¥13,200（税込） |
 
-### Curriculum
+### カリキュラム
 
-*   **The Role of a UI Technical Designer**
-    *   An introduction to what a UI Technical Designer is and what the job entails.
-*   **Introduction to the UI of 'DEAD BY DAYLIGHT'**
-    *   A look at the UI of *Dead by Daylight* and the key focus points in creating its UI effects.
-*   **From UI Material Basics to Pro Techniques**
-    *   A deep dive from the fundamentals of UI materials to the professional techniques actually used in the game.
-    *   Covers common effects like scrolling and scaling, as well as advanced topics like masks, distortion, gradient maps, flow maps, and 2D particles.
-    *   This will be a live session in Unreal Engine, not just a slideshow. A sample project data will be provided for free.
-*   **Best Practices**
-    *   A summary of key practices and tips to incorporate into your daily workflow.
+*   **UIテクニカルデザイナーの役割**
+    *   UIテクニカルデザイナーとは何か、仕事内容についての紹介。
+*   **『DEAD BY DAYLIGHT』のUI紹介**
+    *   *Dead by Daylight*のUIを見て、そのUIエフェクト作成における重要な焦点を解説。
+*   **UIマテリアルの基本からプロテクニックまで**
+    *   UIマテリアルの基本から、実際にゲームで使用されるプロフェッショナルテクニックまでを深く掘り下げる。
+    *   スクロールやスケーリングなどの一般的なエフェクトから、マスク、ディストーション、グラデーションマップ、フローマップ、2Dパーティクルなどの高度なトピックをカバー。
+    *   これはスライドショーだけでなく、Unreal Engineでのライブセッションになります。サンプルプロジェクトデータは無料で提供されます。
+*   **ベストプラクティス**
+    *   日常のワークフローに取り入れるべき重要なプラクティスとヒントのまとめ。
 
-This is a rare opportunity to learn specialized knowledge about UI materials. If you are a UI artist, this is a must-see course!
+これはUIマテリアルに関する専門知識を学ぶ貴重な機会です。UIアーティストの方は、必見のコースです！
 
-**[➡️ Register for the Course on CGWORLD ONLINE ACADEMY](https://academy.cgworld.jp/contents/1888)**
+**[➡️ CGWORLD ONLINE ACADEMYでコースに登録](https://academy.cgworld.jp/contents/1888)**
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

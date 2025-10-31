@@ -1,74 +1,74 @@
 ---
-title: "GreyscaleGorilla – Fundamental of Octane - Introduction to Octane Renderer Tutorial"
-description: "Introduction to Octane renderer tutorial by GreyscaleGorilla, covering setup, texture creation and more, taught by Octane expert David Ariew."
-tags: [octane, tutorial, cinema4d, greyscalegorilla, rendering, gsg]
+title: "GreyscaleGorilla – Octaneの基礎 - Octaneレンダラー入門チュートリアル"
+description: "GreyscaleGorillaによるOctaneレンダラー入門チュートリアルで、セットアップ、テクスチャ作成などをOctaneエキスパートDavid Ariewが解説します。"
+tags: [octane, チュートリアル, cinema4d, greyscalegorilla, レンダリング, gsg]
 slug: /greyscalegorilla-fundamental-of-octane
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-_Last updated: Sep 29 2025_
+_最終更新日: 2025年9月29日_
 
 ![GreyscaleGorilla Fundamental of Octane](https://www.gfxcamp.com/wp-content/uploads/2025/09/GreyscaleGorilla-Fundamental-of-Octane.jpg)
 
-## Overview
+## 概要
 
-In this training, Octane expert David Ariew gives you a super informative and efficiently paced speedrun through his extensive Octane knowledge. This tutorial covers the basics of Octane renderer setup, texture creation and more, produced by GreyscaleGorilla.
+このトレーニングでは、OctaneエキスパートDavid Ariewが彼の広範なOctane知識を効率的なペースでスピードラン形式で解説します。このチュートリアルは、Octaneレンダラーのセットアップ、テクスチャ作成などの基本をカバーし、GreyscaleGorillaによって制作されました。
 
-## Features
+## 機能
 
 :::info
-- Introduction to Octane renderer
-- Setup and configuration guide
-- Texture creation techniques
-- Expert instruction by David Ariew
-- Efficient learning approach
+- Octaneレンダラー入門
+- セットアップと設定ガイド
+- テクスチャ作成テクニック
+- David Ariewによるエキスパート指導
+- 効率的な学習アプローチ
 :::
 
-## System Requirements
+## システム要件
 
 - Cinema 4D
-- Octane Renderer
-- MP4 player for 1920×1080 videos
+- Octaneレンダラー
+- 1920×1080ビデオ用MP4プレーヤー
 
-## Tutorial Details
+## チュートリアルの詳細
 
-| Aspect | Details |
+| 項目 | 詳細 |
 |---------|
-| Software Required | Cinema 4D, Octane Renderer |
-| Duration | 5 hours 13 minutes |
-| Assets | Project files not included |
-| Subtitles | English without subtitles |
-| Format | MP4, 1920×1080 |
+| 必要なソフトウェア | Cinema 4D、Octaneレンダラー |
+| 期間 | 5時間13分 |
+| アセット | プロジェクトファイルは含まれていません |
+| 字幕 | 英語（字幕なし） |
+| フォーマット | MP4、1920×1080 |
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
-<TabItem value="cinema4d" label="Cinema 4D Setup">
-1. Install Cinema 4D with Octane renderer plugin
-2. Configure Octane settings
-3. Set up rendering environment
+<TabItem value="cinema4d" label="Cinema 4Dセットアップ">
+1. Octaneレンダラープラグイン付きCinema 4Dをインストール
+2. Octane設定を構成
+3. レンダリング環境を設定
 </TabItem>
-<TabItem value="octane" label="Octane Setup">
-1. Install Octane renderer
-2. Configure license settings
-3. Set up material libraries
+<TabItem value="octane" label="Octaneセットアップ">
+1. Octaneレンダラーをインストール
+2. ライセンス設定を構成
+3. マテリアルライブラリを設定
 </TabItem>
-<TabItem value="workflow" label="Workflow">
-1. Follow the tutorial progression
-2. Apply techniques to your projects
-3. Practice with provided examples
+<TabItem value="workflow" label="ワークフロー">
+1. チュートリアルの進行に従う
+2. プロジェクトにテクニックを適用
+3. 提供された例で練習
 </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-| Version | Download Link | Password |
+| バージョン | ダウンロードリンク | パスワード |
 |---------|---------------|----------|
-| Full Course | [Download from Baidu Pan](https://pan.baidu.com/s/1lfY0i56RS75-hB2SCfIc6A?pwd=rjzr) | rjzr |
+| フルコース | [百度网盘からダウンロード](https://pan.baidu.com/s/1lfY0i56RS75-hB2SCfIc6A?pwd=rjzr) | rjzr |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

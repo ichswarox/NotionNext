@@ -1,50 +1,50 @@
 ---
-title: Genshin Impact Blender Assets Collection - 3D Models for Game Assets
-description: Collection of models from the game Genshin Impact. Fully ready for the asset browser with basic models like beds, chairs, doors, floors, plants, tables, trees, etc.
-tags: [blender, genshin impact, 3d models, game assets, asset browser, blender assets, 3d modeling, game development]
+title: 原神ブレンダーアセットコレクション - ゲームアセット用3Dモデル
+description: 原神ゲームからのモデルコレクション。ベッド、椅子、ドア、床、植物、テーブル、木などの基本的なモデルが完全にアセットブラウザ対応。
+tags: [ブレンダー, 原神, 3Dモデル, ゲームアセット, アセットブラウザ, ブレンダーアセット, 3Dモデリング, ゲーム開発]
 slug: /genshin-impact-blender-assets
 ---
 
-# Genshin Impact Blender Assets Collection
+# 原神ブレンダーアセットコレクション
 
 ![Genshin Impact Blender Assets](https://www.gfxcamp.com/wp-content/uploads/2025/09/Genshin-Impact-Blender-Assets-collection.jpg)
 
-:::tip[info]
-Collection of models from the game Genshin Impact. Fully ready for the asset browser. Contains all the basic models, divided into categories: beds, ceilings, chairs, doors, floors, food, light, plants, carpets, tables, trees, vases, buckets, fountains, pools, walls, etc.
+:::tip[情報]
+原神ゲームからのモデルコレクション。アセットブラウザで完全に使用可能。ベッド、天井、椅子、ドア、床、食べ物、照明、植物、カーペット、テーブル、木、花瓶、バケツ、噴水、プール、壁など、カテゴリ別に分類されたすべての基本的なモデルが含まれています。
 :::
 
-## Key Features
+## 主な機能
 
-- **Game Assets Ready**: Models from the popular game Genshin Impact
-- **Asset Browser Compatible**: Directly usable in Blender's asset browser
-- **Categorized Models**: Organized into different categories for easy access
-- **Interior Design Elements**: Contains various furniture and decoration items
+- **ゲームアセット対応**: 人気ゲーム原神からのモデル
+- **アセットブラウザ対応**: ブレンダーのアセットブラウザで直接使用可能
+- **分類されたモデル**: 簡単なアクセスのため、異なるカテゴリに整理済み
+- **インテリアデザイン要素**: 様々な家具や装飾アイテムが含まれている
 
-## Installation Instructions
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="install" label="Installation Steps" default>
+  <TabItem value="install" label="インストール手順" default>
     <ol>
-      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>File Paths</code> → <code>Asset Libraries</code>.</li>
-      <li>Add the path to the Genshin Impact folder.</li>
+      <li>ブレンダーで、<code>編集</code> → <code>環境設定</code> → <code>ファイルパス</code> → <code>アセットライブラリ</code>に移動します。</li>
+      <li>原神フォルダへのパスを追加します。</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動します。展開パスワードはリンクの横に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Genshin Impact Assets Collection**  | [Download](https://pan.baidu.com/s/1PHYf0dRsN58EUOMaoWtFqg?pwd=xbhb)        | `xbhb`   |
+| **原神アセットコレクション**  | [ダウンロード](https://pan.baidu.com/s/1PHYf0dRsN58EUOMaoWtFqg?pwd=xbhb)        | `xbhb`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

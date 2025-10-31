@@ -8,17 +8,17 @@ slug: /zform
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 22 2025
+最終更新日: 2025年10月22日
 
 ![Zform-Convert-Depth-Maps-And-Images-To-3D-Mesh](https://www.gfxcamp.com/wp-content/uploads/2024/11/Zform-Convert-Depth-Maps-And-Images-To-3D-Mesh.jpg)
 
-## Overview
+## 概要
 
-zForm is a tool designed to quickly transform your pre-existing depth maps and images into 3D meshes. The user interface streamlines the process with minimal steps involved and speeds up your workflow with using depth maps and images in Blender.
+zFormは、既存の深度マップや画像を素早く3Dメッシュに変換するツールです。ユーザーインターフェースはプロセスを簡素化し、Blenderで深度マップや画像を使用する際のワークフローを高速化します。
 
-## 🚀 Features
+## 🚀 特徴
 
-:::tip[Key Features]
+:::tip[主な特徴]
 - **Depth Map Conversion**: Convert depth maps to 3D meshes quickly
 - **Image to 3D**: Transform images into 3D models
 - **Streamlined Interface**: User-friendly interface that simplifies the process
@@ -26,20 +26,20 @@ zForm is a tool designed to quickly transform your pre-existing depth maps and i
 - **Workflow Acceleration**: Speeds up your workflow with depth maps and images
 :::
 
-## 📋 System Requirements
+## 📋 システム要件
 
 <Tabs>
-<TabItem value="version" label="Version" default>
+<TabItem value="version" label="バージョン" default>
 - **Software**: Blender 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5
 - **Plugin Versions**: zForm V2.4.3 and V1.0.4 included
 </TabItem>
-<TabItem value="compatibility" label="Compatibility">
+<TabItem value="compatibility" label="互換性">
 - **Blender 4 and lower**: In the top menu Edit-Preferences-Add-ons-Install, select the corresponding ZIP file in the pop-up window
 - **Blender 4.1 and higher**: In the top menu Edit-Preferences-Add-ons, click the dropdown in the upper right corner, select Install from Disk, and select the corresponding ZIP file in the pop-up window
 </TabItem>
 </Tabs>
 
-## 📦 Installation Guide
+## 📦 インストールガイド
 
 :::note[Installation Steps]
 1. For Blender 4 or lower versions:
@@ -55,7 +55,7 @@ zForm is a tool designed to quickly transform your pre-existing depth maps and i
 3. Restart Blender to complete the installation
 :::
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) までお問い合わせください。
 :::

@@ -1,55 +1,55 @@
 ---
-title: "Kodak 2383 Print Film Emulation LUT - Colorist Factory"
-description: "A LUT preset simulating Kodak 2383 model film texture in CUBE format, compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs"
-tags: ["Kodak", "2383", "Colorist Factory", "LUTs", "AE Color Grading", "FCPX Color Grading", "Pr Color Grading", "CapCut", "Film Color Grading", "Video Color Grading", "DaVinci Resolve Color Grading"]
+title: "Kodak 2383プリントフィルムエミュレーションLUT - Colorist Factory"
+description: "CUBE形式のKodak 2383モデルフィルムテクスチャをシミュレートするLUTプリセットで、DaVinci Resolve/PR/AE/FCPX/PS/CapCutまたはLUTを読み込める任意のソフトウェアに対応"
+tags: ["Kodak", "2383", "Colorist Factory", "LUTs", "AEカラーグレーディング", "FCPXカラーグレーディング", "Premiereカラーグレーディング", "CapCut", "フィルムカラーグレーディング", "ビデオカラーグレーディング", "DaVinci Resolveカラーグレーディング"]
 slug: /kodak-2383-print-film-emulation-lut
 ---
 
-Last updated: Sep 30 2025
+最終更新日: 2025年9月30日
 
 ![Kodak 2383 Print Film Emulation LUT - Colorist Factory](https://www.gfxcamp.com/wp-content/uploads/2025/09/Colorist-Factory-Kodak-2383-Print-Film-Emulation-LUT.jpg)
 
-## Kodak 2383 Print Film Emulation LUT - Colorist Factory
+## Kodak 2383プリントフィルムエミュレーションLUT - Colorist Factory
 
-**Kodak 2383 Print Film Emulation LUT - Colorist Factory**
+**Kodak 2383プリントフィルムエミュレーションLUT - Colorist Factory**
 
-A LUT preset simulating Kodak 2383 model film texture in CUBE format, compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs.
+CUBE形式のKodak 2383モデルフィルムテクスチャをシミュレートするLUTプリセットで、DaVinci Resolve/PR/AE/FCPX/PS/CapCutまたはLUTを読み込める任意のソフトウェアに対応。
 
-2383 is a legendary stock used in films like Joker (2019), Pirates of the Caribbean, The Dark Knight, and many others. In this video, we'll attempt to recreate the Kodak 2383 print film emulation using the Glenderaterra LUT from our Premium Bundle.
+2383は、ジョーカー（2019）、カリブの海賊、ダークナイトなどの映画で使用された伝説的なストックです。このビデオでは、プレミアムバンドルからGlenderaterra LUTを使用してKodak 2383プリントフィルムエミュレーションを再現することを試みます。
 
-## Features
+## 特徴
 
-- Simulates Kodak 2383 model film texture
-- Available in CUBE format
-- Compatible with DaVinci Resolve/PR/AE/FCPX/PS/CapCut or any software that can load LUTs
-- Based on legendary stock used in films like Joker (2019), Pirates of the Caribbean, The Dark Knight
-- Professional film emulation for cinematic color grading
-- High-quality film texture reproduction
+- Kodak 2383モデルフィルムテクスチャをシミュレート
+- CUBE形式で提供
+- DaVinci Resolve/PR/AE/FCPX/PS/CapCutまたはLUTを読み込める任意のソフトウェアに対応
+- ジョーカー（2019）、カリブの海賊、ダークナイトなどの映画で使用された伝説的なストックを基準
+- シネマティックカラーグレーディングのためのプロフェッショナルフィルムエミュレーション
+- 高品質なフィルムテクスチャの再現
 
-## System Requirements
+## システム要件
 
-- Compatible with DaVinci Resolve, Adobe After Effects, Adobe Premiere Pro, Final Cut Pro X, Photoshop, CapCut, or any software that supports LUTs
-- Supports CUBE format files
+- DaVinci Resolve、Adobe After Effects、Adobe Premiere Pro、Final Cut Pro X、Photoshop、CapCut、またはLUTに対応した任意のソフトウェアと互換性あり
+- CUBE形式ファイルに対応
 
-## Installation Instructions
+## インストール手順
 
-### For DaVinci Resolve
-- Open DaVinci Resolve
-- Go to the Color page
-- Navigate to the OpenFX tab
-- Import the LUT files as needed
+### DaVinci Resolve用
+- DaVinci Resolveを開く
+- カラーページに移動
+- OpenFXタブに移動
+- 必要に応じてLUTファイルをインポート
 
-### For Adobe After Effects
-- Place LUT files in your After Effects LUTs folder
-- Use the Lumetri Color effect to apply LUTs
-- Select your desired LUT from the dropdown
+### Adobe After Effects用
+- LUTファイルをAfter EffectsのLUTフォルダーに配置
+- Lumetri Colorエフェクトを使用してLUTを適用
+- ドロップダウンから目的のLUTを選択
 
-### For Adobe Premiere Pro
-- Go to the Effects panel
-- Apply the Lumetri Color effect to your clip
-- Select the LUT from the Creative tab
+### Adobe Premiere Pro用
+- エフェクトパネルに移動
+- クリップにLumetri Colorエフェクトを適用
+- CreativeタブからLUTを選択
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

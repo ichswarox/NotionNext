@@ -1,93 +1,93 @@
 ---
-title: Blender Toon Rendering Plugin - PSOFT Pencil+ 4 Line for Blender v4.1.5 + Material + Render App v4.1.1 Win Crack
-description: PSOFT Pencil+ 4 Line for Blender is a post-processing effects addon that adds hand-drawn style lines to 3D objects. When used together with PSOFT Pencil+ 4 Render App, it enables easy utilization of high-quality lines adopted by many anime productions.
-tags: [Blender, Blender plugin, Pencil+, PSOFT, toon rendering, anime style, 3D rendering, hand-drawn lines, cartoon shading, non-photorealistic rendering, NPR, Blender addon]
+title: Blenderトゥーンレンダリングプラグイン - PSOFT Pencil+ 4 Line for Blender v4.1.5 + マテリアル + レンダーアプリ v4.1.1 Win クラック
+description: PSOFT Pencil+ 4 Line for Blenderは、3Dオブジェクトに手描きスタイルのラインを追加する後処理効果アドオンです。PSOFT Pencil+ 4 Render Appと一緒に使用することで、多くのアニメ制作で採用されている高品質なラインを簡単に利用できます。
+tags: [Blender, Blenderプラグイン, Pencil+, PSOFT, トゥーンレンダリング, アニメスタイル, 3Dレンダリング, 手描きライン, カートゥーンシェーディング, 非写実的レンダリング, NPR, Blenderアドオン]
 slug: /psoft-pencil-4-line-for-blender
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Blender Toon Rendering Plugin - PSOFT Pencil+ 4 Line for Blender v4.1.5 + Material + Render App v4.1.1 Win Crack
+# Blenderトゥーンレンダリングプラグイン - PSOFT Pencil+ 4 Line for Blender v4.1.5 + マテリアル + レンダーアプリ v4.1.1 Win クラック
 
 <!--Second Part-This is First Banner -->
-![Blender Toon Rendering Plugin - PSOFT Pencil+ 4 Line for Blender](https://www.gfxcamp.com/wp-content/uploads/2024/12/PSOFT-Pencil-4-Line-for-Blender.jpg)
+![Blenderトゥーンレンダリングプラグイン - PSOFT Pencil+ 4 Line for Blender](https://www.gfxcamp.com/wp-content/uploads/2024/12/PSOFT-Pencil-4-Line-for-Blender.jpg)
 
-:::tip[info]
-The **PSOFT Pencil+ 4 Line for Blender** is a powerful post-processing effects addon that brings hand-drawn artistic styles to your 3D renders. This professional-grade plugin enables artists to create high-quality anime and cartoon-style visuals directly within Blender.
+:::tip[情報]
+**PSOFT Pencil+ 4 Line for Blender**は、3Dレンダリングに手描きアーティスティックスタイルをもたらす強力な後処理効果アドオンです。このプロフェッショナルグレードのプラグインにより、アーティストはBlender内で直接高品質のアニメおよびカートゥーンスタイルビジュアルを作成できます。
 :::
 
-## Key Features
+## 主な特徴
 
-- **Hand-Drawn Line Effects**: Adds authentic hand-drawn style lines to 3D objects for a traditional animation look
-- **Anime Production Quality**: Utilizes the same high-quality line rendering technology adopted by professional anime studios
-- **Post-Processing Integration**: Seamlessly integrates with Blender's rendering pipeline as a post-processing effect
-- **Compatible with Render App**: Works in conjunction with PSOFT Pencil+ 4 Render App for enhanced functionality
-- **Professional Animation Tools**: Essential toolkit for creating stylized 3D animations and illustrations
+- **手描きライン効果**：3Dオブジェクトに本物の手描きスタイルのラインを追加し、伝統的なアニメーションルックを実現
+- **アニメ制作品質**：プロフェッショナルアニメスタジオが採用しているのと同じ高品質なラインレンダリング技術を利用
+- **後処理統合**：Blenderのレンダリングパイプラインに後処理効果としてシームレスに統合
+- **レンダーアプリとの互換性**：PSOFT Pencil+ 4 Render Appと連携して機能を強化
+- **プロフェッショナルアニメーションツール**：スタイライズされた3Dアニメーションとイラストレーション作成のための必須ツールキット
 
-## Product Details
+## 製品詳細
 
-- **Plugin Name**: PSOFT Pencil+ 4 Line for Blender
-- **Supported Blender Versions**: 
-  - 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0
-- **Included Components**:
-  - Blender Addon (v4.1.5)
-  - PSOFT Pencil+ 4 Material
-  - Render App (v4.1.1)
-- **Platform**: Windows (Crack Version)
+- **プラグイン名**：PSOFT Pencil+ 4 Line for Blender
+- **対応Blenderバージョン**：
+  - 4.5、4.4、4.3、4.2、4.1、4.0、3.6、3.5、3.4、3.3、3.2、3.1、3.0
+- **含まれるコンポーネント**：
+  - Blenderアドオン（v4.1.5）
+  - PSOFT Pencil+ 4 マテリアル
+  - レンダーアプリ（v4.1.1）
+- **プラットフォーム**：Windows（クラック版）
 
-## Installation Instructions
+## インストール手順
 
-### For Blender 4.0 and Earlier Versions
-1. Go to the top menu: Edit → Preferences → Add-ons → Install
-2. Select the corresponding ZIP file in the dialog window
+### Blender 4.0以前のバージョン用
+1. トップメニューへ：編集→環境設定→アドオン→インストール
+2. ダイアログウィンドウで対応するZIPファイルを選択
 
-### For Blender 4.1 and Later Versions
-1. Go to the top menu: Edit → Preferences → Add-ons
-2. Click the dropdown in the top right corner and select "Install from Disk"
-3. Select the corresponding ZIP file in the dialog window
+### Blender 4.1以降のバージョン用
+1. トップメニューへ：編集→環境設定→アドオン
+2. 右上隅のドロップダウンをクリックし、「ディスクからインストール」を選択
+3. ダイアログウィンドウで対応するZIPファイルを選択
 
-### Render App Installation
-1. Double-click to install setup_Pencil+_4_Render_App_4.1.1.0_trial.exe
-2. Remember the installation directory
-3. Copy and replace the Pencil_4-RenderApp_trial.exe file from the folder to the installation directory above
+### レンダーアプリのインストール
+1. setup_Pencil+_4_Render_App_4.1.1.0_trial.exeをダブルクリックしてインストール
+2. インストールディレクトリを覚えておく
+3. フォルダからPencil_4-RenderApp_trial.exeファイルをコピーし、上記のインストールディレクトリに置き換える
 
-## Why Choose PSOFT Pencil+ 4 Line for Blender?
+## なぜBlender用PSOFT Pencil+ 4 Lineを選ぶのか？
 
-Whether you're creating stylized animations, architectural visualizations with a hand-drawn touch, or character designs for games, this plugin provides the essential tools to achieve authentic anime-style rendering in Blender. The combination of the line rendering addon and Render App creates a complete solution for non-photorealistic rendering workflows.
+スタイライズされたアニメーションを作成する場合でも、手描きタッチの建築ビジュアライゼーションを作成する場合でも、ゲーム用のキャラクターデザインを作成する場合でも、このプラグインはBlenderで本物のアニメスタイルレンダリングを達成するための必須ツールを提供します。ラインレンダリングアドオンとレンダーアプリの組み合わせは、非写実的レンダリングワークフローのための完全なソリューションを作成します。
 
-### Perfect for Anime Studios and Independent Creators
+### アニメスタジオとインディペンデントクリエイターに最適
 
-This plugin is ideal for animation studios, freelance artists, and content creators who specialize in anime-style content. The professional-quality line rendering capabilities match those used in commercial anime productions, making it an essential tool for achieving authentic results.
+このプラグインは、アニメスタイルのコンテンツを専門とするアニメーションスタジオ、フリーランスアーティスト、コンテンツクリエイターに最適です。プロフェッショナル品質のラインレンダリング機能は、商業アニメ制作で使用されているものと一致し、本物の結果を達成するための必須ツールとなります。
 
-### Comprehensive Stylized Rendering Solution
+### 包括的なスタイライズレンダリングソリューション
 
-With support for multiple Blender versions and integration with the Render App, this plugin offers a complete solution for artists looking to incorporate hand-drawn aesthetics into their 3D workflows. The compatibility with both older and newer Blender versions ensures broad usability across different projects.
+複数のBlenderバージョンのサポートとレンダーアプリとの統合により、このプラグインは3Dワークフローに手描き美学を組み込みたいアーティストに完全なソリューションを提供します。古いバージョンと新しいバージョンの両方のBlenderとの互換性により、異なるプロジェクト間での幅広い使用可能性が保証されます。
 
-## System Requirements
+## システム要件
 
-- **Operating System**: Windows
-- **Supported Blender Versions**: 
-  - 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0
-- **Additional Software**: PSOFT Pencil+ 4 Render App v4.1.1
-- **Storage Space**: Minimum 200MB available space
+- **オペレーティングシステム**：Windows 10/11（64ビット）
+- **Blenderバージョン**：2.93、3.0、3.1、3.2、3.3、3.4、3.5、3.6、4.0、4.1
+- **ストレージ**：プラグインファイル用50MB、レンダーアプリ用200MB
+- **メモリ**：最小4GB RAM、推奨8GB
+- **グラフィックス**：OpenGL 3.3互換またはそれ以上
 
-## Conclusion
+## 結論
 
-The **PSOFT Pencil+ 4 Line for Blender** plugin is an indispensable tool for any artist working with stylized 3D content in Blender. With its professional-quality line rendering capabilities and seamless integration with the Render App, this addon provides everything needed to create authentic anime-style visuals that match the standards of commercial productions.
+**Blender用PSOFT Pencil+ 4 Line**プラグインは、Blenderでスタイライズされた3Dコンテンツに取り組むすべてのアーティストにとって欠かせないツールです。プロフェッショナル品質のラインレンダリング機能とレンダーアプリとのシームレスな統合により、このアドオンは商業制作基準に準拠した本物のアニメスタイルビジュアルを作成するために必要なすべてを提供します。
 
 <!-- The Last Part-Download -->
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックするとダウンロードページへ移動します。解凍パスワードはリンクの横に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **PSOFT Pencil+ 4 Line for Blender v4.1.5** | [Download](https://pan.baidu.com/s/11i5V9sdCtAQ1flLfrviNqA?pwd=4hft) | `4hft`   |
-| **PSOFT Pencil+ 4 Line for Blender v4.1.0** | [Download](https://pan.baidu.com/s/1QMtvKicUNG9V4XsMlx4hsA?pwd=jcng) | `jcng`   |
+| **PSOFT Pencil+ 4 Line for Blender v4.1.5** | [ダウンロード](https://pan.baidu.com/s/11i5V9sdCtAQ1flLfrviNqA?pwd=4hft) | `4hft`   |
+| **PSOFT Pencil+ 4 Line for Blender v4.1.0** | [ダウンロード](https://pan.baidu.com/s/1QMtvKicUNG9V4XsMlx4hsA?pwd=jcng) | `jcng`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀プレミアム直接ダウンロードリンク
+:::tip[制限なしのプレミアムダウンロード速度を手に入れよう！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

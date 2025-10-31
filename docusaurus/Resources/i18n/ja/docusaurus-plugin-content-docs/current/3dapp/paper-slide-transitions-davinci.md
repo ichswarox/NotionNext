@@ -1,51 +1,51 @@
 ---
-title: Paper Slide Transitions for DaVinci Resolve - Page Flip Video Effects
-description: Paper slide transitions for DaVinci Resolve with page flip effects. Create engaging transitions with this easy-to-use preset pack.
-tags: [davinci resolve, video transitions, paper slide, page flip, video editing, transition presets, davinci presets]
+title: DaVinci Resolve用紙スライドトランジション - ページフリップビデオエフェクト
+description: DaVinci Resolve用の紙スライドトランジションとページフリップエフェクト。この使いやすいプリセットパックで魅力的なトランジションを作成。
+tags: [davinci resolve, ビデオトランジション, 紙スライド, ページフリップ, ビデオ編集, トランジションプリセット, davinciプリセット]
 slug: /paper-slide-transitions-davinci
 ---
 
-# Paper Slide Transitions for DaVinci Resolve
+# DaVinci Resolve用紙スライドトランジション
 
-![Paper Slide Transitions](https://www.gfxcamp.com/wp-content/uploads/2025/09/Paper-Slide-Transitions-for-DaVinci-Resolve-59550848.jpg)
+![紙スライドトランジション](https://www.gfxcamp.com/wp-content/uploads/2025/09/Paper-Slide-Transitions-for-DaVinci-Resolve-59550848.jpg)
 
-:::tip[info]
-Paper slide transitions for DaVinci Resolve with page flip effects. Create engaging transitions with this easy-to-use preset pack that adds a creative touch to your videos.
+:::tip[情報]
+DaVinci Resolve用の紙スライドトランジションとページフリップエフェクト。この使いやすいプリセットパックでビデオに創造的なタッチを加える魅力的なトランジションを作成できます。
 :::
 
-## Key Features
+## 主な機能
 
-- **Page Flip Effects**: Realistic paper sliding transitions
-- **DaVinci Resolve Compatible**: Specifically designed for DaVinci Resolve
-- **HD Resolution**: High definition 1920×1080 resolution
-- **No Plugins Required**: Works without third-party plugins
-- **Easy Installation**: Simple double-click installation
-- **Video Tutorial Included**: Step-by-step instructions provided
+- **ページフリップエフェクト**: リアルな紙スライディングトランジション
+- **DaVinci Resolve対応**: DaVinci Resolve専用設計
+- **HD解像度**: 高精細度1920×1080解像度
+- **プラグイン不要**: 第三者プラグインなしで動作
+- **簡単インストール**: 簡単なダブルクリックインストール
+- **ビデオチュートリアル付き**: ステップバイステップ説明書付き
 
-## Software Compatibility
+## ソフトウェア互換性
 
-- **DaVinci Resolve**: Version 17 or higher
+- **DaVinci Resolve**: バージョン17以降
 
-## Technical Details
+## 技術詳細
 
-- **Format**: drfx
-- **Size**: 29MB
-- **Resolution**: HD 1920×1080
-- **Tutorial**: Video tutorial included
-- **Music**: Background music not included (recommended: AudioJungle music collection)
-- **Installation**: Double-click to install
+- **フォーマット**: drfx
+- **サイズ**: 29MB
+- **解像度**: HD 1920×1080
+- **チュートリアル**: ビデオチュートリアル付き
+- **音楽**: バックグラウンド音楽は含まれていません（推奨: AudioJungle音楽コレクション）
+- **インストール**: ダブルクリックでインストール
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動してください。解凍パスワードはリンクの横に記載されています。
 :::
 
-| File                       | Download Link                                                              | Password |
+| ファイル                       | ダウンロードリンク                                                              | パスワード |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Paper Slide Transitions**  | [Download](https://pan.baidu.com/s/1Oa1vTwA2QvpDiEs4lh1JYg?pwd=5hbh)        | `5hbh`   |
+| **紙スライドトランジション**  | [ダウンロード](https://pan.baidu.com/s/1Oa1vTwA2QvpDiEs4lh1JYg?pwd=5hbh)        | `5hbh`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

@@ -1,59 +1,59 @@
 ---
-title: "AE Timecode Calculation Script Aescripts Calc AE V1.0.2"
-description: "AE script for calculating timecode directly in AE with automatic loading of frame counts, providing accurate results with timecode assist tools."
-tags: [aescripts, AE script, Calc AE, timecode script]
+title: "AEタイムコード計算スクリプト Aescripts Calc AE V1.0.2"
+description: "フレーム数を自動読み込みしてAE内で直接タイムコードを計算し、タイムコードアシストツールで正確な結果を提供するAEスクリプト。"
+tags: [aescripts, AEスクリプト, Calc AE, タイムコードスクリプト]
 slug: /calc-ae
 ---
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月17日
 
 ![AE Timecode Calculation Script Aescripts Calc AE V1.0.2](https://www.gfxcamp.com/wp-content/uploads/2025/02/Calc-AE.jpg)
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## Feature List
+## 機能一覧
 
 :::tip
-Quickly make timecode calculations without leaving Adobe After Effects. Calc AE automatically loads the comp framerate to ensure accurate results. Manually enter timecode or insert common timecode values using Timecode Assist Tools.
+Adobe After Effectsを離れることなく、すばやくタイムコード計算を行います。Calc AEはコンポジションフレームレートを自動的に読み込んで正確な結果を確実にします。手動でタイムコードを入力するか、タイムコードアシストツールを使用して一般的なタイムコード値を挿入します。
 :::
 
-## Supported Software Versions
+## 対応ソフトウェアバージョン
 
-- AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019
+- AE 2025、2024、2023、2022、2021、2020、CC 2019
 
-## Installation Instructions
+## インストール手順書
 
 <Tabs>
 <TabItem value="windows" label="Windows">
 
-1. Refer to the documentation steps inside the compressed package
-2. Make sure to use English version of After Effects (Chinese version may cause expression errors)
-3. In preferences, go to Edit—Preferences—General panel and check "Allow Scripts to Write Files and Access Network"
+1. 圧縮パッケージ内のドキュメント手順を参照してください
+2. After Effectsの英語版を使用してください（中国語版は式エラーを引き起こす可能性があります）
+3. 環境設定で、[編集]—[環境設定]—[一般]パネルに移動し、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」にチェックを入れてください
 
 </TabItem>
 <TabItem value="mac" label="Mac">
 
-1. Refer to the documentation steps inside the compressed package
-2. Make sure to use English version of After Effects (Chinese version may cause expression errors)
-3. In preferences, go to Edit—Preferences—General panel and check "Allow Scripts to Write Files and Access Network"
+1. 圧縮パッケージ内のドキュメント手順を参照してください
+2. After Effectsの英語版を使用してください（中国語版は式エラーを引き起こす可能性があります）
+3. 環境設定で、[編集]—[環境設定]—[一般]パネルに移動し、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」にチェックを入れてください
 
 </TabItem>
 </Tabs>
 
-## System Requirements
+## システム要件
 
-- AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019
+- AE 2025、2024、2023、2022、2021、2020、CC 2019
 
-## Key Features
+## 主な機能
 
-- Calculate timecode directly in AE without switching applications
-- Automatic loading of required frame counts
-- Timecode assist tools for inserting common timecode values
-- Automatic comp framerate loading for accurate results
+- アプリケーションを切り替えることなく、AE内で直接タイムコードを計算
+- 必要なフレーム数の自動読み込み
+- 一般的なタイムコード値を挿入するためのタイムコードアシストツール
+- 正確な結果のための自動コンポジションフレームレート読み込み
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

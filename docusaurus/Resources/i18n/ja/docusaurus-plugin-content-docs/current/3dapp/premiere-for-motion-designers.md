@@ -1,31 +1,31 @@
 ---
-title: "School Of Motion – Premiere for Motion Designers"
-description: "Learn the art of video editing to enhance your creativity and efficiency. Create better animatics, edit audio and music with ease, and effortlessly add footage to your motion projects."
-tags: [Motion Designers, Premiere, Premiere Tutorial, School Of Motion, Video Editing]
+title: "School Of Motion – モーションデザイナーのためのプレミアプロ"
+description: "創造性と効率性を高めるビデオ編集の技術を学びます。より良いアニマティクスを作成し、オーディオと音楽を簡単に編集し、モーションプロジェクトに映像を簡単に追加します。"
+tags: [モーションデザイナー, プレミアプロ, プレミアプロチュートリアル, School Of Motion, ビデオ編集]
 slug: /premiere-for-motion-designers
 ---
 
-Last updated: Oct 10 2025
+最終更新日: 2025年10月10日
 
-![School Of Motion – Premiere for Motion Designers](https://www.gfxcamp.com/wp-content/uploads/2025/10/School-Of-Motion-Premiere-for-Motion-Designers.jpg)
+![School Of Motion – モーションデザイナーのためのプレミアプロ](https://www.gfxcamp.com/wp-content/uploads/2025/10/School-Of-Motion-Premiere-for-Motion-Designers.jpg)
 
-In this course, you'll learn to leverage the art of video editing to increase your creativity and efficiency. Create better animatics, easily edit audio & music, and effortlessly add footage to your motion projects. By the end of this course, you’ll have practical, studio-style skills that make you a multimedia master … and most importantly, you can finally stop editing in After Effects!
+このコースでは、ビデオ編集の技術を活用して創造性と効率性を高める方法を学びます。より良いアニマティクスを作成し、オーディオと音楽を簡単に編集し、モーションプロジェクトに映像を簡単に追加します。このコースが終わる頃には、実用的なスタジオスタイルのスキルを身につけてマルチメディアマスターになっているでしょう...そして最も重要なのは、ついにアフターエフェクトでの編集をやめることができるようになることです！
 
-### Course Details
+### コース詳細
 
-- **Software:** Premiere
-- **Duration:** 6 hours 28 minutes
-- **Project Files:** Not included
-- **Subtitles:** English (no subtitles)
-- **Format:** MP4, 1920×1080
+- **ソフトウェア:** プレミアプロ
+- **期間:** 6時間28分
+- **プロジェクトファイル:** 含まれていません
+- **字幕:** 英語（字幕なし）
+- **フォーマット:** MP4, 1920×1080
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-| Description | Link | Password |
+| 説明 | リンク | パスワード |
 | :--- | :--- | :--- |
-| Baidu Netdisk | [Download](https://pan.baidu.com/s/102O7MvQMbTllk5RJRI_pZQ?pwd=w1nh) | w1nh |
+| 百度ネットディスク | [ダウンロード](https://pan.baidu.com/s/102O7MvQMbTllk5RJRI_pZQ?pwd=w1nh) | w1nh |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

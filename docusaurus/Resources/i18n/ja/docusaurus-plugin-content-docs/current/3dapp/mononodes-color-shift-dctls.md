@@ -1,25 +1,25 @@
 ---
-title: "Mononodes Color Shift DCTLs v4 - DaVinci Resolve Color Grading Plugin Presets Collection"
-description: "Professional film-style color grading plugin presets for DaVinci Resolve. Includes 13 collections with 62 DCTL nodes for precise color control through red, green, blue, cyan, magenta, and yellow adjustments. No watermarks or black spots."
-tags: ["DaVinci Resolve", "DCTL", "Color Grading", "Mononodes", "Color Shift", "Film Look", "Video Grading", "Color Presets", "Post Production", "Color Correction"]
+title: "Mononodes Color Shift DCTLs v4 - DaVinci Resolveカラーグレーディングプラグインプリセットコレクション"
+description: "DaVinci Resolve用のプロフェッショナルなフィルムスタイルカラーグレーディングプラグインプリセット。赤、緑、青、シアン、マゼンタ、イエローの調整による精密な色制御のための13コレクション62のDCTLノードを含む。ウォーターマークや黒点なし。"
+tags: ["DaVinci Resolve", "DCTL", "カラーグレーディング", "Mononodes", "カラーシフト", "フィルムルック", "ビデオグレーディング", "カラープリセット", "ポストプロダクション", "カラーコレクション"]
 slug: /mononodes-color-shift-dctls
 ---
 
-# Mononodes Color Shift DCTLS v4 - DaVinci Resolve Film Color Grading Plugin Presets Collection
+# Mononodes Color Shift DCTLS v4 - DaVinci Resolveフィルムカラーグレーディングプラグインプリセットコレクション
 
 ![img](/img/img1028-aUni.webp)
 
 https://mononodes.com/color-shift-dctl/
 
-## Asset Overview
+## アセット概要
 
-This professional collection includes 13 sets with 62 total DCTL presets for precise video color grading in DaVinci Resolve. These presets allow detailed color adjustments through red, green, blue, cyan, magenta, and yellow controls.
+このプロフェッショナルなコレクションには、DaVinci Resolveでの精密なビデオカラーグレーディングのための13セット62の総DCTLプリセットが含まれています。これらのプリセットは、赤、緑、青、シアン、マゼンタ、イエローのコントロールを通じて詳細な色調整を可能にします。
 
-This is the official full version with no watermarks or black spots. It includes an official video tutorial with Chinese subtitles and written installation instructions.
+これはウォーターマークや黒点のないオフィシャルなフルバージョンです。中国語字幕付きのオフィシャルビデオチュートリアルと書面でのインストール手順が含まれています。
 
-## Included Preset Collections
+## 含まれているプリセットコレクション
 ![mononodes-vg.webp](https://list.ucards.store/d/img/mononodes-vg.webp)
-### MONO Color Shift v4 (with NE version + Chinese subtitle tutorial)
+### MONO Color Shift v4（NEバージョン付き + 中国語字幕チュートリアル）
 - MONO-1-DEN-v4.0.dctle
 - MONO-1-HUE-v4.0.dctle
 - MONO-1-SAT-v4.0.dctle
@@ -33,7 +33,7 @@ This is the official full version with no watermarks or black spots. It includes
 - MONO-T2-SAT-DEN-v4.0.dctle
 - MONO-T3-SAT-DEN-HUE-v4.0.dctle
 
-### MONO Color Shift v3 (with NE version + Chinese subtitle tutorial)
+### MONO Color Shift v3（NEバージョン付き + 中国語字幕チュートリアル）
 ![img](/img/img1028-fIgX.webp)
 - MONO-SAT-DENSITY-T-v3.0.dctle
 - MONO-SAT-DENSITY-v3.0.dctle
@@ -48,9 +48,9 @@ This is the official full version with no watermarks or black spots. It includes
 - MONO-SAT-DENSITY-HUE-T-v3.0.dctle
 - MONO-SAT-DENSITY-HUE-v3.0.dctle
 - MONO-SAT-RANGE-DENSITY-v3.0.dctle
-- PDF + Video tutorial
+- PDF + ビデオチュートリアル
 
-### MONO Color Shift v2.2 (with NE version + Chinese subtitle tutorial)
+### MONO Color Shift v2.2（NEバージョン付き + 中国語字幕チュートリアル）
 - MONO-Brightness-v2.0.dctle
 - MONO-Density-T-v2.1.dctle
 - MONO-Density-v2.2.dctle
@@ -62,31 +62,31 @@ This is the official full version with no watermarks or black spots. It includes
 - MONO-Sat-T-v2.0.dctle
 - MONO-Sat-v2.1.dctle
 
-### Additional Presets
+### 追加プリセット
 - MONO Grid v1
-- MONO SHAPER v1.0 (with NE version + Chinese subtitle tutorial)
+- MONO SHAPER v1.0（NEバージョン付き + 中国語字幕チュートリアル）
 - MONO PALETTE v1.0
-- MONO Utility DCTL v2 (Chinese subtitle tutorial)
-- MONO Utility DCTL v1.2 (Chinese subtitle tutorial)
-- MONO Utility DCTL v1.1 (Chinese subtitle tutorial)
-- MONO Hue Twist v2 (with NE version + Chinese subtitle tutorial)
+- MONO Utility DCTL v2（中国語字幕チュートリアル）
+- MONO Utility DCTL v1.2（中国語字幕チュートリアル）
+- MONO Utility DCTL v1.1（中国語字幕チュートリアル）
+- MONO Hue Twist v2（NEバージョン付き + 中国語字幕チュートリアル）
 - MONO Clamp v1
-- MONO RGB Crosstalk v1 (Chinese subtitle tutorial)
-- MONO RGB Split v1 (with NE version + Chinese subtitle tutorial)
+- MONO RGB Crosstalk v1（中国語字幕チュートリアル）
+- MONO RGB Split v1（NEバージョン付き + 中国語字幕チュートリアル）
 
-## System Requirements
+## システム要件
 
-- Version: DaVinci Resolve 17 or higher
-- Resolution: No restrictions
-- Plugins: No third-party plugins required
-- Size: 1.08GB
-- Tutorials: Installation steps + official video tutorial (Chinese subtitles)
-- Music: Does not include background music
+- バージョン: DaVinci Resolve 17以上
+- 解像度: 制限なし
+- プラグイン: サードパーティプラグインは不要
+- サイズ: 1.08GB
+- チュートリアル: インストール手順 + オフィシャルビデオチュートリアル（中国語字幕）
+- 音楽: バックグラウンド音楽は含まれていません
 
-## 🐌Free Slow Download Links
-[Download Link](https://pan.hefamily.net/s/YOOoCy)
+## 🐌無料の低速ダウンロードリンク
+[ダウンロードリンク](https://pan.hefamily.net/s/YOOoCy)
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

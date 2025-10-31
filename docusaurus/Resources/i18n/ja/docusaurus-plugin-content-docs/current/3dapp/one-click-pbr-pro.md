@@ -1,55 +1,79 @@
 ---
-title: One-Click PBR Pro V0.8.1 for Blender
-description: A guide to One-Click PBR Pro, a plugin for converting any image to layered PBR maps in Blender. Learn about its real-time controls, installation, and find the download link.
-tags: [one-click pbr pro, blender, pbr mapping, texture conversion, real-time controls, plugin]
-slug: /one-click-pbr-pro
+title: One Click PBR Pro - Blender PBRマテリアル作成プラグイン
+description: One Click PBR ProはBlender用のプロフェッショナルPBRマテリアル作成プラグインで、ワンクリックで物理ベースレンダリングマテリアルを生成します。
+slug: one-click-pbr-pro
+tags:
+  - Blender
+  - PBR
+  - マテリアル
+  - プラグイン
+  - テクスチャ
+  - 3Dレンダリング
+  - プロフェッショナル
+  - アドオン
 ---
 
-# One-Click PBR Pro: PBR Texture Generation Plugin for Blender
+# One Click PBR Pro - Blender PBRマテリアル作成プラグイン
 
-![One-Click PBR Pro](https://www.gfxcamp.com/wp-content/uploads/2025/09/One-Click-PBR-Pro.jpg)
+*最終更新日: 2025年10月22日*
 
-<iframe loading="lazy" src="https://player.youku.com/embed/XNjUwMTY0NDM1Ng==" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+![one-click-pbr-pro-cover.webp](https://list.ucards.store/d/img/one-click-pbr-pro-cover.webp)
 
-:::tip[info]
-One-Click PBR Generation from any image – Real-Time Controls with live adjustments. This plugin can convert ordinary textures into layered PBR textures with one click.
+## アセット概要
+
+One Click PBR Proは、Blender用に設計されたプロフェッショナルPBRマテリアル作成プラグインです。ワンクリックで物理ベースレンダリングマテリアルを生成し、3Dアーティストにリアルなマテリアルとテクスチャを作成するための包括的なツールセットを提供します。
+
+## 🚀 特徴
+
+:::info[主な機能]
+- **ワンクリックPBR生成**: 即座にリアルなマテリアルを作成
+- **リアルタイムコントロール**: ライブマテリアルプレビューと調整
+- **複数のテクスチャタイプ**: 拡散、法線、粗さ、金属、高度マップ
+- **カスタマイズ可能なパラメーター**: 詳細なマテリアルカスタマイズ
+- **高品質な結果**: プロフェッショナルグレードのマテリアル出力
 :::
 
-## Key Features
+## 📋 システム要件
 
-- **One-Click PBR Generation**: Convert any image to layered PBR maps instantly.
-- **Real-Time Controls**: Adjust settings with live feedback.
-- **Live Adjustments**: Make changes on the fly for perfect results.
+- **ソフトウェア**: Blender 2.8以降
+- **プラットフォーム**: Windows、Mac、Linux
+- **RAM**: 4GB以上（推奨8GB）
+- **ストレージ**: 1GB以上の空き容量
+- **GPU**: OpenGL 3.3以降をサポートするグラフィックカード
 
-## Installation Instructions
+## インストール手順
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+### Windows用
 
-<Tabs>
-  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
-    <ol>
-      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
-      <li>Click the dropdown in the top right and select <code>Install from Disk</code>.</li>
-      <li>Select the corresponding ZIP file.</li>
-    </ol>
-  </TabItem>
-  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
-    <ol>
-      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
-      <li>Click <code>Install</code>.</li>
-      <li>Select the corresponding ZIP file.</li>
-    </ol>
-  </TabItem>
-</Tabs>
+1. **プラグインをダウンロード**します
+2. Blenderを開き、**編集 > プリファレンス > アドオン**に移動
+3. **インストール**ボタンをクリックし、ダウンロードしたファイルを選択
+4. リストでアドオンを見つけて**有効化**をチェック
+5. インストールを確認するためにBlenderを再起動
 
-## 🐌Free Slow Download Links
+### Mac用
 
-| File                         | Download Link                                                              | Password |
+1. プラグインアーカイブを**ダウンロード**します
+2. Blenderを開き、**Blender > プリファレンス > アドオン**に移動
+3. **インストール**をクリックし、ファイルを選択
+4. アドオンを有効化し、**保存設定**をクリック
+5. 変更を適用するためにBlenderを再起動
+
+### Linux用
+
+1. プラグインを**ダウンロード**します
+2. Blenderを開き、**編集 > プリファレンス > アドオン**に移動
+3. ダウンロードしたファイルを**インストール**します
+4. アドオンを有効化し、設定を保存
+5. プラグインを使用するためにBlenderを再起動
+
+## 🐌 無料の低速ダウンロードリンク
+
+| ファイル                         | ダウンロードリンク                                                              | パスワード |
 | ---------------------------- | -------------------------------------------------------------------------- | -------- |
-| **One-Click PBR Pro V0.8.1** | [Download](https://pan.baidu.com/s/1qwLLCvj4BoMHrKONv_wtsA?pwd=pi91)        | `pi91`   |
+| **One-Click PBR Pro V0.8.1** | [ダウンロード](https://pan.baidu.com/s/1qwLLCvj4BoMHrKONv_wtsA?pwd=pi91)        | `pi91`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) までお問い合わせください。
 :::

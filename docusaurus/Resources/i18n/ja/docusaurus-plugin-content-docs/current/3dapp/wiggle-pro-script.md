@@ -1,32 +1,32 @@
 ---
-title: "Wiggle Pro Script"
-description: "AE script for creating custom wiggle effects with precise control. Customize various wiggle effects for layers, including X and Y axis control."
-tags: [AE script, wiggle effects, motion graphics, After Effects]
+title: "Wiggle Proスクリプト"
+description: "正確なコントロールでカスタムウィグルエフェクトを作成するためのAEスクリプト。X軸とY軸のコントロールを含む、レイヤーの様々なウィグルエフェクトをカスタマイズ。"
+tags: [AEスクリプト, ウィグルエフェクト, モーショングラフィックス, After Effects]
 slug: /wiggle-pro-script
 ---
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月17日
 
-# Wiggle Pro Script - Advanced Wiggle Effects for AE
+# Wiggle Proスクリプト - AE用アドバンストウィグルエフェクト
 
 ![img1017-rfZY.webp](https://list.ucards.store/d/img/img1017-rfZY.webp)
 
-Customize various wiggle effects with super accurate live preview, support for saving presets, and more. Not only can you apply wiggle to the entire layer, but you can also control X or Y axis independently.
+超正確なライブプレビュー、プリセット保存のサポートなどで様々なウィグルエフェクトをカスタマイズします。レイヤー全体にウィグルを適用するだけでなく、X軸またはY軸を独立して制御することもできます。
 
-## Features
+## 機能
 
-:::tip[Key Features]
-- Customizable wiggle effects for entire layers or specific axes
-- Super accurate live preview in the panel
-- Support for saving presets for later use
-- Custom preview emotes
-- Control X or Y axis independently
+:::tip[主な特徴]
+- レイヤー全体または特定の軸用のカスタマイズ可能なウィグルエフェクト
+- パネル内での超正確なライブプレビュー
+- 後で使用するためのプリセット保存のサポート
+- カスタムプレビューエモート
+- X軸またはY軸を独立して制御
 :::
 
-## 🚀Direct Download Link
+## 🚀 直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::
 
-Link:https://www.goodboy.ninja/wiggle-pro
+リンク:https://www.goodboy.ninja/wiggle-pro

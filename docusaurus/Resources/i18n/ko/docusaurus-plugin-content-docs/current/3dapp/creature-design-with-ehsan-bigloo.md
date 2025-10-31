@@ -1,7 +1,7 @@
 ---
-title: "Creature Design with Ehsan Bigloo - IAMAG Tutorial"
-description: "Learn professional creature design techniques from Ehsan Bigloo covering design basics, real-world shapes, and breaking anatomy from human and animal references."
-tags: [creature design, character design, tutorial, IAMAG, Ehsan Bigloo, drawing]
+title: "에산 비글루와 함께하는 크리처 디자인 - IAMAG 튜토리얼"
+description: "디자인 기초, 실제 세계의 형태, 인간과 동물 참고 자료에서 해부학을 변형하는 방법을 다루는 에산 비글루의 전문 크리처 디자인 기술을 배워보세요."
+tags: [크리처 디자인, 캐릭터 디자인, 튜토리얼, IAMAG, 에산 비글루, 드로잉]
 slug: /creature-design-with-ehsan-bigloo
 ---
 
@@ -9,37 +9,37 @@ Last updated: Oct 17 2025
 
 ![img1018-HZXG.webp](https://list.ucards.store/d/img/img1018-HZXG.webp)
 
-## Creature Design with Ehsan Bigloo - IAMAG Tutorial
+## 에산 비글루와 함께하는 크리처 디자인 - IAMAG 튜토리얼
 
-Ehsan Bigloo will go over the design basics, talking about professional creature design from the past to the present in the motion picture industry. The tutorial covers creating grounded shapes and forms, and how to break the anatomy from human or animal reference. This comprehensive tutorial provides insights into the professional creature design process.
+에산 비글루는 디자인 기초를 다루며, 영화 산업의 과거부터 현재까지의 전문 크리처 디자인에 대해 이야기합니다. 이 튜토리얼은 현실적인 형태와 모양을 만드는 방법, 그리고 인간이나 동물 참고 자료에서 해부학을 변형하는 방법을 다룹니다. 이 종합적인 튜토리얼은 전문 크리처 디자인 프로세스에 대한 통찰을 제공합니다.
 
-## Key Features
+## 주요 기능
 
-- **Software Required**: Hand drawing
-- **Duration**: 59 minutes
-- **Project Files**: No project files included
-- **Subtitles**: English without subtitles
-- **Format**: MP4, 1920×1080
+- **필요 소프트웨어**: 수작업 드로잉
+- **강의 시간**: 59분
+- **프로젝트 파일**: 프로젝트 파일 미포함
+- **자막**: 자막 없는 영어
+- **포맷**: MP4, 1920×1080
 
-## What You'll Learn
+## 배우게 될 내용
 
-- Design fundamentals for creature creation
-- Professional creature design in motion pictures
-- Creating grounded shapes and forms
-- Breaking anatomy from human and animal references
-- Industry-standard creature design techniques
+- 크리처 제작을 위한 디자인 기초
+- 영화에서의 전문 크리처 디자인
+- 현실적인 형태와 모양 만들기
+- 인간과 동물 참고 자료에서 해부학 변형하기
+- 업계 표준 크리처 디자인 기술
 
 :::tip
-This tutorial is perfect for artists looking to understand professional creature design techniques used in the motion picture industry.
+이 튜토리얼은 영화 산업에서 사용되는 전문 크리처 디자인 기술을 이해하고자 하는 아티스트들에게 완벽한 선택입니다.
 :::
 
-## 🚀Direct Download Link
+## 🚀직접 다운로드 링크
 
-| File Name | Size | Download Link |
+| 파일 이름 | 크기 | 다운로드 링크 |
 |-----------|------|---------------|
-| Creature Design with Ehsan Bigloo | - | [Baidu Netdisk](https://pan.baidu.com/s/1zFin5fsMfPmFTv4LyWAHyA?pwd=gqvw) (Password: gqvw) |
+| 에산 비글루와 함께하는 크리처 디자인 | - | [바이두 넷디스크](https://pan.baidu.com/s/1zFin5fsMfPmFTv4LyWAHyA?pwd=gqvw) (비밀번호: gqvw) |
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[프리미엄 다운로드 속도로 제한 없이 다운로드하세요!]
+프리미엄 액세스 및 지원을 위해 [💬WhatsApp](https://wa.me/+8613237610083)으로 연락하세요.
 :::
-Link: https://masterclasses.iamag.co/programs/creature-design-with-ehsan-bigloo
+링크: https://masterclasses.iamag.co/programs/creature-design-with-ehsan-bigloo

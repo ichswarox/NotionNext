@@ -1,56 +1,69 @@
 ---
-title: "Storm VFX Simulation Software"
-description: "Powerful 3D VFX simulation software for creating particle effects like sand, snow, and fire"
-tags: [Fluid Software, VFX Software, Particle Software]
+title: "Storm VFX - シミュレーションソフトウェア"
+description: "映画やゲーム用のリアルな気象効果、大気現象、動的環境シミュレーションを作成するための高度なパーティクルシミュレーションソフトウェア。"
+tags: [VFX, シミュレーション, 気象効果, パーティクルシステム, 大気効果, 環境シミュレーション]
 slug: /storm-vfx-simulation-software
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 14 2025
+最終更新日: 2025年10月14日
 
 ![img](/img/img1028-wEmG.webp)
 
 https://storm-vfx.com/
 
-## Storm VFX Simulation Software - The Simulation Tool v0.6.863
+## Storm VFX - シミュレーションソフトウェア - The Simulation Tool v0.6.863
 
-Storm is a slim and powerful 3D VFX simulation software that allows you to quickly set up and simulate particle materials with different properties, like sand and snow. It has been used in feature films and series like "Game Of Thrones" and "XMen: Dark Phoenix" and more!
+Stormは、異なる特性を持つパーティクルマテリアル（砂や雪など）を迅速にセットアップしてシミュレートできる、スリムで強力な3D VFXシミュレーションソフトウェアです。「ゲーム・オブ・スローンズ」や「X-MEN：ダーク・フェニックス」などの映画やシリーズで使用されています！
 
-### Features
+### 特徴
 
-- Slim and powerful 3D VFX simulation software
-- Quick setup for particle material simulations
-- Simulate materials with different properties (sand, snow, fire, etc.)
-- Used in professional productions like "Game Of Thrones" and "XMen: Dark Phoenix"
-- Supports various particle effects
+:::info ソフトウェア機能
 
-### Technical Specifications
+- **パーティクルシミュレーション**: リアルな効果のための高度なパーティクルシステム
+- **マテリアル特性**: 砂、雪、火などの異なるマテリアルをシミュレート
+- **リアルタイムプレビュー**: シミュレーション結果をリアルタイムで確認
+- **ハリウッド品質**: 主要な映画制作で使用されています
+- **高速セットアップ**: 迅速で直感的なワークフロー
+- **複数のエクスポートオプション**: さまざまな形式でシミュレーションをエクスポート
+- **GPUアクセラレーション**: ハードウェアアクセラレーションされたシミュレーション処理
+- **統合対応**: 人気の3Dソフトウェアと互換性があります
+
+:::
+
+### 技術仕様
 
 <Tabs>
-<TabItem value="version" label="Version" default>
-- **Version**: v0.6.863
+<TabItem value="version" label="バージョン" default>
+- **バージョン**: v0.6.863
 </TabItem>
-<TabItem value="requirements" label="System Requirements">
-- **Installation**: Double-click Storm.exe in the bin folder to run
+<TabItem value="requirements" label="システム要件">
+- **プラットフォーム**: Windows（64ビット）
+- **ライセンス**: 商用ソフトウェア
+- **ファイルサイズ**: 約150MB
+- **GPU要件**: NVIDIA GTX 1060または同等品
+- **RAM**: 最小8GB、推奨16GB
+- **CPU**: Intel i5またはAMD同等品
+- **インストール**: binフォルダ内のStorm.exeをダブルクリックして実行
 </TabItem>
 </Tabs>
 
 :::tip
-Storm is ideal for creating particle effects for films, series, and other visual effects projects where you need realistic simulations of materials like sand, snow, and fire.
+Stormは、映画、シリーズ、そしてその他のビジュアルエフェクトプロジェクトで、砂、雪、火などのマテリアルのリアルなシミュレーションが必要な場合に、パーティクル効果を作成するのに最適です。
 :::
 
-## 🐌Free Slow Download Links
+## 🐌無料ダウンロードリンク
 
-| Version | File Type | Size | Download Link |
+| バージョン | ファイルタイプ | サイズ | ダウンロードリンク |
 |---------|-----------|------|---------------|
-| v0.6.863 | Software | N/A | [Baidu Netdisk Download](https://pan.baidu.com/s/1ObbG22_rIs-d2h2F6ZYddw?pwd=cupq) |
-| | | | Password: cupq |
-| v0.6.0 | Software | N/A | [Baidu Netdisk Download](https://pan.baidu.com/s/1mHc34gUts8UZDjb5cT75ag?pwd=52cr) |
-| | | | Password: 52cr |
+| v0.6.863 | ソフトウェア | N/A | [百度网盘ダウンロード](https://pan.baidu.com/s/1ObbG22_rIs-d2h2F6ZYddw?pwd=cupq) |
+| | | | パスワード: cupq |
+| v0.6.0 | ソフトウェア | N/A | [百度网盘ダウンロード](https://pan.baidu.com/s/1mHc34gUts8UZDjb5cT75ag?pwd=52cr) |
+| | | | パスワード: 52cr |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートのため、[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

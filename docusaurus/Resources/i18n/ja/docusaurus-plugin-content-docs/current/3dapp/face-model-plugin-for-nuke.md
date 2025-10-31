@@ -1,47 +1,47 @@
 ---
-title: "Face Model Plugin for Nuke Based on Images - KeenTools V2525.2.0 + V2024.3.0"
-description: "Nuke node plugin that can create 3D human face models based on multiple reference images with facial expression control"
-tags: ["Nuke plugin", "KeenTools", "3D face model", "facial tracking", "VFX"]
+title: "画像ベースのNuke用フェイスモデルプラグイン - KeenTools V2525.2.0 + V2024.3.0"
+description: "複数の参照画像から3D人間の顔モデルを作成し、表情コントロールが可能なNukeノードプラグイン"
+tags: ["Nukeプラグイン", "KeenTools", "3D顔モデル", "顔トラッキング", "VFX"]
 slug: /face-model-plugin-for-nuke
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Face Model Plugin for Nuke Based on Images - KeenTools V2525.2.0 + V2024.3.0
+# 画像ベースのNuke用フェイスモデルプラグイン - KeenTools V2525.2.0 + V2024.3.0
 
 <!--Second Part-This is First Banner -->
-![Face Model Plugin for Nuke Based on Images - KeenTools V2525.2.0 + V2024.3.0](https://www.gfxcamp.com/wp-content/uploads/2022/10/keentools-2022.2.0-for-nuke.jpg)
+![画像ベースのNuke用フェイスモデルプラグイン - KeenTools V2525.2.0 + V2024.3.0](https://www.gfxcamp.com/wp-content/uploads/2022/10/keentools-2022.2.0-for-nuke.jpg)
 
-:::tip[info]
-KeenTools FaceBuilder is a node plugin for Nuke that can create 3D models of human faces or heads based on multiple photos. The models can be later used for geometry tracking with GeoTracker or facial tracking with FaceTracker, and of course, they can be exported for further modifications in any other 3D software.
+:::tip[情報]
+KeenTools FaceBuilderは、複数の写真から人間の顔や頭部の3Dモデルを作成できるNuke用ノードプラグインです。作成されたモデルは、GeoTrackerでのジオメトリトラッキングやFaceTrackerでの顔トラッキングに使用でき、もちろん他の3Dソフトウェアでさらなる修正のためにエクスポートすることもできます。
 :::
 
-## Installation Steps
+## インストール手順
 
-- Disable antivirus, otherwise the registration machine may be mistakenly deleted
-- Close Nuke and install the corresponding version plugin
-- Run the registration machine BDY-KT_2024-KG.exe as administrator, click "Patch hosts file"
-  If there is no permission, you can manually edit C:\Windows\System32\drivers\etc\hosts with Notepad, and add:
+- アンチウイルスを無効化してください。そうしないと、登録マシンが誤って削除される可能性があります
+- Nukeを閉じて、対応するバージョンのプラグインをインストールしてください
+- 管理者権限で登録マシンBDY-KT_2024-KG.exeを実行し、「Patch hosts file」をクリックしてください
+  権限がない場合は、メモ帳でC:\Windows\System32\drivers\etc\hostsを手動で編集し、以下を追加してください：
   127.0.0.1 license-check.keentools.io
-- Click "Patch pubkey" and select C:\Program Files\Common Files\Nuke\XX\plugins\KeenTools\plugin_libs\KeenTools.dll in the pop-up window
+- 「Patch pubkey」をクリックし、ポップアップウィンドウでC:\Program Files\Common Files\Nuke\XX\plugins\KeenTools\plugin_libs\KeenTools.dllを選択してください
 
-## Supported Versions
+## 対応バージョン
 
-- V2024.3.0 version supports Nuke 14.1/15.1
-- V2025.2.0 version supports Nuke 16.0
+- V2024.3.0バージョンはNuke 14.1/15.1をサポート
+- V2025.2.0バージョンはNuke 16.0をサポート
 
 <!-- The Last Part-Download -->
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動してください。解凍パスワードはリンクの横に記載されています。
 :::
 
-| File                          | Download Link                                                            | Password |
+| ファイル                          | ダウンロードリンク                                                            | パスワード |
 | ----------------------------- | ------------------------------------------------------------------------ | -------- |
-| **KeenTools V2025.2.0**       | [Download](https://pan.baidu.com/s/18ouY0kYZeXhdAuSJEnbYZA?pwd=ikhh)     | `ikhh`   |
-| **KeenTools V2024.3.0**       | [Download](https://pan.baidu.com/s/18_aoYoH7Zp8wCjaz1IT07Q?pwd=sddg)     | `sddg`   |
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+| **KeenTools V2025.2.0**       | [ダウンロード](https://pan.baidu.com/s/18ouY0kYZeXhdAuSJEnbYZA?pwd=ikhh)     | `ikhh`   |
+| **KeenTools V2024.3.0**       | [ダウンロード](https://pan.baidu.com/s/18_aoYoH7Zp8wCjaz1IT07Q?pwd=sddg)     | `sddg`   |
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までご連絡ください。
 :::

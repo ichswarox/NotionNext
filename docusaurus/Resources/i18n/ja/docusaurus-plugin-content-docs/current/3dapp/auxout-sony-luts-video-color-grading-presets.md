@@ -1,43 +1,43 @@
 ---
-title: "AUXOUT Sony HLG SLOG CINE Video Color Grading LUTs Presets"
-description: "Collection of 51 presets for daily video recording, travel video color grading, supporting DaVinci Resolve, Premiere, After Effects, FCPX, Photoshop and other software that supports LUTs."
-tags: [luts, video-grading, color-correction, sony, presets]
+title: "AUXOUT Sony HLG SLOG CINEビデオカラーグレーディングLUTプリセット"
+description: "日常ビデオ録画、旅行ビデオカラーグレーディング用の51個のプリセットコレクション。DaVinci Resolve、Premiere、After Effects、FCPX、Photoshop、およびその他のLUT対応ソフトウェアをサポート。"
+tags: [luts, ビデオグレーディング, カラー補正, sony, プリセット]
 slug: /auxout-sony-luts-video-color-grading-presets
 ---
 
-_Last updated: Oct 17 2025_
+_最終更新日: 2025年10月17日_
 
 ![img1017-rjFC.webp](https://list.ucards.store/d/img/img1017-rjFC.webp)
 
-## Overview
+## 概要
 
-This collection includes 6 sets of 51 presets for daily video recording, travel network video color grading, in CUBE format, supporting DaVinci Resolve, Premiere, After Effects, FCPX, Photoshop, CapCut and any other software that can load LUTs.
+このコレクションには、日常ビデオ録画、旅行ネットワークビデオカラーグレーディング用の6セット51個のプリセットが含まれており、CUBE形式で、DaVinci Resolve、Premiere、After Effects、FCPX、Photoshop、CapCut、およびLUTを読み込めるその他のソフトウェアをサポートしています。
 
-:::tip[Key Features]
-- 6 sets with 51 presets total
-- CINE - CINEMATIC LUT PACK '17 (3 presets)
-- CINE - EARLY SUMMER '18 (6 presets)
-- CINE - SAGAMI (1 preset)
-- HLG - LUT Pack Bundle Vol.1+Vol.2 (32 presets)
-- SLOG - LUTPACK SPRING '18 (9 presets)
-- CUBE format compatible with most grading software
+:::tip[主な機能]
+- 6セット合計51個のプリセット
+- CINE - CINEMATIC LUT PACK '17 (3プリセット)
+- CINE - EARLY SUMMER '18 (6プリセット)
+- CINE - SAGAMI (1プリセット)
+- HLG - LUT Pack Bundle Vol.1+Vol.2 (32プリセット)
+- SLOG - LUTPACK SPRING '18 (9プリセット)
+- ほとんどのグレーディングソフトウェアと互換性のあるCUBE形式
 :::
 
-## Compatibility
+## 互換性
 
-Primarily designed for Sony camera footage, including:
-- CINE mode footage
-- HLG mode footage
-- SLOG mode footage
+主にSonyカメラ映像向けに設計されています：
+- CINEモード映像
+- HLGモード映像
+- SLOGモード映像
 
-## File Size
+## ファイルサイズ
 
-- 119MB compressed package
+- 119MB圧縮パッケージ
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートのため、[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::
 
-Link: https://www.youtube.com/watch?v=9JdigMAsi1A
+リンク: https://www.youtube.com/watch?v=9JdigMAsi1A

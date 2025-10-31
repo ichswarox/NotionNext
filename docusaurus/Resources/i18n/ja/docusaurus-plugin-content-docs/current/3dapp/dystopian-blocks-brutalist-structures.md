@@ -1,48 +1,48 @@
 ---
-title: "Dystopian Blocks - Brutalist Structures Kitbash Buildings for Blender"
-description: "Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectural 3D models for Blender, featuring 145 individual models and 45 building groups with 1K/2K/4K resolution textures."
+title: "Dystopian Blocks - Blender用ブルータリスト構造キットバッシュ建物"
+description: "Dystopian Blocksは、145個の個別モデルと45個の建物グループを備え、1K/2K/4K解像度のテクスチャを持つ、Blender向けの未来的なサイエンスフィクション・ディストピアスタイルの建築3Dモデルコレクションです。"
 slug: /dystopian-blocks-brutalist-structures
-tags: [3D models, Blender, Blender models, Blender assets, Blender presets, architectural models, building models]
+tags: [3Dモデル, Blender, Blenderモデル, Blenderアセット, Blenderプリセット, 建築モデル, 建物モデル]
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import {Badge} from '@docusaurus/theme-common';
 
-# Dystopian Blocks - Brutalist Structures Kitbash Buildings for Blender
+# Dystopian Blocks - Blender用ブルータリスト構造キットバッシュ建物
 
-![Dystopian Blocks Banner](https://www.gfxcamp.com/wp-content/uploads/2025/09/Dystopian-Blocks-Brutalist-Structures-Kitbash-Buildings.jpg)
+![Dystopian Blocksバナー](https://www.gfxcamp.com/wp-content/uploads/2025/09/Dystopian-Blocks-Brutalist-Structures-Kitbash-Buildings.jpg)
 
 <Tabs>
-<TabItem value="overview" label="Overview" default>
-Dystopian Blocks is a collection of futuristic sci-fi dystopian style architectural 3D models for Blender, featuring authoritarian and dominant concrete buildings. It includes 145 individual models and 45 building groups with 1K/2K/4K resolution textures to choose from. These are individual model assets, not complete scenes. After installation, they can be accessed through the asset browser, visualized, and used by simply dragging and dropping.
+<TabItem value="overview" label="概要" default>
+Dystopian Blocksは、権威的で支配的なコンクリート建物を特徴とする、Blender向けの未来的なサイエンスフィクション・ディストピアスタイルの建築3Dモデルコレクションです。145個の個別モデルと45個の建物グループが含まれ、1K/2K/4K解像度のテクスチャから選択できます。これらは個別のモデルアセットであり、完全なシーンではありません。インストール後、アセットブラウザからアクセスでき、視覚化され、簡単にドラッグアンドドロップで使用できます。
 </TabItem>
-<TabItem value="specifications" label="Specifications">
-- **Individual Models**: 145 single models
-- **Building Groups**: 45 building groups
-- **Texture Resolutions**: 1K/2K/4K options
-- **File Size**: 5.31GB
+<TabItem value="specifications" label="仕様">
+- **個別モデル**: 145個の単一モデル
+- **建物グループ**: 45個の建物グループ
+- **テクスチャ解像度**: 1K/2K/4Kオプション
+- **ファイルサイズ**: 5.31GB
 </TabItem>
 </Tabs>
 
-## Feature List
+## 機能リスト
 
-:::tip Key Features
-- **145 Individual Models**: Comprehensive collection of architectural elements
-- **45 Building Groups**: Pre-assembled building configurations
-- **Multiple Texture Resolutions**: Choose from 1K/2K/4K resolution textures
-- **Asset Browser Integration**: Direct access through Blender's asset browser
-- **Drag and Drop**: Easy implementation in your projects
-- **Futuristic Dystopian Style**: Authoritarian and dominant concrete architecture
+:::tip 主な機能
+- **145個の個別モデル**: 建築要素の包括的なコレクション
+- **45個の建物グループ**: 事前に組み立てられた建物設定
+- **複数のテクスチャ解像度**: 1K/2K/4K解像度のテクスチャから選択
+- **アセットブラウザ統合**: Blenderのアセットブラウザから直接アクセス
+- **ドラッグアンドドロップ**: プロジェクトへの簡単な実装
+- **未来的なディストピアスタイル**: 権威的で支配的なコンクリート建築
 :::
 
-## System Requirements
+## システム要件
 
-- **Software**: Blender 3.6 or higher
-- **Operating System**: Windows or Mac
-- **Hardware**: Any system capable of running Blender 3.6+
+- **ソフトウェア**: Blender 3.6以降
+- **オペレーティングシステム**: WindowsまたはMac
+- **ハードウェア**: Blender 3.6以降を実行できる任意のシステム
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

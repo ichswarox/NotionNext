@@ -1,35 +1,35 @@
 ---
-title: "Easy Blend Normals v1.0.1 - Normal Blending Plugin for Blender"
-description: "Easy Blend Normals v1.0.1 is a powerful Blender plugin that allows you to smoothly blend normals between two objects with just one click. Achieve seamless shading by hiding seams and shading breaks."
-tags: ["Blender", "Easy Blend Normals", "Blender plugin", "normal blending", "seamless shading", "geometry nodes", "3D modeling", "Blender 4.5"]
+title: "Easy Blend Normals v1.0.1 - Blender用ノーマルブレンディングプラグイン"
+description: "Easy Blend Normals v1.0.1は、2つのオブジェクト間のノーマルをワンクリックでスムーズにブレンドできる強力なBlenderプラグインです。シームとシェーディングの途切れを隠すことで、シームレスなシェーディングを実現します。"
+tags: ["Blender", "Easy Blend Normals", "Blenderプラグイン", "ノーマルブレンディング", "シームレスシェーディング", "ジオメトリノード", "3Dモデリング", "Blender 4.5"]
 slug: /easy-blend-normals-v1-0-1
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Easy Blend Normals v1.0.1: Normal Blending Plugin for Blender
+# Easy Blend Normals v1.0.1: Blender用ノーマルブレンディングプラグイン
 
 <!--Second Part-This is First Banner -->
 ![Easy Blend Normals v1.0.1](https://www.gfxcamp.com/wp-content/uploads/2025/08/Easy-Blend-Normals.jpg)
 
 :::tip[info]
-**Easy Blend Normals v1.0.1** is an innovative Blender plugin that enables artists to smoothly blend normals between two objects with just one click. This powerful tool helps eliminate seams and shading breaks, creating seamless transitions between different mesh elements in your 3D models.
+**Easy Blend Normals v1.0.1**は、アーティストが2つのオブジェクト間のノーマルをワンクリックでスムーズにブレンドできる革新的なBlenderプラグインです。この強力なツールは、シームとシェーディングの途切れを排除し、3Dモデルの異なるメッシュ要素間でシームレスな移行を作成するのに役立ちます。
 :::
 
-## Key Features
+## 主な機能
 
-- **One-click Setup**: Simply select two objects and blend them with a single operation
-- **Seamless Shading**: Effectively hide seams and shading breaks between mesh elements
-- **Non-destructive Workflow**: Built on Geometry Nodes for fully editable and reversible operations
-- **Smart Object Linking**: Automatically detects active versus target objects for intuitive workflow
-- **Lightweight & Fast**: No external dependencies, optimized for Blender 4.5+
-- **Professional Results**: Achieve high-quality surface continuity for production-ready models
+- **ワンクリック設定**: 2つのオブジェクトを選択して、単一の操作でブレンド
+- **シームレスシェーディング**: メッシュ要素間のシームとシェーディングの途切れを効果的に隠す
+- **非破壊的ワークフロー**: ジオメトリノードをベースに、完全に編集可能で可逆的な操作
+- **スマートオブジェクトリンク**: アクティブオブジェクトとターゲットオブジェクトを自動的に検出し、直感的なワークフローを実現
+- **軽量で高速**: 外部依存関係なし、Blender 4.5以降に最適化
+- **プロフェッショナルな結果**: 本番環境向けモデルのための高品質な表面連続性を実現
 
-## Supported Blender Versions
+## 対応Blenderバージョン
 
 - Blender 4.5
 
-## Installation Instructions
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -37,94 +37,94 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="blender-4.5" label="Blender 4.5" default>
     <ol>
-      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
-      <li>Click the dropdown in the top right and select <code>Install from Disk</code>.</li>
-      <li>Select the corresponding ZIP file.</li>
+      <li>Blenderで<code>編集</code>→<code>環境設定</code>→<code>アドオン</code>に移動します。</li>
+      <li>右上のドロップダウンをクリックして、<code>ディスクからインストール</code>を選択します。</li>
+      <li>対応するZIPファイルを選択します。</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## How to Use Easy Blend Normals
+## Easy Blend Normalsの使い方
 
-1. Install the plugin following the instructions above
-2. Enable the addon in Blender's preferences
-3. Select two objects you want to blend normals between
-4. Activate the Easy Blend Normals function
-5. The plugin will automatically create a seamless normal blend between the objects
-6. Adjust parameters as needed for optimal results
+1. 上記の手順に従ってプラグインをインストールします
+2. Blenderの環境設定でアドオンを有効にします
+3. ノーマルをブレンドしたい2つのオブジェクトを選択します
+4. Easy Blend Normals機能をアクティブにします
+5. プラグインが自動的にオブジェクト間でシームレスなノーマルブレンドを作成します
+6. 最適な結果のために必要に応じてパラメータを調整します
 
-## Use Cases
+## 使用例
 
-### Character Modeling
-Create seamless transitions between different parts of a character model, such as where armor meets skin or clothing connects to the body.
+### キャラクターモデリング
+キャラクターモデルの異なる部分間でシームレスな移行を作成します。例えば、鎧が皮膚に接続する部分や衣服が体に接続する部分などです。
 
-### Hard Surface Modeling
-Achieve flawless surface continuity in mechanical and architectural models where different components join together.
+### ハードサーフェスモデリング
+機械的および建築的モデルで異なるコンポーネントが接合する部分で、完璧な表面連続性を実現します。
 
-### Organic Modeling
-Smooth out normal transitions in organic forms where different surface orientations meet.
+### オーガニックモデリング
+異なる表面の向きが出会うオーガニックフォームで、ノーマル移行をスムーズにします。
 
-### Game Development
-Prepare models with clean normal blending for optimal performance in real-time engines.
+### ゲーム開発
+クリーンなノーマルブレンディングでモデルを準備し、リアルタイムエンジンでの最適なパフォーマンスを実現します。
 
-### Product Visualization
-Create professional-quality product renders with seamless surface transitions.
+### 製品ビジュアライゼーション
+シームレスな表面移行でプロフェッショナル品質の製品レンダリングを作成します。
 
-## Benefits of Easy Blend Normals
+## Easy Blend Normalsの利点
 
-### Time-Saving Workflow
-What would normally require manual normal editing or complex mesh operations can now be accomplished with a single click.
+### 時間節約ワークフロー
+通常は手動でのノーマル編集や複雑なメッシュ操作が必要な作業を、ワンクリックで実行できます。
 
-### Professional Quality
-Achieve production-ready surface continuity that meets industry standards for 3D modeling and rendering.
+### プロフェッショナル品質
+3Dモデリングとレンダリングの業界標準を満たす、本番環境対応の表面連続性を実現します。
 
-### Non-Destructive Editing
-All operations are fully editable and reversible, allowing for experimentation without fear of damaging your original geometry.
+### 非破壊的編集
+すべての操作が完全に編集可能で可逆的なため、元のジオメトリを損傷する恐れなく実験ができます。
 
-### Intuitive Interface
-Simple, user-friendly controls that integrate seamlessly with Blender's existing workflow.
+### 直感的なインターフェース
+Blenderの既存のワークフローにシームレスに統合される、シンプルでユーザーフレンドリーなコントロール。
 
-### Versatile Applications
-Suitable for a wide range of 3D modeling tasks from character creation to architectural visualization.
+### 多用途な応用
+キャラクター制作から建築ビジュアライゼーションまで、幅広い3Dモデリングタスクに対応します。
 
-## Technical Specifications
+## 技術仕様
 
-- **Plugin Name**: Easy Blend Normals v1.0.1
-- **Category**: 3D Modeling, Normal Editing
-- **Compatible Software**: Blender 4.5
-- **Installation Type**: ZIP File Installation
-- **Workflow**: Non-destructive, Geometry Nodes Based
-- **Dependencies**: None
+- **プラグイン名**: Easy Blend Normals v1.0.1
+- **カテゴリ**: 3Dモデリング、ノーマル編集
+- **対応ソフトウェア**: Blender 4.5
+- **インストールタイプ**: ZIPファイルインストール
+- **ワークフロー**: 非破壊的、ジオメトリノードベース
+- **依存関係**: なし
 
-### Content Creation
-- Showcase before/after comparisons
-- Create tutorial videos demonstrating key features
-- Share time-lapse creation processes
-- Document creative techniques and workflows
-- Include technical specifications and usage tips
+### コンテンツ作成
+- 前後の比較を展示
+- 主な機能を紹介するチュートリアルビデオを作成
+- タイムラプス作成プロセスを共有
+- クリエイティブなテクニックとワークフローを文書化
+- 技術仕様と使用上のヒントを含める
 
-### System Requirements
+### システム要件
 - Blender 4.5
-- Minimum 4GB RAM recommended
-- 50MB available disk space
-- Internet connection for initial download
+- 推奨4GB以上のRAM
+- 50MB以上の利用可能なディスク容量
+- 初期ダウンロード用のインターネット接続
 
 ---
 
-*Note: This is a third-party plugin for Blender. "Blender" is a registered trademark of the Blender Foundation.*
+*注：これはBlender用のサードパーティプラグインです。"Blender"はBlender Foundationの登録商標です。*
 
 <!-- The Last Part-Download -->
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動します。解凍パスワードはリンクの横に記載されています。
 :::
 
-| File                     | Download Link                                                           | Password |
+| ファイル                     | ダウンロードリンク                                                           | パスワード |
 | ------------------------ | ----------------------------------------------------------------------- | -------- |
-| **Easy Blend Normals**   | [Download](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)    | `w3es`   |
+| **Easy Blend Normals**   | [ダウンロード](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)    | `w3es`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては、[💬WhatsApp](https://wa.me/+8613237610083)までご連絡ください。
 :::

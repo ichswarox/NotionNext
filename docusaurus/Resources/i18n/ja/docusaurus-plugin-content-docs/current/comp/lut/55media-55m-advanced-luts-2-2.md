@@ -14,67 +14,67 @@ import TabItem from '@theme/TabItem';
 
 https://55media.net/product/55m-advanced-luts-for-panasonic-2-2-deluxe-edition/
 
-<time datetime="2025-05-01">Last updated: May 1, 2025</time>
+<time datetime="2025-05-01">最終更新: 2025年5月1日</time>
 
-Practical Panasonic Advanced Color Grading LUT is a Panasonic camera advanced color grading LUT package produced by 55MEDIA. Not only are the colors accurate and pleasing, but the contrast is also just right, very worth learning and referencing for your projects!
+55MEDIAが制作した実用的なPanasonicカメラ用アドバンストカラーグレーディングLUTパックです。色が正確で魅力的であるだけでなく、コントラストもちょうど良く、あなたのプロジェクトの学習と参考に非常に価値があります。
 
-The new 2.2 version offers both accurate and pleasant colors with a perfect dosage of contrast for your already existing footage, and projects yet-to-be-shot on most Panasonic cameras shooting V-Log, V-Log L and HLG. With this new version re-engineered from scratch, you no longer have to deal with magenta looking skin tones, lush greens, or overall lifeless looking images. With the new 55M Advanced Luts, your masterpieces will turn out better than ever before.
+新しい2.2バージョンは、既存の映像やこれから撮影するプロジェクトのために、正確で魅力的な色と完璧なコントラストの用量を提供します。V-Log、V-Log L、HLGを撮影するほとんどのPanasonicカメラに対応しています。最初から再設計されたこの新しいバージョンでは、マゼンタがかった肌の色調、濃い緑、または全体的に生気のない映像に悩まされることはありません。新しい55MアドバンストLUTにより、あなたの傑作はこれまで以上に良くなります。
 
-## Features
+## 特徴
 
-:::tip[Key Features]
-- Accurate and pleasant colors
-- Perfect contrast dosage
-- Compatible with V-Log, V-Log L and HLG
-- Eliminates magenta skin tones and lifeless images
+:::tip[主な特徴]
+- 正確で魅力的な色
+- 完璧なコントラストの用量
+- V-Log、V-Log L、HLGに対応
+- マゼンタ肌の色調と生気のない映像を排除
 :::
 
-### Technical Information
+### 技術情報
 
-- **System Requirements**: Windows and Mac systems
-- **Supported Software**: Compatible with Sony Vegas, Premiere Pro CC, After Effects CC, FCPX, DaVinci Resolve, and more
-- **File Format**: .CUBE format
-- **File Size**: Approximately 63MB
-- **Delivery Format**: .zip file
-- **Download Method**: Baidu Netdisk/Cow Transfer (VIP member exclusive high-speed access)
+- **システム要件**: WindowsおよびMacシステム
+- **対応ソフトウェア**: Sony Vegas、Premiere Pro CC、After Effects CC、FCPX、DaVinci Resolveなどに対応
+- **ファイル形式**: .CUBE形式
+- **ファイルサイズ**: 約63MB
+- **納品形式**: .zipファイル
+- **ダウンロード方法**: 百度网盤/奶牛転送（VIP会員限定高速アクセス）
 
-## Product Images
+## 製品画像
 
 ![5MEDIA 55m Advanced Luts 2.2](https://www.vfx123.com/wp-content/uploads/2025/05/1746757379-e7515846c65c0df.jpg)
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
 <TabItem value="fcpx" label="Final Cut Pro X">
-To load LUTs in Final Cut Pro X:
-1. Open FCPX software, find the Effects panel - Color - Custom LUT and add to your footage
-2. In the LUT parameter item - Select Custom LUT… select the LUTS folder or .cube file you want to load
+Final Cut Pro XでLUTを読み込むには：
+1. FCPXソフトウェアを開き、エフェクトパネル - カラー - カスタムLUTを見つけて映像に追加します
+2. LUTパラメーター項目 - カスタムLUTを選択...で、読み込みたいLUTSフォルダーまたは.cubeファイルを選択します
 
-> PS: If you select the LUTS folder, you can load the entire folder and keep it in the LUT parameter item for easy classification management, but note that it's best not to use Chinese or special characters.
+> PS: LUTSフォルダーを選択した場合、フォルダー全体を読み込んでLUTパラメーター項目に保持し、分類管理を簡単にすることができますが、中国語や特殊文字は使用しないでください。
 </TabItem>
 
 <TabItem value="premiere" label="Premiere Pro">
-First open the following path:
-- **Mac System**: /Library/Application Support/Adobe/Common/LUTs
-- **Windows System**: \\Program Files\\Adobe\\Common\\LUTs
+まず、次のパスを開きます：
+- **Macシステム**: /Library/Application Support/Adobe/Common/LUTs
+- **Windowsシステム**: \\Program Files\\Adobe\\Common\\LUTs
 
-Copy LUTs like "Log to Rec709" to the above folder.
+上記のフォルダーに「Log to Rec709」などのLUTをコピーします。
 
-> PS: For easy classification, you can create a new folder under the above path.
+> PS: 分類を簡単にするために、上記のパスの下に新しいフォルダーを作成することができます。
 </TabItem>
 
 <TabItem value="resolve" label="DaVinci Resolve">
-First open the following path:
-- **Mac System**: Macintosh HD/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT
-- **Windows System**: C:\\ProgramData\\Blackmagic Design\\DaVinci Resolve\\Support\\LUT
+まず、次のパスを開きます：
+- **Macシステム**: Macintosh HD/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT
+- **Windowsシステム**: C:\\ProgramData\\Blackmagic Design\\DaVinci Resolve\\Support\\LUT
 
-Copy LUTs like "Log to Rec709" to the above folder.
+上記のフォルダーに「Log to Rec709」などのLUTをコピーします。
 
 </TabItem>
 </Tabs>
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートを得るために[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

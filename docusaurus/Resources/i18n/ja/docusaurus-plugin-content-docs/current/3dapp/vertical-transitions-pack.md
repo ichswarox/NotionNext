@@ -1,45 +1,45 @@
 ---
-title: "400 Vertical Transitions Pack for Premiere Pro: Film Damage, Neon & Glitch Effects"
-description: "Enhance your vertical videos with 400 unique transitions for Premiere Pro. Explore film damage, neon glows, glitches, retro light leaks, and more. Easy to use with AtomX. No plugins needed."
+title: "Premiere Pro用400垂直トランジション パック: フィルムダメージ、ネオン&グリッチ効果"
+description: "Premiere Pro用の400のユニークな垂直トランジションで垂直ビデオを強化。フィルムダメージ、ネオングロー、グリッチ、レトロライトリークなどを探索。AtomXで簡単使用、プラグイン不要。"
 tags: 
-  - "Premiere Pro vertical transitions"
-  - "film damage"
-  - "neon effects"
-  - "video glitches"
-  - "retro video"
-  - "AtomX script"
-  - "video editing"
-  - "motion graphics"
+  - "Premiere Pro垂直トランジション"
+  - "フィルムダメージ"
+  - "ネオン効果"
+  - "ビデオグリッチ"
+  - "レトロビデオ"
+  - "AtomXスクリプト"
+  - "ビデオ編集"
+  - "モーショングラフィックス"
 slug: /vertical-transitions-pack
 ---
 
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# 400 Vertical Transitions Pack for Premiere Pro: Film Damage, Neon & Glitch Effects
+# Premiere Pro用400垂直トランジション パック: フィルムダメージ、ネオン&グリッチ効果
 
 <!--Second Part-This is First Banner -->
-![400 Vertical Transitions Pack Poster](/img/VFX-Grace-Corals-Collection.jpg)
+![400垂直トランジション パック ポスター](/img/VFX-Grace-Corals-Collection.jpg)
 
-:::tip[info]
-Enhance your vertical videos with 400 unique transitions for Premiere Pro. Explore film damage, neon glows, glitches, retro light leaks, and more. Easy to use with AtomX. No plugins needed.
+:::tip[情報]
+Premiere Pro用の400のユニークな垂直トランジションで垂直ビデオを強化。フィルムダメージ、ネオングロー、グリッチ、レトロライトリークなどを探索。AtomXで簡単使用、プラグイン不要。
 :::
 
-## Script Preset Introduction
+## スクリプトプリセット紹介
 
-Includes a total of 400 vertical video transitions, featuring effects like film damage, burns, neon, glitches, retro light leaks, VHS, paper freeze frames, tape markers, lens flares, and more. Requires Premiere Pro CC 2022 or higher. It uses the included AtomX script for a visual interface, allowing you to simply double-click to generate the desired element.
+フィルムダメージ、燃焼、ネオン、グリッチ、レトロライトリーク、VHS、紙のフリーズフレーム、テープマーカー、レンズフレアなどの効果を含む、合計400の垂直ビデオトランジションを収録。Premiere Pro CC 2022以降が必要です。含まれているAtomXスクリプトを使用してビジュアルインターフェースを提供し、ダブルクリックするだけで目的の要素を生成できます。
 
-## Requirements
+## 要件
 
-*   **Version:** Premiere Pro CC 2022 or higher. Supports both Chinese and English versions of PR on Win/Mac.
-*   **Resolution:** Unlimited.
-*   **Plugins:** No third-party plugins required.
-*   **Size:** 2.24GB (compressed).
-*   **Tutorial:** Video tutorial included.
-*   **Music:** Background music is not included.
+*   **バージョン:** Premiere Pro CC 2022以降。Win/Mac上のPRの中国語版と英語版の両方をサポート。
+*   **解像度:** 無制限。
+*   **プラグイン:** 第三者プラグインは不要。
+*   **サイズ:** 2.24GB（圧縮済み）。
+*   **チュートリアル:** ビデオチュートリアル付属。
+*   **音楽:** バックグラウンド音楽は含まれていません。
 
-## 🐌Free Slow Download Links
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🐌 無料低速ダウンロードリンク
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

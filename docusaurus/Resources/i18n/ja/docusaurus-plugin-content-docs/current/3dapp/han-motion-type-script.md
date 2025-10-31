@@ -5,36 +5,36 @@ tags: [ae script, han motion type, text animation, cjk characters, after effects
 slug: /han-motion-type-script
 ---
 
-<!--First Part-This is Title -->
-# AE Script - Han Motion Type - Text Animation for CJK Characters
+<!--最初の部分-これはタイトルです-->
+# AEスクリプト - Han Motion Type - 中日韓文字用テキストアニメーション
 
-<!--Second Part-This is First Banner -->
+<!--2番目の部分-これは最初のバナーです-->
 ![Han Motion Type](/img/han-motion-type.jpg)
 
-:::tip[info]
-An After Effects script with 30 animation presets designed for Chinese, Japanese, and Korean (CJK) text. Easy to use, works with any font, and no plugins required.
+:::tip[情報]
+中国語、日本語、韓国語（CJK）の文字用に設計された30のアニメーションプリセットを備えたAfter Effectsスクリプトです。使いやすく、任意のフォントで動作し、プラグインは不要です。
 :::
 
-## Features
+## 特徴
 
-This script includes 30 text animation presets, specifically designed for the unique characteristics of CJK characters.
+このスクリプトには、CJK文字の独自の特徴のために特別に設計された30のテキストアニメーションプリセットが含まれています。
 
-- **30 Animation Presets**: A wide range of creative text animations.
-- **In & Out Animations**: Easily create entrance and exit animations for your text.
-- **Any Font**: Works with any font you have installed.
-- **Easy to Use**: The script has a user-friendly English interface.
+- **30のアニメーションプリセット**：幅広い創造的なテキストアニメーション。
+- **イン＆アウトアニメーション**：テキストの入場と退場アニメーションを簡単に作成。
+- **任意のフォント**：インストールされている任意のフォントで動作します。
+- **使いやすい**：スクリプトにはユーザーフレンドリーな英語インターフェースがあります。
 
-## Requirements
+## 必要条件
 
-- **Version**: After Effects CC 2018 or higher (supports all languages)
-- **Resolution**: Any
-- **Plugins**: No third-party plugins required
-- **File Size**: 66MB
-- **Tutorials**: A video tutorial with Chinese subtitles is included.
-- **Music**: Background music is not included.
+- **バージョン**：After Effects CC 2018以降（すべての言語をサポート）
+- **解像度**：任意
+- **プラグイン**：第三者プラグインは不要
+- **ファイルサイズ**：66MB
+- **チュートリアル**：中国語字幕付きビデオチュートリアルが含まれています。
+- **音楽**：背景音楽は含まれていません。
 
-<!-- The Last Part-Download -->
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+<!--最後の部分-ダウンロード-->
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

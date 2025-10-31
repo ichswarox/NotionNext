@@ -1,56 +1,56 @@
 ---
-title: BQR Boolean Quad Ready V1.6 for Blender
-description: A guide to BQR Boolean Quad Ready, a plugin for optimizing quad mesh topology during boolean operations in Blender. Learn about its features, installation, and find download links for various versions.
-tags: [bqr boolean quad ready, blender, boolean operations, quad optimization, mesh topology, plugin]
+title: "BQR Boolean Quad Ready V1.6 Blender用"
+description: "BQR Boolean Quad Readyのガイド。Blenderでのブーリアン操作時にクアッドメッシュトポロジを最適化するプラグイン。機能、インストール、各種バージョンのダウンロードリンクについて学びます。"
+tags: ["bqr boolean quad ready", "blender", "ブーリアン操作", "クアッド最適化", "メッシュトポロジ", "プラグイン"]
 slug: /bqr-boolean-quad-ready
 ---
 
-# BQR Boolean Quad Ready: Quad Mesh Optimization Plugin for Blender
+# BQR Boolean Quad Ready: Blender用クアッドメッシュ最適化プラグイン
 
 ![Bqr Boolean Quad Ready](https://www.gfxcamp.com/wp-content/uploads/2025/05/Bqr-Boolean-Quad-Ready.jpg)
 
-:::tip[info]
-Take advantage of the new full-quads workflow quickly and easily with BQR. This plugin optimizes and reduces messy wiring generated during boolean modeling in Blender, optimizing quad wiring.
+:::tip[情報]
+BQRで新しいフルクアッドワークフローを迅速かつ簡単に活用しましょう。このプラグインは、Blenderでのブーリアンモデリング中に生成される煩雑なワイヤリングを最適化・削減し、クアッドワイヤリングを最適化します。
 :::
 
-## Key Features
+## 主な機能
 
-- **Quad Mesh Optimization**: Optimizes quad mesh topology during boolean operations.
-- **Wiring Reduction**: Reduces messy wiring generated during boolean modeling.
-- **Full-Quads Workflow**: Enables a quick and easy full-quads workflow.
+- **クアッドメッシュ最適化**: ブーリアン操作時にクアッドメッシュトポロジを最適化。
+- **ワイヤリング削減**: ブーリアンモデリング中に生成される煩雑なワイヤリングを削減。
+- **フルクアッドワークフロー**: 迅速かつ簡単なフルクアッドワークフローを可能にします。
 
-## Supported Blender Versions
+## 対応Blenderバージョン
 
-Supports Blender versions: 4.5, 4.4, 4.3.
+Blenderバージョン4.5、4.4、4.3をサポート。
 
-## Installation Instructions
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="default" label="Default Installation" default>
+  <TabItem value="default" label="デフォルトインストール" default>
     <ol>
-      <li>In Blender, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
-      <li>Click the dropdown in the top right and select <code>Install from Disk</code>.</li>
-      <li>Select the corresponding ZIP file.</li>
+      <li>Blenderで、<code>編集</code> → <code>プリファレンス</code> → <code>アドオン</code>に移動します。</li>
+      <li>右上のドロップダウンをクリックし、<code>ディスクからインストール</code>を選択します。</li>
+      <li>対応するZIPファイルを選択します。</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-:::warning[Download]
-Click on the link to go to the download page. The extraction password is provided next to the link.
+:::warning[ダウンロード]
+リンクをクリックしてダウンロードページに移動します。抽出パスワードはリンクの横に記載されています。
 :::
 
-| File                            | Download Link                                                              | Password |
+| ファイル                            | ダウンロードリンク                                                              | パスワード |
 | ------------------------------- | -------------------------------------------------------------------------- | -------- |
-| **BQR Boolean Quad Ready V1.6** | [Download](https://pan.baidu.com/s/1F1-n_a556umRWqoXdHc2Bw?pwd=hn26)        | `hn26`   |
-| **BQR Boolean Quad Ready V1.5** | [Download](https://pan.baidu.com/s/1e2pG7-xrijsHZgiomlTUyw?pwd=uv9m)        | `uv9m`   |
-| **BQR Boolean Quad Ready V1.4** | [Download](https://pan.baidu.com/s/1ByFoB3ULDaAPZKhW4u6zmg?pwd=8879)        | `8879`   |
+| **BQR Boolean Quad Ready V1.6** | [ダウンロード](https://pan.baidu.com/s/1F1-n_a556umRWqoXdHc2Bw?pwd=hn26)        | `hn26`   |
+| **BQR Boolean Quad Ready V1.5** | [ダウンロード](https://pan.baidu.com/s/1e2pG7-xrijsHZgiomlTUyw?pwd=uv9m)        | `uv9m`   |
+| **BQR Boolean Quad Ready V1.4** | [ダウンロード](https://pan.baidu.com/s/1ByFoB3ULDaAPZKhW4u6zmg?pwd=8879)        | `8879`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

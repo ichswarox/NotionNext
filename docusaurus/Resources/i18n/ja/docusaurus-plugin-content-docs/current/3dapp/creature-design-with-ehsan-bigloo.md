@@ -1,45 +1,45 @@
 ---
-title: "Creature Design with Ehsan Bigloo - IAMAG Tutorial"
-description: "Learn professional creature design techniques from Ehsan Bigloo covering design basics, real-world shapes, and breaking anatomy from human and animal references."
-tags: [creature design, character design, tutorial, IAMAG, Ehsan Bigloo, drawing]
+title: "Ehsan Biglooによるクリーチャーデザイン - IAMAGチュートリアル"
+description: "Ehsan Biglooからデザインの基礎、現実世界の形状、人間や動物の解剖学的構造からの破壊など、プロフェッショナルなクリーチャーデザインテクニックを学びます。"
+tags: [クリーチャーデザイン, キャラクターデザイン, チュートリアル, IAMAG, Ehsan Bigloo, ドローイング]
 slug: /creature-design-with-ehsan-bigloo
 ---
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月17日
 
 ![img1018-HZXG.webp](https://list.ucards.store/d/img/img1018-HZXG.webp)
 
-## Creature Design with Ehsan Bigloo - IAMAG Tutorial
+## Ehsan Biglooによるクリーチャーデザイン - IAMAGチュートリアル
 
-Ehsan Bigloo will go over the design basics, talking about professional creature design from the past to the present in the motion picture industry. The tutorial covers creating grounded shapes and forms, and how to break the anatomy from human or animal reference. This comprehensive tutorial provides insights into the professional creature design process.
+Ehsan Biglooは、映画業界における過去から現在までのプロフェッショナルなクリーチャーデザインについて、デザインの基礎を説明します。このチュートリアルでは、実在する形状とフォームの作成、人間や動物の参照から解剖学的構造を破壊する方法をカバーしています。この総合的なチュートリアルは、プロフェッショナルなクリーチャーデザインプロセスへの洞察を提供します。
 
-## Key Features
+## 主な機能
 
-- **Software Required**: Hand drawing
-- **Duration**: 59 minutes
-- **Project Files**: No project files included
-- **Subtitles**: English without subtitles
-- **Format**: MP4, 1920×1080
+- **必要なソフトウェア**: 手描き
+- **期間**: 59分
+- **プロジェクトファイル**: プロジェクトファイルは含まれていません
+- **字幕**: 英語（字幕なし）
+- **フォーマット**: MP4、1920×1080
 
-## What You'll Learn
+## 学習内容
 
-- Design fundamentals for creature creation
-- Professional creature design in motion pictures
-- Creating grounded shapes and forms
-- Breaking anatomy from human and animal references
-- Industry-standard creature design techniques
+- クリーチャー作成のためのデザインの基礎
+- 映画におけるプロフェッショナルなクリーチャーデザイン
+- 実在する形状とフォームの作成
+- 人間や動物の参照から解剖学的構造を破壊する
+- 業界標準のクリーチャーデザインテクニック
 
 :::tip
-This tutorial is perfect for artists looking to understand professional creature design techniques used in the motion picture industry.
+このチュートリアルは、映画業界で使用されるプロフェッショナルなクリーチャーデザインテクニックを理解したいアーティストに最適です。
 :::
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-| File Name | Size | Download Link |
+| ファイル名 | サイズ | ダウンロードリンク |
 |-----------|------|---------------|
-| Creature Design with Ehsan Bigloo | - | [Baidu Netdisk](https://pan.baidu.com/s/1zFin5fsMfPmFTv4LyWAHyA?pwd=gqvw) (Password: gqvw) |
+| Ehsan Biglooによるクリーチャーデザイン | - | [百度网盘](https://pan.baidu.com/s/1zFin5fsMfPmFTv4LyWAHyA?pwd=gqvw) （パスワード: gqvw） |
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::
-Link: https://masterclasses.iamag.co/programs/creature-design-with-ehsan-bigloo
+リンク: https://masterclasses.iamag.co/programs/creature-design-with-ehsan-bigloo

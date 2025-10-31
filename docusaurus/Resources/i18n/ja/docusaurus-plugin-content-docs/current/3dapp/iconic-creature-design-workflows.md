@@ -1,95 +1,95 @@
 ---
-title: "Iconic Creature Design Workflows"
-description: "Master creature design techniques with Aaron Sims using Photoshop and ZBrush for professional film and TV production"
-tags: [creature-design, zbrush, photoshop, creature-art, digital-sculpting, digital-painting, workflow]
+title: "アイコニッククリーチャーデザインワークフロー"
+description: "映画やテレビ制作のためのPhotoshopとZBrushを使用したプロフェッショナルなクリーチャーデザインテクニックをAaron Simsから学びましょう"
+tags: ["クリーチャーデザイン", "zbrush", "photoshop", "クリーチャーアート", "デジタルスカルプティング", "デジタルペインティング", "ワークフロー"]
 slug: /iconic-creature-design-workflows
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Iconic Creature Design Workflows
+# アイコニッククリーチャーデザインワークフロー
 
-*Last updated: Oct 17 2025*
+*最終更新日: 2025年10月17日*
 
 ![img1018-WjNz.webp](https://list.ucards.store/d/img/img1018-WjNz.webp)
 
-## Photobashing and ZBrush Techniques with Aaron Sims
+## Aaron SimsによるフォトバッシングとZBrushテクニック
 
 :::tip
-This comprehensive workshop covers professional creature design workflows combining 2D photobashing in Photoshop and 3D sculpting in ZBrush, providing essential techniques for creating memorable character designs for film and TV.
+この総合的なワークショップでは、映画やテレビ向けの記憶に残るキャラクターデザインを作成するための基本的なテクニックを提供する、Photoshopでの2DフォトバッシングとZBrushでの3Dスカルプティングを組み合わせたプロフェッショナルなクリーチャーデザインワークフローをカバーしています。
 :::
 
-## Description
+## 説明
 
-Industry veteran Aaron Sims details two of his tried-and-trusted workflows for creating iconic concept designs for film and TV, using Photoshop and ZBrush. As well as guiding you through his production-proven techniques, Aaron shares his thoughts on the importance of conveying personality and character through designs and shares some of the key lessons he's learned over his 35-year career.
+業界のベテランAaron Simsは、PhotoshopとZBrushを使用して映画やテレビ向けのアイコニックなコンセプトデザインを作成するための、試験済みで信頼できる2つのワークフローの詳細を説明します。彼の実証済みのプロダクションテクニックをガイドするだけでなく、デザインを通じて個性やキャラクターを伝えることの重要性について考えを共有し、35年間のキャリアで学んだ重要な教訓をいくつか共有します。
 
-The workshop begins with a 2D workflow in Photoshop, where Aaron walks through his personal approach to visualizing a mutated character, using photo-bashing techniques that skillfully cut, splice, and warp multiple layers of human, creature, and organic elements to craft a completely unique design. The lecture details not only how to master photo manipulation for incredible results but also why the techniques and outcomes are his chosen workflows for likenesses, prosthetics, and digital augmentations.
+ワークショップは、Photoshopでの2Dワークフローから始まります。ここでAaronは、変異したキャラクターを視覚化するための彼の個人的なアプローチを説明し、人間、クリーチャー、有機的要素の複数のレイヤーを巧みにカット、スプライス、ワープして完全に独自のデザインを作成するフォトバッシングテクニックを使用します。この講義では、信じられないような結果のための写真操作をマスターする方法だけでなく、なぜこれらのテクニックと結果が、肖像、義体、デジタル拡張のための彼の選択されたワークフローなのかも詳述します。
 
-The second part of the workshop dives into ZBrush to develop a fully realized and dimensionalized alien character. Aaron shares his ZBrush workflow, from base mesh to final bust, discussing the importance of anatomy, how to create points of interest in 3D designs, and how to push the envelope to create designs while still creating something an audience can relate to. The 3D workflow concludes with rendering techniques in KeyShot, before finalizing the design in Photoshop.
+ワークショップの第2部では、完全に実現され、次元化されたエイリアンキャラクターを開発するためにZBrushに深く潜ります。Aaronは、ベースメッシュから最終的な胸像まで、彼のZBrushワークフローを共有し、解剖学の重要性、3Dデザインで興味のポイントを作成する方法、そして観客が関連付けることができる何かを作成しながら、どのようにしてエンベロープを押し広めてデザインを作成するかについて議論します。3Dワークフローは、KeyShotでのレンダリングテクニックで結論付けられ、最終的なデザインはPhotoshopで仕上げられます。
 
-### Key Features:
-- Professional 2D photobashing techniques in Photoshop
-- Advanced 3D sculpting workflows in ZBrush
-- Character personality and storytelling through design
-- Industry-proven techniques from a 35-year veteran
-- Complete 2D-to-3D integration workflows
-- Anatomy principles for creature design
+### 主な機能:
+- Photoshopでのプロフェッショナルな2Dフォトバッシングテクニック
+- ZBrushでの高度な3Dスカルプティングワークフロー
+- デザインを通じたキャラクターの個性とストーリーテリング
+- 35年間のベテランによる実証済みの業界テクニック
+- 完全な2Dから3Dへの統合ワークフロー
+- クリーチャーデザインのための解剖学の原則
 
-### Technical Specifications:
-- **Duration**: 2h 06m
-- **Format**: HD 1920x1080
-- **Software**: Photoshop, ZBrush, KeyShot
+### 技術仕様:
+- **期間**: 2時間06分
+- **フォーマット**: HD 1920x1080
+- **ソフトウェア**: Photoshop、ZBrush、KeyShot
 
-## Lessons
+## レッスン
 
 <Tabs>
-<TabItem value="overview" label="Overview" default>
+<TabItem value="overview" label="概要" default>
 
-### Lesson Overview
+### レッスン概要
 
-- 00. Preview
-- 01. Aaron Sims Background
-- 02. Why Design in 2D and why design in 3D
-- 03. Creature Designing in 2D
-- 04. Creature 3D Design Sculpting
-- 05. Creature 3D Design Texturing
-- 06. Creature 3D Design Rendering
-- 07. Conclusion
+- 00. プレビュー
+- 01. Aaron Simsの背景
+- 02. なぜ2Dでデザインし、なぜ3Dでデザインするのか
+- 03. 2Dでのクリーチャーデザイン
+- 04. クリーチャー3Dデザインスカルプティング
+- 05. クリーチャー3Dデザインテクスチャリング
+- 06. クリーチャー3Dデザインレンダリング
+- 07. 結論
 
 </TabItem>
-<TabItem value="workflow" label="Workflow Focus">
+<TabItem value="workflow" label="ワークフローに注目">
 
-### Workflow Deep Dive
+### ワークフローの深い掘り下げ
 
-**2D Photobashing Workflow:**
-- Photo manipulation and compositing techniques
-- Layer management and blending methods
-- Concept visualization and iteration
-- Creating believable creatures from organic elements
+**2Dフォトバッシングワークフロー:**
+- 写真操作とコンポジットテクニック
+- レイヤー管理とブレンド方法
+- コンセプトの視覚化とイテレーション
+- 有機的要素から信じられるクリーチャーを作成
 
-**3D ZBrush Workflow:**
-- Base mesh preparation and dynamesh techniques
-- Anatomy principles for creature design
-- Detailing and surface development
-- Rendering and presentation techniques
+**3D ZBrushワークフロー:**
+- ベースメッシュの準備とdynameshテクニック
+- クリーチャーデザインのための解剖学の原則
+- ディテイリングと表面開発
+- レンダリングとプレゼンテーションテクニック
 
 </TabItem>
 </Tabs>
 
-## Instructor
+## インストラクター
 
-**Aaron Sims** - Art Director
+**Aaron Sims** - アートディレクター
 
-Aaron Sims, the mind behind some of this generation's most unforgettable cinema creatures, began his career over three decades ago as a special effects artist working alongside industry icons Rick Baker and Stan Winston (Evil Dead, Gremlins 2, How the Grinch Stole Christmas, Men In Black). His pioneering techniques in the world of visual effects influenced the face of character and creature design in Film, Television, Games, Previs, and VFX early on in their application (A.I., Constantine, War of the Worlds, Big Fish). In 2005, Aaron Sims Creative was formed in order to bring together a wide range of the world's most talented concept and visual effects artists and create memorable characters, creatures, VFX, costumes, and key scenes (*I am Legend, The Incredible Hulk, The Amazing Spiderman, Clash of the Titans, The Conjuring, Stranger Things*). Aaron's unparalleled skill and dedication to consistently creating stunning content for all platforms of visual entertainment has led ASC to become the premiere boutique studio for creature and franchise design & development.
+この世代で最も忘れられない映画のクリーチャーの背後にあるマインドであるAaron Simsは、35年以上前に、業界のアイコンRick BakerとStan Winstonと共に働く特殊効果アーティストとしてキャリアを開始しました（Evil Dead、Gremlins 2、How the Grinch Stole Christmas、Men In Black）。視覚効果の世界での彼の先駆的なテクニックは、キャラクターとクリーチャーデザインの顔を映画、テレビ、ゲーム、プレビス、VFXに早い段階で適用された影響を与えました（A.I.、Constantine、War of the Worlds、Big Fish）。2005年、Aaron Sims Creativeは、世界で最も才能のあるコンセプトと視覚効果アーティストの幅広い範囲を集め、記憶に残るキャラクター、クリーチャー、VFX、衣装、重要なシーンを作成するために設立されました（I am Legend、The Incredible Hulk、The Amazing Spiderman、Clash of the Titans、The Conjuring、Stranger Things）。すべてのビジュアルエンターテインメントプラットフォームのための素晴らしいコンテンツを一貫して作成するためのAaron Simsの比類のないスキルと献身により、ASCはクリーチャーとフランチャイズデザイン＆開発のためのプレミアムブティックスタジオとなりました。
 
-> "Aaron Sims is the consummate industry professional in that he consistently marries his considerable artistic talent with the powerful technological tools of today, producing work that not only meets the demands of time-sensitive production schedules, but also never fails to impress."
+> "Aaron Simsは、彼のかなりの芸術的才能を今日の強力な技術ツールと結婚させ、時間に制約のあるプロダクションスケジュールの要求を満たすだけでなく、感動させることに失敗したことがない作品を制作することで、完璧な業界のプロフェッショナルです。"
 > 
-> Stan Winston, Stan Winston Studio
+> Stan Winston、Stan Winston Studio
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートのため、[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::
 
-link: https://www.youtube.com/watch?v=HbnNqs9RUA0
+リンク: https://www.youtube.com/watch?v=HbnNqs9RUA0

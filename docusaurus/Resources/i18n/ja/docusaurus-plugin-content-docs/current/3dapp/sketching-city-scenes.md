@@ -1,56 +1,56 @@
 ---
-title: "Sketching City Scenes with Cars, Trees and Furnishings"
-description: "Learn to bring urban environments to life with James Richards covering techniques for sketching cars, trees and urban furnishings"
-tags: [sketching, urban-design, city-scenes, environment-art, concept-art]
+title: "車、木、家具を使った街並みのスケッチ"
+description: "James Richardsと共に都市環境に命を吹き込む方法を学び、車、木、都市の家具をスケッチする技術をカバーします"
+tags: ["スケッチ", "都市デザイン", "街並み", "環境アート", "コンセプトアート"]
 slug: /sketching-city-scenes
 ---
 
-# Bring City Scenes to Life: Sketching Cars, Trees and Furnishings
+# 街並みに命を吹き込む：車、木、家具のスケッチ
 
-*Last updated: Oct 17 2025*
+*最終更新日: 2025年10月17日*
 
-![Urban Sketching](https://www.skillshare.com/blog/wp-content/uploads/2020/06/urban-sketching.jpg)
+![都市スケッチ](https://www.skillshare.com/blog/wp-content/uploads/2020/06/urban-sketching.jpg)
 
-## Sketching Urban Environments with James Richards
+## James Richardsと共に都市環境をスケッチ
 
 :::tip
-This course teaches essential techniques for sketching realistic city scenes, focusing on vehicles, vegetation, and urban furnishings to create vibrant and believable urban environments.
+このコースは、車、植栽、都市の家具に焦点を当てて、リアリスティックな都市風景をスケッチするための必須技術を教え、活気に満ちた信じられる都市環境を作成します。
 :::
 
-## Description
+## 説明
 
-Learn to bring city scenes to life with professional techniques for sketching cars, trees, and urban furnishings. This comprehensive guide covers the essential elements needed to create vibrant and realistic urban environments. From understanding perspective in cityscapes to mastering the details of vehicles and greenery, you'll develop the skills needed to create compelling urban scenes that feel alive and authentic.
+車、木、都市の家具をスケッチするためのプロフェッショナルな技術で、街並みに命を吹き込む方法を学びます。この総合的なガイドは、活気に満ちたリアリスティックな都市環境を作成するために必要な必須要素をカバーしています。都市景観でのパースペクティブの理解から車両や緑の詳細の習得まで、生き生きとしていて本格的な都市風景を作成するために必要なスキルを開発します。
 
-### Key Features:
-- Professional techniques for sketching urban vehicles
-- Methods for drawing realistic trees and vegetation in city settings
-- Urban furnishing and infrastructure sketching
-- Perspective and composition for city scenes
-- Environmental storytelling through urban elements
+### 主な特徴：
+- 都市の車両をスケッチするためのプロフェッショナルな技術
+- 都市環境でのリアリスティックな木や植栽を描く方法
+- 都市の家具やインフラストラクチャーのスケッチ
+- 都市風景のためのパースペクティブと構図
+- 都市要素を通じた環境ストーリーテリング
 
-### Technical Specifications:
-- **Duration**: 1h 30m (approx.)
-- **Software**: Digital sketching tools
-- **Level**: Beginner to Intermediate
+### 技術仕様：
+- **期間**: 1時間30分（概算）
+- **ソフトウェア**: デジタルスケッチツール
+- **レベル**: 初心者から中級者
 
-## Lessons
+## レッスン
 
-### Lesson Overview
+### レッスン概要
 
-1. **Introduction to Urban Sketching** - Understanding the fundamentals of city scene composition
-2. **Sketching Cars and Vehicles** - Techniques for drawing various urban vehicles in perspective
-3. **Drawing Trees and Greenery** - Methods for realistic urban vegetation
-4. **Urban Furnishings** - Sketching street furniture, signs, and infrastructure
-5. **Bringing It All Together** - Combining elements for cohesive city scenes
-6. **Advanced Techniques** - Adding life and atmosphere to urban environments
+1. **都市スケッチ入門** - 都市風景構図の基本を理解する
+2. **車と車両のスケッチ** - パースペクティブで様々な都市車両を描く技術
+3. **木と緑の描画** - リアリスティックな都市植栽の方法
+4. **都市の家具** - 街路灯、標識、インフラストラクチャーのスケッチ
+5. **すべてをまとめる** - まとまりのある都市風景のための要素の組み合わせ
+6. **上級テクニック** - 都市環境に命と雰囲気を追加する
 
-## Instructor
+## 講師
 
-**James Richards** - Urban Sketching Specialist
+**James Richards** - 都市スケッチスペシャリスト
 
-James Richards is a professional artist specializing in urban environments and architectural sketching. With years of experience in concept art and environment design, James brings a unique perspective to urban sketching, focusing on the elements that make city scenes feel alive and authentic. His work has been featured in various design publications and he has taught urban sketching to artists around the world.
+James Richardsは、都市環境と建築スケッチを専門とするプロフェッショナルアーティストです。コンセプトアートと環境デザインの多年の経験を持ち、Jamesは都市スケッチに独自の視点をもたらし、都市風景を生き生きとしていて本物に感じさせる要素に焦点を当てています。彼の作品は様々なデザイン出版物に掲載されており、世界中のアーティストに都市スケッチを教えています。
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

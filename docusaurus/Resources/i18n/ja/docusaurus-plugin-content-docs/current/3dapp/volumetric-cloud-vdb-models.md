@@ -1,24 +1,24 @@
 ---
-title: "Download 60 Volumetric 3D Cloud VDB Models"
-description: "Explore a collection of 60 high-quality, static 3D volumetric cloud VDB models, perfect for any software that supports VDB files. Available in high and low resolution."
-tags: ["Volumetric clouds", "VDB models", "3D assets", "Visual effects", "Architectural visualization", "Game development"]
+title: "60個のボリューメトリック3DクラウドVDBモデルをダウンロード"
+description: "VDBファイルをサポートするあらゆるソフトウェアに最適な、60個の高品質な静的3DボリューメトリッククラウドVDBモデルのコレクションを探索。高解像度と低解像度で利用可能。"
+tags: ["ボリューメトリッククラウド", "VDBモデル", "3Dアセット", "ビジュアルエフェクト", "建築ビジュアリゼーション", "ゲーム開発"]
 slug: /volumetric-cloud-vdb-models
 ---
 
-## 60 Volumetric 3D Cloud VDB Models
+## 60個のボリューメトリック3DクラウドVDBモデル
 
-Enhance your 3D scenes with this comprehensive collection of 60 static volumetric cloud VDB files. This bundle is perfect for artists and designers working in visual effects, architectural visualization, and game development.
+60個の静的ボリューメトリッククラウドVDBファイルのこの総合的なコレクションで3Dシーンを強化しましょう。このバンドルは、ビジュアルエフェクト、建築ビジュアリゼーション、ゲーム開発で働くアーティストやデザイナーに最適です。
 
-![Showcase of VDB Cloud Models](https://www.gfxcamp.com/wp-content/uploads/2025/09/VDB-Clouds-MEGA-BUNDLE-3-in-1.jpg)
+![VDBクラウドモデルの展示](https://www.gfxcamp.com/wp-content/uploads/2025/09/VDB-Clouds-MEGA-BUNDLE-3-in-1.jpg)
 
-### Asset Details
+### アセット詳細
 
--   **Content**: Includes 3 sets totaling 60 static volumetric cloud VDB files.
--   **Resolution**: Both high-resolution and low-resolution versions are provided for flexibility.
--   **Format**: `.vdb` format, compatible with any 3D software that supports VDB files (e.g., Blender, Houdini, Cinema 4D).
--   **Total Size**: 5.54 GB
+-   **コンテンツ**: 合計60個の静的ボリューメトリッククラウドVDBファイルを含む3セットを収録。
+-   **解像度**: 柔軟性のために、高解像度版と低解像度版の両方が提供されます。
+-   **フォーマット**: `.vdb`フォーマット、VDBファイルをサポートするあらゆる3Dソフトウェア（例：Blender、Houdini、Cinema 4D）と互換性があります。
+-   **合計サイズ**: 5.54 GB
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[プレミアムダウンロード速度で制限なし！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

@@ -1,110 +1,139 @@
 ---
-title: State of 3D 2025 - Global Survey for 3D Artists & Industry Trends
-description: Participate in the authoritative State of 3D 2025 survey by Andrew Price. Share insights on 3D industry trends, tools, salaries, AI usage & software adoption. Results published September 2025.
-tags: [State of 3D, 3D survey, 3D industry trends, Blender, 3D artist salary, AI in 3D, Andrew Price, 3D software, 3D career, 3D tools, 3D workflow, industry survey, 3D community, Blender Guru]
+title: "3Dの現状2025 - グローバルサーベイ"
+description: "アンドリュー・プライスによる3Dアーティスト向けの包括的なグローバルサーベイで、業界の現状と未来のトレンドを探る。"
+tags: ["3Dサーベイ", "業界トレンド", "3Dアート", "アンドリュー・プライス", "グローバルサーベイ", "3D業界", "アーティストフィードバック", "2025年トレンド"]
 slug: /state-of-3d-2025
 ---
 
-# State of 3D 2025: Global Survey for 3D Artists
+# 3Dの現状2025 - グローバルサーベイ
 
 ![State of 3D 2025 Survey](https://3dnchu.com/wp-content/uploads/2025/09/state-of-3d-2025-banner.jpg)
 
 :::info
-**Authoritative Source**: This survey is conducted by Andrew Price, founder of Blender Guru and respected figure in the 3D community with over a decade of experience in 3D education and industry insights.
+**権威ある情報源**: このサーベイは、Blender Guruの創設者であり、3D教育と業界洞察において10年以上の経験を持つ尊敬される人物であるアンドリュー・プライスによって実施されています。
 :::
 
-The annual **State of 3D 2025** survey is now open! This comprehensive global survey gathers insights from 3D artists worldwide to understand current industry trends, salary benchmarks, software adoption, and the impact of artificial intelligence on creative workflows.
+年次**3Dの現状2025**サーベイが現在開催中です！この包括的なグローバルサーベイは、世界中の3Dアーティストからの洞察を収集し、現在の業界トレンド、給与ベンチマーク、ソフトウェアの採用、そして創造的なワークフローにおける人工知能の影響を理解することを目的としています。
 
-Whether you're a seasoned professional or just starting your 3D journey, your participation helps create a more accurate picture of the industry for everyone.
+経験豊富なプロフェッショナルであっても、3Dの旅を始めたばかりであっても、あなたの参加は業界のより正確な姿を皆のために作り出すのに役立ちます。
 
-## What the Survey Covers
+## サーベイトピック
 
-This year's survey focuses on key areas shaping the 3D industry:
+サーベイは、3D業界のさまざまな側面をカバーしています：
 
-- **Demographics**: Geographic distribution, age ranges, job titles, and income levels
-- **Software Usage**: Preferred tools, platforms, and emerging technologies
-- **AI Integration**: How artificial intelligence is transforming 3D workflows
-- **Industry Trends**: Emerging practices, challenges, and opportunities
+### 人口統計とキャリア
+- 地理的な分布と経験レベル
+- 役職と専門分野
+- 所得レベルと仕事の満足度
+- 教育背景とトレーニング
+
+### ソフトウェアの使用状況
+- 3Dソフトウェアの人気と採用率
+- レンダリングエンジンの好み
+- プラグインとアドオンの使用
+- ソフトウェアの切り替えパターン
+
+### AIと機械学習の統合
+- 3DワークフローにおけるAIツールの使用
+- AIによる生成の影響
+- 業界に対するAIの認識
+- 今後のAI採用計画
+
+### 業界のトレンドと課題
+- 市場の需要と成長分野
+- 技術的な課題と解決策
+- リモートワークとコラボレーション
+- 持続可能な制作パイプライン
 
 :::tip
-**Time Investment**: The survey takes approximately 5 minutes to complete. Your insights have a direct impact on industry reports used by professionals, educators, and students worldwide.
+**時間投資**: このサーベイは完了に約5分かかります。あなたの洞察は、プロフェッショナル、教育者、そして世界中の学生によって使用される業界レポートに直接的な影響を与えます。
 :::
 
-## How to Participate
+## サーベイへの参加方法
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="survey-link" label="Survey Link" default>
+  <TabItem value="survey-link" label="サーベイリンク" default>
     <ol>
-      <li>Visit the official survey page: <a href="https://www.surveymonkey.com/r/N6P82GW" target="_blank">State of 3D 2025 Survey</a></li>
-      <li>Complete the questionnaire (takes approximately 5 minutes)</li>
-      <li>Submit your responses to contribute to the community insights</li>
+      <li>公式サーベイページにアクセス: <a href="https://www.surveymonkey.com/r/N6P82GW" target="_blank">State of 3D 2025 Survey</a></li>
+      <li>アンケートに回答（所要時間：約5分）</li>
+      <li>回答を送信してコミュニティの洞察に貢献する</li>
     </ol>
   </TabItem>
-  <TabItem value="requirements" label="Who Can Participate">
+  <TabItem value="requirements" label="参加対象者">
     <ul>
-      <li>3D artists of all skill levels and backgrounds</li>
-      <li>Professional and hobbyist artists welcome</li>
-      <li>Approximately 5 minutes of your time</li>
-      <li>Internet connection to access the online form</li>
+      <li>すべてのスキルレベルと背景を持つ3Dアーティスト</li>
+      <li>プロフェッショナルも趣味で楽しむ方も大歓迎</li>
+      <li>所要時間：約5分</li>
+      <li>オンラインフォームにアクセスするためのインターネット接続</li>
     </ul>
   </TabItem>
 </Tabs>
 
-## Why Your Participation Matters
+## あなたの参加が重要な理由
 
 :::note
-The State of 3D survey has become a trusted resource in the 3D industry, with results used by:
+3Dの現状サーベイは、3D業界で信頼できるリソースとなり、その結果は以下によって使用されています：
 :::
 
-- **Industry Professionals**: For salary benchmarking and career planning
-- **Students and Beginners**: To understand current tools and career paths
-- **Software Developers**: To identify user needs and improvement opportunities
-- **Educators**: To adapt curricula to current industry demands
-- **Researchers**: To track technology adoption and workforce trends
+- **業界プロフェッショナル**: 給与ベンチマーキングとキャリアプランニングのため
+- **学生と初心者**: 現在のツールとキャリアパスを理解するため
+- **ソフトウェア開発者**: ユーザーのニーズと改善の機会を特定するため
+- **教育者**: カリキュラムを現在の業界需要に適応させるため
+- **研究者**: 技術の採用と労働力の傾向を追跡するため
 
-Your contribution helps ensure the data accurately represents the global 3D community.
+あなたの貢献は、データがグローバル3Dコミュニティを正確に表現することを確実にするのに役立ちます。
 
-## Survey Timeline
+## サーベイのタイムライン
 
-| Activity | Date |
+| 活動 | 日付 |
 |---------|------|
-| Survey Opens | Now |
-| Survey Closes | September 2025 |
-| Results Published | September 2025 |
+| サーベイ開始 | 今すぐ |
+| サーベイ終了 | 2025年9月 |
+| 結果公開 | 2025年9月 |
 
-## Current Participation
+## 現在の参加状況
 
 :::success
-Over 1,500 3D artists have already participated, sharing valuable insights about salaries, software preferences, and AI adoption. The more participants we have, the more accurate and representative the data becomes.
+1,500人以上の3Dアーティストがすでに参加し、給与、ソフトウェアの好み、AIの採用について貴重な洞察を共有しています。参加者が多ければ多いほど、データはより正確で代表性のあるものになります。
 :::
 
-> "3D artists, I need your voice! So far 1,535 people have revealed their salary, software, and AI usage. But I need more data! Please help by completing the survey. Takes just 5 minutes. The results will be made public in 3 weeks." - Andrew Price
+> 「3Dアーティストの皆さん、あなたの声が必要です！これまでに1,535人が給与、ソフトウェア、AIの使用状況を明らかにしてくれました。しかし、もっと多くのデータが必要です！サーベイにご協力ください。完了にたった5分かかります。結果は3週間以内に公開されます。」 - アンドリュー・プライス
 
-## How the Data Is Used
+## データの使用と結果
 
-The survey results are compiled into comprehensive reports that:
+### 匿名性とプライバシー
+- 回答は完全に匿名で収集されます
+- 個人が特定できる情報は含まれません
+- データは業界分析目的のみに使用されます
 
-1. **Benchmark Industry Standards**: Salary ranges, tool adoption rates, and workflow practices
-2. **Track Technology Evolution**: How new tools and AI are changing the industry
-3. **Inform Educational Content**: Help educators and content creators understand what skills are most valuable
-4. **Guide Business Decisions**: Provide data for companies developing 3D software and services
+### 結果の公開
+- 集計結果は2025年10月に公開されます
+- 業界全体の傾向と洞察が含まれます
+- 過去のサーベイとの比較分析
+- インタラクティブなダッシュボードとレポート
 
-:::caution
-All responses are anonymized and aggregated. No individual responses are identifiable in the published results, ensuring your privacy while contributing to the community.
-:::
+### コミュニティの利益
+- 3Dコミュニティ全体が業界の現状を理解
+- 教育機関がカリキュラムの改善に活用
+- 企業が市場戦略を立案するための参考資料
+- 個人のアーティストがキャリアの方向性を決定するための参考
 
-## Official Resources
+## まとめ
 
-| Resource | Link |
+「3Dの現状2025」サーベイは、3D業界の現在の状態を理解し、将来のトレンドを予測するための貴重な機会です。あなたの参加は、より正確で包括的な業界の写真を作り出すのに役立ちます。ぜひこのサーベイに参加して、3Dコミュニティの成長と発展に貢献してください。
+
+## 公式リソース
+
+| リソース | リンク |
 |---------|------|
-| **Survey Page** | [State of 3D 2025 Survey](https://www.surveymonkey.com/r/N6P82GW) |
-| **Results Page** | Will be published in September 2025 |
-| **Previous Years' Data** | [Historical Reports](https://3dnchu.com/state-of-3d) |
+| **サーベイページ** | [3Dの現状2025サーベイ](https://www.surveymonkey.com/r/N6P82GW) |
+| **結果ページ** | 2025年9月に公開予定 |
+| **過去のデータ** | [歴史レポート](https://3dnchu.com/state-of-3d) |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートのため、[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

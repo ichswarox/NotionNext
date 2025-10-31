@@ -1,6 +1,6 @@
 ---
-title: "Blender Animation Course - Complete Guide for Beginners"
-description: "Learn Blender animation from basics to advanced techniques with this comprehensive course covering interface, keyframes, dope sheet, and graph editor."
+title: "블렌더 애니메이션 코스 - 초보자를 위한 완전한 가이드"
+description: "인터페이스, 키프레임, 도프 시트, 그래프 에디터를 포함한 종합적인 코스로 블렌더 애니메이션을 기초부터 고급 기술까지 배워보세요."
 tags: [Blender, animation, tutorial, 3D, course]
 slug: /blender-character-animation-course-bloop
 ---
@@ -9,37 +9,37 @@ Last updated: Oct 17 2025
 
 ![img1017-TkUL.webp](https://list.ucards.store/d/img/img1017-TkUL.webp)
 
-## Blender Animation Course - Complete Guide for Beginners
+## 블렌더 애니메이션 코스 - 초보자를 위한 완전한 가이드
 
-This comprehensive Blender animation course takes you from the basics to creating sophisticated animations. You'll learn how to navigate the Blender interface, manipulate objects in your scene, and master all major animation tools including the dope sheet and graph editor. Learn how to create and use keyframes effectively to bring your 3D scenes to life.
+이 종합적인 블렌더 애니메이션 코스는 기초부터 정교한 애니메이션 제작까지 안내합니다. 블렌더 인터페이스를 탐색하고, 장면에서 객체를 조작하며, 도프 시트와 그래프 에디터를 포함한 모든 주요 애니메이션 도구를 마스터하는 방법을 배웁니다. 키프레임을 효과적으로 생성하고 사용하여 3D 장면에 생명을 불어넣는 방법을 배워보세요.
 
-## Key Features
+## 주요 기능
 
-- **Software Required**: Blender
-- **Duration**: 2 hours 42 minutes
-- **Project Files**: Includes exercise files
-- **Subtitles**: English subtitles
-- **Format**: MP4, 1920×1080
+- **필요 소프트웨어**: 블렌더
+- **강의 시간**: 2시간 42분
+- **프로젝트 파일**: 연습 파일 포함
+- **자막**: 영어 자막
+- **포맷**: MP4, 1920×1080
 
-## What You'll Learn
+## 배울 내용
 
-- Blender interface and scene manipulation
-- Major animation tools (dope sheet, graph editor)
-- Creating and using keyframes
-- Basic animation principles
-- Scene setup and object manipulation
+- 블렌더 인터페이스 및 장면 조작
+- 주요 애니메이션 도구 (도프 시트, 그래프 에디터)
+- 키프레임 생성 및 사용
+- 기본 애니메이션 원리
+- 장면 설정 및 객체 조작
 
 :::tip
-This course is perfect for beginners who want to learn Blender animation from scratch. The step-by-step approach ensures you build a solid foundation in 3D animation.
+이 코스는 처음부터 블렌더 애니메이션을 배우고 싶은 초보자에게 완벽합니다. 단계별 접근 방식을 통해 3D 애니메이션의 견고한 기초를 구축할 수 있습니다.
 :::
 
-## 🚀Direct Download Link
+## 🚀직접 다운로드 링크
 
-| File Name | Size | Download Link |
+| 파일명 | 크기 | 다운로드 링크 |
 |-----------|------|---------------|
-| Blender Animation Course | - | [Baidu Netdisk](https://pan.baidu.com/s/1ZXNsB7DFNkOeDuKCLUF8yA?pwd=8gt8) (Password: 8gt8) |
+| 블렌더 애니메이션 코스 | - | [바이두 넷디스크](https://pan.baidu.com/s/1ZXNsB7DFNkOeDuKCLUF8yA?pwd=8gt8) (비밀번호: 8gt8) |
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[제한 없이 프리미엄 다운로드 속도를 얻으세요!]
+프리미엄 액세스 및 지원을 받으려면 [💬WhatsApp](https://wa.me/+8613237610083)로 문의하세요.
 :::
 Link: http://bloopanimation.com/blender-animation/

@@ -1,110 +1,110 @@
 ---
-title: "Blender Position-Specific Light Generation Plugin: Light Painter V1.5.5"
-description: "Light Painter V1.5.5 is a powerful Blender plugin that allows you to draw light positions at specified locations on 3D models to quickly generate various lighting or projection effects."
-tags: ["Blender plugin", "Light Painter", "Blender lighting", "3D lighting", "lighting plugin", "Blender addon", "VFX tools", "3D rendering"]
+title: "Blender位置特定ライト生成プラグイン：Light Painter V1.5.5"
+description: "Light Painter V1.5.5は、3Dモデルの指定された位置にライト位置を描画して、様々なライティングや投影効果を迅速に生成できる強力なBlenderプラグインです。"
+tags: ["Blenderプラグイン", "Light Painter", "Blenderライティング", "3Dライティング", "ライティングプラグイン", "Blenderアドオン", "VFXツール", "3Dレンダリング"]
 slug: /light-painter-blender-plugin
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Blender Position-Specific Light Generation Plugin: Light Painter V1.5.5
+# Blender位置特定ライト生成プラグイン：Light Painter V1.5.5
 
 <!--Second Part-This is First Banner -->
-![Light Painter V1.5.5 - Position-Specific Light Generation Plugin](https://www.gfxcamp.com/wp-content/uploads/2024/12/Light-Painter.jpg)
+![Light Painter V1.5.5 - 位置特定ライト生成プラグイン](https://www.gfxcamp.com/wp-content/uploads/2024/12/Light-Painter.jpg)
 
-:::tip[info]
-**Download Light Painter V1.5.5** - Position-specific light generation plugin for Blender
+:::tip[情報]
+**Light Painter V1.5.5をダウンロード** - Blender用位置特定ライト生成プラグイン
 
-The **Light Painter V1.5.5** is a powerful Blender plugin that allows you to draw light positions at specified locations on 3D models to quickly generate various lighting or projection effects. This innovative tool streamlines your lighting workflow by enabling intuitive painting directly on your 3D surfaces.
+**Light Painter V1.5.5**は、3Dモデルの指定された位置にライト位置を描画して、様々なライティングや投影効果を迅速に生成できる強力なBlenderプラグインです。この革新的なツールは、3Dサーフェス上で直接直感的なペイントを可能にすることで、ライティングワークフローを合理化します。
 :::
 
-## Key Features of Light Painter V1.5.5
+## Light Painter V1.5.5の主な特徴
 
-This plugin revolutionizes how you approach lighting in Blender with its intuitive painting interface:
+このプラグインは、直感的なペイントインターフェースにより、Blenderでのライティングアプローチを革新します：
 
-- **Selective Surface Lighting**: You do not need to paint the entire surface. Draw a few simple strokes over surfaces that you'd like highlighted by your light.
-- **Tube Light Creation**: For tube lights, use the right click button to end the current stroke and start a new one – this creates separate tube lights.
-- **Flexible Drawing Tools**: Single clicks draw straight lines (useful for geometric shapes), while holding down the mouse button draws freeform strokes.
-- **Multi-Surface Support**: Draw on multiple surfaces. The tools can handle most cases where surfaces face different directions.
-- **Spot Lamp Optimization**: Spot lamps prefer circular strokes. If you're not confident in drawing circles, a painted line representing the diameter is sufficient.
-- **Area Lamp Versatility**: Area lamps work with rectangles, squares, circles, or a single painted line. You can change the area lamp's shape in the redo panel.
-- **Point Lamp Simplicity**: Point lamps are the most forgiving since their rotation is irrelevant.
+- **選択的表面ライティング**：表面全体をペイントする必要はありません。ライトでハイライトしたい表面に数本の簡単なストロークを描くだけです。
+- **チューブライト作成**：チューブライトの場合、右クリックボタンを使用して現在のストロークを終了し、新しいストロークを開始します – これにより別々のチューブライトが作成されます。
+- **柔軟な描画ツール**：シングルクリックで直線を描画（幾何学的形状に便利）、マウスボタンを押し続けると自由なストロークを描画します。
+- **複数表面サポート**：複数の表面に描画できます。ツールは異なる方向を向く表面のほとんどのケースを処理できます。
+- **スポットライト最適化**：スポットライトは円形のストロークを好みます。円を描く自信がない場合は、直径を表すペイントされた線で十分です。
+- **エリアライトの汎用性**：エリアライトは長方形、正方形、円、または単一のペイントされた線で動作します。リドパネルでエリアライトの形状を変更できます。
+- **ポイントライトの簡単さ**：ポイントライトは回転が関係ないため、最も寛容です。
 
-## Product Details
+## 製品詳細
 
-- **Plugin Name**: Light Painter
-- **Version**: V1.5.5
-- **Compatibility**: Blender 4.x and newer versions
-- **Category**: Lighting Plugin
-- **Interface**: Intuitive painting-based workflow
-- **Use Cases**: 3D rendering, VFX, architectural visualization, product design
+- **プラグイン名**: Light Painter
+- **バージョン**: V1.5.5
+- **互換性**: Blender 4.x以降のバージョン
+- **カテゴリー**: ライティングプラグイン
+- **インターフェース**: 直感的なペイントベースワークフロー
+- **使用例**: 3Dレンダリング、VFX、建築ビジュアライゼーション、プロダクトデザイン
 
-## Installation Guide
+## インストールガイド
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
+  <TabItem value="blender-4.1+" label="Blender 4.1以降" default>
     <ol>
-      <li>Open Blender</li>
-      <li>Go to Edit → Preferences → Add-ons</li>
-      <li>Click the dropdown in the upper right corner</li>
-      <li>Select "Install from Disk"</li>
-      <li>Choose the downloaded ZIP file in the dialog</li>
+      <li>Blenderを開く</li>
+      <li>編集 → 環境設定 → アドオンに移動</li>
+      <li>右上隅のドロップダウンをクリック</li>
+      <li>"ディスクからインストール"を選択</li>
+      <li>ダイアログでダウンロードしたZIPファイルを選択</li>
     </ol>
   </TabItem>
-  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
+  <TabItem value="blender-4.0-" label="Blender 4.0以前">
     <ol>
-      <li>Open Blender</li>
-      <li>Go to Edit → Preferences → Add-ons</li>
-      <li>Click "Install"</li>
-      <li>Select the downloaded ZIP file in the dialog</li>
+      <li>Blenderを開く</li>
+      <li>編集 → 環境設定 → アドオンに移動</li>
+      <li>"インストール"をクリック</li>
+      <li>ダイアログでダウンロードしたZIPファイルを選択</li>
     </ol>
   </TabItem>
 </Tabs>
 
 
-## Why Choose Light Painter V1.5.5?
+## Light Painter V1.5.5を選ぶ理由
 
-The **Light Painter V1.5.5** plugin is specifically designed for Blender artists who want to streamline their lighting workflow. Instead of manually positioning lights through trial and error, this tool allows you to paint directly on your 3D surfaces to define exactly where you want lighting effects.
+**Light Painter V1.5.5**プラグインは、ライティングワークフローを合理化したいBlenderアーティストのために特別に設計されています。試行錯誤で手動でライトを配置する代わりに、このツールを使用して3Dサーフェス上に直接ペイントし、照明効果を正確に定義できます。
 
-### Intuitive Lighting Workflow
+### 直感的なライティングワークフロー
 
-Traditional lighting in 3D software often requires technical knowledge of light positioning, angles, and complex setups. Light Painter simplifies this by allowing you to visually indicate where you want highlights and shadows directly on your models.
+3Dソフトウェアでの従来のライティングは、ライト配置、角度、複雑なセットアップの技術知識を必要とすることがよくあります。Light Painterは、ハイライトやシャドウをモデル上に直接視覚的に示すことを可能にして、これを簡素化します。
 
-### Versatile Light Types
+### 汎用性の高いライトタイプ
 
-Whether you're creating tube lights for neon signs, spot lamps for focused illumination, area lights for soft ambient lighting, or point lights for general illumination, Light Painter provides specialized tools for each light type.
+ネオンサイン用のチューブライト、焦点を当てた照明用のスポットランプ、柔らかい環境照明用のエリアライト、または一般的な照明用のポイントライトを作成する場合でも、Light Painterは各ライトタイプのための専用ツールを提供します。
 
-### Time-Saving Solution
+### 時間節約ソリューション
 
-This plugin dramatically reduces the time spent on lighting setup, allowing you to focus more on creative decisions rather than technical implementation. The visual feedback you get while painting makes it easy to achieve the exact lighting effects you envision.
+このプラグインは、ライティングセットアップに費やす時間を劇的に削減し、技術的な実装ではなく創造的な決定により集中できるようにします。ペイント中に得られる視覚的フィードバックにより、思い描いた正確な照明効果を簡単に達成できます。
 
-## System Requirements
+## システム要件
 
-- **Supported Blender Versions**: 4.x and newer
-- **Operating Systems**: Windows, macOS, Linux
-- **License Type**: Commercial (subject to developer terms)
+- **サポートされているBlenderバージョン**: 4.x以降
+- **オペレーティングシステム**: Windows、macOS、Linux
+- **ライセンスタイプ**: 商用（開発者の条件に準拠）
 
-## Conclusion
+## まとめ
 
-The **Light Painter V1.5.5** plugin is an essential tool for any Blender artist looking to enhance their lighting workflow. Its unique painting-based approach to light placement makes it intuitive for both beginners and experienced users.
+**Light Painter V1.5.5**プラグインは、ライティングワークフローを強化したいBlenderアーティストにとって必須のツールです。ライト配置に対する独自のペイントベースアプローチは、初心者と経験豊富なユーザーの両方にとって直感的です。
 
-Whether you're creating architectural visualizations, product renders, character scenes, or VFX shots, this plugin provides the professional tools needed to achieve stunning lighting effects with significantly reduced setup time. Light Painter V1.5.5 represents a new approach to 3D lighting that prioritizes creativity over technical complexity.
+建築ビジュアライゼーション、プロダクトレンダリング、キャラクターシーン、またはVFXショットを作成する場合でも、このプラグインは、セットアップ時間を大幅に削減しながら、素晴らしい照明効果を達成するために必要なプロフェッショナルツールを提供します。Light Painter V1.5.5は、技術的な複雑さよりも創造性を優先する3Dライティングへの新しいアプローチを表しています。
 
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-:::warning[Download]
-Choose from multiple versions of the Light Painter plugin:
+:::warning[ダウンロード]
+Light Painterプラグインの複数のバージョンから選択：
 :::
 
-| File                     | Download Link                                                       | Password |
+| ファイル                     | ダウンロードリンク                                                       | パスワード |
 | ------------------------ | ------------------------------------------------------------------- | -------- |
-| **V1.5.5 Version**       | [Download](https://pan.baidu.com/s/1P_-YW_bFSpX96YM70pbdlw?pwd=j3vn) | `j3vn`   |
-| **V1.4.1 Version**       | [Download](https://pan.baidu.com/s/1u6kFiWjXM-lsEiz_Qcv5YQ?pwd=nsaa) | `nsaa`   |
+| **V1.5.5バージョン**       | [ダウンロード](https://pan.baidu.com/s/1P_-YW_bFSpX96YM70pbdlw?pwd=j3vn) | `j3vn`   |
+| **V1.4.1バージョン**       | [ダウンロード](https://pan.baidu.com/s/1u6kFiWjXM-lsEiz_Qcv5YQ?pwd=nsaa) | `nsaa`   |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

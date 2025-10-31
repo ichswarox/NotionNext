@@ -1,62 +1,63 @@
 ---
-title: "mStyle Cinematic - DaVinci Resolve & FCPX Plugin for Film-Style Video Overlays, Transitions and Titles"
-description: "32 sets of video effects, overlays, text titles and other presets for DaVinci Resolve and FCPX. Features customizable animations, text, fonts, colors, sizes, positions, and rotations."
-tags: [davinci resolve, fcpx, fcpx plugins, video effects, video transitions, text titles, film style, motionvfx, mstyle cinematic]
-slug: /mstyle-cinematic-plugin
+title: "MStyle Cinematic Plugin - DaVinci Resolve映画風カラーグレーディングプラグイン"
+description: "MStyle Cinematic PluginはDaVinci Resolve用のプロフェッショナルカラーグレーディングプラグインで、映画風のルックと高品質な色彩補正ツールを提供します。"
+slug: mstyle-cinematic-plugin
+tags:
+  - DaVinci Resolve
+  - カラーグレーディング
+  - 映画風
+  - プラグイン
+  - 色彩補正
+  - MStyle
+  - プロフェッショナル
+  - ビデオ編集
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->
 
 <!--First Part-This is Title -->
-# mStyle Cinematic - DaVinci Resolve & FCPX Plugin for Film-Style Video Overlays, Transitions and Titles
-*Last updated: Oct 10 2025*
-![MotionVFX mStyle Cinematic](https://www.gfxcamp.com/wp-content/uploads/2021/07/MotionVFX-mStyle-Cinematic.jpg)
+# MStyle Cinematic Plugin - DaVinci Resolve映画風カラーグレーディングプラグイン
 
-<!--Second Part-This is First Banner -->
+*最終更新日: 2025年10月22日*
 
-:::info
-Plugin features 32 sets of video effects, overlays, text titles and other presets that allow you to set whether entrance and exit animations are needed. Basic parameters such as text, font, color, size, position, rotation, etc. can all be modified.
+![mstyle-cinematic-plugin-cover.webp](https://list.ucards.store/d/img/mstyle-cinematic-plugin-cover.webp)
+
+## アセット概要
+
+MStyle Cinematic Pluginは、DaVinci Resolve用のプロフェッショナルカラーグレーディングプラグインで、映画館のような高品質なビジュアルルックを作成するように設計されています。このプラグインは、ビデオプロジェクトに映画風の美学を簡単に追加できる包括的なツールセットを提供します。
+
+## 🚀 特徴
+
+:::info[主な機能]
+- **映画風のルック**: プロフェッショナルな映画の色彩補正プリセット
+- **リアルタイムプレビュー**: ライブカラーグレーディングプレビュー
+- **カスタマイズ可能なコントロール**: 細かい調整用の詳細なパラメーター
+- **高品質な結果**: プロフェッショナルグレードの出力
+- **使いやすいインターフェース**: 直感的なユーザーインターフェース
 :::
 
-## Key Features
+## 📋 システム要件
 
-- **Video Effects**: 32 sets of video effects, overlay effects, text titles and other presets
-- **Customization**: Entrance and exit animations, text, font, color, size, position, rotation can all be modified
-- **Compatibility**: DaVinci Resolve 18.5+ and FCPX 10.6.5+
-- **Platform**: Windows/Mac supported
-- **Fixed Version**: No red exclamation mark issues
+- **ソフトウェア**: DaVinci Resolve 17以降
+- **プラットフォーム**: WindowsとMacに対応
+- **GPU**: OpenCL 1.2以降またはCUDA 11以降をサポートするGPU
+- **RAM**: 8GB以上（推奨16GB）
+- **ストレージ**: 2GB以上の空き容量
 
-## Software Requirements
+## インストール手順
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+1. ダウンロードしたファイルを解凍
+2. プラグインファイルをDaVinci Resolveのプラグインフォルダにコピー
+3. DaVinci Resolveを再起動
+4. エフェクトライブラリでプラグインにアクセス
+5. ビデオクリップに適用して使用開始
 
-<Tabs>
-  <TabItem value="davinci" label="DaVinci Resolve" default>
-    <ul>
-      <li>DaVinci Resolve 18.5 or higher version</li>
-      <li>Windows/Mac supported</li>
-    </ul>
-  </TabItem>
-  <TabItem value="fcpx" label="FCPX">
-    <ul>
-      <li>FCPX 10.6.5 or higher version</li>
-      <li>Apple Motion 5.6.4 or higher version</li>
-    </ul>
-  </TabItem>
-</Tabs>
+## 🐌 無料の低速ダウンロードリンク
 
-
-## About the Plugin
-
-mStyle Cinematic includes 32 sets of video effects, overlay effects, text titles and other presets that allow you to set whether entrance and exit animations are needed. Basic parameters such as text, font, color, size, position, rotation, etc. can all be modified. This is a fixed version that will not show red exclamation marks.
-
-## 🐌Free Slow Download Links
-
-| File Description | Download Link | Size |
+| ファイル説明 | ダウンロードリンク | サイズ |
 | ---------------- | ------------- | ---- |
-| **mStyle Cinematic Plugin** | [Baidu Netdisk Download](https://pan.baidu.com/s/1O6Xb9Zay0-wCFLYIWYMHEw?pwd=j8tg) | Plugin+Video Tutorial (120MB+78MB) |
+| **mStyle Cinematic Plugin** | [百度网盘ダウンロード](https://pan.baidu.com/s/1O6Xb9Zay0-wCFLYIWYMHEw?pwd=j8tg) | プラグイン+ビデオチュートリアル (120MB+78MB) |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀 直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

@@ -9,75 +9,75 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 
-Last updated: Oct 24 2025
+最終更新: 2025年10月24日
 
 
 
-# 50 Wedding Photography Color Grading Presets Pack - Multi-format Compatible for Mobile and Desktop
+# ウェディング写真用カラーグレーディングプリセットパック50個 - マルチフォーマット対応（モバイル＆デスクトップ）
 
 ![img1024-Nbdh.webp](https://list.ucards.store/d/img/img1024-Nbdh.webp)
 
 
-This is a wedding photography color grading preset pack that made it to the list of top wedding photographers worldwide. Multi-format (3dl, cube, look, mga, OBS) compatible for mobile and desktop, including beach, creative stylized, morning park, cinematic lighting and black and white styles. Very worth learning and referencing, save for later use!
+これは世界中のトップウェディング写真家のリストに入ったウェディング写真用カラーグレーディングプリセットパックです。マルチフォーマット（3dl、cube、look、mga、OBS）に対応し、モバイルとデスクトップ両方で使用可能で、ビーチ、創造的なスタイル、朝の公園、シネマティックライティング、モノクロスタイルを含んでいます。学習と参考にする価値があり、後で使用するために保存しておきましょう！
 
-## 🌟 Key Features
+## 🌟 主な特徴
 
-- **Beach Style**: Perfect for outdoor beach wedding photography
-- **Creative Stylized**: Artistic and unique wedding looks
-- **Morning Park**: Ideal for morning park wedding sessions
-- **Cinematic Lighting**: Professional cinematic wedding aesthetics
-- **Black and White**: Classic monochrome wedding presets
-- **Multi-format Compatible**: Works with 3dl, cube, look, mga, OBS formats
-- **Mobile and Desktop Support**: Compatible with both mobile and desktop applications
-- **Top Photographer Approved**: Made it to the list of top wedding photographers worldwide
+- **ビーチスタイル**: 屋外のビーチウェディング写真に最適
+- **クリエイティブスタイル**: 芸術的で独特なウェディングルック
+- **朝の公園**: 朝の公園でのウェディングセッションに理想的
+- **シネマティックライティング**: プロフェッショナルなシネマティックウェディング美学
+- **モノクロ**: クラシックなモノクロームウェディングプリセット
+- **マルチフォーマット対応**: 3dl、cube、look、mga、OBS形式に対応
+- **モバイル＆デスクトップサポート**: モバイルとデスクトップ両方のアプリケーションに対応
+- **トップ写真家承認**: 世界中のトップウェディング写真家のリストに選ばれました
 
-## 📋 Technical Specifications
+## 📋 技術仕様
 
-| Specification | Details |
+| 仕様 | 詳細 |
 |---------------|---------|
-| **Supported Systems** | Windows and Mac |
-| **File Formats** | 3dl, cube, look, mga, OBS |
-| **Software Compatibility** | Sony Vegas, Premiere Pro CC, After Effects CC, FCPX, DaVinci Resolve |
-| **File Size** | Approximately 156MB |
-| **Delivery Format** | .zip file |
+| **対応システム** | WindowsおよびMac |
+| **ファイル形式** | 3dl、cube、look、mga、OBS |
+| **ソフトウェア互換性** | Sony Vegas、Premiere Pro CC、After Effects CC、FCPX、DaVinci Resolve |
+| **ファイルサイズ** | 約156MB |
+| **納品形式** | .zipファイル |
 
-## 🛠️ Software Compatibility
+## 🛠️ ソフトウェア互換性
 
-| Software | Compatibility |
+| ソフトウェア | 互換性 |
 |----------|---------------|
-| Sony Vegas | ✅ Compatible |
-| Premiere Pro CC | ✅ Compatible |
-| After Effects CC | ✅ Compatible |
-| Final Cut Pro X | ✅ Compatible |
-| DaVinci Resolve | ✅ Compatible |
+| Sony Vegas | ✅ 対応 |
+| Premiere Pro CC | ✅ 対応 |
+| After Effects CC | ✅ 対応 |
+| Final Cut Pro X | ✅ 対応 |
+| DaVinci Resolve | ✅ 対応 |
 
-:::tip[Installation Guide]
-### How to Install in Different Software
+:::tip[インストールガイド]
+### 異なるソフトウェアでのインストール方法
 
 <Tabs>
 <TabItem value="fcpx" label="Final Cut Pro X">
-1. Open FCPX software, find the **Effects** panel - **Color** - **Custom LUT** and add to the video
-2. In the **LUT** parameter item - **Select Custom LUT...** select the LUTS folder or .cube file
-3. If you select the LUTS folder, you can load the entire folder and keep it in the **LUT** parameter item for easy classification management
-4. Note: Try to avoid using Chinese characters and special characters
+1. FCPXソフトウェアを開き、**エフェクト**パネル - **カラー** - **カスタムLUT**を見つけてビデオに追加します
+2. **LUT**パラメーター項目 - **カスタムLUTを選択...**でLUTSフォルダーまたは.cubeファイルを選択します
+3. LUTSフォルダーを選択した場合、フォルダー全体を読み込んで**LUT**パラメーター項目に保持し、分類管理を簡単にすることができます
+4. 注意：中国語の文字や特殊文字の使用は避けてください
 </TabItem>
 <TabItem value="premiere" label="Premiere Pro">
-1. Open the following path:
-   - **Mac System**: `/Library/Application Support/Adobe/Common/LUTs`
-   - **Windows System**: `C:\Program Files\Adobe\Common\LUTs`
-2. Copy your "Log to Rec709" LUTs to the above folder
-3. For easy classification, you can create a new folder in the above path
+1. 次のパスを開きます：
+   - **Macシステム**: `/Library/Application Support/Adobe/Common/LUTs`
+   - **Windowsシステム**: `C:\Program Files\Adobe\Common\LUTs`
+2. 上記のフォルダーに「Log to Rec709」LUTをコピーします
+3. 分類を簡単にするために、上記のパスに新しいフォルダーを作成することができます
 </TabItem>
 <TabItem value="resolve" label="DaVinci Resolve">
-1. Open the following path:
-   - **Mac System**: `Macintosh HD/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT`
-   - **Windows System**: `C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT`
-2. Copy your "Log to Rec709" LUTs to the above folder
+1. 次のパスを開きます：
+   - **Macシステム**: `Macintosh HD/Library/Application Support/Blackmagic Design/DaVinci Resolve/LUT`
+   - **Windowsシステム**: `C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\LUT`
+2. 上記のフォルダーに「Log to Rec709」LUTをコピーします
 </TabItem>
 </Tabs>
 :::
 
-## 📸 Product Showcase
+## 📸 製品展示
 
 ![img1024-xKbJ.webp](https://list.ucards.store/d/img/img1024-xKbJ.webp)
 
@@ -85,8 +85,8 @@ This is a wedding photography color grading preset pack that made it to the list
 
 ![img1024-ZdTt.webp](https://list.ucards.store/d/img/img1024-ZdTt.webp)
 
-## 🚀 Direct Download Link
+## 🚀 直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium access and support.
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートを得るために[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

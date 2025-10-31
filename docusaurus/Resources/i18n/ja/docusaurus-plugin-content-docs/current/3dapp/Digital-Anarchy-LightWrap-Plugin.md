@@ -1,54 +1,54 @@
 ---
-title: "Digital Anarchy LightWrap Plugin"
-description: "AE plugin for better compositing by blending background with foreground. Simulate realistic backlighting effects for professional video compositing."
-tags: [AE plugin, light wrap, compositing, green screen, blue screen, After Effects]
+title: "Digital Anarchy LightWrapプラグイン"
+description: "前景と背景をブレンドしてより良い合成を実現するAEプラグイン。プロフェッショナルなビデオ合成のためのリアルな逆光効果をシミュレートします。"
+tags: [AEプラグイン, ライトラップ, 合成, グリーンスクリーン, ブルースクリーン, After Effects]
 slug: /Digital-Anarchy-LightWrap-Plugin
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月17日
 
 ![Digital Anarchy LightWrap](https://www.gfxcamp.com/wp-content/uploads/2015/09/Digital-Anarchy-LightWrap.jpg)
 ![img1018-xHwM.webp](https://list.ucards.store/d/img/img1018-xHwM.webp)
 
-# Light Wrap Plugin - Professional Compositing for AE
+# Light Wrapプラグイン - AE向けプロフェッショナル合成
 
-Enable better composites by easily allowing users to blend the background with the foreground in such a way that it appears the light of the background is affecting the foreground. Essentially simulating backlighting with realistic light wrap effects.
+ユーザが背景を前景と簡単にブレンドできるようにすることで、より良い合成を実現します。背景の光が前景に影響を与えているように見える効果を生み出し、基本的にリアルなライトラップ効果による逆光をシミュレートします。
 
-## Features
+## 機能
 
-:::tip[Key Features]
-- Blend background with foreground for realistic compositing
-- Simulate realistic backlighting effects
-- All controls needed for realistic light wrap
-- Quick and easy process
-- Professional compositing results
+:::tip[主な機能]
+- リアルな合成のための背景と前景のブレンド
+- リアルな逆光効果のシミュレート
+- リアルなライトラップに必要なすべてのコントロール
+- 迅速で簡単なプロセス
+- プロフェッショナルな合成結果
 :::
 
-## Installation
+## インストール
 
 <Tabs>
-<TabItem value="installer" label="Using Installer">
+<TabItem value="installer" label="インストーラーを使用">
 
-1. Double-click to install Light Wrap 1.3 After Effects.exe
-2. Copy Light Wrap.aex to `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Digital Anarchy\Light Wrap 1.3`
-3. Replace the existing file if prompted
+1. Light Wrap 1.3 After Effects.exeをダブルクリックしてインストール
+2. Light Wrap.aexを `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Digital Anarchy\Light Wrap 1.3` にコピー
+3. プロンプトが表示されたら、既存のファイルを置き換え
 
 </TabItem>
-<TabItem value="manual" label="Manual Installation">
+<TabItem value="manual" label="手動インストール">
 
-1. Copy Light Wrap.aex to `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Digital Anarchy\Light Wrap 1.3`
-2. Restart After Effects
+1. Light Wrap.aexを `C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Digital Anarchy\Light Wrap 1.3` にコピー
+2. After Effectsを再起動
 
 </TabItem>
 </Tabs>
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしでプレミアムダウンロード速度を手に入れましょう！]
+プレミアムアクセスとサポートのため、[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::
 
-link: https://www.productioncrate.com/plugins/crates-light-wrap
+リンク: https://www.productioncrate.com/plugins/crates-light-wrap

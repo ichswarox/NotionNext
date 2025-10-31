@@ -1,57 +1,57 @@
 ---
-title: "AE Script - Android, iOS, Laptop, Desktop Gesture App Demo Animation Presets"
-description: "A comprehensive collection of 400+ animation presets for mobile devices, laptops, desktops, and gesture animations with AtomX script."
-tags: [AE script, app animation, videohive, android, gesture animation, mobile animation, laptop, ios]
+title: "AEスクリプト - Android、iOS、ラップトップ、デスクトップジェスチャーアプリデモアニメーションプリセット"
+description: "モバイルデバイス、ラップトップ、デスクトップ、ジェスチャーアニメーション向けの400以上の包括的なアニメーションプリセットコレクション。"
+tags: [AEスクリプト, アプリアニメーション, ビデオハイブ, アンドロイド, ジェスチャーアニメーション, モバイルアニメーション, ラップトップ, iOS]
 slug: /devices-mockup-pack
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 22 2025
+最終更新日: 2025年10月22日
 
 ![Devices-Mockup-Pack](https://www.gfxcamp.com/wp-content/uploads/2025/10/Devices-Mockup-Pack.jpg)
 
-## Overview
+## 概要
 
-This comprehensive AE script package includes 400+ animation presets for Android phones, iOS devices, laptops, desktop computers, and gesture animations. The package uses the AtomX script (included) to generate and call animations, allowing you to control background transparency and generate effects directly as needed.
+この包括的なAEスクリプトパッケージには、Android携帯電話、iOSデバイス、ラップトップ、デスクトップコンピューター、ジェスチャーアニメーション向けの400以上のアニメーションプリセットが含まれています。このパッケージは、AtomXスクリプト（付属）を使用してアニメーションを生成および呼び出し、背景の透明度を制御し、必要に応じて効果を直接生成できます。
 
-## 🚀 Features
+## 🚀 機能
 
-:::tip[Key Features]
-- **400+ Animation Presets**: Comprehensive collection of device and gesture animations
-- **AtomX Script Included**: Powerful script for generating animations
-- **Background Transparency Control**: Customizable background settings
-- **No Expression Errors**: Fixed version with no expression errors
-- **Multi-language Support**: Compatible with both Chinese and English versions of AE
+:::tip[主な機能]
+- **400以上のアニメーションプリセット**: デバイスおよびジェスチャーアニメーションの包括的なコレクション
+- **AtomXスクリプト付属**: アニメーション生成用の強力なスクリプト
+- **背景透明度の制御**: カスタマイズ可能な背景設定
+- **式エラーなし**: 式エラーのない修正版
+- **多言語サポート**: AEの中国語版と英語版の両方に対応
 :::
 
-## 📋 System Requirements
+## 📋 システム要件
 
 <Tabs>
-<TabItem value="version" label="Version" default>
-- **Software**: After Effects CC 2023 or higher versions
-- **Language**: Compatible with both Chinese and English versions of AE
-- **Platform**: Windows/Mac
+<TabItem value="version" label="バージョン" default>
+- **ソフトウェア**: After Effects CC 2023以降のバージョン
+- **言語**: AEの中国語版と英語版の両方に対応
+- **プラットフォーム**: Windows/Mac
 </TabItem>
-<TabItem value="specifications" label="Specifications">
-- **Resolution**: HD 1920×1080
-- **Plugins**: No third-party plugins required
-- **Size**: Compressed package 6.54GB, 7.20GB after extraction
-- **Tutorials**: Video tutorials included
-- **Music**: Background music not included
+<TabItem value="specifications" label="仕様">
+- **解像度**: HD 1920×1080
+- **プラグイン**: 第三者プラグインは不要
+- **サイズ**: 圧縮パッケージ6.54GB、展開後7.20GB
+- **チュートリアル**: ビデオチュートリアル付属
+- **音楽**: 背景音楽は含まれていません
 </TabItem>
 </Tabs>
 
-## 📦 Installation Guide
+## 📦 インストールガイド
 
-:::note[Installation Steps]
-1. Install the main application
-2. Follow the included installation instructions
-3. Restart After Effects to complete the installation
+:::note[インストール手順]
+1. メインアプリケーションをインストールする
+2. 付属のインストール手順書に従う
+3. インストールを完了するためにAfter Effectsを再起動する
 :::
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

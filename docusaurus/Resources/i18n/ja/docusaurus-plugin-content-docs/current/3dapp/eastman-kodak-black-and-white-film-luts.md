@@ -1,69 +1,69 @@
 ---
-title: "Eastman Kodak Black and White Film LUTs - 122 B&W Film Emulation Presets"
-description: "122 Eastman Kodak black and white film LUTs presets in CUBE format, emulating classic B&W films including discontinued ones. Compatible with DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying."
-tags: ["AE color grading", "Eastman", "FCPX color grading", "Kodak", "LUTs", "Pr color grading", "Jianying", "film color grading", "color grading presets", "DaVinci color grading", "black and white color grading"]
+title: "Eastman Kodak Black and White Film LUTs - 122 B&Wフィルムエミュレーションプリセット"
+description: "CUBE形式の122個のEastman Kodak白黒フィルムLUTプリセット。廃盤を含むクラシックなB&Wフィルムをエミュレート。DaVinci Resolve、Premiere Pro、After Effects、Final Cut Pro X、Photoshop、剪映に対応。"
+tags: ["AEカラーグレーディング", "Eastman", "FCPXカラーグレーディング", "Kodak", "LUTs", "Prカラーグレーディング", "剪映", "フィルムカラーグレーディング", "カラーグレーディングプリセット", "DaVinciカラーグレーディング", "白黒カラーグレーディング"]
 slug: /eastman-kodak-black-and-white-film-luts
 ---
 
-Last updated: Sep 25 2025
+最終更新日: 2025年9月25日
 
 ![](https://www.gfxcamp.com/wp-content/uploads/2025/09/Eastman-Kodak-Black-and-White-Film-LUTs.jpg)
 
-## Eastman Kodak Black and White Film LUTs - 122 B&W Film Emulation Presets
+## Eastman Kodak Black and White Film LUTs - 122 B&Wフィルムエミュレーションプリセット
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-:::tip Resource Summary
-- Contains 122 Eastman Kodak black and white film LUTs presets
-- Format: CUBE
-- Emulates classic B&W films including discontinued ones
-- Compatible with DaVinci Resolve/PR/AE/FCPX/PS/Jianying and any software that supports LUTs
-- File size: Not specified
+:::tip リソース概要
+- 122個のEastman Kodak白黒フィルムLUTプリセットを含む
+- フォーマット: CUBE
+- 廃盤を含むクラシックなB&Wフィルムをエミュレート
+- DaVinci Resolve/PR/AE/FCPX/PS/剪映およびLUTをサポートする任意のソフトウェアに対応
+- ファイルサイズ: 指定なし
 :::
 
-## System Requirements
+## システム要件
 
-- Compatible with DaVinci Resolve, Premiere Pro, After Effects, Final Cut Pro X, Photoshop, and Jianying
-- Any software that supports importing CUBE LUTs
-- Sufficient storage space for the package
+- DaVinci Resolve、Premiere Pro、After Effects、Final Cut Pro X、Photoshop、剪映に対応
+- CUBE LUTのインポートをサポートする任意のソフトウェア
+- パッケージに十分なストレージスペース
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
 <TabItem value="davinci" label="DaVinci Resolve">
-1. Open DaVinci Resolve
-2. Go to the Color page
-3. In the top left corner, find the LUTs section
-4. Right-click in the LUTs panel and select "Import LUT..."
-5. Navigate to your LUTs folder and select the desired LUT file
+1. DaVinci Resolveを開く
+2. カラーページに移動
+3. 左上隅でLUTセクションを見つける
+4. LUTパネルで右クリックし、「LUTをインポート...」を選択
+5. LUTフォルダに移動し、目的のLUTファイルを選択
 </TabItem>
 <TabItem value="ae" label="After Effects">
-1. Open After Effects
-2. Create a new adjustment layer
-3. Apply the "Lumetri Color" effect to the adjustment layer
-4. In the Effect Controls panel, find the "Look" section
-5. Click the dropdown menu and select "Import Look"
-6. Select your CUBE file
+1. After Effectsを開く
+2. 新しい調整レイヤーを作成
+3. 調整レイヤーに「Lumetri Color」エフェクトを適用
+4. エフェクトコントロールパネルで「ルック」セクションを見つける
+5. ドロップダウンメニューをクリックし、「ルックをインポート」を選択
+6. CUBEファイルを選択
 </TabItem>
 <TabItem value="pr" label="Premiere Pro">
-1. Open Premiere Pro
-2. Select your video clip on the timeline
-3. Go to the "Effects" panel
-4. Search for "Lumetri Color" and apply it to your clip
-5. In the "Basic Correction" section, find the "Look" dropdown
-6. Click "Import" and select your CUBE file
+1. Premiere Proを開く
+2. カラーワークスペースに移動
+3. Lumetriカラーパネルで「ルック」セクションを見つける
+4. ドロップダウンメニューをクリックし、「ルックをインポート」を選択
+5. CUBEファイルを選択
 </TabItem>
 <TabItem value="fcpx" label="Final Cut Pro X">
-1. Open Final Cut Pro X
-2. Go to the Effects Browser
-3. Navigate to the "Color Correction" category
-4. Drag the "Color Board" effect onto your clip
-5. Use third-party plugins like "Color Finale" or similar tools that support CUBE files
+1. Final Cut Pro Xを開く
+2. タイムラインでビデオクリップを選択
+3. 「エフェクト」パネルに移動
+4. 「カスタムLUT」を検索し、クリップに適用
+5. 「ビデオインスペクター」で「カスタムLUT」エフェクトをクリック
+6. 「LUTを選択」をクリックし、CUBEファイルを選択
 </TabItem>
 </Tabs>
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)でお問い合わせください。
 :::

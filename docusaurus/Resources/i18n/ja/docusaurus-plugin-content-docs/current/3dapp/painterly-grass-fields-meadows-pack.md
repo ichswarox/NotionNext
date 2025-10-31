@@ -1,90 +1,89 @@
 ---
-title: "Blender Cartoon Oil Painting Style Field Grass Assets Preset: Painterly Grass - Fields & Meadows Pack for Blender EEVEE"
-description: "Painterly Grass - Fields & Meadows is a 3D grass and field asset pack that brings the quality of 2D painting directly into the 3D workspace. Perfect for creating stunning renders that look like paintings."
-tags: ["Blender asset", "Painterly Grass", "Blender grass asset", "Blender field asset", "EEVEE renderer", "3D grass", "cartoon style", "Blender preset"]
+title: "Blender カートゥン油絵風フィールドグラスアセットプリセット: Painterly Grass - Fields & Meadows Pack for Blender EEVEE"
+description: "Painterly Grass - Fields & Meadowsは、2Dペインティングの品質を3Dワークスペースに直接もたらす3Dグラスおよびフィールドアセットパックです。絵画のような見事なレンダリングを作成するのに最適です。"
+tags: ["Blenderアセット", "Painterly Grass", "Blenderグラスアセット", "Blenderフィールドアセット", "EEVEEレンダラー", "3Dグラス", "カートゥンスタイル", "Blenderプリセット"]
 slug: /painterly-grass-fields-meadows-pack
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Blender Cartoon Oil Painting Style Field Grass Assets Preset: Painterly Grass - Fields & Meadows Pack for Blender EEVEE
+# Blender カートゥン油絵風フィールドグラスアセットプリセット: Painterly Grass - Fields & Meadows Pack for Blender EEVEE
 
-<!--Second Part-This is First Banner -->
 ![Painterly Grass - Fields & Meadows Pack for Blender EEVEE](https://www.gfxcamp.com/wp-content/uploads/2025/09/Painterly-Grass.jpg)
 
 :::tip[info]
-**Download Painterly Grass - Fields & Meadows Pack** - Personalized cartoon style field grass asset preset pack for Blender EEVEE renderer
+**Painterly Grass - Fields & Meadows Packをダウンロード** - Blender EEVEEレンダラー向けのパーソナライズされたカートゥンスタイルフィールドグラスアセットプリセットパック
 
-The **Painterly Grass - Fields & Meadows Pack** is a 3D grass and field asset pack that brings the delicious and luxurious quality of 2D painting directly into the 3D workspace. Inspired by master painters, stylized art, and animation, this library and toolset are designed to create stunning 3D renders that look and feel like paintings.
+**Painterly Grass - Fields & Meadows Pack**は、2Dペインティングのおいしくて豪華な品質を3Dワークスペースに直接もたらす3Dグラスおよびフィールドアセットパックです。マスターペインター、スタイライズドアート、アニメーションにインスピレーションを受けたこのライブラリとツールセットは、絵画のように見えて感じられる見事な3Dレンダリングを作成するために設計されています。
 :::
 
-## Key Features of Painterly Grass - Fields & Meadows Pack
+## Painterly Grass - Fields & Meadows Packの主な機能
 
-This comprehensive asset pack offers a unique approach to creating natural environments in Blender:
+この総合的なアセットパックは、Blenderで自然環境を作成するための独自のアプローチを提供します：
 
-- **Cartoon Oil Painting Style**: Brings the aesthetic of 2D paintings into 3D scenes
-- **Field and Meadow Assets**: Complete collection of grass and field elements
-- **EEVEE Optimized**: Specifically designed for Blender's real-time renderer
-- **Professional Quality**: Created with attention to detail and artistic excellence
-- **Easy Implementation**: Ready-to-use assets that integrate seamlessly into your projects
+- **カートゥン油絵風**: 2Dペインティングの美学を3Dシーンに導入
+- **フィールドおよびメドウアセット**: グラスおよびフィールド要素の完全なコレクション
+- **EEVEE最適化**: Blenderのリアルタイムレンダラーのために特別に設計
+- **プロフェッショナル品質**: 細部への注意と芸術的な卓越性をもって作成
+- **簡単な実装**: シームレスにプロジェクトに統合できる使用可能なアセット
 
-## Product Details
+## 製品の詳細
 
-- **Asset Type**: 3D Grass and Field Assets
-- **Renderer Compatibility**: EEVEE
-- **Inspiration**: Master painters, stylized art, and animation
-- **Content**: Asset presets and completed scene projects
-- **Artistic Style**: Cartoon oil painting aesthetic
+- **アセットタイプ**: 3Dグラスおよびフィールドアセット
+- **レンダラー互換性**: EEVEE
+- **インスピレーション**: マスターペインター、スタイライズドアート、アニメーション
+- **コンテンツ**: アセットプリセットおよび完成したシーンプロジェクト
+- **芸術的スタイル**: カートゥン油絵風美学
 
-## System Requirements
+## システム要件
 
-- **Supported Blender Versions**: 3.3 or higher
-- **Required Renderer**: EEVEE
-- **Asset Libraries**: Compatible with Blender's asset library system
+- **対応Blenderバージョン**: 3.3以降
+- **必要なレンダラー**: EEVEE
+- **アセットライブラリ**: Blenderのアセットライブラリシステムと互換性あり
 
-## Installation Guide
+## インストールガイド
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="default" label="Installation Steps" default>
+  <TabItem value="default" label="インストール手順" default>
     <ol>
-      <li>In Blender, go to Edit → Preferences → File Paths → Asset Libraries</li>
-      <li>Add the path of the CGC_PBainterly_Grass_Asset_Library_1.0 folder for the corresponding version</li>
-      <li>The other folders contain completed scene projects that can be used directly</li>
+      <li>Blenderで、編集→環境設定→ファイルパス→アセットライブラリへ移動</li>
+      <li>対応するバージョンのCGC_PBainterly_Grass_Asset_Library_1.0フォルダのパスを追加</li>
+      <li>他のフォルダには、直接使用できる完成したシーンプロジェクトが含まれています</li>
     </ol>
   </TabItem>
 </Tabs>
 
 
 
-## Why Choose Painterly Grass - Fields & Meadows Pack?
+## Painterly Grass - Fields & Meadows Packを選ぶ理由
 
-This asset pack is specifically designed for Blender artists who want to add a unique artistic touch to their 3D scenes. Unlike traditional grass assets that aim for photorealism, Painterly Grass brings the charm and aesthetic of 2D paintings into the 3D environment.
+このアセットパックは、3Dシーンに独自のアーティスティックなタッチを追加したいBlenderアーティスト向けに特別に設計されています。フォトリアリズムを目指す従来のグラスアセットとは異なり、Painterly Grassは2Dペインティングの魅力と美学を3D環境にもたらします。
 
-### Perfect for Stylized Projects
+### スタイライズドプロジェクトに最適
 
-Whether you're working on animated films, game environments, or artistic renders, this pack provides the perfect assets to achieve that distinctive painted look. The assets are carefully crafted to maintain their artistic quality when rendered with EEVEE.
+アニメ映画、ゲーム環境、または芸術的なレンダリングに取り組んでいる場合でも、このパックはあなたが独特のペイント風の外観を達成するための完璧なアセットを提供します。これらのアセットは、EEVEEでレンダリングされたときにアーティスティックな品質を維持するように細心の注意を払って作成されています。
 
-### Streamlined Workflow
+### 効率化されたワークフロー
 
-With pre-built scene files and organized asset libraries, you can quickly implement beautiful grass and field environments without spending time on complex setup processes. Simply import and start creating stunning painted-style landscapes.
+事前に構築されたシーンファイルと整理されたアセットライブラリにより、複雑なセットアッププロセスに時間を費やすことなく、美しいグラスおよびフィールド環境をすばやく実装できます。単にインポートして、見事なペイントスタイルの風景の作成を開始してください。
 
-## Conclusion
+## まとめ
 
-The **Painterly Grass - Fields & Meadows Pack** is an essential asset collection for Blender artists working on stylized projects. Its unique approach to 3D grass and field assets, combined with the distinctive oil painting aesthetic, makes it a valuable addition to any creative toolkit.
+**Painterly Grass - Fields & Meadows Pack**は、スタイライズドプロジェクトに取り組むBlenderアーティストにとって不可欠なアセットコレクションです。3Dグラスおよびフィールドアセットへの独自のアプローチと、特徴的な油絵風美学を組み合わせることで、あらゆるクリエイティブツールキットに貴重な追加となります。
 
-Whether you're creating animated shorts, game environments, or artistic renders, this pack provides the professional assets needed to achieve stunning results that stand out from traditional photorealistic approaches. Bring the beauty of 2D painting into your 3D world with Painterly Grass.
+アニメーション短編、ゲーム環境、または芸術的なレンダリングを作成する場合でも、このパックは、伝統的なフォトリアリスティックなアプローチとは一線を画す見事な結果を達成するために必要なプロフェッショナルアセットを提供します。Painterly Grassで2Dペインティングの美しさを3D世界に取り入れましょう。
 
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
-:::warning[Download]
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1Y70Bq4lBcTQsCKj0Vx9mYA?pwd=2c22)
-**Extraction Password: 2c22**
+:::warning[ダウンロード]
+[百度网盘からダウンロード](https://pan.baidu.com/s/1Y70Bq4lBcTQsCKj0Vx9mYA?pwd=2c22)
+**解凍パスワード: 2c22**
 :::
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしのプレミアムダウンロード速度を利用！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

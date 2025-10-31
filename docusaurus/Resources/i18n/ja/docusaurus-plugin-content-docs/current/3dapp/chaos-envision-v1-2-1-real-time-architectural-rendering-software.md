@@ -1,50 +1,50 @@
 ---
-title: "Chaos Envision V1.2.1 Real-Time Architectural Rendering Software"
-description: "Real-time 3D rendering software for architectural visualization with immersive experience, realistic effects, and animation."
-tags: [Chaos, Envision, architectural-rendering, rendering-software]
+title: "Chaos Envision V1.2.1 リアルタイム建築レンダリングソフトウェア"
+description: "没入型体験、リアルな効果、アニメーション機能を備えた建築ビジュアライゼーション用のリアルタイム3Dレンダリングソフトウェア。"
+tags: [Chaos, Envision, 建築レンダリング, レンダリングソフトウェア]
 slug: /chaos-envision-v1-2-1-real-time-architectural-rendering-software
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 10 2025
+最終更新日: 2025年10月10日
 
 ![Chaos Envision V1.2.1 Real-Time Architectural Rendering Software](https://www.gfxcamp.com/wp-content/uploads/2025/09/Envision.jpg)
 
-## Overview
+## 概要
 
-Real-time 3D architectural scene rendering software Chaos Envision V1.2.1 Win cracked version. 
+リアルタイム3D建築シーンレンダリングソフトウェアChaos Envision V1.2.1 Winクラック版。
 
-More than just rendering, immersive architectural experience with real-time 3D rendering, realistic effects, and animation. Envision is a new tool for Enscape users and architectural visualizers who want to take their visualizations further than is currently possible with their design tools. It's ideal for quickly creating high-quality animated visualizations, preparing photorealistic visuals, and assembling large and complex scenes from design projects.
+レンダリング以上のもの、リアルタイム3Dレンダリング、リアルな効果、アニメーションによる没入型建築体験。Envisionは、Enscapeユーザーや建築ビジュアライザーが現在のデザインツールでは不可能なビジュアライゼーションをさらに発展させたい場合の新しいツールです。高品質なアニメーションビジュアライゼーションを迅速に作成し、フォトリアリスティックなビジュアルを準備し、デザインプロジェクトから大規模で複雑なシーンを組み立てるのに最適です。
 
-## Features
+## 機能
 
-- Real-time 3D rendering
-- Immersive architectural experience
-- High-quality animated visualizations
-- Photorealistic visuals
-- Assembly of large and complex scenes from design projects
+- リアルタイム3Dレンダリング
+- 没入型建築体験
+- 高品質なアニメーションビジュアライゼーション
+- フォトリアリスティックなビジュアル
+- デザインプロジェクトからの大規模で複雑なシーンの組み立て
 
-## Installation Instructions
+## インストール手順
 
 <Tabs>
-<TabItem value="win" label="Windows Installation">
+<TabItem value="win" label="Windowsインストール">
 
-1. Install Envision-1.2.1-win64.exe
-2. Copy vray_envision120_fix.dll to the installation directory at the following location, default C:\Program Files\Chaos\Envision\bin\VRayPlugins
+1. Envision-1.2.1-win64.exeをインストール
+2. vray_envision120_fix.dllを以下の場所にあるインストールディレクトリにコピー、デフォルトはC:\Program Files\Chaos\Envision\bin\VRayPlugins
 
 </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌無料低速ダウンロードリンク
 
-| Version | Download Link | Password |
+| バージョン | ダウンロードリンク | パスワード |
 |--------|---------------|----------|
-| V1.2.1 | [Baidu Netdisk Download](https://pan.baidu.com/s/1_uvDl9XKxwjd7bHksxUJMg?pwd=27bg) | 27bg |
-| V1.2.0 | [Baidu Netdisk Download](https://pan.baidu.com/s/1fVRdvSvpRE2aKsSon9vK4A?pwd=i546) | i546 |
+| V1.2.1 | [百度网盘ダウンロード](https://pan.baidu.com/s/1_uvDl9XKxwjd7bHksxUJMg?pwd=27bg) | 27bg |
+| V1.2.0 | [百度网盘ダウンロード](https://pan.baidu.com/s/1fVRdvSvpRE2aKsSon9vK4A?pwd=i546) | i546 |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

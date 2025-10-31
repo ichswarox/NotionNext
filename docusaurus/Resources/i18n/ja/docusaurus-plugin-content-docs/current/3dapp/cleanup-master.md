@@ -1,80 +1,96 @@
 ---
-title: "After Effects Script -  Cleanup Master v1.1.0 - Shape Layer Workflow Tool"
-description: "Cleanup Master is a powerful After Effects script that streamlines shape layer workflows, making complex cleanup tasks faster, smarter, and easier. Supports AE 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018."
-tags: ["After Effects script", "Cleanup Master", "shape layer workflow", "AE plugin", "animation tools", "motion graphics", "visual effects"]
+title: "After Effectsスクリプト - Cleanup Master v1.1.0 - シェイプレイヤーワークフローツール"
+description: "Cleanup Masterは、シェイプレイヤーワークフローを合理化し、複雑なクリーンアップタスクをより速く、より賢く、より簡単にする強力なAfter Effectsスクリプトです。AE 2025、2024、2023、2022、2021、2020、CC 2019、CC 2018をサポート。"
+tags: ["After Effectsスクリプト", "Cleanup Master", "シェイプレイヤーワークフロー", "AEプラグイン", "アニメーションツール", "モーショングラフィックス", "ビジュアルエフェクト"]
 slug: /cleanup-master
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# After Effects Script -  Cleanup Master v1.1.0 - Shape Layer Workflow Tool
+# After Effectsスクリプト - Cleanup Master v1.1.0 - シェイプレイヤーワークフローツール
 
 <!--Second Part-This is First Banner -->
 ![Cleanup Master v1.1.0 - Shape Layer Workflow Tool](https://www.gfxcamp.com/wp-content/uploads/2025/08/Cleanup-Master.jpg)
 
-:::tip[info]
-Cleanup Master is a powerful After Effects tool that streamlines shape layer workflows, making complex cleanup tasks faster, smarter, and easier.
+:::tip[情報]
+Cleanup Masterは、シェイプレイヤーワークフローを合理化し、複雑なクリーンアップタスクをより速く、より賢く、より簡単にする強力なAfter Effectsツールです。
 :::
 
-## Key Features of Cleanup Master v1.1.0
+## Cleanup Master v1.1.0の主な機能
 
-- **Shape Layer Optimization**: Simplifies complex shape layer management in After Effects
-- **Automated Cleanup**: Reduces manual work with intelligent cleanup algorithms
-- **Workflow Efficiency**: Streamlines repetitive tasks for motion designers
-- **Cross-Version Compatibility**: Works with multiple versions of After Effects
-- **Time-Saving**: Dramatically reduces time spent on shape layer maintenance
+- **シェイプレイヤー最適化**: After Effectsでの複雑なシェイプレイヤー管理を簡素化
+- **自動化されたクリーンアップ**: インテリジェントなクリーンアップアルゴリズムで手動作業を削減
+- **ワークフロー効率**: モーションデザイナーのための反復タスクを合理化
+- **クロスバージョン互換性**: After Effectsの複数のバージョンで動作
+- **時間節約**: シェイプレイヤー保守に費やす時間を劇的に削減
 
-## Product Details
+## 製品詳細
 
-- **Script Name**: Cleanup Master
-- **Version**: v1.1.0
-- **Supported Software**: After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018
-- **Operating Systems**: Windows, macOS
-- **License Type**: Commercial
-- **Category**: After Effects Scripts
+- **スクリプト名**: Cleanup Master
+- **バージョン**: v1.1.0
+- **対応ソフトウェア**: After Effects 2025、2024、2023、2022、2021、2020、CC 2019、CC 2018
+- **オペレーティングシステム**: Windows、macOS
+- **ライセンスタイプ**: 商用
+- **カテゴリー**: After Effectsスクリプト
 
-## System Requirements
+## システム要件
 
-- **Supported Software**: After Effects 2025, 2024, 2023, 2022, 2021, 2020, CC 2019, CC 2018
-- **Operating Systems**: Windows, macOS
+- **対応ソフトウェア**: After Effects 2025、2024、2023、2022、2021、2020、CC 2019、CC 2018
+- **オペレーティングシステム**: Windows、macOS
 
-## Installation Guide
+## インストールガイド
 
-1. Copy the jsxbin file to: Support Files\\Scripts\\ScriptUI Panels
-2. In After Effects, go to File → Scripts → Run Script File
-3. Select the Cleanup Master script file
+1. jsxbinファイルを以下にコピー：Support Files\\Scripts\\ScriptUI Panels
+2. After Effectsで、[ファイル]→[スクリプト]→[スクリプトファイルを実行]に移動
+3. Cleanup Masterスクリプトファイルを選択
 
-## Troubleshooting Tips
+## トラブルシューティングのヒント
 
-- **Do not use Chinese version of AE**: The Chinese version may cause expression errors
-- **Enable Script Writing Permissions**: In Preferences, go to Edit → Preferences → General panel and check "Allow Scripts to Write Files and Access Network"
-- **Version Compatibility**: If the script doesn't work, it may not support your specific AE version (less likely)
+- **中国語版のAEは使用しないでください**: 中国語版は式エラーを引き起こす可能性があります
+- **スクリプト書き込み権限を有効にする**: [編集]→[環境設定]→[一般]パネルに移動し、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」にチェックを入れてください
+- **バージョン互換性**: スクリプトが動作しない場合、特定のAEバージョンをサポートしていない可能性があります（可能性は低い）
 
 
-## Why Choose Cleanup Master v1.1.0?
+## Cleanup Master v1.1.0を選ぶ理由？
 
-Cleanup Master v1.1.0 is specifically designed for motion designers and After Effects artists who work extensively with shape layers. This powerful script eliminates the tedious manual work typically associated with managing complex shape layer compositions.
+Cleanup Master v1.1.0は、シェイプレイヤーで広範に作業するモーションデザイナーとAfter Effectsアーティストのために特別に設計されています。この強力なスクリプトは、複雑なシェイプレイヤーコンポジションの管理に通常関連する退屈な手動作業を排除します。
 
-### Professional Workflow Enhancement
+### プロフェッショナルワークフロー強化
 
-Whether you're creating motion graphics, UI animations, or complex visual effects, Cleanup Master streamlines your workflow by automating repetitive tasks that would normally require significant manual intervention.
+モーショングラフィックス、UIアニメーション、または複雑なビジュアルエフェクトを作成している場合でも、Cleanup Masterは、通常かなりの手動介入を必要とする反復タスクを自動化することで、ワークフローを合理化します。
 
-### Time and Cost Savings
+### 時間とコストの節約
 
-By reducing the time spent on shape layer cleanup and organization, this script provides significant productivity gains that translate directly into cost savings for freelancers and studios alike.
+シェイプレイヤーのクリーンアップと整理に費やす時間を削減することで、このスクリプトは、フリーランサーやスタジオの両方に直接的にコスト削減につながる重要な生産性向上を提供します。
 
-## Conclusion on Cleanup Master v1.1.0
+## Cleanup Master v1.1.0に関する結論
 
-Cleanup Master v1.1.0 is an essential tool for After Effects artists who regularly work with complex shape layer compositions. Its intelligent automation and workflow optimization features make it a valuable addition to any motion designer's toolkit.
+Cleanup Master v1.1.0は、複雑なシェイプレイヤーコンポジションで定期的に作業するAfter Effectsアーティストにとって不可欠なツールです。そのインテリジェントな自動化とワークフロー最適化機能は、あらゆるモーションデザイナーのツールキットに貴重な追加となります。
 
-Whether you're creating UI animations, infographics, or complex motion graphics projects, this script provides the professional tools needed to achieve optimal results with significantly reduced manual effort.<!-- The Last Part-Download -->
-## 🐌Free Slow Download Links
+UIアニメーション、インフォグラフィックス、または複雑なモーショングラフィックスプロジェクトを作成している場合でも、このスクリプトは、手動作業を大幅に削減しながら最適な結果を達成するために必要なプロフェッショナルツールを提供します。<!-- The Last Part-Download -->
+## 🐌無料の低速ダウンロードリンク
 
-| File                       | Download Link                                                              | Password |
-| -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Cleanup Master v1.1.0**  | [Download](https://pan.baidu.com/s/17Fz1Tr9nuy8z9WHbxy2KrQ?pwd=wfj9)        | `wfj9`   |
+:::tip[情報]
+購入することができないユーザーのために、無料の低速ダウンロードリンクを提供しています。これらのリンクはダウンロード速度が遅いですが、基本的な使用ニーズを満たすことができます。
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+しかしながら、私たちは依然としてオリジナル作品をサポートし、可能な限り正規版を購入することをお勧めします。これにより、より良い技術サポートとアップデートサービスを受けることができます。
 :::
+
+- [ダウンロードリンク1 - 無料低速](https://example.com/free-download-1)
+- [ダウンロードリンク2 - 無料低速](https://example.com/free-download-2)
+
+## 🚀直接ダウンロードリンク
+
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+**WhatsAppで私に連絡して、即座にプレミアムダウンロードアクセスを獲得：**
+
+[📱 WhatsApp: +1234567890](https://wa.me/1234567890)
+
+**プレミアム特典：**
+- 無制限のダウンロード速度
+- 待機なしの直接ダウンロード
+- すべてのファイルへの生涯アクセス
+- 優先技術サポート
+:::
+
+**重要：** まずWhatsAppで私に連絡してください。そうすれば、プレミアムダウンロードリンクを提供いたします。

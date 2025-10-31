@@ -1,68 +1,68 @@
 ---
-title: "Fractal Terrain Plugin"
-description: "AE plugin for generating realistic, customizable 3D terrain from fractal noise. Create stunning landscapes in After Effects with Fractal Terrain V1.0.1."
-tags: [aescripts, AE plugin, 3D terrain, fractal noise, After Effects]
+title: "フラクタル地形プラグイン"
+description: "フラクタルノイズからリアルでカスタマイズ可能な3D地形を生成するAEプラグイン。Fractal Terrain V1.0.1でAfter Effectsで素晴らしい風景を作成します。"
+tags: [aescripts, AEプラグイン, 3D地形, フラクタルノイズ, After Effects]
 slug: /fractal-terrain-plugin
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-Last updated: Oct 17 2025
+最終更新日: 2025年10月17日
 
 ![img1018-ERMp.webp](https://list.ucards.store/d/img/img1018-ERMp.webp)
 
-# Fractal Terrain Plugin - 3D Landscape Generator for AE
+# フラクタル地形プラグイン - AE用3D風景ジェネレーター
 
-Generate realistic, customizable 3D terrain from fractal noise in After Effects. Create stunning landscapes with this powerful plugin.
+After Effectsでフラクタルノイズからリアルでカスタマイズ可能な3D地形を生成します。この強力なプラグインで素晴らしい風景を作成しましょう。
 
-## Features
+## 機能
 
-:::tip[Key Features]
-- Generate realistic 3D terrain from fractal noise
-- Fully customizable terrain parameters
-- Works directly in After Effects
-- Compatible with both Windows and Mac
+:::tip[主な機能]
+- フラクタルノイズからリアルな3D地形を生成
+- 完全にカスタマイズ可能な地形パラメーター
+- After Effectsで直接動作
+- WindowsとMacの両方に対応
 :::
 
-## Supported Software Versions
+## 対応ソフトウェアバージョン
 
-- After Effects 2025, 2024, 2023, 2022, 2021, 2020
+- After Effects 2025、2024、2023、2022、2021、2020
 
-## Installation
+## インストール
 
 <Tabs>
 <TabItem value="win" label="Windows">
   
-1. Copy the plugin file to your AE Plugins directory
-2. Restart After Effects
+1. プラグインファイルをAEプラグインディレクトリにコピーしてください
+2. After Effectsを再起動してください
 
 </TabItem>
 <TabItem value="mac" label="Mac">
 
-1. Copy the plugin file to your AE Plugins directory
-2. Restart After Effects
+1. プラグインファイルをAEプラグインディレクトリにコピーしてください
+2. After Effectsを再起動してください
 
 </TabItem>
 </Tabs>
 
-## Notes
+## 注意事項
 
-- Windows version is V1.0.1
-- Mac version is V1.0.0
+- WindowsバージョンはV1.0.1です
+- MacバージョンはV1.0.0です
 
-## Troubleshooting
+## トラブルシューティング
 
-:::caution[Troubleshooting Tips]
-- Don't use the Chinese version of AE, as it may cause expression errors
-- In Preferences > General panel, check "Allow Scripts to Write Files and Access Network"
-- Verify that the plugin supports your version of AE
+:::caution[トラブルシューティングのヒント]
+- 中国語版のAEは使用しないでください。式エラーが発生する可能性があります
+- 環境設定＞一般パネルで、「スクリプトがファイルを書き込み、ネットワークにアクセスすることを許可する」をチェックしてください
+- プラグインがお使いのAEバージョンをサポートしていることを確認してください
 :::
 
-## 🚀Direct Download Link
+## 🚀直接ダウンロードリンク
 
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までご連絡ください。
 :::
 
-link: https://aescripts.com/fractal-terrain/
+リンク: https://aescripts.com/fractal-terrain/

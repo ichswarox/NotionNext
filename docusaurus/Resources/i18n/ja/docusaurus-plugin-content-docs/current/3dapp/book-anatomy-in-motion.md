@@ -1,52 +1,52 @@
 ---
-title: "Anatomy in Motion: A Visual Reference for Artists"
-description: "The Japanese edition of the popular 3dtotal book 'Anatomy in Motion' is set to release in September 2025, offering a comprehensive visual guide to the human body in action."
-tags: ['anatomy', 'art', 'book', 'reference', '3dtotal', 'Born Digital', 'drawing', 'sculpting', 'character design']
+title: "Anatomy in Motion: アーティストのためのビジュアルリファレンス"
+description: "人気の3dtotal書籍『Anatomy in Motion』の日本語版が2025年9月に発売予定。動作中の人体を包括的に視覚的にガイド。"
+tags: ["アナトミー", "アート", "書籍", "リファレンス", "3dtotal", "Born Digital", "ドローイング", "彫刻", "キャラクターデザイン"]
 slug: /book-anatomy-in-motion
 ---
 
-The Japanese edition of the 3dtotal publishing book, **"Anatomy in Motion: A Visual Reference,"** is scheduled for release in September 2025 from Born Digital. This book is an essential guide for artists, featuring photographs and illustrations of poses in motion.
+3dtotal出版の書籍『**Anatomy in Motion: A Visual Reference**』の日本語版が、Born Digitalより2025年9月に発売予定です。この書籍は、アーティストのための必携ガイドで、動作中のポーズの写真とイラストを特徴としています。
 
-![Anatomy in Motion Cover](https://m.media-amazon.com/images/I/51bTkRZG+CL._SL500_.jpg)
+![Anatomy in Motion 表紙](https://m.media-amazon.com/images/I/51bTkRZG+CL._SL500_.jpg)
 
-### About the Book
+### 本について
 
-> **Learn from over 750 high-quality photos and illustrations in this definitive guide to the anatomy of the human body in motion.**
+> **動作中の人体のアナトミーの決定版ガイドで、750以上の高品質な写真とイラストから学びます。**
 
-*"Anatomy in Motion"* is a visual reference guide of the human body in action, composed of detailed photographs with overlaid illustrations showing muscle diagrams, planar views, and contour lines.
+『Anatomy in Motion』は、動作中の人体を視覚的にリファレンスするガイドで、筋肉図、平面図、等高線を示すオーバーレイイラスト付きの詳細な写真で構成されています。
 
-The book captures professional models performing a wide range of actions—from walking and jumping to combat and dancing—showcasing the contours, planes, and musculoskeletal systems of various body types. Whether you are a traditional sculptor, oil painter, illustrator, or a CG/digital artist, the materials in this book will help improve the quality and accuracy of your art.
+この本では、歩行やジャンプから戦闘やダンスまで、幅広いアクションを演じるプロフェッショナルモデルを撮影し、様々な体型の輪郭、平面、筋骨格系を展示しています。伝統的な彫刻家、油絵画家、イラストレーター、またはCG/デジタルアーティストであっても、この本の素材はあなたのアートの品質と精度を向上させるのに役立ちます。
 
-### Book Details
+### 書籍詳細
 
-*   **Publisher**: Born Digital
-*   **Release Date**: September 23, 2025
-*   **Language**: Japanese
-*   **Format**: Softcover, 368 pages
-*   **Dimensions**: 27.9 x 21 x 2.1 cm
+*   **出版社**: Born Digital
+*   **発売日**: 2025年9月23日
+*   **言語**: 日本語
+*   **フォーマット**: ソフトカバー、368ページ
+*   **サイズ**: 27.9 x 21 x 2.1 cm
 
-### Features
+### 特徴
 
-*   368 pages in a large format (210 x 279 mm).
-*   Hundreds of high-quality color photos and illustrations.
-*   Detailed planar, contour, and écorché (muscle) diagrams.
-*   An extensive visual reference for the human body in motion.
+*   大判フォーマット（210 x 279 mm）の368ページ。
+*   何百もの高品質なカラー写真とイラスト。
+*   詳細な平面、等高線、エコルシェ（筋肉）図。
+*   動作中の人体のための広範な視覚的リファレンス。
 
-:::caution Content Warning
-This book contains nude representations for artistic and educational purposes.
+:::caution コンテンツ警告
+この本は、芸術的および教育的目的のためのヌード表現を含んでいます。
 :::
 
-### Table of Contents
+### 目次
 
-*   **Basics of Movement**: Introduction, Principles of Motion, Muscle Types, etc.
-*   **Basic Body Movements**: Shoulder, Arm, Knee, Hip, Torso, Neck, Forearm, Jaw.
-*   **Full-Body Movements**: Walking, Running, Lifting, Jumping, Pulling, Pushing, Hitting, Standing from Sitting, Catching, Kicking, Crawling, Cartwheeling, Punching, Dancing, Combat.
-*   **Gallery**
-*   **Glossary**
+*   **動作の基本**: 序章、動作の原則、筋肉タイプなど。
+*   **基本的な体の動き**: 肩、腕、膝、腰、胴体、首、前腕、顎。
+*   **全身の動き**: 歩行、走行、持ち上げ、ジャンプ、引っ張り、押し、打撃、座りから立ち上がる、キャッチ、キック、這い、側転、パンチ、ダンス、戦闘。
+*   **ギャラリー**
+*   **用語集**
 
-This is an indispensable reference book for any artist's library.
+これは、あらゆるアーティストのライブラリに欠かせないリファレンス書籍です。
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては [💬WhatsApp](https://wa.me/+8613237610083) でお問い合わせください。
 :::

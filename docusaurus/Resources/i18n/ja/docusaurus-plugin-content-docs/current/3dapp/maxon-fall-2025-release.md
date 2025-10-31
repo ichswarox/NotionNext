@@ -1,15 +1,15 @@
 ---
-title: "Maxon Announces Fall 2025 Updates for Cinema 4D, ZBrush & More"
-description: "Maxon unveils its Fall 2025 updates, featuring significant enhancements for Cinema 4D and ZBrush, alongside a stunning collection of new demo reels."
-tags: ['Maxon', 'Cinema 4D', 'C4D', 'ZBrush', 'Redshift', 'Red Giant', 'Maxon One', '3D', 'VFX', 'motion graphics', 'update']
+title: "Maxon、Cinema 4D、ZBrushなどの2025年秋アップデートを発表"
+description: "MaxonがCinema 4DとZBrushの大幅な機能強化を含む2025年秋のアップデートを発表し、新しいデモリールの素晴らしいコレクションも公開しました。"
+tags: ['Maxon', 'Cinema 4D', 'C4D', 'ZBrush', 'Redshift', 'Red Giant', 'Maxon One', '3D', 'VFX', 'モーショングラフィックス', 'アップデート']
 slug: /maxon-fall-2025-release
 ---
 
-Maxon has officially announced its Fall 2025 updates for its suite of creative tools, including major enhancements for Cinema 4D and ZBrush. Alongside the software news, the company has released a stunning collection of new demo reels showcasing the power of its products.
+Maxonは、Cinema 4DとZBrushの主要な機能強化を含む、クリエイティブツールスイートの2025年秋アップデートを正式に発表しました。ソフトウェアニュースと共に、同社は製品のパワーを展示する新しいデモリールの素晴らしいコレクションをリリースしました。
 
-## Maxon Fall 2025 Release Overview
+## Maxon 2025年秋リリース概要
 
-This release introduces new innovations across the entire creative ecosystem, streamlining workflows and breaking down technical barriers for artists in VFX, motion graphics, 3D modeling, sculpting, rendering, and editing.
+このリリースは、VFX、モーショングラフィックス、3Dモデリング、スカルプティング、レンダリング、編集のためのアーティスト向けに、ワークフローを合理化し、技術的な障壁を打破する、クリエイティブエコシステム全体にわたる新しいイノベーションを導入します。
 
 <div className="player-wrapper">
   <iframe 
@@ -25,11 +25,11 @@ This release introduces new innovations across the entire creative ecosystem, st
 
 ---
 
-## Software Updates
+## ソフトウェアアップデート
 
-### What's New in Cinema 4D 2025
+### Cinema 4D 2025の新機能
 
-The latest release of Cinema 4D empowers artists with **MoGraph simulations for cloth, Pyro, particles, and liquids**. It also enhances the pipeline for game creators, allowing them to bring C4D assets directly into Unreal Engine with rigged animations. Other additions include **AI-powered search, procedural plants and clouds, and new materials** like wax, soap, and wool to enhance realism.
+最新のCinema 4Dリリースは、アーティストに**クロス、Pyro、パーティクル、液体用のMoGraphシミュレーション**を提供します。また、ゲームクリエイターのパイプラインを強化し、リギングされたアニメーションと共にC4DアセットをUnreal Engineに直接持ち込めるようにします。その他の追加機能には、**AI搭載検索、手続き型植物と雲、そしてワックス、石鹸、ウールなどの新しいマテリアル**が含まれ、リアリズムを高めます。
 
 <div className="player-wrapper">
   <iframe 
@@ -43,9 +43,9 @@ The latest release of Cinema 4D empowers artists with **MoGraph simulations for 
   />
 </div>
 
-### What's New in ZBrush 2025
+### ZBrush 2025の新機能
 
-The Fall 2025 ZBrush release introduces **Python scripting support**, enabling artists to create custom plugins, automate repetitive tasks, and integrate ZBrush into film and game pipelines. Key features from the iPad version, such as the **3D Print Hub and Scale Master**, are now part of the desktop version, providing powerful tools for rapid prototyping and 3D printing.
+2025年秋のZBrushリリースは、**Pythonスクリプティングサポート**を導入し、アーティストがカスタムプラグインを作成し、繰り返しタスクを自動化し、ZBrushを映画とゲームのパイプラインに統合できるようにします。iPad版の主要機能である**3Dプリントハブとスケールマスター**がデスクトップ版の一部となり、ラピッドプロトタイピングと3Dプリントのための強力なツールを提供します。
 
 <div className="player-wrapper">
   <iframe 
@@ -61,13 +61,13 @@ The Fall 2025 ZBrush release introduces **Python scripting support**, enabling a
 
 ---
 
-## 2025 Demo Reels
+## 2025年デモリール
 
-Maxon has also released a series of demo reels that highlight the incredible work being created with their tools.
+Maxonはまた、彼らのツールで作成された信じられないような作品を紹介する一連のデモリールをリリースしました。
 
-### Maxon One | 2025 Demo Reel
+### Maxon One | 2025デモリール
 
-This reel showcases the combined power of Cinema 4D, Red Giant, Redshift, and ZBrush.
+このリールは、Cinema 4D、Red Giant、Redshift、そしてZBrushの組み合わせたパワーを展示しています。
 
 <div className="player-wrapper">
   <iframe 
@@ -81,18 +81,18 @@ This reel showcases the combined power of Cinema 4D, Red Giant, Redshift, and ZB
   />
 </div>
 
-**Check out the full lineup of 2025 demo reels:**
+**2025年デモリールのフルラインナップをチェック：**
 
-*   **[Maxon Cinema 4D | 2025 Demo Reel](https://www.youtube.com/watch?v=-5S2qs32PII)**
-*   **[Maxon ZBrush | 2025 Demo Reel](https://www.youtube.com/watch?v=I0u3jfD2YeA)**
-*   **[Maxon Red Giant | 2025 Demo Reel](https://www.youtube.com/watch?v=zqUUGGVS2BQ)**
-*   **[Maxon Redshift | 2025 Demo Reel](https://www.youtube.com/watch?v=hyEAG9Wsf60)**
-*   **[Maxon Gaming Reel 2025](https://www.youtube.com/watch?v=eHMNq8EY1Q0)**
-*   **[Maxon Sports Reel 2025](https://www.youtube.com/watch?v=XgP8YTSkkAw)**
-*   **[Maxon ArchViz Reel 2025](https://www.youtube.com/watch?v=FBVW2tc5gF4)**
+*   **[Maxon Cinema 4D | 2025デモリール](https://www.youtube.com/watch?v=-5S2qs32PII)**
+*   **[Maxon ZBrush | 2025デモリール](https://www.youtube.com/watch?v=I0u3jfD2YeA)**
+*   **[Maxon Red Giant | 2025デモリール](https://www.youtube.com/watch?v=zqUUGGVS2BQ)**
+*   **[Maxon Redshift | 2025デモリール](https://www.youtube.com/watch?v=hyEAG9Wsf60)**
+*   **[Maxon ゲーミングリール 2025](https://www.youtube.com/watch?v=eHMNq8EY1Q0)**
+*   **[Maxon スポーツリール 2025](https://www.youtube.com/watch?v=XgP8YTSkkAw)**
+*   **[Maxon ArchVizリール 2025](https://www.youtube.com/watch?v=FBVW2tc5gF4)**
 
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までお問い合わせください。
 :::

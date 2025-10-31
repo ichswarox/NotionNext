@@ -6,53 +6,53 @@ tags: [ERGB Streak Panels, Blender plugin, light plugin, streak plugin, effects 
 slug: /ergb-streak-panels
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) -->
-*Last updated: Sep 21 2025*<!--generate depend on file modified time -->
+*最終更新日: 2025年9月21日*<!--generate depend on file modified time -->
 
 <!--First Part-This is Title -->
-# ERGB Streak Panels: Blender Creative Light Streak Background Effects Plugin
+# ERGB Streak Panels: Blenderクリエイティブライトストリーク背景効果プラグイン
 
 <!--Second Part-This is First Banner -->
 ![ERGB Streak Panels](https://www.gfxcamp.com/wp-content/uploads/2025/09/ergb-streaks-panel.jpg)
 
 :::tip[info]
-ERGB Streaks Panel can create light streak fiber animations without complex node control, generating results with one click. Create Highly-Customizable Light Trails in Minutes, Not Weeks.
+ERGB Streaks Panelは複雑なノード制御なしでライトストリークファイバーアニメーションを作成でき、ワンクリックで結果を生成します。数分で高度にカスタマイズ可能なライトトレイルを作成し、数週間ではありません。
 :::
 
-## Plugin Introduction
+## プラグイン紹介
 
-ERGB Streak Panels is a creative light streak effects plugin designed specifically for Blender, allowing users to quickly create highly customizable light streak effects without becoming a technical expert. The plugin's core concept is to simplify the workflow, letting users focus on creation rather than technical details.
+ERGB Streak Panelsは、Blender専用に設計されたクリエイティブなライトストリーク効果プラグインで、ユーザーが技術的な専門家になることなく、高度にカスタマイズ可能なライトストリーク効果を迅速に作成できるようにします。このプラグインの核心概念は、ワークフローを簡素化し、ユーザーが技術的な詳細ではなく作成に集中できるようにすることです。
 
-Key Features:
-- One-click generation of light streak fiber animations
-- No complex node control required
-- Highly customizable light streak effects
-- Simplified workflow
-- Suitable for rapid prototyping and final rendering
+主な特徴：
+- ライトストリークファイバーアニメーションをワンクリックで生成
+- 複雑なノード制御は不要
+- 高度にカスタマイズ可能なライトストリーク効果
+- 簡素化されたワークフロー
+- 迅速なプロトタイピングと最終レンダリングに適している
 
-## Installation Steps
+## インストール手順
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="installation" label="Installation Instructions" default>
+  <TabItem value="installation" label="インストール手順" default>
     <ol>
-      <li>In the top menu, select <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code></li>
-      <li>Click the dropdown menu in the upper right corner and select <code>Install from Disk</code></li>
-      <li>Choose the corresponding ZIP file in the popup window to install</li>
+      <li>上部メニューで<code>編集</code>→<code>環境設定</code>→<code>アドオン</code>を選択します</li>
+      <li>右上のドロップダウンメニューをクリックして、<code>ディスクからインストール</code>を選択します</li>
+      <li>ポップアップウィンドウで対応するZIPファイルを選択してインストールします</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌Free Slow Download Links
+## 🐌無料の低速ダウンロードリンク
 
 
 
-| File Version | Download Link | Password |
+| ファイルバージョン | ダウンロードリンク | パスワード |
 |--------------|---------------|----------|
-| ERGB Streak Panels v1.0.1 | [Download Link](https://pan.baidu.com/s/1YBLNvz7idwCB4z8PvCdm9Q?pwd=mnxc) | `mnxc` |
+| ERGB Streak Panels v1.0.1 | [ダウンロードリンク](https://pan.baidu.com/s/1YBLNvz7idwCB4z8PvCdm9Q?pwd=mnxc) | `mnxc` |
 
-## 🚀Direct Download Link
-:::tip[Get Premium Download Speed Without any Limitations!]
-Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
+## 🚀直接ダウンロードリンク
+:::tip[制限なしでプレミアムダウンロード速度を獲得！]
+プレミアムアクセスとサポートについては[💬WhatsApp](https://wa.me/+8613237610083)までご連絡ください。
 :::
