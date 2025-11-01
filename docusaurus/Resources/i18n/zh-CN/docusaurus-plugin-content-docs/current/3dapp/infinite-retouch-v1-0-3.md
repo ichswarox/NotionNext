@@ -2,7 +2,7 @@
 title: "Photoshop插件 - Infinite Retouch v1.0.3 智能照片修饰工具"
 description: "Infinite Retouch是Photoshop的专业照片修饰插件，提供智能化的人像处理、皮肤修复和图像增强功能。"
 tags: ["Photoshop插件", "照片修饰", "人像处理", "皮肤修复", "图像增强", "Infinite Retouch"]
-slug: /infinite-retouch-v1-0-3-zh
+slug: /infinite-retouch-v1-0-3
 ---
 
 import Tabs from '@theme/Tabs';

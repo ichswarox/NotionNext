@@ -2,7 +2,7 @@
 title: "wParallax Lobby 1 - 一键式室内建筑可视化解决方案"
 description: "wParallax Lobby 1是一款专业的建筑可视化资产包，提供一键式室内场景创建功能，包含高质量的材质、光照和预设，适用于建筑设计、房地产和室内设计展示。"
 tags: ["建筑可视化", "室内设计", "一键场景", "3DS MAX", "Cinema 4D", "FBX", "建筑渲染", "房地产展示"]
-slug: /wparallax-lobby-1-one-click-interiors-for-archviz-zh
+slug: /wparallax-lobby-1-one-click-interiors-for-archviz
 ---
 
 import Tabs from '@theme/Tabs';

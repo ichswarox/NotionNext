@@ -2,7 +2,7 @@
 title: "AE时间码计算脚本 Aescripts Calc AE V1.0.2"
 description: "AE脚本用于直接在AE中计算时间码，自动加载帧计数，使用时间码辅助工具提供精确结果。"
 tags: ["aescripts", "AE脚本", "Calc AE", "时间码脚本"]
-slug: /calc-ae-zh
+slug: /calc-ae
 ---
 
 最后更新: 2025年10月17日

@@ -2,7 +2,7 @@
 title: "Blender深度图转3D模型插件 - zForm V2.4.3+V1.0.4"
 description: "zForm是一款旨在快速将您预先存在的深度图和图像转换为Blender中的3D网格的工具。"
 tags: ["Blender", "Blender插件", "zForm"]
-slug: /zform-zh
+slug: /zform
 ---
 
 import Tabs from '@theme/Tabs';

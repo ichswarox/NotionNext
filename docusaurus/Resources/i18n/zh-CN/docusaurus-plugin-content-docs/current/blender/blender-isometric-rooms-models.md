@@ -1,6 +1,6 @@
 ---
-title: "Blender等距房间合集 - 卧室、厨房和客厅的低多边形3D模型"
-description: "用于等距渲染、游戏、动画项目和室内可视化的Blender低多边形3D模型，包括卧室、厨房、客厅和面包咖啡店"
+title: "Blender Isometric Rooms Collection - Low-poly 3D Models for Bedrooms, Kitchens and Living Rooms"
+description: "Blender low-poly 3D models for isometric renders, games, animation projects, and interior visualizations including bedrooms, kitchens, living rooms and bakery cafes"
 tags: ["3D model", "Blender", "Blender model", "CGTrader", "bedroom model", "living room model", "interior model", "miniature model", "kitchen model"]
 slug: /blender-isometric-rooms-models
 ---
@@ -8,72 +8,72 @@ slug: /blender-isometric-rooms-models
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Blender等距房间合集 - 低多边形3D模型
+# Blender Isometric Rooms Collection - Low-poly 3D Models
 
-最后更新：2025年9月28日
+Last updated: Sep 28 2025
 
 
 ![Blender Isometric Rooms Collection](https://www.gfxcamp.com/wp-content/uploads/2025/09/Isometric-Rooms-Collection-Bedrooms-Kitchens-Living-Rooms-Low-poly-3D-model.jpg)
 
-## 概述
+## Overview
 
-这个等距室内捆绑包包括一个在Blender中设计的精美风格化房间集合。该包包含4个舒适的卧室、4个现代客厅、3个时尚厨房和1个迷人的面包咖啡店 - 完美适用于等距渲染、游戏、动画项目和室内可视化。需要Blender 4.5或更高版本。
+This Isometric Interior Bundle includes a beautifully stylized collection of rooms designed in Blender. The pack features 4 cozy bedrooms, 4 modern living rooms, 3 stylish kitchens, and 1 charming bakery café – perfect for isometric renders, games, animation projects, and interior visualizations. Requires Blender 4.5 or higher.
 
-## 特点
+## Features
 
-- **完整房间集合**：4个舒适卧室、4个现代客厅、3个时尚厨房和1个面包咖啡店
-- **等距设计**：完美适用于等距渲染和可视化
-- **低多边形优化**：针对游戏和实时应用的性能进行了优化
-- **Blender格式**：原生Blender文件格式，易于集成
-- **高质量**：精美风格化和详细的模型
+- **Complete Room Collection**: 4 cozy bedrooms, 4 modern living rooms, 3 stylish kitchens, and 1 bakery café
+- **Isometric Design**: Perfect for isometric renders and visualizations
+- **Low-poly Optimization**: Optimized for performance in games and real-time applications
+- **Blender Format**: Native Blender file format for easy integration
+- **High Quality**: Beautifully stylized and detailed models
 
-## 系统要求
+## System Requirements
 
-- Blender 4.5或更高版本
-- 能够运行Blender 4.5+的计算机
-- 足够的RAM来处理多个房间场景
+- Blender 4.5 or higher
+- Computer capable of running Blender 4.5+
+- Sufficient RAM to handle multiple room scenes
 
-## 安装与设置
+## Installation & Setup
 
 <Tabs>
 <TabItem value="windows" label="Windows">
-1. 确保您已安装Blender 4.5或更高版本
-2. 下载模型包
-3. 将文件解压到您首选的位置
-4. 打开Blender，使用文件 → 附加或文件 → 链接导入模型
-5. 从文件浏览器中选择所需的房间
+1. Ensure you have Blender 4.5 or higher installed
+2. Download the model package
+3. Extract the files to your preferred location
+4. Open Blender and use File → Append or File → Link to import models
+5. Select the desired room from the file browser
 </TabItem>
 <TabItem value="macos" label="macOS">
-1. 确保您已安装Blender 4.5或更高版本
-2. 下载模型包
-3. 将文件解压到您首选的位置
-4. 打开Blender，使用文件 → 附加或文件 → 链接导入模型
-5. 从文件浏览器中选择所需的房间
+1. Ensure you have Blender 4.5 or higher installed
+2. Download the model package
+3. Extract the files to your preferred location
+4. Open Blender and use File → Append or File → Link to import models
+5. Select the desired room from the file browser
 </TabItem>
 <TabItem value="linux" label="Linux">
-1. 确保您已安装Blender 4.5或更高版本
-2. 下载模型包
-3. 将文件解压到您首选的位置
-4. 打开Blender，使用文件 → 附加或文件 → 链接导入模型
-5. 从文件浏览器中选择所需的房间
+1. Ensure you have Blender 4.5 or higher installed
+2. Download the model package
+3. Extract the files to your preferred location
+4. Open Blender and use File → Append or File → Link to import models
+5. Select the desired room from the file browser
 </TabItem>
 </Tabs>
 
-## 模型详情
+## Model Details
 
-| 规格 | 详情 |
+| Specification | Details |
 |---------------|---------|
-| 格式 | Blender原生格式 |
-| Blender版本 | 需要4.5或更高版本 |
-| 房间类型 | 4个卧室、4个客厅、3个厨房、1个面包咖啡店 |
-| 风格 | 等距，低多边形 |
-| 应用 | 游戏、动画、室内可视化 |
-| 类别 | 3D模型、室内模型 |
+| Format | Blender native format |
+| Blender Version | 4.5 or higher required |
+| Room Types | 4 Bedrooms, 4 Living Rooms, 3 Kitchens, 1 Bakery Café |
+| Style | Isometric, low-poly |
+| Application | Games, animation, interior visualization |
+| Category | 3D Models, Interior Models |
 
-## 🚀直接下载链接
-:::tip[获得无限制的高级下载速度！]
-在[💬WhatsApp](https://wa.me/+8613237610083)上联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-## 标签
+## Tags
 
 3D model, Blender, Blender model, CGTrader, bedroom model, living room model, interior model, miniature model, kitchen model

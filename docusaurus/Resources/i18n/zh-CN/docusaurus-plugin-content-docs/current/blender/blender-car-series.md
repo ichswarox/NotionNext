@@ -1,58 +1,58 @@
 ---
-title: "Blender 汽车建模灯光渲染教程 CGFasttrack – Blender 汽车系列 Vol.1 + Vol.2 + Vol.3 "
-description: "Blender 汽车建模、渲染和场景灯光的完整教程系列。学习中级硬表面建模技术，用于创建流畅的汽车外形。"
-tags: [Blender, Blender-教程, CGFastTrack, 建模-教程, 汽车-建模, 渲染-教程, 灯光-教程]
-slug: /blender-car-series-zh
+title: "Blender Car Modeling Lighting Rendering Tutorial CGFasttrack – Blender Car Series Vol.1 +Vol.2 + Vol.3"
+description: "Complete tutorial series for Blender car modeling, rendering, and scene lighting. Learn intermediate hard surface modeling techniques for creating sleek automotive shapes."
+tags: [Blender, Blender-tutorial, CGFastTrack, modeling-tutorial, car-modeling, rendering-tutorial, lighting-tutorial]
+slug: /blender-car-series
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-最后更新于：2025年10月15日
+Last updated: Oct 15 2025
 
-![Blender 汽车系列](https://www.gfxcamp.com/wp-content/uploads/2025/10/Blender-Car-Series.jpg)
+![Blender Car Series](https://www.gfxcamp.com/wp-content/uploads/2025/10/Blender-Car-Series.jpg)
 
-## Blender 汽车建模灯光渲染教程 CGFasttrack – Blender 汽车系列 Vol.1 + Vol.2 + Vol.3
+## Blender Car Modeling Lighting Rendering Tutorial CGFasttrack – Blender Car Series Vol.1 +Vol.2 + Vol.3
 
-本系列包含3套教程，分别讲解汽车建模、渲染和场景灯光知识，适合初学者。
+This series contains 3 sets of tutorials, respectively covering automotive modeling, rendering, and scene lighting knowledge, suitable for beginners.
 
-您建模过您的第一辆车吗？高端电影和商业广告中充满了计算机生成的车辆。本系列将带您了解中级硬表面建模技术，这些技术旨在在 Blender 内部创建流畅的汽车外形。
+Have you modeled your first car yet? High-end films and commercials are full of computer-generated vehicles. This series will take you through intermediate techniques of hard surface modeling that are geared towards creating sleek automotive shapes inside of Blender.
 
-:::tip[主要特点]
-- 软件：Blender
-- 时长：11小时4分钟 + 2小时10分钟 + 1小时3分钟
-- 资产：包括项目文件
-- 字幕：英文无字幕
-- 格式：MP4, 1440×1080
+:::tip[Key Features]
+- Software: Blender
+- Duration: 11 hours 4 minutes + 2 hours 10 minutes + 1 hour 3 minutes
+- Assets: Includes project files
+- Subtitles: English without subtitles
+- Format: MP4, 1440×1080
 :::
 
 <Tabs>
-<TabItem value="overview" label="概述" default>
-本教程系列涵盖了您需要了解的有关 Blender 汽车建模的所有知识。学习专门为创建流畅汽车外形而设计的中级硬表面建模技术。
+<TabItem value="overview" label="Overview" default>
+This tutorial series covers everything you need to know about car modeling in Blender. Learn intermediate techniques of hard surface modeling that are specifically designed for creating sleek automotive shapes.
 </TabItem>
-<TabItem value="requirements" label="要求">
-- 已安装 Blender 软件
-- 对 Blender 界面有基本了解
-- 能够处理 3D 建模的计算机
+<TabItem value="requirements" label="Requirements">
+- Blender software installed
+- Basic understanding of Blender interface
+- Computer capable of handling 3D modeling
 </TabItem>
-<TabItem value="content" label="内容">
-- 第1卷：汽车建模技术
-- 第2卷：渲染方法
-- 第3卷：场景灯光
-- 包括项目文件
+<TabItem value="content" label="Content">
+- Volume 1: Car modeling techniques
+- Volume 2: Rendering methods
+- Volume 3: Scene lighting
+- Project files included
 </TabItem>
 </Tabs>
 
 :::note
-这是学习 Blender 汽车建模、渲染和灯光的完整教程系列。
+This is a complete tutorial series for learning automotive modeling, rendering, and lighting in Blender.
 :::
 
-## 🚀直接下载链接
+## 🚀Direct Download Link
 
-| 文件名 | 下载链接 | 密码 |
+| File Name | Download Link | Password |
 |-----------|---------------|----------|
-| Blender 汽车系列 | [百度网盘下载](https://pan.baidu.com/s/1PE55iykc18yZ9bKWba_sMQ?pwd=enjx) | enjx |
+| Blender Car Series | [Baidu Netdisk Download](https://pan.baidu.com/s/1PE55iykc18yZ9bKWba_sMQ?pwd=enjx) | enjx |
 
-:::tip[获取无限制的高级下载速度！]
-通过 [💬WhatsApp](https://wa.me/+8613237610083) 联系我们获取高级访问权限和支持。
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

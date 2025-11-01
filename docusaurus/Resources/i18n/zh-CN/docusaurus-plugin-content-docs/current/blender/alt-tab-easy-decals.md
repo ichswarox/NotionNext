@@ -1,38 +1,38 @@
 ---
-title: "Alt Tab Easy Decals：Blender 的轻松贴花插件 "
-description: "探索 Alt Tab Easy Decals，一个简化在模型上应用贴花和图像的 Blender 插件。作为“Stamp It!”的继任者，此工具现已推出并享有发布折扣。"
-tags: [Blender, 插件, 贴花, 纹理, 3D 建模, Alt Tab, Easy Decals, Stamp It!]
-slug: /alt-tab-easy-decals-zh
+title: "Alt Tab Easy Decals: The Effortless Decal Add-on for Blender"
+description: "Discover Alt Tab Easy Decals, a Blender add-on that simplifies applying decals and images to your models. Successor to 'Stamp It!', this tool is now available with a launch discount."
+tags: [Blender, add-on, decal, texturing, 3D modeling, Alt Tab, Easy Decals, Stamp It!]
+slug: /alt-tab-easy-decals
 ---
 
-# Alt Tab Easy Decals：在 Blender 中轻松应用贴花
+# Alt Tab Easy Decals: Effortless Decal Application in Blender
 
-![Alt Tab Easy Decals 横幅](https://i.ytimg.com/vi/yiwtyFqN21g/maxresdefault.jpg)
+![Alt Tab Easy Decals Banner](https://i.ytimg.com/vi/yiwtyFqN21g/maxresdefault.jpg)
 
-:::tip[信息]
-以众多高质量插件而闻名的 Alt Tab 发布了“Alt Tab Easy Decals”。这款新插件是 BeeBee 3D 的“Stamp It!”的演进版，简化了在 Blender 中应用贴花的过程。
+:::tip[info]
+Alt Tab, known for numerous high-quality add-ons, has released "Alt Tab Easy Decals." This new add-on is an evolution of BeeBee 3D's "Stamp It!" and simplifies the process of applying decals in Blender.
 :::
 
-## 在 Blender 中为模型纹理化的新方法
+## A New Way to Texture Models in Blender
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yiwtyFqN21g" title="YouTube 视频播放器" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yiwtyFqN21g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-> Alt Tab Easy Decals 简化了在模型上应用贴花和图像的过程。它采用一种技术，可以在不向模型添加任何额外顶点的情况下添加贴花。
+> Alt Tab Easy Decals simplifies the process of applying decals and images to your models. It utilizes a technique that adds decals without adding any extra vertices to the model.
 >
-> - 在物体上放置图像和贴纸
-> - 自动将图像投影到物体表面
-> - 分层图像
-> - 自动对象父子关系
-> - 轻松复制贴花
-> - 控制贴花损坏和不透明度
-> - 快速更换图像
-> - 有组织的节点组
-> - 简单且有组织的 UI
+> - Place images and stickers on objects
+> - Automatically project images onto the object's surface
+> - Layer images
+> - Automatic object parenting
+> - Easily duplicate decals
+> - Control decal damage and opacity
+> - Quickly swap images
+> - Organized node groups
+> - Simple and organized UI
 
-## 🚀直接下载链接
-:::tip[获取无限制的高级下载速度！]
-通过 [💬WhatsApp](https://wa.me/+8613237610083) 联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::
-## 链接
+## Links
 
-[Alt Tab Easy Decals – 为任何东西添加图像和贴花 – Superhive (前 Blender Market)](https://superhivemarket.com/products/alt-tab-easy-decals?ref=185)
+[Alt Tab Easy Decals – Add Images & Decals to Anything – Superhive (formerly Blender Market)](https://superhivemarket.com/products/alt-tab-easy-decals?ref=185)

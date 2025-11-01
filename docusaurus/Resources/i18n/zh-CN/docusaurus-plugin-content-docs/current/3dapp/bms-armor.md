@@ -2,7 +2,7 @@
 title: "BMS军事装甲人物坦克硬表面3D资产模型 - Armor Blender/FBX/OBJ/UE格式"
 description: "探索BMS军事装甲人物坦克硬表面3D资产模型，提供Armor Blender/FBX/OBJ/UE格式。这个全面的包包含超过550个模型：完全绑定的人物模型、35个姿势动作、3个完整的坦克装甲车辆模型、34个装配模型资产和500多个带有UV和纹理的模块化套件模型资产。"
 tags: ["3D模型", "装甲", "BigMediumSmall", "Blender模型", "BMS", "FBX模型", "OBJ模型", "UE模型", "人物模型", "军事模型", "坦克模型", "角色模型", "高级资产", "3D资产"]
-slug: /bms-armor-zh
+slug: /bms-armor
 ---
 
 <!--First Part-This is Title -->

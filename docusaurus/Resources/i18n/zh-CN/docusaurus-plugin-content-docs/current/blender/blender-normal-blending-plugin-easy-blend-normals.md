@@ -1,63 +1,63 @@
 ---
-title: "Blender法线混合插件：Easy Blend Normals v1.0.1"
+title: "Blender Normal Blending Plugin: Easy Blend Normals v1.0.1"
 sidebar_position: 1
-description: "Easy Blend Normals v1.0.1是一款Blender插件，允许您一键平滑地混合两个对象之间的法线。完美适用于无缝着色和隐藏3D模型中的接缝。"
+description: "Easy Blend Normals v1.0.1 is a Blender plugin that allows you to smoothly blend normals between two objects with just one click. Perfect for seamless shading and hiding seams in 3D models."
 tags: ["Blender plugin", "Easy Blend Normals", "normal blending", "3D modeling", "seamless shading", "Blender 4.5", "geometry nodes", "Blender addon", "3D rendering", "normal maps"]
 slug: /blender-normal-blending-plugin-easy-blend-normals
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Blender法线混合插件：Easy Blend Normals v1.0.1
+# Blender Normal Blending Plugin: Easy Blend Normals v1.0.1
 
 <!--Second Part-This is First Banner -->
 ![Easy Blend Normals v1.0.1 - Blender Normal Blending Plugin](https://www.gfxcamp.com/wp-content/uploads/2025/08/Easy-Blend-Normals.jpg)
 
-:::tip[信息]
-**下载Easy Blend Normals v1.0.1** - 一键混合两个对象之间的法线，实现无缝着色
+:::tip[info]
+**Download Easy Blend Normals v1.0.1** - Blend normals between two objects with one click for seamless shading
 :::
 
-**Easy Blend Normals v1.0.1**是一款强大的Blender插件，允许您一键平滑地混合两个对象之间的法线。这个轻量级插件有助于隐藏接缝和着色断裂，打造专业质量的3D模型。基于几何节点技术构建，它提供完全可编辑的非破坏性工作流程，完美实现无缝着色效果。
+The **Easy Blend Normals v1.0.1** is a powerful Blender plugin that allows you to smoothly blend normals between two objects with just one click. This lightweight addon helps hide seams and shading breaks for professional-quality 3D models. Built on Geometry Nodes technology, it offers a fully editable, non-destructive workflow that's perfect for achieving seamless shading results.
 
-## Easy Blend Normals v1.0.1的主要功能
+## Key Features of Easy Blend Normals v1.0.1
 
-这款创新插件为Blender艺术家带来专业级法线混合功能：
+This innovative plugin brings professional normal blending capabilities to Blender artists:
 
-- **一键设置**：选择两个对象 → 一步操作完成混合
-- **无缝着色**：有效隐藏模型中的接缝和着色断裂
-- **非破坏性工作流程**：基于几何节点，结果完全可编辑
-- **智能对象链接**：自动检测活动对象与目标对象，使用直观
-- **轻量级且快速**：无依赖项，针对Blender 4.5+优化
-- **基于几何的方法**：适用于所有网格类型，应用灵活
+- **One-Click Setup**: Select two objects → blend with a single operation
+- **Seamless Shading**: Effectively hide seams and shading breaks in your models
+- **Non-Destructive Workflow**: Built on Geometry Nodes for fully editable results
+- **Smart Object Linking**: Automatically detects active vs target objects for intuitive use
+- **Lightweight & Fast**: No dependencies, optimized for Blender 4.5+
+- **Geometry-Based Approach**: Works with all mesh types for versatile application
 
-## 产品详情
+## Product Details
 
-- **插件名称**：Easy Blend Normals
-- **版本**：v1.0.1
-- **类别**：Blender插件
-- **平台**：Windows
-- **技术**：几何节点
-- **大小**：轻量级安装
+- **Plugin Name**: Easy Blend Normals
+- **Version**: v1.0.1
+- **Category**: Blender Plugin
+- **Platform**: Windows
+- **Technology**: Geometry Nodes
+- **Size**: Lightweight installation
 
-## 为什么选择Easy Blend Normals v1.0.1？
+## Why Choose Easy Blend Normals v1.0.1?
 
-**Easy Blend Normals v1.0.1**插件专为需要专业级法线混合工具的Blender艺术家设计。无论您是创建复杂的3D模型、建筑可视化还是角色设计，这个插件都能通过其直观的界面简化着色工作流程。
+The **Easy Blend Normals v1.0.1** plugin is specifically designed for Blender artists who need professional-level normal blending tools. Whether you're creating complex 3D models, architectural visualizations, or character designs, this addon streamlines the shading workflow with its intuitive interface.
 
-### 完美适用于无缝建模
+### Perfect for Seamless Modeling
 
-在Blender中组合不同对象或网格时，法线不连续会产生可见的接缝，破坏模型的整体感。Easy Blend Normals通过智能混合对象连接处的表面法线来解决这个问题，创造出看起来专业制作的无缝外观。
+When combining different objects or meshes in Blender, normal discontinuities can create visible seams that break the illusion of a cohesive model. Easy Blend Normals solves this problem by intelligently blending the surface normals at the junction between objects, creating a seamless appearance that looks professionally crafted.
 
-### 非破坏性编辑
+### Non-Destructive Editing
 
-与需要手动顶点调整或复杂修改器堆栈的传统方法不同，这个插件使用几何节点提供非破坏性编辑体验。您可以随时调整参数，而不会影响原始网格数据，从而允许灵活的实验和细化。
+Unlike traditional methods that require manual vertex adjustments or complex modifier stacks, this plugin uses Geometry Nodes to provide a non-destructive editing experience. You can adjust parameters at any time without affecting your original mesh data, allowing for flexible experimentation and refinement.
 
-## 系统要求
+## System Requirements
 
-- **支持的Blender版本**：4.5
-- **操作系统**：Windows
-- **技术要求**：兼容几何节点
+- **Supported Blender Version**: 4.5
+- **Operating System**: Windows
+- **Technical Requirements**: Geometry Nodes compatible
 
-## 安装指南
+## Installation Guide
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -65,33 +65,34 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="blender-4.5" label="Blender 4.5" default>
     <ol>
-      <li>在Blender的顶部菜单中，转到<code>编辑</code> → <code>首选项</code> → <code>插件</code>。</li>
-      <li>点击右上角的下拉箭头。</li>
-      <li>选择"从磁盘安装"。</li>
-      <li>在文件浏览器对话框中，选择相应的ZIP文件。</li>
-      <li>通过选中插件列表中的复选框来启用插件。</li>
+      <li>In Blender's top menu, go to <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown arrow in the upper right corner.</li>
+      <li>Select "Install from Disk".</li>
+      <li>In the file browser dialog, select the corresponding ZIP file.</li>
+      <li>Enable the plugin by checking its box in the addon list.</li>
     </ol>
   </TabItem>
 </Tabs>
 
 
-## Easy Blend Normals v1.0.1结论
 
-**Easy Blend Normals v1.0.1**插件是任何处理需要无缝着色的复杂模型的Blender艺术家的必备工具。其独特的法线混合方法，结合用户友好的界面和非破坏性工作流程，使其成为3D创作工具包的宝贵补充。
+## Conclusion on Easy Blend Normals v1.0.1
 
-无论您是创建建筑可视化、角色模型还是机械设计，这个插件都提供了实现无缝、高质量结果所需的专业工具，显著减少制作时间。**Easy Blend Normals v1.0.1**为Blender中的法线混合设定了新标准。
+The **Easy Blend Normals v1.0.1** plugin is an essential tool for any Blender artist working with complex models that require seamless shading. Its unique approach to normal blending, combined with a user-friendly interface and non-destructive workflow, makes it a valuable addition to your 3D creation toolkit.
+
+Whether you're creating architectural visualizations, character models, or mechanical designs, this plugin provides the professional tools needed to achieve seamless, high-quality results with significantly reduced production time. The **Easy Blend Normals v1.0.1** sets a new standard for normal blending in Blender.
 
 <!-- The Last Part-Download -->
-## 🐌免费慢速下载链接
-:::warning[下载]
-获取这款强大的法线混合工具。提取密码在链接旁边提供。
+## 🐌Free Slow Download Links
+:::warning[Download]
+Get access to this powerful normal blending tool. The extraction password is provided next to the link.
 :::
 
-| 文件                       | 下载链接                                                              | 密码 |
+| File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Easy Blend Normals v1.0.1**  | [百度网盘下载](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)        | `w3es`   |
+| **Easy Blend Normals v1.0.1**  | [Download from Baidu Netdisk](https://pan.baidu.com/s/1hdbvmrsNTaYX21ex5y2NwA?pwd=w3es)        | `w3es`   |
 
-## 🚀直接下载链接
-:::tip[获得无限制的高级下载速度！]
-在[💬WhatsApp](https://wa.me/+8613237610083)上联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -2,7 +2,7 @@
 title: "AE模板 + PR预设 - 时尚铬合金色彩涂鸦风格logo文字动画"
 description: "使用此AE模板和PR预设创建酷炫时尚的铬合金风格文字、logo或图形动画。所有文字logo、字体、颜色、大小和位置参数均可修改，背景透明。"
 tags: ["AE模板", "PR预设", "文字动画", "logo动画", "涂鸦文字", "铬合金", "高级资产", "动态图形", "videohive", "标题"]
-slug: /chrome-tool-zh
+slug: /chrome-tool
 ---
 <!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 

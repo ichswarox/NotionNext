@@ -2,7 +2,7 @@
 title: "设备模型包 - 高品质手机、平板和电脑展示模型"
 description: "全面的设备模型集合，包含最新的智能手机、平板电脑和电脑模型，适用于产品展示、UI设计和营销素材创建。"
 tags: ["设备模型", "手机模型", "平板模型", "电脑模型", "产品展示", "UI设计", "营销素材", "3D模型"]
-slug: /devices-mockup-pack-zh
+slug: /devices-mockup-pack
 ---
 
 import Tabs from '@theme/Tabs';

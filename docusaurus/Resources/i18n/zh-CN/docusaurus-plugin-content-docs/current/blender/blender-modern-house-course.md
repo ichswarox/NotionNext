@@ -1,47 +1,47 @@
 ---
-title: Udemy - Blender现代房屋创建课程
-description: 一门全面的逐步课程，教授如何使用Blender从头开始设计和建模令人惊叹的现代房屋。适合初学者和中级3D艺术家。
+title: Udemy - Creating a Modern House in Blender Course
+description: A comprehensive step-by-step course on designing and modeling a stunning modern house from scratch using Blender. Perfect for beginners and intermediate 3D artists.
 tags: [blender, modern house, 3d modeling, architecture, udemy course, blender tutorial, architectural visualization, 3d design, rendering, lighting]
 slug: /blender-modern-house-course
 ---
 
 <!-- Above is frontmatter Part - generated based on content to meet Google SEO requirements, balancing automation efficiency with Google's E-E-A-T principles -->
 
-# 在Blender中创建现代房屋 - 完整课程
+# Creating a Modern House in Blender - Complete Course
 
 ![Blender Modern House Course](https://www.gfxcamp.com/wp-content/uploads/2025/09/Udemy-Creating-a-Modern-House-In-Blender-Course.jpg)
 
-:::tip[课程概述]
-这门全面的Udemy课程将教您如何使用Blender从头开始设计和建模令人惊叹的现代房屋。无论您是初学者还是中级3D艺术家，本课程都能让您掌握将建筑愿景变为现实所需的技能。
+:::tip[Course Overview]
+This comprehensive Udemy course teaches you how to design and model a stunning modern house from scratch using Blender. Whether you're a beginner or intermediate 3D artist, this course equips you with the skills needed to bring your architectural visions to life.
 :::
 
-## 课程详情
+## Course Details
 
-- **所需软件**：Blender
-- **课程时长**：13小时32分钟
-- **包含材料**：无项目文件
-- **字幕**：英文字幕
-- **格式**：MP4，1920×1080分辨率
+- **Software Required**: Blender
+- **Course Duration**: 13 hours 32 minutes
+- **Materials Included**: No project files
+- **Subtitles**: English subtitles
+- **Format**: MP4, 1920×1080 resolution
 
-## 您将学习的内容
+## What You'll Learn
 
-- 现代建筑设计原则
-- 专用于建筑可视化的3D建模技术
-- 纹理和材质应用
-- 逼真渲染的灯光设置
-- 渲染和输出流程
+- Modern architectural design principles
+- 3D modeling techniques specific to architectural visualization
+- Texturing and material application
+- Lighting setup for realistic renders
+- Rendering and output processes
 
-## 🐌免费慢速下载链接
+## 🐌Free Slow Download Links
 
-:::warning[下载须知]
-点击链接进入下载页面。提取密码在链接旁边提供。
+:::warning[Download Notice]
+Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
 
-| 文件 | 下载链接 | 密码 |
+| File | Download Link | Password |
 |------|---------------|----------|
-| **在Blender中创建现代房屋课程** | [下载](https://pan.baidu.com/s/1KIvwJgZjzhA-rzUXAbstWA?pwd=ga3z) | `ga3z` |
+| **Creating a Modern House in Blender Course** | [Download](https://pan.baidu.com/s/1KIvwJgZjzhA-rzUXAbstWA?pwd=ga3z) | `ga3z` |
 
-## 🚀直接下载链接
-:::tip[获得无限制的高级下载速度！]
-在[💬WhatsApp](https://wa.me/+8613237610083)上联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

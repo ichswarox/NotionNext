@@ -1,62 +1,62 @@
 ---
-title: "Auto Apply Scale V2.0 - Blender 自动缩放调整插件 "
-description: "下载 Auto Apply Scale V2.0 Blender 插件。此实用工具可帮助您更好地工作，并避免因未应用缩放而出现的常见问题。"
-tags: ["Auto Apply Scale", "Blender", "Blender 插件", "缩放插件", "3D 建模", "3D 动画"]
-slug: /auto-apply-scale-zh
+title: "Auto Apply Scale V2.0 - Blender Plugin for Automatic Scale Adjustment"
+description: "Download the Auto Apply Scale V2.0 plugin for Blender. This utility helps you work better and avoid common issues that occur when you don't have applied scales."
+tags: ["Auto Apply Scale", "Blender", "Blender plugin", "scale plugin", "3D modeling", "3D animation"]
+slug: /auto-apply-scale
 sidebar_position: 3
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Auto Apply Scale V2.0 - Blender 自动缩放调整插件
+# Auto Apply Scale V2.0 - Blender Plugin for Automatic Scale Adjustment
 
-![Auto Apply Scale V2.0 - Blender 插件](/img/Auto-Apply-Scale.jpg)
+![Auto Apply Scale V2.0 - Blender Plugin](/img/Auto-Apply-Scale.jpg)
 
-:::tip[信息]
-Auto Apply Scale 是一个简单而有效的实用工具，可帮助您更好地工作，并避免因未应用缩放而出现的常见问题。
+:::tip[info]
+Auto Apply Scale is a simple yet effective utility that will help you work better and without common issues that occur when you don't have applied scales.
 :::
 
-## Auto Apply Scale V2.0 的主要功能
+## Key Features of Auto Apply Scale V2.0
 
-- **自动应用缩放**：在您的工作流程中无需手动调整缩放
-- **预防错误**：避免与未应用缩放相关的常见问题
-- **易于使用**：简单的安装和实施过程
-- **版本兼容性**：适用于多个 Blender 版本
+- **Automatic Scale Application**: Eliminates manual scale adjustments during your workflow
+- **Error Prevention**: Avoids common problems associated with unapplied scales
+- **Easy to Use**: Simple installation and implementation process
+- **Version Compatibility**: Works with multiple versions of Blender
 
-## 支持的 Blender 版本
+## Supported Blender Versions
 
 - 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3
 
-## 安装步骤
+## Installation Steps
 
 <Tabs>
-  <TabItem value="blender-4.1+" label="Blender 4.1 及更高版本">
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later">
     <ol>
-      <li>在顶部菜单中：<code>编辑</code> → <code>偏好设置</code> → <code>插件</code>。</li>
-      <li>单击右上角的下拉菜单，然后选择“从磁盘安装”。</li>
-      <li>在对话框窗口中选择相应的 ZIP 文件。</li>
+      <li>In the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code>.</li>
+      <li>Click the dropdown in the upper right corner and select "Install from Disk".</li>
+      <li>Select the corresponding ZIP file in the dialog window.</li>
     </ol>
   </TabItem>
-  <TabItem value="blender-4.0-" label="Blender 4.0 及更早版本" default>
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier" default>
     <ol>
-      <li>在顶部菜单中：<code>编辑</code> → <code>偏好设置</code> → <code>插件</code> → <code>安装</code>。</li>
-      <li>在对话框窗口中选择相应的 ZIP 文件。</li>
+      <li>In the top menu: <code>Edit</code> → <code>Preferences</code> → <code>Add-ons</code> → <code>Install</code>.</li>
+      <li>Select the corresponding ZIP file in the dialog window.</li>
     </ol>
   </TabItem>
 </Tabs>
 
-## 🐌免费慢速下载链接
+## 🐌Free Slow Download Links
 
-| 版本 | 下载链接 | 密码 |
+| Version | Download Link | Password |
 |---|---|---|
-| **V2.0** | [下载](https://pan.baidu.com/s/1hbnEEtdPYwBH-hMW6h1NUA?pwd=6uew) | `6uew` |
-| **V1.4** | [下载](https://pan.baidu.com/s/1cJIZOYZT4GDr8Yo6aI_-PQ?pwd=6ctf) | `6ctf` |
-| **V1.3** | [下载](https://pan.baidu.com/s/1URVuHhQK--tlocNrZpKYbg?pwd=vnhv) | `vnhv` |
-| **V1.0** | [下载](https://pan.baidu.com/s/18bU6CmeRrjR1tRrpvs7Nfg?pwd=g3mr) | `g3mr` |
+| **V2.0** | [Download](https://pan.baidu.com/s/1hbnEEtdPYwBH-hMW6h1NUA?pwd=6uew) | `6uew` |
+| **V1.4** | [Download](https://pan.baidu.com/s/1cJIZOYZT4GDr8Yo6aI_-PQ?pwd=6ctf) | `6ctf` |
+| **V1.3** | [Download](https://pan.baidu.com/s/1URVuHhQK--tlocNrZpKYbg?pwd=vnhv) | `vnhv` |
+| **V1.0** | [Download](https://pan.baidu.com/s/18bU6CmeRrjR1tRrpvs7Nfg?pwd=g3mr) | `g3mr` |
 
 
-## 🚀直接下载链接
-:::tip[获取无限制的高级下载速度！]
-通过 [💬WhatsApp](https://wa.me/+8613237610083) 联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

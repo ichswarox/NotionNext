@@ -2,7 +2,7 @@
 title: "After Effects插件 - Aescripts Pixel Repeat V1.2 - 像素循环和拉伸工具"
 description: "Aescripts Pixel Repeat V1.2是一款After Effects插件，用于创建像素循环和拉伸效果。非常适合故障艺术、风格化条纹和其他独特的视觉效果。支持Windows平台上的AE 2025、2024版本。"
 tags: ["After Effects插件", "Aescripts Pixel Repeat", "像素循环", "故障艺术", "视觉效果", "动态图形", "AE工具"]
-slug: /pixel-repeat-zh
+slug: /pixel-repeat
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 

@@ -2,7 +2,7 @@
 title: "AE基础3D模型导入编辑脚本 - Aescripts Super 3D V1.4.4 + 教程"
 description: "功能强大的After Effects扩展，扩展3D功能。轻松添加3D对象、参数化基本体和控制纹理。"
 tags: ["aescripts", "After Effects", "3D脚本", "Super 3D", "3D建模", "AE插件", "GLB", "GLTF", "动画"]
-slug: /super-3d-zh
+slug: /super-3d
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

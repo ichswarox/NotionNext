@@ -2,7 +2,7 @@
 title: "MotionVFX mBrand DVR - DaVinci Resolve的14个文字标题标志转场动画预设"
 description: "MotionVFX mBrand DVR包含11个文字标题标志动画和3个视频转场动画，适用于DaVinci Resolve"
 tags: ["motionvfx", "davinci-resolve", "标志动画", "视频转场", "文字动画"]
-slug: /motionvfx-mbrand-dvr-zh
+slug: /motionvfx-mbrand-dvr
 ---
 
 import Tabs from '@theme/Tabs';

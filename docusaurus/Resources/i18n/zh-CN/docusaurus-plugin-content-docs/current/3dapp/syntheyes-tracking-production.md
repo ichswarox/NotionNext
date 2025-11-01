@@ -2,7 +2,7 @@
 title: "SynthEyes跟踪生产工作流程"
 description: "学习SynthEyes跟踪的基本技巧、窍门和理论，从初级到高级技术，由Kevin Bolivar授课"
 tags: ["跟踪", "匹配移动", "maya", "3d", "动画", "视觉效果"]
-slug: /syntheyes-tracking-production-zh
+slug: /syntheyes-tracking-production
 ---
 
 import Tabs from '@theme/Tabs';

@@ -1,73 +1,74 @@
 ---
-title: Blender AI 插件 - Pixelmodeller Ai V1.4.9 - AI 驱动的 3D 模型生成 
+title: Blender AI Plugin - Pixelmodeller Ai V1.4.9 - AI-Powered 3D Model Generation
 sidebar_position: 1
-description: 探索 Pixelmodeller Ai V1.4.9，这是一款功能强大的 Blender AI 插件，可从图像生成详细的 3D 模型。创建带有 UV 和顶点颜色的密闭（watertight）模型，用于渲染和 3D 打印。
-tags: [Blender 插件, Pixelmodeller Ai, AI 3D 建模, 3D 模型生成, Blender AI 工具, 3D 打印模型, Blender 插件]
-slug: /blender-ai-plugin-pixelmodeller-zh
+description: Discover Pixelmodeller Ai V1.4.9, a powerful AI plugin for Blender that generates detailed 3D models from images. Create watertight models with UVs and vertex colors for rendering and 3D printing.
+tags: [Blender plugin, Pixelmodeller Ai, AI 3D modeling, 3D model generation, Blender AI tool, 3D printing models, Blender addon]
+slug: /blender-ai-plugin-pixelmodeller
 ---
-<!--以上是前置元数据部分，会根据内容满足谷歌SEO来生成，您需要平衡自动化效率与谷歌的核心排名因素——特别是E-E-A-T（经验、专业、权威、可信） -->
+<!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 
-<!--第一部分 - 这是标题 -->
-# Blender AI 插件：Pixelmodeller Ai V1.4.9 - AI 驱动的 3D 模型生成
+<!--First Part-This is Title -->
+# Blender AI Plugin: Pixelmodeller Ai V1.4.9 - AI-Powered 3D Model Generation
 
-<!--第二部分 - 这是第一个横幅 -->
+<!--Second Part-This is First Banner -->
 ![pixelmodeller-ot.webp](https://list.ucards.store/d/img/pixelmodeller-ot.webp)
 
-:::tip[信息]
-**Pixelmodeller Ai V1.4.9** 是一款创新的 Blender AI 驱动插件，改变了 3D 艺术家创建模型的方式。这款尖端工具允许用户仅需单击按钮即可生成极其详细的 3D 模型，或者在 2D 图像编辑器中绘画时实时观看 3D 模型的物化。有了 **Pixelmodeller Ai V1.4.9**，创意表达的可能性几乎是无限的。
+:::tip[info]
+The **Pixelmodeller Ai V1.4.9** is an innovative AI-powered plugin for Blender that transforms the way 3D artists create models. This cutting-edge tool allows users to generate incredibly detailed 3D models with just a click of a button, or watch as 3D models materialize in real-time as you paint in the 2D image editor. With **Pixelmodeller Ai V1.4.9**, the possibilities for creative expression are virtually limitless.
 :::
 
-## 主要特点
+## Key Features
 
-- **AI 驱动的模型生成**：从简单输入即时创建复杂的 3D 模型
-- **实时建模**：在 2D 图像编辑器中绘画时观看模型出现
-- **全面的工具套件**：用于实时塑造、着色和重新网格化模型的强大工具
-- **生产就绪的输出**：生成的模型是带有 UV 和顶点颜色的实体、密闭（watertight）对象
-- **多种用例**：非常适合渲染、3D 打印和游戏开发
-- **用户友好的界面**：直观的控件使所有技能水平的艺术家都能使用 AI 建模
+- **AI-Powered Model Generation**: Create complex 3D models instantly from simple inputs
+- **Real-Time Modeling**: Watch models appear as you paint in the 2D image editor
+- **Comprehensive Tool Suite**: Powerful tools for shaping, coloring, and re-meshing models in real-time
+- **Production-Ready Output**: Generated models are solid, watertight objects with UVs and vertex colors
+- **Multiple Use Cases**: Perfect for rendering, 3D printing, and game development
+- **User-Friendly Interface**: Intuitive controls make AI modeling accessible to artists of all skill levels
 
-## 产品详情
+## Product Details
 
-- **插件名称**：Pixelmodeller Ai
-- **版本**：V1.4.9
-- **支持的 Blender 版本**：3.6 – 4.5
-- **类别**：AI 插件、3D 建模工具
-- **平台**：Windows、macOS、Linux
+- **Plugin Name**: Pixelmodeller Ai
+- **Version**: V1.4.9
+- **Supported Blender Versions**: 3.6 – 4.5
+- **Category**: AI Plugin, 3D Modeling Tool
+- **Platform**: Windows, macOS, Linux
 
-## 系统要求
+## System Requirements
 
-- **支持的软件**：Blender 3.6 – 4.5
-- **操作系统**：Windows、macOS、Linux
-- **硬件**：具有足够 RAM 和 GPU 功能以进行 AI 处理的现代系统
+- **Supported Software**: Blender 3.6 – 4.5
+- **Operating Systems**: Windows, macOS, Linux
+- **Hardware**: Modern system with sufficient RAM and GPU capabilities for AI processing
 
-## 安装指南
+## Installation Guide
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="blender-4.1+" label="Blender 4.1 及更高版本" default>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
     <ol>
-      <li>打开 Blender</li>
-      <li>导航到“编辑”→“偏好设置”→“插件”</li>
-      <li>单击右上角的下拉箭头</li>
-      <li>选择“从磁盘安装”</li>
-      <li>选择下载的 ZIP 文件</li>
+      <li>Open Blender</li>
+      <li>Navigate to Edit → Preferences → Add-ons</li>
+      <li>Click the dropdown arrow in the top-right corner</li>
+      <li>Select "Install from Disk"</li>
+      <li>Choose the downloaded ZIP file</li>
     </ol>
   </TabItem>
-  <TabItem value="blender-4.0-" label="Blender 4.0 及更早版本">
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
     <ol>
-      <li>打开 Blender</li>
-      <li>导航到“编辑”→“偏好设置”→“插件”→“安装”</li>
-      <li>在文件对话框中选择下载的 ZIP 文件</li>
+      <li>Open Blender</li>
+      <li>Navigate to Edit → Preferences → Add-ons → Install</li>
+      <li>Select the downloaded ZIP file in the file dialog</li>
     </ol>
   </TabItem>
 </Tabs>
 
-<!-- 最后一部分 - 下载 -->
-## 🐌免费慢速下载链接
+<!-- The Last Part-Download -->
+## 🐌Free Slow Download Links
 
-| 文件 | 下载链接 | 密码 |
+| File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **Pixelmodeller Ai V1.4.9** | [下载](https://pan.baidu.com/s/1fWq3mj3fI4ASZUPcD6_weA?pwd=k64a) | `k64a` |
+| **Pixelmodeller Ai V1.4.9**  | [Download](https://pan.baidu.com/s/1fWq3mj3fI4ASZUPcD6_weA?pwd=k64a)        | `k64a`   |
+

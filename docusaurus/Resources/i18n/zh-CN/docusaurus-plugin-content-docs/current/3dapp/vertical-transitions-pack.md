@@ -10,7 +10,7 @@ tags:
   - "AtomX脚本"
   - "视频编辑"
   - "动态图形"
-slug: /vertical-transitions-pack-zh
+slug: /vertical-transitions-pack
 ---
 
 <!--First Part-This is Title -->

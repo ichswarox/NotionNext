@@ -2,7 +2,7 @@
 title: "Gaffer - Blender灯光和HDRI控制插件 V3.2.5"
 description: "Gaffer是一款Blender插件，通过在方便的面板中提供所有正确的设置，帮助您快速访问和实验场景灯光。"
 tags: ["Blender", "Blender插件", "Gaffer", "HDRI", "灯光插件"]
-slug: /Gaffer-Light-Hdri-Manager-zh
+slug: /Gaffer-Light-Hdri-Manager
 ---
 
 import Tabs from '@theme/Tabs';

@@ -2,7 +2,7 @@
 title: "Blender插件 - True-Depth V2 v1.4.0 3D深度贴图生成器"
 description: "True-Depth是Blender的高级3D深度贴图生成和处理插件，用于创建逼真的体积效果、大气效果和景深效果。"
 tags: ["Blender插件", "深度贴图", "3D效果", "景深", "体积效果", "True-Depth", "渲染"]
-slug: /true-depth-v2-v1-4-0-zh
+slug: /true-depth-v2-v1-4-0
 ---
 
 import Tabs from '@theme/Tabs';

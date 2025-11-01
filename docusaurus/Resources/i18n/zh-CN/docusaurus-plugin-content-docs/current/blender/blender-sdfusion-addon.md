@@ -1,14 +1,14 @@
 ---
-title: "SDFusion: 用于Blender的直观SDF风格建模工具包"
-description: "探索SDFusion，一款简化非破坏性布尔运算和重新网格化工作流程的Blender插件，采用直观的基于图层的方法。"
-tags: ['Blender', '插件', 'SDFusion', 'SDF', '布尔运算', '重新网格化', '硬表面建模', '非破坏性']
-slug: /blender-sdfusion-addon-zh
+title: "SDFusion: An Intuitive SDF-like Modeling Toolkit for Blender"
+description: "Explore SDFusion, a Blender addon that simplifies non-destructive boolean and remeshing workflows with an intuitive, layer-based approach."
+tags: ['Blender', 'addon', 'SDFusion', 'SDF', 'boolean', 'remesh', 'hard-surface modeling', 'non-destructive']
+slug: /blender-sdfusion-addon
 ---
 ![sdfusion-or.webp](https://list.ucards.store/d/img/sdfusion-or.webp)
 
-参考链接: https://superhivemarket.com/products/sdfusion
+Ref Link: https://superhivemarket.com/products/sdfusion
 
-**SDFusion**，由开发者Hinata Fugu创建的新工具包插件，为Blender带来了直观的、类似SDF（有符号距离场）的工作流程，用于非破坏性布尔运算和重新网格化操作。
+**SDFusion**, a new toolkit addon by developer Hinata Fugu, brings an intuitive, SDF (Signed Distance Field)-like workflow for non-destructive boolean and remeshing operations to Blender.
 
 <div className="player-wrapper">
   <iframe 
@@ -22,36 +22,36 @@ slug: /blender-sdfusion-addon-zh
   />
 </div>
 
-### 主要特点
+### Key Features
 
-*   **直观的图层操作**：只需将对象放入"ADD"或"SUB"集合中。无需复杂的修改器设置。
-*   **非破坏性工作流**：随时调整切割器对象的位置和形状，支持迭代设计和实验。
-*   **实时控制**：通过滑块即时调整整个模型的分辨率和平滑度，并实时预览结果。
-*   **一键完成和整理**：通过单个按钮应用所有计算并生成干净的网格。使用过的切割器会自动存储在单独的集合中，保持场景整洁。
+*   **Intuitive Layer Operations**: Simply place objects into "ADD" or "SUB" collections. No complex modifier setup is required.
+*   **Non-Destructive Workflow**: Adjust the position and shape of cutter objects at any time, allowing for iterative design and experimentation.
+*   **Real-time Control**: Instantly adjust the resolution and smoothness of the entire model with sliders and preview the results in real-time.
+*   **One-Click Finalize & Organize**: Apply all calculations and generate a clean mesh with a single button. Used cutters are automatically stored in a separate collection, keeping your scene tidy.
 
-:::note[适合哪些人？]
-强烈推荐SDFusion给以下人群：
-*   发现布尔运算困难并想要更简单方法的艺术家。
-*   希望简化工作流程的硬表面建模师。
-*   需要快速将想法变为现实的概念设计师。
-*   任何想要减少整体建模时间的人。
+:::note[Who is this for?]
+SDFusion is highly recommended for:
+*   Artists who find boolean operations difficult and want a simpler method.
+*   Hard-surface modelers looking to streamline their workflow.
+*   Concept designers who need to bring ideas to life quickly.
+*   Anyone who wants to reduce their overall modeling time.
 :::
 
-#### 包含的切割器资产包
-该插件附带高质量的原始切割器资产集合，非常适合硬表面建模和概念设计。这消除了从头创建基本切割形状的需要，显著加快了建模过程。
+#### Included Cutter Asset Pack
+The addon comes bundled with a high-quality collection of original cutter assets perfect for hard-surface modeling and concept design. This eliminates the need to create basic cutting shapes from scratch, dramatically speeding up the modeling process.
 
-### 包内容
-*   SDFusion插件 (`__init__.py`)
-*   原始切割器资产集合 (`.blend`文件)
+### Package Contents
+*   SDFusion Addon (`__init__.py`)
+*   Original Cutter Asset Collection (`.blend` file)
 
-:::caution 重要说明
-该插件提供**类似SDF**的体验。它不使用几何节点，而是基于集合的布尔工作流结构。
+:::caution Important Note
+The addon provides an **SDF-like** experience. It does not use Geometry Nodes but is structurally a boolean workflow based on collections.
 :::
 
-#### 致谢
-SDFusion的开发受到了开创性插件如**Boolean Quick Remesh (BQR)**和**Simply Concept**的极大影响。SDFusion尊重它们引入的直观布尔工作流概念，同时探索了一种新方法，利用Blender的原生集合系统提供更简单、更有组织的用户体验。
+#### Acknowledgements
+The development of SDFusion was greatly influenced by pioneering addons like **Boolean Quick Remesh (BQR)** and **Simply Concept**. SDFusion honors the concept of an intuitive boolean workflow they introduced while exploring a new approach that utilizes Blender's native collection system for a simpler, more organized user experience.
 
-## 🚀直接下载链接
-:::tip[获取无限制的高级下载速度！]
-通过 [💬WhatsApp](https://wa.me/+8613237610083) 联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

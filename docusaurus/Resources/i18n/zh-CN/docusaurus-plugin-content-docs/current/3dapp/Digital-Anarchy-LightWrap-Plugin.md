@@ -2,7 +2,7 @@
 title: "Digital Anarchy LightWrap插件"
 description: "AE插件，通过混合背景与前景实现更好的合成效果。模拟真实的背光效果，适用于专业视频合成。"
 tags: ["AE插件", "light wrap", "合成", "绿幕", "蓝幕", "After Effects"]
-slug: /Digital-Anarchy-LightWrap-Plugin-zh
+slug: /Digital-Anarchy-LightWrap-Plugin
 ---
 
 import Tabs from '@theme/Tabs';

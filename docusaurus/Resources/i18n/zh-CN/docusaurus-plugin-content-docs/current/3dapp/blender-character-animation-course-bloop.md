@@ -2,7 +2,7 @@
 title: "Blender动画课程 - 初学者完整指南"
 description: "通过这门涵盖界面、关键帧、摄影表和图表编辑器的综合课程，从基础到高级技术学习Blender动画。"
 tags: ["Blender", "动画", "教程", "3D", "课程"]
-slug: /blender-character-animation-course-bloop-zh
+slug: /blender-character-animation-course-bloop
 ---
 
 Last updated: Oct 17 2025

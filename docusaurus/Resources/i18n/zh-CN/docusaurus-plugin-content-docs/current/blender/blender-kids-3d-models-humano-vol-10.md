@@ -1,6 +1,6 @@
 ---
-title: "Blender儿童3D模型Humano – Vol.10 Kids"
-description: "20个儿童姿势3D人物模型合集，包含不同文件格式、纹理和Blender配件。"
+title: "Blender Kids 3D Models Humano – Vol.10 Kids"
+description: "Collection of 20 posed 3D people models for kids, with different file formats, textures, and accessories for Blender."
 tags: [Blender, 3D-models, kids-models, humano]
 slug: /blender-kids-3d-models-humano-vol-10
 ---
@@ -8,31 +8,31 @@ slug: /blender-kids-3d-models-humano-vol-10
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-最后更新：2025年10月10日
+Last updated: Oct 10 2025
 
 ![Blender Kids 3D Models Humano – Vol.10 Kids](https://www.gfxcamp.com/wp-content/uploads/2025/10/Humano-Vol.10-Kids.jpg)
 
-## 概述
+## Overview
 
-Blender儿童3D角色模型Humano – Vol.10 Kids。包含20套Blender格式的儿童角色3D模型。孩子们喜欢在蹦床上跳跃，在秋千上玩得开心。他们喜欢吹泡泡、放风筝或骑滑板车。还有一些父母和奶奶推着婴儿车里的孩子！
+Blender kids and children 3D character models Humano – Vol.10 Kids. Contains 20 sets of kids and children character 3D models in Blender format. Kids love jumping on trampolines and having great time on swings. They enjoy blowing bubbles, running with kite or riding a scooter. There are also some parents and grandma with kids in the strollers!
 
-## 特点
+## Features
 
-- 20个姿势3D人物模型合集
-- 30K和100K网格
-- 6K纹理（漫反射+法线）
-- 每个模型4种颜色变体
-- 所有服装元素的蒙版
-- 包含不同的文件格式
-- 包含所示的配件
+- Collection of 20 Posed 3D People models
+- 30K & 100K meshes
+- 6K Textures (diffuse + normal)
+- 4 color variations per model
+- Masks for all cloth elements
+- Different file formats included
+- Shown accessories included
 
-## 🐌免费慢速下载链接
+## 🐌Free Slow Download Links
 
-| 版本 | 下载链接 | 密码 |
+| Version | Download Link | Password |
 |--------|---------------|----------|
-| 主包 | [百度网盘下载](https://pan.baidu.com/s/1XnrYZanixyiaOT2oKq2lDA?pwd=uv22) | uv22 |
+| Main Package | [Baidu Netdisk Download](https://pan.baidu.com/s/1XnrYZanixyiaOT2oKq2lDA?pwd=uv22) | uv22 |
 
-## 🚀直接下载链接
-:::tip[获得无限制的高级下载速度！]
-在[💬WhatsApp](https://wa.me/+8613237610083)上联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

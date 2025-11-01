@@ -2,7 +2,7 @@
 title: "Blender插件 - Rantools P Cutter v3.3.10 硬表面建模增强工具包"
 description: "Rantools P Cutter是Blender的强大硬表面建模插件，提供高级网格布尔运算、多边形线框创建和专业的对象管理功能。"
 tags: ["Blender插件", "硬表面建模", "布尔运算", "多边形线框", "3D建模", "Rantools", "Cutter"]
-slug: /rantools-p-cutter-addon-zh
+slug: /rantools-p-cutter-addon
 ---
 
 import Tabs from '@theme/Tabs';

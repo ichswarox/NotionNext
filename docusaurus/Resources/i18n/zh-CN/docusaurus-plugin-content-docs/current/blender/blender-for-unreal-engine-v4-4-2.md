@@ -1,108 +1,109 @@
 ---
-title: "Blender导入模型到UE的插件：Blender For Unreal Engine V4.4.2"
-description: "Blender For Unreal Engine V4.4.2是一款强大的插件，可以将Blender模型项目、场景、灯光和相机直接导入到Unreal Engine中。支持多个Blender版本。"
+title: "Blender Plugin for Importing Models to UE: Blender For Unreal Engine V4.4.2"
+description: "Blender For Unreal Engine V4.4.2 is a powerful plugin that allows direct import of Blender model projects, scenes, lighting, and cameras into Unreal Engine. Supports multiple Blender versions."
 tags: ["Blender plugin", "Unreal Engine", "Blender For Unreal Engine", "3D model import", "UE4", "UE5", "bridge plugin", "Blender addon"]
 slug: /blender-for-unreal-engine-v4-4-2
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# Blender导入模型到UE的插件：Blender For Unreal Engine V4.4.2
+# Blender Plugin for Importing Models to UE: Blender For Unreal Engine V4.4.2
 
 <!--Second Part-This is First Banner -->
 ![Blender For Unreal Engine V4.4.2](https://www.gfxcamp.com/wp-content/uploads/2024/07/Blender-For-Unreal-Engine.jpg)
 
-:::tip[信息]
-**Blender For Unreal Engine V4.4.2** 是一款强大的插件，能够让你将在Blender中创建的内容直接导出到Unreal Engine。这个全面的桥接插件通过允许从Blender到UE的各种内容类型无缝传输，从而简化你的3D工作流程。
+:::tip[info]
+The **Blender For Unreal Engine V4.4.2** is a powerful addon that enables you to export content created with Blender directly to Unreal Engine. This comprehensive bridge plugin streamlines your 3D workflow by allowing seamless transfer of various content types from Blender to UE.
 :::
 
-## Blender For Unreal Engine V4.4.2的主要功能
+## Key Features of Blender For Unreal Engine V4.4.2
 
-这个插件支持导入多种内容类型，使其成为Blender和Unreal Engine用户的必备工具：
+This plugin supports importing a wide range of content types, making it an essential tool for Blender and Unreal Engine users:
 
-- **静态网格** - 传输具有完整纹理支持的3D模型
-- **骨骼网格** - 导入动画角色和生物
-- **动画** - 支持基于NLA和Action的动画
-- **Alembic文件** - 导入复杂的动画几何体
-- **碰撞和套接字** - 添加物理属性和附着点
-- **样条线** - 传输基于曲线的元素用于路径和引导
-- **相机** - 导入相机位置、角度和动画
-- **序列器内容** - 将基于时间轴的动画带到UE
-- **增强工作流** - 以及更多用于无缝集成的强大功能
+- **Static Meshes** - Transfer 3D models with full texture support
+- **Skeletal Meshes** - Import animated characters and creatures
+- **Animations** - Support for both NLA and Action-based animations
+- **Alembic Files** - Import complex animated geometry
+- **Collisions and Sockets** - Add physics properties and attachment points
+- **Splines** - Transfer curve-based elements for paths and guides
+- **Cameras** - Import camera positions, angles, and animation
+- **Sequencer Content** - Bring timeline-based animations to UE
+- **Enhanced Workflow** - And more powerful features for seamless integration
 
-## 支持的Blender版本
+## Supported Blender Versions
 
-该插件兼容多种Blender版本，确保不同项目用户的灵活性：
+The plugin is compatible with a wide range of Blender versions, ensuring flexibility for users across different projects:
 
 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.93, 2.92, 2.91, 2.9, 2.83, 2.82, 2.81, 2.8
 
-## 安装指南
+## Installation Guide
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
-  <TabItem value="blender-4.1+" label="Blender 4.1及更高版本" default>
+  <TabItem value="blender-4.1+" label="Blender 4.1 and Later" default>
     <ol>
-      <li>打开Blender</li>
-      <li>转到编辑 → 首选项 → 插件</li>
-      <li>点击右上角的下拉菜单</li>
-      <li>选择"从磁盘安装"</li>
-      <li>在对话框中选择下载的ZIP文件</li>
+      <li>Open Blender</li>
+      <li>Go to Edit → Preferences → Add-ons</li>
+      <li>Click the dropdown in the upper right corner</li>
+      <li>Select "Install from Disk"</li>
+      <li>Choose the downloaded ZIP file in the dialog</li>
     </ol>
   </TabItem>
-  <TabItem value="blender-4.0-" label="Blender 4.0及更早版本">
+  <TabItem value="blender-4.0-" label="Blender 4.0 and Earlier">
     <ol>
-      <li>打开Blender</li>
-      <li>转到编辑 → 首选项 → 插件 → 安装</li>
-      <li>在文件对话框中选择下载的ZIP文件</li>
+      <li>Open Blender</li>
+      <li>Go to Edit → Preferences → Add-ons → Install</li>
+      <li>Select the downloaded ZIP file in the file dialog</li>
     </ol>
   </TabItem>
 </Tabs>
 
 
-## 为什么选择Blender For Unreal Engine V4.4.2？
 
-这个桥接插件是专为同时使用Blender和Unreal Engine的艺术家和开发者设计的。它通过在这两个强大平台之间提供直接的管道，消除了传统的导出/导入工作流程。
+## Why Choose Blender For Unreal Engine V4.4.2?
 
-### 简化的3D工作流程
+This bridge plugin is specifically designed for artists and developers who work with both Blender and Unreal Engine. It eliminates the traditional export/import workflow by providing a direct pipeline between these two powerful platforms.
 
-通过直接从Blender向Unreal Engine传输内容而无需中间文件格式，节省时间并减少错误。该插件处理传输的所有技术方面，确保你的内容在UE中正确显示。
+### Streamlined 3D Workflow
 
-### 全面的内容支持
+Save time and reduce errors by directly transferring content from Blender to Unreal Engine without intermediate file formats. The plugin handles all the technical aspects of the transfer, ensuring your content appears correctly in UE.
 
-与基本导入工具不同，Blender For Unreal Engine V4.4.2支持完整的内容类型范围，从简单的静态网格到具有完整绑定和材质的复杂动画角色。
+### Comprehensive Content Support
 
-### 多版本兼容性
+Unlike basic import tools, Blender For Unreal Engine V4.4.2 supports a complete range of content types, from simple static meshes to complex animated characters with full rigging and materials.
 
-支持从2.8到4.5的Blender版本，这个插件既适应遗留项目，也适应最新工作流程，使其成为您3D管道的面向未来的投资。
+### Multi-Version Compatibility
 
-## 系统要求
+With support for Blender versions from 2.8 through 4.5, this plugin accommodates both legacy projects and the latest workflows, making it a future-proof investment for your 3D pipeline.
 
-- **支持的Blender版本**：4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.93, 2.92, 2.91, 2.9, 2.83, 2.82, 2.81, 2.8
-- **Unreal Engine兼容性**：适用于UE4和UE5
-- **操作系统**：Windows, macOS, Linux
+## System Requirements
 
-## 结论
+- **Supported Blender Versions**: 4.5, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.93, 2.92, 2.91, 2.9, 2.83, 2.82, 2.81, 2.8
+- **Unreal Engine Compatibility**: Works with UE4 and UE5
+- **Operating Systems**: Windows, macOS, Linux
 
-**Blender For Unreal Engine V4.4.2** 插件是任何同时在Blender和Unreal Engine环境中工作的3D艺术家或开发者的必备工具。通过在这些平台之间提供无缝桥接，它显著减少了制作时间并消除了常见的导入/导出问题。
+## Conclusion
 
-无论你是创建建筑可视化、游戏资产还是电影内容，这个插件都能简化你的工作流程并确保专业质量的结果。其全面的功能集和广泛的版本兼容性使其成为任何3D内容创建工具包的宝贵补充。
+The **Blender For Unreal Engine V4.4.2** plugin is an essential tool for any 3D artist or developer working in both Blender and Unreal Engine environments. By providing a seamless bridge between these platforms, it significantly reduces production time and eliminates common import/export issues.
+
+Whether you're creating architectural visualizations, game assets, or cinematic content, this plugin streamlines your workflow and ensures professional-quality results. Its comprehensive feature set and wide version compatibility make it a valuable addition to any 3D content creation toolkit.
 
 <!-- The Last Part-Download -->
-## 🐌免费慢速下载链接
-:::warning[下载]
-点击链接进入下载页面。提取密码在链接旁边提供。
+## 🐌Free Slow Download Links
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
 
-| 文件                       | 下载链接                                                              | 密码 |
+| File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **V4.4.2版本**  | [下载](https://pan.baidu.com/s/1pP0qbdnsq5gY4WkqFaXOdA?pwd=7t6k)        | `7t6k`   |
-| **V4.4.0版本**  | [下载](https://pan.baidu.com/s/1b3iXpnSsK6bEcpd_J_vs3A?pwd=4abh)        | `4abh`   |
-| **V4.3.12版本**  | [下载](https://pan.baidu.com/s/1cIFmXOHI9Upbj3TJVHdkCg?pwd=7d5b)        | `7d5b`   |
-| **V4.3.9版本**  | [下载](https://pan.baidu.com/s/1ifSOYziISx9r1SiTz5BRnw?pwd=2ux3)        | `2ux3`   |
+| **V4.4.2 Version**  | [Download](https://pan.baidu.com/s/1pP0qbdnsq5gY4WkqFaXOdA?pwd=7t6k)        | `7t6k`   |
+| **V4.4.0 Version**  | [Download](https://pan.baidu.com/s/1b3iXpnSsK6bEcpd_J_vs3A?pwd=4abh)        | `4abh`   |
+| **V4.3.12 Version**  | [Download](https://pan.baidu.com/s/1cIFmXOHI9Upbj3TJVHdkCg?pwd=7d5b)        | `7d5b`   |
+| **V4.3.9 Version**  | [Download](https://pan.baidu.com/s/1ifSOYziISx9r1SiTz5BRnw?pwd=2ux3)        | `2ux3`   |
 
-## 🚀直接下载链接
-:::tip[获得无限制的高级下载速度！]
-在[💬WhatsApp](https://wa.me/+8613237610083)上联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

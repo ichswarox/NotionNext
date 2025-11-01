@@ -2,7 +2,7 @@
 title: "2025年3D行业现状调查"
 description: "参与2025年3D行业现状调查，分享您的见解并帮助塑造行业未来发展方向。调查涵盖工作流程、软件使用、AI集成和行业趋势等关键问题。"
 tags: ["3D行业", "行业调查", "3D工作流程", "AI集成", "行业趋势", "软件使用", "2025年", "3D技术"]
-slug: /state-of-3d-2025-zh
+slug: /state-of-3d-2025
 ---
 
 import Tabs from '@theme/Tabs';

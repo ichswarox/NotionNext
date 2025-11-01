@@ -1,7 +1,7 @@
 ---
 title: "Dystopian Blocks - Blender反乌托邦风格混凝土建筑套件"
 description: "Dystopian Blocks是一套适用于Blender的未来主义科幻反乌托邦风格建筑3D模型，包含145个独立模型和45个建筑群，附带1K/2K/4K分辨率纹理。"
-slug: /dystopian-blocks-brutalist-structures-zh
+slug: /dystopian-blocks-brutalist-structures
 tags: ["3D模型", "Blender", "Blender模型", "Blender资产", "Blender预设", "建筑模型", "建筑模型库"]
 ---
 

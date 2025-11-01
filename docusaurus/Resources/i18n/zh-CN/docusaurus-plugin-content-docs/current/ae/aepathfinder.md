@@ -1,59 +1,59 @@
 ---
-title: "AE Pathfinder脚本 Aescripts AEPathfinder V1.0.06"
-description: "After Effects高级矢量形状编辑脚本，允许在单个或多个图层上组合、分割、修剪和动画化矢量形状"
+title: "AE Pathfinder Script Aescripts AEPathfinder V1.0.06"
+description: "Advanced vector shape editing script for After Effects that allows combining, splitting, trimming, and animating vector shapes across single or multiple layers"
 tags: ["after effects", "ae script", "pathfinder", "shape layer", "vector editing", "animation", "graphic design", "motion graphics", "visual effects", "aescripts"]
 slug: /aepathfinder
 ---
-<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
+<!--Above is Setting Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google’s core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 
 <!--First Part-This is Title -->
-# AE Pathfinder脚本 Aescripts AEPathfinder V1.0.06
+# AE Pathfinder Script Aescripts AEPathfinder V1.0.06
 
 <!--Second Part-This is First Banner -->
 ![AE Pathfinder Script Aescripts AEPathfinder V1.0.06](https://www.gfxcamp.com/wp-content/uploads/2025/08/AEPathfinder.jpg)
 
-:::tip[信息]
-**下载 点击从百度网盘下载**：[点击从百度网盘下载](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci)
+:::tip[info]
+**Download Click to Download from Baidu Netdisk**: [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci)
 
-## 描述
+## Description
 
-AE Pathfinder是After Effects的高级形状编辑脚本，允许您在单个或多个图层上组合、分割、修剪和动画化矢量形状，实现真正的形状图层处理。这个强大的工具通过在After Effects中直接提供高级矢量形状编辑的独特功能来增强您的工作流程。
+AE Pathfinder is an advanced shape editing script for After Effects that allows you to combine, split, trim, and animate vector shapes across single or multiple layers, enabling true shape-layer processing. This powerful tool enhances your workflow by providing unique features for advanced vector shape editing directly within After Effects.
 :::
 
-## 主要功能
+## Key Features
 
-- 组合、分割、修剪和动画化矢量形状
-- 适用于单个或多个图层
-- 实现真正的形状图层处理
-- 高级矢量形状编辑功能
-- 简化复杂的形状动画工作流程
+- Combine, split, trim, and animate vector shapes
+- Works across single or multiple layers
+- Enables true shape-layer processing
+- Advanced vector shape editing capabilities
+- Streamlines complex shape animation workflows
 
-## 兼容性
+## Compatibility
 
-**支持的AE版本：**
+**Supported AE Versions:**
 - AE 2025, 2024, 2023, 2022, 2021, 2020
-- 兼容Windows和Mac操作系统
-- 适用于After Effects的中英文版本
+- Compatible with both Windows and Mac operating systems
+- Works with both Chinese and English versions of After Effects
 
-## 安装说明
+## Installation Instructions
 
-1. 将jsxbin文件复制到`Support Files\Scripts\ScriptUI Panels`目录
+1. Copy the jsxbin file to `Support Files\Scripts\ScriptUI Panels`
 
-## 故障排除
+## Troubleshooting
 
-如果脚本不工作：
+If the script isn't working:
 
-- 不要使用AE中文版，因为表达式可能会导致错误
-- 在首选项中，编辑—首选项—常规面板，勾选"允许脚本写入文件和访问网络"
-- 验证脚本是否支持您的AE版本（罕见问题）
+- Do not use the Chinese version of AE as expressions may cause errors
+- In Preferences, under Edit—Preferences—General panel, check "Allow Scripts to Write Files and Access Network"
+- Verify that the script supports your AE version (rare issue)
 
 <!-- The Last Part-Download -->
-## 🐌免费慢速下载链接
-| 文件                       | 下载链接                                                              | 密码 |
+## 🐌Free Slow Download Links
+| File                       | Download Link                                                              | Password |
 | -------------------------- | -------------------------------------------------------------------------- | -------- |
-| **AE Pathfinder V1.0.06**  | [点击从百度网盘下载](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci) | `gcci`   |
+| **AE Pathfinder V1.0.06**  | [Click to Download from Baidu Netdisk](https://pan.baidu.com/s/1ZaLEyV9jYNNpUn6uz0W4cA?pwd=gcci) | `gcci`   |
 
-## 🚀直接下载链接
-:::tip[获得无限制的高级下载速度！]
-在[💬WhatsApp](https://wa.me/+8613237610083)上联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

@@ -2,7 +2,7 @@
 title: "After Effects脚本 - Cleanup Master v1.1.0 - 形状图层工作流程工具"
 description: "Cleanup Master是一款功能强大的After Effects脚本，可简化形状图层工作流程，使复杂的清理任务更快、更智能、更轻松。支持AE 2025、2024、2023、2022、2021、2020、CC 2019、CC 2018版本。"
 tags: ["After Effects脚本", "Cleanup Master", "形状图层工作流程", "AE插件", "动画工具", "动态图形", "视觉效果"]
-slug: /cleanup-master-zh
+slug: /cleanup-master
 ---
 <!--Above is frontmatter Part-generate depend on content meet Google Seo, you need to balance automation efficiency with Google's core ranking factors—especially E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness), -->
 

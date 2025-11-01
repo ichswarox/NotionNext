@@ -2,7 +2,7 @@
 title: "太空船硬表面拼接套件 350个细节部件 3D模型资产"
 description: "包含350个用于构建太空船的部件集合。非常适合创建带有详细硬表面组件的科幻航天器模型。"
 tags: ["3D模型", "Blender", "Blender模型", "太空船", "硬表面模型"]
-slug: /spaceship-hard-surface-kitbash-350-details-zh
+slug: /spaceship-hard-surface-kitbash-350-details
 ---
 
 import Tabs from '@theme/Tabs';

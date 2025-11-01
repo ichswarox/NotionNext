@@ -2,7 +2,7 @@
 title: "Chaos Vantage 实时光线追踪可视化软件"
 description: "Chaos Vantage是一款革命性的实时光线追踪软件，无需烘焙或优化即可直接打开3ds Max和Blender场景进行实时探索和渲染。"
 tags: ["Chaos Vantage", "实时光线追踪", "3D可视化", "渲染软件", "实时渲染", "建筑可视化", "Chaos Group"]
-slug: /chaos-vantage-real-time-ray-tracing-zh
+slug: /chaos-vantage-real-time-ray-tracing
 ---
 
 import Tabs from '@theme/Tabs';

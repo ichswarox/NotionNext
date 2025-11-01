@@ -1,67 +1,67 @@
 ---
-title: Blender 蜡笔工具教程 - 创建漫画风格动画 | 3D 中的 2D 动画 
-description: 学习如何使用 Blender 的蜡笔工具创建 3D 漫画风格的场景动画。从经典的科幻漫画系列（如《BLAME!》）中汲取灵感，将漫画书的美学带入 Blender。
-tags: [blender, 蜡笔工具, 漫画动画, 2d 动画, 3d 动画, blame, 科幻动画, 角色动画, blender 教程, 动漫风格]
-slug: /blender-grease-pencil-manga-animation-zh
+title: Blender Grease Pencil Tutorial - Create a Manga Style Animation | 2D Animation in 3D
+description: Learn how to create a 3D manga-style scene animation using Blender's Grease Pencil tool. Draw inspiration from classic sci-fi manga series such as BLAME! to bring comic book aesthetics to life in Blender.
+tags: [blender, grease pencil, manga animation, 2d animation, 3d animation, blame, sci-fi animation, character animation, blender tutorial, anime style]
+slug: /blender-grease-pencil-manga-animation
 ---
 
-# Blender 蜡笔工具教程：创建漫画风格动画 | 3D 中的 2D 动画
+# Blender Grease Pencil Tutorial: Create a Manga Style Animation | 2D Animation in 3D
 
-![Blender 蜡笔工具漫画动画](https://www.gfxcamp.com/wp-content/uploads/2025/08/Skillshare-Blender-3D-Create-a-Manga-Style-Animation-Using-Grease-Pencil.jpg)
+![Blender Grease Pencil Manga Animation](https://www.gfxcamp.com/wp-content/uploads/2025/08/Skillshare-Blender-3D-Create-a-Manga-Style-Animation-Using-Grease-Pencil.jpg)
 
-:::tip[信息]
-学习如何使用 Blender 的蜡笔工具创建 3D 漫画风格的场景动画。本综合教程从经典的科幻漫画系列（如《BLAME!》）中汲取灵感，教您如何将漫画书的美学带入 Blender。非常适合 2D 动画师、漫画家以及有兴趣将 2D 绘画与 3D 环境相结合的 Blender 用户。
+:::tip[info]
+Learn how to create a 3D manga-style scene animation using Blender's Grease Pencil tool. This comprehensive tutorial draws inspiration from classic sci-fi manga series such as BLAME! to teach you how to bring comic book aesthetics to life in Blender. Perfect for 2D animators, manga artists, and Blender users interested in combining 2D drawing with 3D environments.
 :::
 
-## 课程概述
+## Course Overview
 
-在本课程中，您将学习如何在 Blender 中创作受经典科幻漫画系列（如《BLAME!》）启发的动画。无论您是刚接触风格化渲染，还是已经学习过我以前的一些课程，每个人都应该能学到一些东西！您会发现我的课程很容易跟上，因为我注重轻松的节奏和清晰的说明。这使得它们在初学者和中级艺术家中都很受欢迎！
+In this class, you'll learn to create an animation in Blender inspired by classic sci-fi manga series such as BLAME! Whether you're brand new to stylized rendering, or you've followed some of my previous classes, there should be something for everyone to learn! You'll find my classes are easy to follow due to my focus on relaxed pacing and crystal clear instructions. This has made them popular with both beginner and intermediate artists alike!
 
-## 主要特点
+## Key Features
 
-- 在 Blender 中创建漫画风格的 3D 动画
-- 学习专业的蜡笔工具技术
-- 使用科幻风格的设计
-- 掌握风格化渲染工作流程
-- 理解将漫画书美学转化为 3D
+- Create manga-style 3D animations in Blender
+- Learn professional Grease Pencil techniques
+- Work with sci-fi inspired designs
+- Master stylized rendering workflows
+- Understand comic book aesthetic translation to 3D
 
-## 课程规格
+## Course Specifications
 
-- **所需软件**：Blender
-- **课程时长**：4小时6分钟
-- **包含材料**：无项目文件
-- **字幕**：英文，无字幕
-- **格式**：MP4, 1920×1080
+- **Required Software**: Blender
+- **Course Duration**: 4 hours 6 minutes
+- **Materials Included**: No project files
+- **Subtitles**: English, no subtitles
+- **Format**: MP4, 1920×1080
 
-## 🐌免费慢速下载链接
+## 🐌Free Slow Download Links
 
-:::warning[下载]
-单击链接转到下载页面。提取密码在链接旁边提供。
+:::warning[Download]
+Click on the link to go to the download page. The extraction password is provided next to the link.
 :::
 
-| 课程 | 下载链接 | 密码 |
+| Course | Download Link | Password |
 |---|---|---|
-| **漫画风格动画** | [下载](https://pan.baidu.com/s/1LcFEoW-ZsG2CvtJ_g63gOg?pwd=j88g) | `j88g` |
+| **Manga Style Animation** | [Download](https://pan.baidu.com/s/1LcFEoW-ZsG2CvtJ_g63gOg?pwd=j88g) | `j88g` |
 
-## 关于本蜡笔工具教程
+## About This Grease Pencil Tutorial
 
-本综合教程重点介绍如何使用 Blender 的蜡笔工具创建具有独特漫画美学的动画。蜡笔工具是 Blender 强大的 2D 动画工具，允许艺术家直接在 3D 空间中绘画，将 2D 插图的表现力与 3D 环境的深度和透视相结合。
+This comprehensive tutorial focuses on using Blender's Grease Pencil tool to create animations with a distinct manga aesthetic. Grease Pencil is Blender's powerful 2D animation tool that allows artists to draw directly in a 3D space, combining the expressiveness of 2D illustration with the depth and perspective of 3D environments.
 
-该课程从《BLAME!》中汲取灵感，这是一部经典的赛博朋克漫画，以其详细的建筑插图和独特的科幻氛围而闻名。学生将学习如何将漫画的视觉语言转化为动画 3D 场景，涵盖创建动态构图、富有表现力的角色设计和大气背景的技术。
+The course draws inspiration from BLAME!, a classic cyberpunk manga known for its detailed architectural illustrations and distinctive sci-fi atmosphere. Students will learn how to translate the visual language of manga into animated 3D scenes, covering techniques for creating dynamic compositions, expressive character designs, and atmospheric backgrounds.
 
-在整个课程中，您将探索：
-- 为不同元素设置蜡笔工具图层
-- 创建漫画风格的角色设计
-- 开发科幻风格的背景和环境
-- 有效使用蜡笔工具材质和画笔
-- 以漫画书的节奏和节奏进行动画制作
-- 手绘美学的渲染技术
+Throughout the course, you'll explore:
+- Setting up Grease Pencil layers for different elements
+- Creating manga-style character designs
+- Developing sci-fi inspired backgrounds and environments
+- Using Grease Pencil materials and brushes effectively
+- Animating with a comic book timing and pacing
+- Rendering techniques for a hand-drawn aesthetic
 
-本教程对以下艺术家特别有价值：
-- 3D 工作流程中的 2D 动画
-- 为游戏或电影创作风格化动画
-- 发展独特的艺术风格
-- 学习 Blender 多功能的蜡笔工具集
-- 将传统的 2D 概念转化为 3D 空间
+This tutorial is particularly valuable for artists interested in:
+- 2D animation within a 3D workflow
+- Creating stylized animations for games or films
+- Developing a unique artistic style
+- Learning Blender's versatile Grease Pencil toolset
+- Translating traditional 2D concepts to 3D space
 
-无论您是希望扩展工具箱的传统动画师、有兴趣融合 2D 元素的 3D 艺术家，还是探索动画的漫画创作者，本课程都提供了可应用于广泛创意项目的实用技能。
+Whether you're a traditional animator looking to expand your toolkit, a 3D artist interested in incorporating 2D elements, or a comics creator exploring animation, this course provides practical skills that can be applied to a wide range of creative projects.

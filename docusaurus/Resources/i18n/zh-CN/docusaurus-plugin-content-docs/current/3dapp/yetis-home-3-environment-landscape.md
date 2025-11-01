@@ -2,7 +2,7 @@
 title: "雪人之家3 - 环境景观创建指南"
 description: "雪人之家3是一个全面的环境景观创建工具集，专为创建梦幻雪景、山区环境和奇幻场景而设计，提供完整的资产库和工作流程。"
 tags: ["环境景观", "雪景", "山区环境", "奇幻场景", "3D建模", "景观设计", "雪人之家", "环境创建"]
-slug: /yetis-home-3-environment-landscape-zh
+slug: /yetis-home-3-environment-landscape
 ---
 
 import Tabs from '@theme/Tabs';

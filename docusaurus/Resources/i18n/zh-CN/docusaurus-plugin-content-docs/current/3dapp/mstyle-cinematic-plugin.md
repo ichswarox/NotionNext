@@ -2,7 +2,7 @@
 title: "mStyle Cinematic - DaVinci Resolve & FCPX电影风格视频叠加、转场和标题插件"
 description: "32套视频效果、叠加层、文字标题等预设，适用于DaVinci Resolve和FCPX。支持自定义动画、文本、字体、颜色、大小、位置和旋转。"
 tags: ["davinci resolve", "fcpx", "fcpx插件", "视频效果", "视频转场", "文字标题", "电影风格", "motionvfx", "mstyle cinematic"]
-slug: /mstyle-cinematic-plugin-zh
+slug: /mstyle-cinematic-plugin
 ---
 <!--First Part-This is Title -->
 # mStyle Cinematic - DaVinci Resolve & FCPX电影风格视频叠加、转场和标题插件

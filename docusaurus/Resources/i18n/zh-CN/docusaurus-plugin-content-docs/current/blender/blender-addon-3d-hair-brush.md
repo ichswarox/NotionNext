@@ -1,69 +1,69 @@
 ---
-title: "Blender 插件：3D Hair Brush 4.7.1 - 专业毛发修饰工具 "
-description: "探索 Blender 强大的 3D Hair Brush 4.7.1 插件。使用这款支持新毛发系统的专业毛发修饰工具，创建令人惊叹的发型和动物毛皮。"
-tags: ["Blender 插件", "3D Hair Brush", "3d hair brush 4.7.1", "毛发修饰", "发型设计", "VFX Grace", "Blender 毛发工具"]
-slug: /blender-addon-3d-hair-brush-zh
+title: "Blender Addon: 3D Hair Brush 4.7.1 - Professional Hair Grooming Tool"
+description: "Discover the powerful 3D Hair Brush 4.7.1 addon for Blender. Create stunning hairstyles and animal fur with this professional hair grooming tool supporting the new hair system."
+tags: ["Blender addon", "3D Hair Brush", "3d hair brush 4.7.1", "hair grooming", "hair styling", "VFX Grace", "Blender hair tool"]
+slug: /blender-addon-3d-hair-brush
 ---
 
-# Blender 插件：3D Hair Brush 4.7.1 - 专业毛发修饰工具
+# Blender Addon: 3D Hair Brush 4.7.1 - Professional Hair Grooming Tool
 
 ![img](/img/img1028-XuZd.webp)
 
-**下载 3D Hair Brush 4.7.1** - 支持新毛发系统的 Blender 专业毛发修饰工具
+**Download 3D Hair Brush 4.7.1** - Professional hair grooming tool for Blender supporting new hair system
 
-**3D Hair Brush 4.7.1** 是一款功能强大且专业的 Blender 毛发修饰插件，完全支持新的毛发系统。这款综合工具允许用户轻松创建令人惊叹的发型和逼真的动物毛皮效果，效果专业。通过最新的 **3d hair brush 4.7.1** 更新，艺术家可以享受更简化的工作流程。
+The **3D Hair Brush 4.7.1** is a powerful and professional hair grooming addon for Blender that fully supports the new hair system. This comprehensive tool allows users to easily create stunning hairstyles and realistic animal fur effects with professional quality results. With the latest **3d hair brush 4.7.1** update, artists can enjoy an even more streamlined workflow.
 
-## 3D Hair Brush 4.7.1 的主要功能
+## Key Features of 3D Hair Brush 4.7.1
 
-- **完全支持新毛发系统**：与 Blender 版本 4.7, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.93, 2.92 兼容
-- **高级 3D 笔刷系统**：直观的绘画工具，用于精确的毛发放置和造型，已为 4.7.1 版本优化。
-- **毛发修改器**：用于毛发操纵和效果的综合修改器集
-- **丰富的预设库**：32 种高质量的毛发预设样式，可快速实施
-- **毛发转片功能**：将毛发转换为片状几何体，用于游戏优化
-- **CyclesHair 渲染器**：用于逼真毛发可视化的专用渲染引擎
-- **完整的毛发工具集**：专业毛发创建工作流程的一体化解决方案
+- **Full New Hair System Support**: Compatible with Blender versions 4.7, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.93, 2.92
+- **Advanced 3D Brush System**: Intuitive painting tools for precise hair placement and styling, optimized for version 4.7.1.
+- **Hair Modifiers**: Comprehensive set of modifiers for hair manipulation and effects
+- **Extensive Preset Library**: 32 high-quality hair preset styles for quick implementation
+- **Hair to Cards Functionality**: Convert hair to card geometry for game optimization
+- **CyclesHair Renderer**: Specialized rendering engine for realistic hair visualization
+- **Complete Hair Toolset**: All-in-one solution for professional hair creation workflows
 
-## 产品详情
+## Product Details
 
-- **开发者**：VFX Grace
-- **版本**：4.7.1
-- **许可证**：GPL
-- **销量**：1700+ 单位
-- **下载量**：3300+
-- **评分**：29 条评论
-- **发布日期**：3 年前
-- **价格**：完整版 85 美元
+- **Developer**: VFX Grace
+- **Version**: 4.7.1
+- **License**: GPL
+- **Sales**: 1700+ units
+- **Downloads**: 3300+
+- **Rating**: 29 reviews
+- **Release Date**: 3 years ago
+- **Price**: $85 for full version
 
-## 为什么选择 3D Hair Brush 4.7.1？
+## Why Choose 3D Hair Brush 4.7.1?
 
-**3D Hair Brush 4.7.1** 插件专为需要专业级毛发创建工具的 Blender 艺术家设计。无论您是创建角色发型、动物毛皮还是复杂的毛发模拟，此插件都以其直观的界面和强大的功能简化了整个过程。**3d hair brush 4.7.1** 是这款流行工具的最新演进。
+The **3D Hair Brush 4.7.1** addon is specifically designed for Blender artists who need professional-level hair creation tools. Whether you're creating character hairstyles, animal fur, or complex hair simulations, this addon streamlines the entire process with its intuitive interface and powerful features. The **3d hair brush 4.7.1** is the latest evolution of this popular tool.
 
-### 适合初学者和专业人士
+### Perfect for Both Beginners and Professionals
 
-即使您是 Blender 毛发修饰的新手，用户友好的界面也能让您轻松获得专业效果。经验丰富的艺术家会欣赏 **3D Hair Brush 4.7.1** 中的高级控件和工作流程效率，可显著减少制作时间。
+Even if you're new to hair grooming in Blender, the user-friendly interface makes it easy to achieve professional results. Experienced artists will appreciate the advanced controls and workflow efficiency in **3D Hair Brush 4.7.1** that can significantly reduce production time.
 
-### 提高工作流程效率
+### Enhanced Workflow Efficiency
 
-此插件显著提高了 Blender 中毛发修饰和造型调整的效率，让您更专注于创意，而不是技术实现。
+This addon dramatically improves hair grooming and styling adjustment efficiency in Blender, allowing you to focus more on creativity and less on technical implementation.
 
-## 系统要求
+## System Requirements
 
-- **支持的 Blender 版本**：4.7, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.93, 2.92
-- **许可证类型**：GPL（开源）
-- **操作系统**：Windows、macOS、Linux
+- **Supported Blender Versions**: 4.7, 4.4, 4.3, 4.2, 4.1, 4.0, 3.6, 3.5, 3.4, 3.3, 3.2, 3.1, 3.0, 2.93, 2.92
+- **License Type**: GPL (Open Source)
+- **Operating Systems**: Windows, macOS, Linux
 
-## 关于 3D Hair Brush 4.7.1 的结论
+## Conclusion on 3D Hair Brush 4.7.1
 
-**3D Hair Brush 4.7.1** 插件是任何使用毛发和毛皮的 Blender 艺术家的必备工具。其全面的功能集、专业质量的效果和用户友好的界面使其成为您 3D 创作工具箱中的宝贵补充。
+The **3D Hair Brush 4.7.1** addon is an essential tool for any Blender artist working with hair and fur. Its comprehensive feature set, professional quality results, and user-friendly interface make it a valuable addition to your 3D creation toolkit.
 
-无论您是创建角色动画、视觉效果还是游戏资产，此插件都提供了实现令人惊叹的毛发和毛皮效果所需的专业工具，并显著减少了制作时间。**3d hair brush 4.7.1** 为 Blender 中的毛发修饰设定了新标准。
+Whether you're creating character animations, visual effects, or game assets, this addon provides the professional tools needed to achieve stunning hair and fur effects with significantly reduced production time. The **3d hair brush 4.7.1** sets a new standard for hair grooming in Blender.
 
-## 🐌免费慢速下载链接
+## 🐌Free Slow Download Links
 
-### 版本 4.7.1
-[下载 3D Hair Brush v4.7.1](https://iiicg.lanzouw.com/i4iTN274u9ib) (直接链接)
+### Version 4.7.1
+[Download 3D Hair Brush v4.7.1](https://iiicg.lanzouw.com/i4iTN274u9ib) (Direct Link)
 
-## 🚀直接下载链接
-:::tip[获取无限制的高级下载速度！]
-通过 [💬WhatsApp](https://wa.me/+8613237610083) 联系我们获取高级访问权限和支持。
+## 🚀Direct Download Link
+:::tip[Get Premium Download Speed Without any Limitations!]
+Contact us on [💬WhatsApp](https://wa.me/+8613237610083) for premium  access and support.
 :::

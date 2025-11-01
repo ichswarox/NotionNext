@@ -2,7 +2,7 @@
 title: "使用Shade It脚本在After Effects中创建时尚的颗粒和噪点着色效果"
 description: "Shade It是一款功能强大的After Effects脚本，适合想要一键为作品添加时尚、纹理化阴影的动态图形艺术家。非常适合在MG动画中创建流行的颗粒和噪点效果。"
 tags: ["after effects", "shade it", "脚本", "颗粒着色", "噪点效果", "动态图形", "动画", "阴影", "视觉效果", "MG动画"]
-slug: /grain-noise-shading-script-zh
+slug: /grain-noise-shading-script
 ---
 
 <!--First Part-This is Title -->
