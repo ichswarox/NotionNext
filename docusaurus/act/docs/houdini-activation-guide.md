@@ -1,5 +1,5 @@
 ---
-title: "Houdini正版激活指南"
+title: "Houdini正版激活-旧版本"
 description: "详细指南介绍如何激活Houdini软件，包括许可证配置、安装步骤、常见问题解决方法及Houdini Engine连接设置"
 tags: [Houdini, 激活, 许可证, 3D, VFX, SideFX]
 slug: /houdini-activation-guide
