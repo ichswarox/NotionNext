@@ -23,20 +23,23 @@ slug: /houdini-activation-guide
 
 ## 步骤 3：配置许可证
 
-
-1. 如果弹出输入邮箱的对话框，请关闭它
-2. 在Servers 区域点击钢笔状icon，输入：   
-   ```
+0. 如果弹出输入邮箱的对话框，请关闭它
+1. 点击右上角no account
+2. 点击 Use Enterprise Servers：   
+   ![img](/img/img1027-amKJ.webp)
+   然后输入（如下图）：
+      ```
    h.neoxu.store:填我给你的数字
    ```
-   ![HoudiniLauncher-ud.webp](https://list.ucards.store/d/img/HoudiniLauncher-ud.webp)
-
-   如果没有钢笔，请按照下图操作。
-   ![img](/img/img1027-amKJ.webp)
-
-输入完成后，显示如下，不要输错了。
+   输入完成后，显示如下，不要输错了。
 ![HoudiniLauncher-su.webp](https://list.ucards.store/d/img/HoudiniLauncher-su.webp)
-1. 然后点击ok，再点击右下角的Updaate，有如下信息就是激活完成，现在！**右上角关闭**Administrator回到Launcher
+
+   注意注意⚠️：
+   如果输入完成，点击OK，列表如图出现， ``www.sidefx.com`` 请点击删除,然后点击update。
+   ![img](/img/img1103-uFaj.webp)
+
+
+1. 再点右下的Update，有如下信息就是激活完成，现在！**右上角关闭**Administrator回到Launcher
 ![HoudiniLauncher-hk.webp](https://list.ucards.store/d/img/HoudiniLauncher-hk.webp)
 
 
