@@ -48,3 +48,14 @@ zForm es una herramienta diseñada para transformar rápidamente sus mapas de pr
 
 2. Para Blender 4.1 o versiones superiores:
    - Ve al menú superior Editar-Preferencias-Complementos
+   - Haz clic en el menú desplegable en la esquina superior derecha
+   - Selecciona Instalar desde disco
+   - En la ventana emergente, selecciona el archivo ZIP correspondiente para instalar
+
+3. Reinicia Blender para completar la instalación
+:::
+
+## 🚀Enlace de Descarga Directa
+:::tip[¡Obtén Velocidad de Descarga Premium Sin Limitaciones!]
+Contáctanos por [💬WhatsApp](https://wa.me/+8613237610083) para obtener acceso premium y soporte.
+:::

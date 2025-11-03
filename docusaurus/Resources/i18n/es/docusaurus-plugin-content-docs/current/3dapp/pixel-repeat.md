@@ -48,3 +48,36 @@ Pixel Repeat repite píxeles. Perfecto para arte de glitch, líneas estilizadas 
 - **No use la versión en chino de AE**: La versión en chino puede causar errores de expresión
 - **Habilite los permisos de escritura de scripts**: En Preferencias, ve a Editar → Preferencias → Panel General y marca "Permitir que los scripts escriban archivos y accedan a la red"
 - **Compatibilidad de versión**: Si el plugin no funciona, es posible que no admita su versión específica de AE (menos probable)
+
+## ¿Por qué elegir Aescripts Pixel Repeat V1.2?
+
+Aescripts Pixel Repeat V1.2 está diseñado específicamente para diseñadores de movimiento y artistas de efectos visuales que desean crear efectos únicos basados en píxeles en After Effects. Este plugin simplifica el proceso de crear arte glitch, rayas estilizadas y otros tratamientos visuales distintivos que serían difíciles de lograr manualmente.
+
+### Herramienta de expresión creativa
+
+Ya sea que estés creando videoclips musicales, secuencias de títulos o gráficos de movimiento experimentales, Pixel Repeat proporciona una forma intuitiva de agregar efectos visuales basados en píxeles distintivos a tus proyectos.
+
+### Flujo de trabajo que ahorra tiempo
+
+Al automatizar procesos complejos de manipulación de píxeles, este plugin reduce significativamente el tiempo necesario para crear efectos visuales sofisticados que normalmente requerirían un trabajo manual extenso.
+
+## Conclusión sobre Aescripts Pixel Repeat V1.2
+
+Aescripts Pixel Repeat V1.2 es un plugin esencial para artistas de After Effects que buscan agregar efectos visuales únicos basados en píxeles a sus proyectos de gráficos en movimiento y efectos visuales. Su funcionalidad especializada y facilidad de uso lo convierten en una valiosa adición al kit de herramientas de cualquier profesional creativo.
+
+Ya sea que estés creando arte glitch para videoclips musicales, rayas estilizadas para secuencias de títulos o tratamientos visuales experimentales, este plugin proporciona las herramientas profesionales necesarias para lograr resultados excepcionales con un esfuerzo mínimo.
+
+## 🐌Enlaces de descarga lenta gratuitos
+
+:::warning[Descarga]
+Haz clic en el enlace para ir a la página de descarga. La contraseña de extracción se proporciona junto al enlace.
+:::
+
+| Archivo                    | Enlace de descarga                                                         | Contraseña |
+| -------------------------- | -------------------------------------------------------------------------- | ---------- |
+| **Aescripts Pixel Repeat V1.2** | [Descargar](https://pan.baidu.com/s/1m05U5xOzuDvlH6Hp2qwb4g?pwd=fufp) | `fufp`     |
+
+## 🚀Enlace de descarga directa
+:::tip[¡Obtén velocidad de descarga premium sin ninguna limitación!]
+Contáctanos en [💬WhatsApp](https://wa.me/+8613237610083) para acceso premium y soporte.
+:::

@@ -48,3 +48,12 @@ Realiza cálculos de timecode rápidamente sin salir de Adobe After Effects. Cal
 ## Características principales
 
 - Calcula timecode directamente en AE sin cambiar de aplicación
+- Carga automática de recuentos de fotogramas requeridos
+- Herramientas de asistencia de timecode para insertar valores comunes de timecode
+- Carga automática de frecuencia de fotogramas de la composición para resultados precisos
+
+## 🚀Enlace de descarga directa
+
+:::tip[¡Obtén velocidad de descarga premium sin ninguna limitación!]
+Contáctanos en [💬WhatsApp](https://wa.me/+8613237610083) para obtener acceso premium y soporte.
+:::

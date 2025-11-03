@@ -48,3 +48,16 @@ Esta **Plantilla de AE + Preajuste de PR** te permite crear animaciones de texto
 - **Audio**: No incluye música de fondo
 
 ## Cómo comprar
+
+Para instrucciones de compra, por favor visita: [Ver Instrucciones de Compra](https://www.gfxcamp.com/how-to-download/)
+
+**Compatible con Alipay/WeChat, enlace de descarga visible después de la compra**
+
+## Conclusión
+
+Este paquete de plantilla y preajuste **Chrome Tool** es perfecto para diseñadores de movimiento y editores de video que desean agregar animaciones de texto de aleación de cromo de aspecto profesional y elegante a sus proyectos. Con compatibilidad para After Effects y Premiere Pro, opciones de personalización completa y resolución 4K, es una excelente opción para crear títulos y logotipos llamativos en tus videos.
+
+## 🚀Enlace de Descarga Directa
+:::tip[¡Obtén Velocidad de Descarga Premium Sin Limitaciones!]
+Contáctanos en [💬WhatsApp](https://wa.me/+8613237610083) para obtener acceso premium y soporte.
+:::

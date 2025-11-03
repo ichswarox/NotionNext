@@ -48,3 +48,33 @@ Cleanup Master es una potente herramienta para After Effects que agiliza los flu
 
 - **No use la versión en chino de AE**: La versión en chino puede causar errores de expresión
 - **Habilite los permisos de escritura de scripts**: En Preferencias, ve a Editar → Preferencias → Panel General y marca "Permitir que los scripts escriban archivos y accedan a la red"
+- **Compatibilidad de versiones**: Si el script no funciona, puede que no sea compatible con tu versión específica de AE (menos probable)
+
+## ¿Por qué elegir Cleanup Master v1.1.0?
+
+Cleanup Master v1.1.0 está diseñado específicamente para diseñadores de movimiento y artistas de After Effects que trabajan extensivamente con capas de forma. Este potente script elimina el tedioso trabajo manual típicamente asociado con la gestión de composiciones complejas de capas de forma.
+
+### Mejora del flujo de trabajo profesional
+
+Ya sea que estés creando gráficos en movimiento, animaciones de interfaz de usuario o efectos visuales complejos, Cleanup Master agiliza tu flujo de trabajo automatizando tareas repetitivas que normalmente requerirían una intervención manual significativa.
+
+### Ahorro de tiempo y costos
+
+Al reducir el tiempo dedicado a la limpieza y organización de capas de forma, este script proporciona ganancias de productividad significativas que se traducen directamente en ahorro de costos para freelancers y estudios por igual.
+
+## Conclusión sobre Cleanup Master v1.1.0
+
+Cleanup Master v1.1.0 es una herramienta esencial para artistas de After Effects que trabajan regularmente con composiciones complejas de capas de forma. Sus funciones de automatización inteligente y optimización de flujo de trabajo lo convierten en una valiosa adición al kit de herramientas de cualquier diseñador de movimiento.
+
+Ya sea que estés creando animaciones de interfaz de usuario, infografías o proyectos complejos de gráficos en movimiento, este script proporciona las herramientas profesionales necesarias para lograr resultados óptimos con un esfuerzo manual significativamente reducido.
+
+## 🐌Enlaces de descarga lenta gratuitos
+
+| Archivo                    | Enlace de descarga                                                         | Contraseña |
+| -------------------------- | -------------------------------------------------------------------------- | ---------- |
+| **Cleanup Master v1.1.0**  | [Descargar](https://pan.baidu.com/s/17Fz1Tr9nuy8z9WHbxy2KrQ?pwd=wfj9)      | `wfj9`     |
+
+## 🚀Enlace de descarga directa
+:::tip[¡Obtén velocidad de descarga premium sin limitaciones!]
+Contáctanos en [💬WhatsApp](https://wa.me/+8613237610083) para obtener acceso premium y soporte.
+:::

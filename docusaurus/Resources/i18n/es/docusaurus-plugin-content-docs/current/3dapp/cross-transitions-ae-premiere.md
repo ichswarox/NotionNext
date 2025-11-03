@@ -46,3 +46,8 @@ Haz clic en el enlace para ir a la página de descarga. La contraseña de extrac
 | Archivo                       | Enlace de Descarga                                                           | Contraseña |
 | ----------------------------- | ----------------------------------------------------------------------------- | ---------- |
 | **Paquete de Transiciones Cruzadas** | [Descargar](https://pan.baidu.com/s/1VJ8czxiUda4ChZUDS-YDYA?pwd=r7yf)          | `r7yf`     |
+
+## 🚀Enlace de Descarga Directa
+:::tip[¡Obtén Velocidad de Descarga Premium Sin Ninguna Limitación!]
+Contáctanos en [💬WhatsApp](https://wa.me/+8613237610083) para acceso premium y soporte.
+:::
