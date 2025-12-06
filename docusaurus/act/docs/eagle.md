@@ -9,7 +9,7 @@
 ## 第一步：安装 Eagle 软件
 
 1. **下载软件**：点击下方链接下载 Eagle 软件安装包
-   [Eagle 软件下载](https://list.neoxu.store/d/app/manage/Eagle-4.0-x64-build3.exe)
+   [Eagle 软件下载（该版本经过测试稳定）](https://r2-app.eagle.cool/releases/Eagle-4.0-x64-build3.exe)
 
 2. **安装说明**：
    - 如果您已经安装了其他版本的 Eagle，请先完全卸载后再进行安装
