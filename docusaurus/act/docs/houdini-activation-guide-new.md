@@ -25,7 +25,7 @@ slug: /houdini-activation-guide-new
 
 0. 如果弹出输入邮箱的对话框，请关闭它
 1. 点击右上角no account
-2. 点击 Use Enterprise Servers：   
+2. 点击 Use Enterprise Servers(或者是studio开头的那个)：   
    ![img](/img/img1027-amKJ.webp)
    然后输入（如下图）：
       ```
