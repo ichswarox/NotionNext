@@ -1,5 +1,5 @@
 ---
-title: "Houdini正版激活-旧版本"
+title: "Houdini正版激活"
 description: "详细指南介绍如何激活Houdini软件，包括许可证配置、安装步骤、常见问题解决方法及Houdini Engine连接设置"
 tags: [Houdini, 激活, 许可证, 3D, VFX, SideFX]
 slug: /houdini-activation-guide
@@ -25,14 +25,28 @@ slug: /houdini-activation-guide
 
 
 1. 如果弹出输入邮箱的对话框，请关闭它
-2. 在Servers 区域点击钢笔状icon，输入：   
+2A. (有钢笔的情况看下图，没有则看2B.)
+在Servers 区域点击钢笔状icon，输入：   
    ```
    h.neoxu.store:填我给你的数字
    ```
    ![HoudiniLauncher-ud.webp](https://list.ucards.store/d/img/HoudiniLauncher-ud.webp)
+   
+   填写完成后记得删除www.sidefx.com，然后点击update
 
-   如果没有钢笔，请按照下图操作。
+2B. (适合没有钢笔的情况，有钢笔的请看2A.)
+点击 Use Enterprise Servers(或者是studio开头的那个)：   
    ![img](/img/img1027-amKJ.webp)
+   然后输入（如下图）：
+      ```
+   h.neoxu.store:填我给你的数字
+   ```
+   输入完成后，填写完成后记得删除www.sidefx.com，然后点击update，显示如下，不要输错了。
+![HoudiniLauncher-su.webp](https://list.ucards.store/d/img/HoudiniLauncher-su.webp)
+
+   注意注意⚠️：
+   如果输入完成，点击OK，列表如图出现， ``www.sidefx.com`` 请点击删除,然后点击update。
+   ![img](/img/img1103-uFaj.webp)
 
 输入完成后，显示如下，不要输错了。
 ![HoudiniLauncher-su.webp](https://list.ucards.store/d/img/HoudiniLauncher-su.webp)
@@ -40,8 +54,10 @@ slug: /houdini-activation-guide
 ![HoudiniLauncher-hk.webp](https://list.ucards.store/d/img/HoudiniLauncher-hk.webp)
 
 
-## 步骤 5：下载客户端
+## 步骤 4：下载客户端
+
 ![HoudiniLauncher-hb.webp](https://list.ucards.store/d/img/HoudiniLauncher-hb.webp)
+
 1. 回到Launcher后，点击 Houdini
 2. 再点击install
 3. 选择版本下载安装客户端即可 
@@ -67,6 +83,15 @@ slug: /houdini-activation-guide
 如果不想注册账号，我们提供以下公共账号：
 - **账号**：M5pP
 - **密码**：zo2BENVeY@d2Yc
+
+### Rocky激活后显示有证书，但是打开Houdini依然提示需要21.x的证书解决方法
+
+1.临时关闭防火墙SELinux（重启电脑会失效）
+sudo setenforce 0
+2.放行端口（永久的方法）
+sudo firewall-cmd --permanent --add-port=我提供给你的数字/tcp
+sudo firewall-cmd --reload
+
 
 ### 教育版证书冲突，
 如果误申请了非商业版证书，导致无法使用 Houdini FX 商业版客户端：
