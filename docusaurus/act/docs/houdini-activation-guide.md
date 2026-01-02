@@ -25,6 +25,7 @@ slug: /houdini-activation-guide
 
 
 1. 如果弹出输入邮箱的对话框，请关闭它
+
 2A. (有钢笔的情况看下图，没有则看2B.)
 在Servers 区域点击钢笔状icon，输入：   
    ```
