@@ -26,6 +26,7 @@ slug: /houdini-activation-guide
 
 1. 如果弹出输入邮箱的对话框，请关闭它
 
+
 2A. (有钢笔的情况看下图，没有则看2B.)
 在Servers 区域点击钢笔状icon，输入：   
    ```
@@ -34,6 +35,7 @@ slug: /houdini-activation-guide
    ![HoudiniLauncher-ud.webp](https://list.ucards.store/d/img/HoudiniLauncher-ud.webp)
    
    填写完成后记得删除www.sidefx.com，然后点击update
+
 
 2B. (适合没有钢笔的情况，有钢笔的请看2A.)
 点击 Use Enterprise Servers(或者是studio开头的那个)：   
